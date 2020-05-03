@@ -1,8 +1,0 @@
-(1)
-""
-{
-	response += "I'll take you right there.";
-	response += "<ACTION>url:"+goto_page+"</ACTION>";
-	changecontext("default");
-}
-[]

@@ -1,4 +1,0 @@
-digraph thread_4 {
-rule_11[label="(silence)",color=black,URL="Index.html?perform=RuleSubView&sub_rule=11"];
-enter [shape=box,label="Company",URL="Index.html?perform=ClassSubView&sub_class=5",shape=diamond];
-}

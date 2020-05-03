@@ -1,6 +1,0 @@
-[11:06:04]REGEX compilation error for regular exp somewhere near line 20 in file INDEX '[[:<:]](.*)[[:>:]]': Invalid character class name
-
-[11:06:07]handle: program received signal 2 (Interrupt)
-[11:07:22]REGEX compilation error for regular exp somewhere near line 20 in file INDEX '[[:<:]](.*)[[:>:]]': Invalid character class name
-
-[11:07:24]handle: program received signal 2 (Interrupt)

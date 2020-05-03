@@ -20,7 +20,7 @@
 		return 1;
 	}
 ?>
-<!DOCTYPE HTML PUBLIC "-//Netscape Comm. Corp.//DTD HTML//EN">
+<DOCTYPE HTML PUBLIC "-//Netscape Comm. Corp.//DTD HTML//EN">
 <HTML>
 <HEAD>
 <TITLE>Jason Hutchens: chatbot</TITLE>
@@ -30,13 +30,13 @@
 <BODY>
 <H1><A HREF="../">Jason Hutchens</A>: chatbot</H1>
 <?
-	$fp=fsockopen("10.111.112.3",7777,&$errno,&$errstr,10);
+	$fp=fsockopen("10.111.222.113",7777,&$errno,&$errstr,10);
 	if(!$fp)
 	{
 		exec("/home/hutch/bin/spawn /home/hutch/bin/brainserv &");
 		echo("<P>(spawned a new server)</P>");
 		sleep(1);
-		$fp=fsockopen("10.111.112.3",7777,&$errno,&$errstr,10);
+		$fp=fsockopen("10.111.222.113",7777,&$errno,&$errstr,10);
 	}
 	if(!$fp)
 	{
