@@ -1,4 +1,4 @@
-<!DOCTYPE HTML PUBLIC "-//Netscape Comm. Corp.//DTD HTML//EN">
+<DOCTYPE HTML PUBLIC "-//Netscape Comm. Corp.//DTD HTML//EN">
 <HTML>
 <?
 Include("Data.html");
@@ -8,30 +8,24 @@ if($slide<1) $slide=Count($photo);
 if($slide>Count($photo)) $slide=1;
 ?>
 <HEAD>
-<? if(!IsSet($showall)) { ?>
-<TITLE>Jason Hutchens: <? echo($title); ?> slide-show (slide <? echo($slide); ?> of <? echo(Count($photo)); ?>)</TITLE>
-<? } else { ?>
-<TITLE>Jason Hutchens: <? echo($title); ?> slide-show</TITLE>
-<? } ?>
+<TITLE>Jason Hutchens: <? echo($title); ?> slide-show (slide <? echo($slide); ?> of <? echo(Count($comment)); ?>)</TITLE>
 <LINK REL="StyleSheet" HREF="style/jason.css" TYPE="text/css" MEDIA="screen">
 <LINK REV="Made" HREF="mailto:hutch@tmbg.org">
 </HEAD>
 <BODY>
-<? if(!IsSet($showall)) { ?>
-<H1><A HREF="../">Jason Hutchens</A>: <? echo($title); ?> slide-show (slide <? echo($slide); ?> of <? echo(Count($photo)); ?>)</H1>
-<? } else { ?>
-<H1><A HREF="../">Jason Hutchens</A>: <? echo($title); ?> slide-show</H1>
+<H1><A HREF="../">Jason Hutchens</A>: <? echo($title); ?> slide-show (slide <? echo($slide); ?> of <? echo(Count($comment)); ?>)</H1>
+<P>
+<? if($slide>1) { ?>
+<A HREF="Index.html?slide=<? echo $slide-1; ?>"><IMG SRC="image/nav/prev.gif" BORDER=0></A>
 <? } ?>
-<TABLE WIDTH="100%">
-<TR>
-<?  if(IsSet($name)) { ?>
-<TH>Contents</TH>
+<? if($slide<Count($photo)) { ?>
+<A HREF="Index.html?slide=<? echo $slide+1; ?>"><IMG SRC="image/nav/next.gif" BORDER=0></A>
 <? } ?>
-<TH>Slide</TH>
-</TR>
-<TR>
-<?  if(IsSet($name)) { ?>
-<TD ID="Contents">
+</P>
+<BR CLEAR="All">
+<TABLE>
+<TR><TH>Contents</TH><TH>Slide</TH></TR>
+<TR><TD>
 <?
 	$i=1;
 	while($i<=Count($photo))
@@ -43,55 +37,10 @@ if($slide>Count($photo)) $slide=1;
 		$i++;
 	}
 ?>
-</TD>
-<? } ?>
-<TD>
-
-<? if(!IsSet($showall)) { ?>
+</TD><TD>
 <IMG SRC="grabs/<? echo $photo[$slide-1]; ?>" BORDER=8>
-<?  if(IsSet($name)) { ?>
 <H2><? echo($name[$slide-1]); ?></H2>
-<? } ?>
-<?  if(IsSet($comment)) { ?>
 <P><? Echo $comment[$slide-1]; ?></P>
-<? } ?>
-<BR CLEAR="All">
-<? } else { ?>
-<?
-$i=1;
-while($i<=Count($photo))
-{
-?>
-<? if($i%2==0) { ?>
-<IMG SRC="grabs/<? echo $photo[$i-1]; ?>" BORDER=8 ID="RightNav">
-<? } else { ?>
-<IMG SRC="grabs/<? echo $photo[$i-1]; ?>" BORDER=8 ID="LeftNav">
-<? } ?>
-<?  if(IsSet($name)) { ?>
-<H3><? echo($name[$i-1]); ?></H3>
-<? } ?>
-<?  if(IsSet($comment)) { ?>
-<P><? Echo $comment[$i-1]; ?></P>
-<? } ?>
-<?	$i++; ?>
-<BR CLEAR="All">
-<? } ?>
-<? } ?>
-
-<CENTER>
-<? if(!IsSet($showall)) { ?>
-<? if($slide>1) { ?>
-<A HREF="Index.html?slide=<? echo $slide-1; ?>"><IMG SRC="image/nav/prev.gif" ID="LeftNav"></A>
-<? } ?>
-<A HREF="Index.html?showall=1">SHOW TOGETHER</A>
-<? if($slide<Count($photo)) { ?>
-<A HREF="Index.html?slide=<? echo $slide+1; ?>"><IMG SRC="image/nav/next.gif" ID="RightNav"></A>
-<? } ?>
-<? } else { ?>
-<A HREF="Index.html">SHOW INDIVIDUALLY</A>
-<? } ?>
-</CENTER>
-<BR CLEAR="All">
 </TD></TR>
 </TABLE>
 </BODY>
