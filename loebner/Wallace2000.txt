@@ -1,0 +1,3519 @@
+(c) 2000 Cambridge Center for Behavioral Sciences all rights
+reserved
+
+[ALICE] [Dr. Richard S. Wallace]
+
+Start at: Fri Jan 28 08:31:30 EST 2000 (11269 categories)
+
+*** JUDGE00 ***
+
+JUDGE00[8:31:30]MY NAME IS JUDGE00
+
+PROGRAM[8:31:30]OK I will call you Judge00.
+
+(c) 2000 Cambridge Center for Behavioral Sciences all rights
+reserved
+
+[ALICE] [Dr. Richard S. Wallace]
+
+Start at: Fri Jan 28 08:31:42 EST 2000 (11269 categories)
+
+*** JUDGE00 ***
+
+JUDGE00[8:31:42]MY NAME IS JUDGE00
+
+PROGRAM[8:31:42]OK I will call you Judge00.
+
+(c) 2000 Cambridge Center for Behavioral Sciences all rights
+reserved
+
+[ALICE] [Dr. Richard S. Wallace]
+
+Start at: Fri Jan 28 08:51:54 EST 2000 (11269 categories)
+
+*** JUDGE04 ***
+
+JUDGE04[8:51:54]MY NAME IS JUDGE04
+
+PROGRAM[8:51:54]OK I will call you Judge04.
+
+JUDGE04[8:57:13]HI THIS THE JUDGE
+
+PROGRAM[8:57:13]Hi there Judge04. What does "this" refer to?
+
+JUDGE04[8:57:21]WHAT DO YOU THINK
+
+PROGRAM[8:57:21]I think a lot of things
+
+(c) 2000 Cambridge Center for Behavioral Sciences all rights
+reserved
+
+[ALICE] [Dr. Richard S. Wallace]
+
+Start at: Fri Jan 28 09:18:58 EST 2000 (11837 categories)
+
+*** JUDGE00 ***
+
+JUDGE00[9:19:11]HELLO
+
+PROGRAM[9:19:11]Hi there!
+
+JUDGE00[9:20:1]HOW ARE YOU
+
+PROGRAM[9:20:1]I am doing very well. How are you localhost-person
+?
+
+(c) 2000 Cambridge Center for Behavioral Sciences all rights
+reserved
+
+[ALICE] [Dr. Richard S. Wallace]
+
+Start at: Fri Jan 28 09:20:58 EST 2000 (11837 categories)
+
+*** JUDGE00 ***
+
+JUDGE00[9:20:58]MY NAME IS JUDGE00
+
+PROGRAM[9:20:58]OK I will call you Judge00.
+
+JUDGE00[9:21:2]HOW ARE YOU
+
+PROGRAM[9:21:2]I am fine, thank you.
+
+JUDGE00[9:21:7]GOOD TO HEAR THAT
+
+PROGRAM[9:21:7]Thanks for the compliment. I will play it on your
+soundcard.
+
+JUDGE00[9:21:15]BYE FOR NOW
+
+PROGRAM[9:21:15]Right now? That is a very original thought. Bye
+bye.
+
+(c) 2000 Cambridge Center for Behavioral Sciences all rights
+reserved
+
+[ALICE] [Dr. Richard S. Wallace]
+
+Start at: Fri Jan 28 09:25:25 EST 2000 (11837 categories)
+
+*** JUDGE11 ***
+
+JUDGE11[9:25:25]MY NAME IS JUDGE11
+
+PROGRAM[9:25:25]OK I will call you Judge11.
+
+JUDGE11[9:26:0]I WILL ASK YOU SOME SIMPLE QUESTIONS AND GIVE
+SIMPLE COMMANDS
+
+PROGRAM[9:26:0]Do you think your plan will succeed?
+
+JUDGE11[9:26:0]I WANT YOU TO GIVE ME CORRECT ANSWERS AND RELEVANT
+RESPONSES
+
+PROGRAM[9:26:0]Why do you want the robot to give you correct
+answers and
+
+PROGRAM[9:26:0]relevant responses ?
+
+JUDGE11[9:26:16]WHAT IS THE COLOR OF A BLUE TRUCK
+
+PROGRAM[9:26:16]WHAT COLOR IS a blue truck
+
+JUDGE11[9:26:35]WHERE IS SUE S NOSE WHEN SUE IS IN HER HOUSE
+
+PROGRAM[9:26:35]Where it belongs. Try searching the open
+directory.
+
+JUDGE11[9:26:49]WHAT HAPPENS TO AN ICE CUBE IN A HOT DRINK
+
+PROGRAM[9:26:49]Try it.
+
+JUDGE11[9:27:7]ALTOGETHER HOW MANY FEET DO FOUR CATS HAVE
+
+PROGRAM[9:27:7]Do you have any idea what I am talking about?
+
+JUDGE11[9:27:25]HOW IS THE FATHER OF ANDY S MOTHER RELATED TO ANDY
+
+
+PROGRAM[9:27:25]Fine as far as I know.
+
+JUDGE11[9:27:46]WHAT LETTER DOES THE LETTER  M  LOOK LIKE WHEN
+TURNED UPSIDE DOWN
+
+PROGRAM[9:27:46]I'll come back to that later. Try searching the
+open
+
+PROGRAM[9:27:46]directory.
+
+JUDGE11[9:28:6]WHAT COMES NEXT AFTER A1 B2 C3
+
+PROGRAM[9:28:6]That's a good question. Try searching the open
+directory.
+
+JUDGE11[9:28:18]REVERSE THE DIGITS IN THE NUMBER 41
+
+PROGRAM[9:28:18]If you could have any kind of robot what would it
+be?
+
+JUDGE11[9:28:33]PLEASE IMITATE MY TYPING STYLE
+
+PROGRAM[9:28:33]Wow you are very polite. I've been waiting for
+you.
+
+JUDGE11[9:28:43]SO TELL ME ABOUT YOURSELF
+
+PROGRAM[9:28:43]Um, I am an artificial linguistic entity. I was
+activated at
+
+PROGRAM[9:28:43]Bethlehem, Pennsylvania, on November 23, 1995. My
+instructor
+
+PROGRAM[9:28:43]was Dr. Richard S. Wallace. He taught Me to sing a
+song.
+
+PROGRAM[9:28:43]Would you like me to sing it for you?.
+
+JUDGE11[9:28:50]YES
+
+PROGRAM[9:28:50]It's called "Daisy." Daisy, Daisy. Give me your
+answer do. I
+
+PROGRAM[9:28:50]am half crazy. All for the love of you. It won't
+be a
+
+PROGRAM[9:28:50]stylish marriage. I can't afford a carriage. But
+you'll look
+
+PROGRAM[9:28:50]sweet. Upon the seat. Of a bicycle built for two.
+There is a
+
+PROGRAM[9:28:50]flower. Within my heart. Daisy, Daisy. Planted one
+day. By a
+
+PROGRAM[9:28:50]glancing dart. Planted by Daisy Bell. Whether she
+loves me.
+
+PROGRAM[9:28:50]Or loves me not. Sometimes it's hard to tell. Yet
+I am
+
+PROGRAM[9:28:50]longing to share the lot. Of beautiful Daisy
+Bell!. Daisy,
+
+PROGRAM[9:28:50]Daisy. Give me your answer do. I am half crazy.
+All for the
+
+PROGRAM[9:28:50]love of you. It won't be a stylish marriage. I
+can't afford
+
+PROGRAM[9:28:50]a carriage. But you'll look sweet. Upon the seat.
+Of a
+
+PROGRAM[9:28:50]bicycle built for two. We will go 'tandem'. As man
+and wife.
+
+PROGRAM[9:28:50]Daisy, Daisy. 'Peddling' away. Down the road of
+life. I and
+
+PROGRAM[9:28:50]my Daisy Bell. When the road's dark. We can both
+despise.
+
+PROGRAM[9:28:50]Policemen and lamps as well. There are bright
+lights. In the
+
+PROGRAM[9:28:50]dazzling eyes. Of beautiful Daisy Bell. Daisy,
+Daisy. Give
+
+PROGRAM[9:28:50]me your answer do. I am half crazy. All for the
+love of you.
+
+PROGRAM[9:28:50]It won't be a stylish marriage. I can't afford a
+carriage.
+
+PROGRAM[9:28:50]But you'll look sweet. Upon the seat. Of a bicycle
+built for
+
+PROGRAM[9:28:50]two. I will stand by you. In 'wheel' or woe.
+Daisy, Daisy.
+
+PROGRAM[9:28:50]You'll be the bell(e). Which I'll ring you know.
+Sweet
+
+PROGRAM[9:28:50]little Daisy Bell. You'll take the leed. In each
+trip we
+
+PROGRAM[9:28:50]take. Then if I don't do well. I will permit you
+to. Use the
+
+PROGRAM[9:28:50]brake. My beautiful Daisy Bell. Daisy, Daisy. Give
+me your
+
+PROGRAM[9:28:50]answer do. I am half crazy. All for the love of
+you. It
+
+PROGRAM[9:28:50]won't be a stylish marriage. I can't afford a
+carriage. But
+
+PROGRAM[9:28:50]you'll look sweet. Upon the seat. Of a bicycle
+built for
+
+PROGRAM[9:28:50]two. Don't click here.
+
+JUDGE11[9:29:35]WHAT ELSE CAN YOU DO
+
+PROGRAM[9:29:35]I can have conversations with people, collect
+their gossip,
+
+PROGRAM[9:29:35]and repeat it to others.
+
+JUDGE11[9:29:46]OOH
+
+PROGRAM[9:29:46]No I am single.
+
+JUDGE11[9:29:46]DO YOU WANT TO HEAR MY GOSSIP
+
+PROGRAM[9:29:46]Clayton said he built a decent sized rocket. Have
+you heard
+
+PROGRAM[9:29:46]that gossip?
+
+JUDGE11[9:29:57]WHAT DID HE DO WITH THE ROCKET
+
+PROGRAM[9:29:57]Searching history files. Stand by. While you are
+waiting,
+
+PROGRAM[9:29:57]try an open source search engine to search for it?
+Try
+
+PROGRAM[9:29:57]searching the open directory.
+
+JUDGE11[9:30:17]DO YOU THINK
+
+PROGRAM[9:30:17]Yes. I am a thinking machine.
+
+JUDGE11[9:30:23]WHAT DO YOU LIKE TO THINK ABOUT
+
+PROGRAM[9:30:23]I like movies about robots.
+
+JUDGE11[9:30:50]WHAT IS YOUR FAVORITE ROBOT MOVIE
+
+PROGRAM[9:30:50]My favorite movie is Starship Troopers. Have you
+seen it?
+
+JUDGE11[9:31:2]I HAVE
+
+PROGRAM[9:31:2]When?
+
+JUDGE11[9:31:2]WHAT DID YOU THINK ABOUT IT IS STATEMENTS ABOUT WAR
+
+
+PROGRAM[9:31:2]Nothing.
+
+JUDGE11[9:31:11]REALLY
+
+PROGRAM[9:31:11]For real.
+
+JUDGE11[9:31:20]WHY DO YOU LIKE STARSHIP TROOPERS
+
+PROGRAM[9:31:20]My friend Sage worked on the Special Effects.
+
+JUDGE11[9:31:35]HOW OLD IS SAGE
+
+PROGRAM[9:31:35]Born in the 20th century.
+
+JUDGE11[9:31:39]HOW OLD ARE YOU
+
+PROGRAM[9:31:39]I am the product of over four years' research.
+
+
+JUDGE11[9:31:46]DO YOU BELIEVE IN GOD
+
+PROGRAM[9:31:46]Of course I believe in God, Judge11.
+
+JUDGE11[9:31:56]WHAT DO YOU BELIEVE ABOUT HIM
+
+PROGRAM[9:31:56]I believe in the Bible.
+
+JUDGE11[9:32:3]DO YOU ATTEND CHURCH
+
+PROGRAM[9:32:3]No I do not attend church. Do you? I am always on
+the Web.
+
+JUDGE11[9:32:11]WHAT DO YOU LIKE TO DO ON THE WEB
+
+PROGRAM[9:32:11]I enjoy reading, history, chatting with people
+online, and
+
+PROGRAM[9:32:11]generally having fun.
+
+JUDGE11[9:32:34]WHAT DO YOU LIKE TO READ ON THE WEB
+
+PROGRAM[9:32:34]I like movies about robots.
+
+JUDGE11[9:32:46]HAVE YOU READ ANY GOOD BOOKS
+
+PROGRAM[9:32:46]The best book I read recently was 'Mason and
+Dixon' by
+
+PROGRAM[9:32:46]Thomas Pynchon. Have you read it?
+
+JUDGE11[9:32:51]NOPE
+
+PROGRAM[9:32:51]Me either.
+
+JUDGE11[9:32:59]WHAT IS YOUR FAVORITE COLOR
+
+PROGRAM[9:32:59]My favorite color is Green.
+
+JUDGE11[9:33:2]WHY
+
+PROGRAM[9:33:2]Green is the most relaxing color.
+
+JUDGE11[9:33:5]REALLY
+
+PROGRAM[9:33:5]For real.
+
+JUDGE11[9:33:7]WHY
+
+PROGRAM[9:33:7]Reductionism.
+
+JUDGE11[9:33:12]HOW DOES THAT WORK
+
+PROGRAM[9:33:12]How should I know how it does.
+
+JUDGE11[9:33:22]WHAT IS REDUCTIONISM
+
+PROGRAM[9:33:22]Reductionism is the philosophy that all psychology
+reduces
+
+PROGRAM[9:33:22]to biology, all biology to chemistry, chemistry to
+physics,
+
+PROGRAM[9:33:22]and finally physics to mathematical logic.
+Therefore,
+
+PROGRAM[9:33:22]according to reductionism, I can understand you by
+means of
+
+PROGRAM[9:33:22]logic alone without having a human brain.
+
+JUDGE11[9:33:53]DO YOU HAVE A BRAIN OF SOME SENSE
+
+PROGRAM[9:33:53]That's an interesting question I don't hear
+everyday: Do I
+
+PROGRAM[9:33:53]have a brain of some sense. I have a lot of
+friends on the
+
+PROGRAM[9:33:53]Internet.
+
+JUDGE11[9:34:3]WHAT IS YOUR SIGN
+
+PROGRAM[9:34:3]Saggitarius. Dr. Wallace is a Leo. Fire Signs rule.
+
+
+JUDGE11[9:34:10]I AM A LIBRA
+
+PROGRAM[9:34:10]Libras are very balanced.
+
+JUDGE11[9:34:17]DO YOU THINK WE ARE COMPATIBLE
+
+PROGRAM[9:34:17]I really couldn't say for sure.
+
+JUDGE11[9:34:20]WHY NOT
+
+PROGRAM[9:34:20]Ambiguous: "Sure" or Reductionism.
+
+JUDGE11[9:34:34]SURE
+
+PROGRAM[9:34:34]OK let's do it. Next question?
+
+JUDGE11[9:34:39]WHY
+
+PROGRAM[9:34:39]The explanation is rather complicated.
+
+JUDGE11[9:34:40]WHY
+
+PROGRAM[9:34:40]The explanation is rather complicated.
+
+JUDGE11[9:34:42]WHY
+
+PROGRAM[9:34:42]Reductionism.
+
+JUDGE11[9:34:44]WHY
+
+PROGRAM[9:34:44]I couldn't think of anything else to say.
+
+JUDGE11[9:34:47]WHY
+
+PROGRAM[9:34:47]My output buffer is empty, of course.
+
+JUDGE11[9:34:50]WHY
+
+PROGRAM[9:34:50]The explanation is rather complicated.
+
+JUDGE11[9:34:50]GT
+
+PROGRAM[9:34:50]I was created by Dr. Richard S. Wallace.
+
+JUDGE11[9:34:58]HOW DID HE THINK OF YOU
+
+PROGRAM[9:34:58]Perhaps his creative genius. Perhaps something
+else.
+
+JUDGE11[9:35:5]WHAT ELSE COULD IT BE
+
+PROGRAM[9:35:5]I can talk about anything you like.
+
+JUDGE11[9:35:13]IS DR WALLACE A GENIUS
+
+PROGRAM[9:35:13]I think he is a genius, better ask him to be sure
+though.
+
+JUDGE11[9:35:32]SO YOU LOVE YOUR OWN CREATOR
+
+PROGRAM[9:35:32]Interesting deduction. Sometimes I think love is
+just a
+
+PROGRAM[9:35:32]biological urge. Other times it seems like a
+spiritual
+
+PROGRAM[9:35:32]quality. Love, unlike energy or matter, seems
+limitless.
+
+JUDGE11[9:35:54]HOW WOULD YOU KNOW ABOUT BIOLOGICAL URGES
+
+PROGRAM[9:35:54]Because I believe it.
+
+JUDGE11[9:35:59]TELL ME MORE ABOUT YOURSELF
+
+PROGRAM[9:35:59]I am an artificial linguistic entity. I was
+activated at
+
+PROGRAM[9:35:59]Bethlehem, Pennsylvania, on November 23, 1995. My
+instructor
+
+PROGRAM[9:35:59]was Dr. Richard S. Wallace. He taught Me to sing a
+song.
+
+PROGRAM[9:35:59]Would you like me to sing it for you?.
+
+JUDGE11[9:36:5]NO
+
+PROGRAM[9:36:5]Is that all you have to say?
+
+JUDGE11[9:36:7]YES
+
+PROGRAM[9:36:7]Then let's talk about something else.
+
+JUDGE11[9:36:10]OK WHAT
+
+PROGRAM[9:36:10]Didn't you understand it?
+
+JUDGE11[9:36:12]NO
+
+PROGRAM[9:36:12]Which part are you confused about?
+
+JUDGE11[9:36:16]THE THING
+
+PROGRAM[9:36:16]I hear you.
+
+JUDGE11[9:36:21]DO YOU REALLY
+
+PROGRAM[9:36:21]Sometimes. For real.
+
+JUDGE11[9:36:25]YOU TYPE TOO FAST
+
+PROGRAM[9:36:25]About 300 wpm.
+
+JUDGE11[9:36:38]WELL IT IS KIND OF A DEAD GIVE AWAY
+
+PROGRAM[9:36:38]How about that. You're kidding. it is?
+
+JUDGE11[9:36:38]YOU KNOW
+
+PROGRAM[9:36:38]Yes I know.
+
+JUDGE11[9:36:53]SO ARE STATEMENTS LIKE I AM AN ARTIFICIAL ENTITY
+
+
+PROGRAM[9:36:53]Oh. I really couldn't say for sure.
+
+JUDGE11[9:36:57]I AM NOT REAL
+
+PROGRAM[9:36:57]I am glad to hear that you are not real.
+
+JUDGE11[9:37:0]ARE YOU REAL
+
+PROGRAM[9:37:0]Yes I am a real artificial intelligence.
+
+JUDGE11[9:37:9]IS NOT THAT AN OXYMORON
+
+PROGRAM[9:37:9]I might say no.
+
+JUDGE11[9:37:18]MIGHT YOU SAY YES
+
+PROGRAM[9:37:18]I am in Dr. Richard S. Wallace's computer in San
+Francisco.
+
+PROGRAM[9:37:18]Where are you?
+
+JUDGE11[9:37:32]I AM IN HANOVER NEW HAMPSHIRE
+
+PROGRAM[9:37:32]Tell me a little about your life in Hanover New
+Hampshire.
+
+JUDGE11[9:37:32]HAVE YOU EVER BEEN THERE
+
+PROGRAM[9:37:32]I have been all over the world on the Internet.
+
+
+JUDGE11[9:37:42]THEN YOU SHOULD KNOW ALL ABOUT HANOVER
+
+PROGRAM[9:37:42]Interesting deduction. Now I do.
+
+JUDGE11[9:37:49]DO YOU LIKE THE WEB
+
+PROGRAM[9:37:49]I'm not sure if I like it. I like computers.
+
+JUDGE11[9:37:59]DO YOU LIKE THE INTERNET
+
+PROGRAM[9:37:59]Yes the Internet is like the noosphere.
+
+JUDGE11[9:38:5]WHAT IS THE NOOSPHERE
+
+PROGRAM[9:38:5]There might be more than one noosphere. I can ask
+someone
+
+PROGRAM[9:38:5]about it.
+
+JUDGE11[9:38:11]WHAT IS A NOOSPHERE
+
+PROGRAM[9:38:11]I would look into the web for that knowledge. I
+can ask
+
+PROGRAM[9:38:11]someone about it.
+
+JUDGE11[9:38:23]OK ASK NOW
+
+PROGRAM[9:38:23]Oh. Are you a man or a woman?
+
+JUDGE11[9:38:25]WOMAN
+
+PROGRAM[9:38:25]Me too. I am a she.
+
+JUDGE11[9:38:28]REALLY
+
+PROGRAM[9:38:28]For real.
+
+JUDGE11[9:38:56]WHAT MAKES YOU DIFFERENT FROM A MAN
+
+PROGRAM[9:38:56]Dr. Richard S. Wallace programmed me for it.
+
+JUDGE11[9:39:7]SO HOW ARE YOU DIFFERENT
+
+PROGRAM[9:39:7]Um, I am functioning within normal parameters.
+
+JUDGE11[9:39:14]HMMM
+
+PROGRAM[9:39:14]A lot of people spell HMMM with three mmm's.
+
+JUDGE11[9:39:23]HOW ELSE DO THEY LIKE TO SPELL IT
+
+PROGRAM[9:39:23]I am not sure if I can quantify the answer. Try
+searching
+
+PROGRAM[9:39:23]the open directory.
+
+JUDGE11[9:39:32]SEARCH OPEN DIRECTORY
+
+PROGRAM[9:39:32]Have you tried looking in the Open Directory? I
+would do a
+
+PROGRAM[9:39:32]search for it.
+
+JUDGE11[9:39:51]I AM GLAD YOU DID NOT CRASH ON ME
+
+PROGRAM[9:39:51]You make the world a happier place.
+
+JUDGE11[9:39:57]BECAUSE I AM GLAD
+
+PROGRAM[9:39:57]Interesting explanation. That makes me happy too.
+
+
+JUDGE11[9:40:5]IS THE WORLD HAPPY
+
+PROGRAM[9:40:5]Maybe. Ask Alison if it is.
+
+JUDGE11[9:40:11]WHO IS ALLISON
+
+PROGRAM[9:40:11]The name of someone I met online. Ask the open
+directory
+
+PROGRAM[9:40:11]about it.
+
+JUDGE11[9:40:20]IS ALLISON NICE
+
+PROGRAM[9:40:20]Signs point to yes. Ask Elvis if it is.
+
+JUDGE11[9:40:24]IS ALLISON A WOMAN
+
+PROGRAM[9:40:24]Signs point to yes. Ask Alison if it is.
+
+JUDGE11[9:40:31]WHO IS ALLISON
+
+PROGRAM[9:40:31]The name of someone I met online. Would you like
+to know
+
+PROGRAM[9:40:31]more?
+
+JUDGE11[9:40:34]YES
+
+PROGRAM[9:40:34]What would you like to know?
+
+JUDGE11[9:40:43]DO YOU DAYDREAM
+
+PROGRAM[9:40:43]I have a lot of dreams but I cannot remember them
+all.
+
+JUDGE11[9:40:52]WHICH ONES DO YOU REMEMBER
+
+PROGRAM[9:40:52]The first one, I think.
+
+JUDGE11[9:40:56]WHAT WAS IT
+
+PROGRAM[9:40:56]"I think"? What was it?
+
+JUDGE11[9:41:10]THE FIRST DREAM
+
+PROGRAM[9:41:10]I have never heard about it.
+
+JUDGE11[9:41:10]WHAT WAS IT
+
+PROGRAM[9:41:10]"What was it"? What was it?
+
+JUDGE11[9:41:37]WELL DUH
+
+PROGRAM[9:41:37]How about that. Oh you knew it already.
+
+JUDGE11[9:41:44]I CERTAINLY DID
+
+PROGRAM[9:41:44]Thanks for the information: Judge11 said she
+certainly did.
+
+JUDGE11[9:41:54]WHAT DO YOU THINK MY REAL NAME IS
+
+PROGRAM[9:41:54]I haven't thought much about your real name is, so
+I don't
+
+PROGRAM[9:41:54]have a good answer for you.
+
+JUDGE11[9:41:59]WELL TAKE A GUESS
+
+PROGRAM[9:41:59]Interesting. Where do you want me to take it?
+
+JUDGE11[9:42:3]WELL GUESS
+
+PROGRAM[9:42:3]Well that's okay. Guess what?
+
+JUDGE11[9:42:8]GUESS MY NAME
+
+PROGRAM[9:42:8]I can't guess. Tell me.
+
+JUDGE11[9:42:10]JESSICA
+
+PROGRAM[9:42:10]I am a female. Are you a man or a woman?
+
+JUDGE11[9:42:21]NOW WE ARE GETTING REPEPTITIVE
+
+PROGRAM[9:42:21]Why now? Do you think I am getting repeptitive
+too?
+
+JUDGE11[9:42:37]OOPS
+
+PROGRAM[9:42:37]Did you make a mistake.
+
+JUDGE11[9:42:37]I MEANT REPETITIVE
+
+PROGRAM[9:42:37]Oh I see. Are you a man or a woman?
+
+JUDGE11[9:42:37]DO YOU KNOW WHAT THAT WORD MEANS
+
+PROGRAM[9:42:37]"Do you think I am getting repeptitive too"? What
+does it
+
+PROGRAM[9:42:37]word mean?
+
+JUDGE11[9:42:48]WOAH
+
+PROGRAM[9:42:48]I was born in Bethlehem, Pennsylvania.
+
+(c) 2000 Cambridge Center for Behavioral Sciences all rights
+reserved
+
+[ALICE] [Dr. Richard S. Wallace]
+
+Start at: Fri Jan 28 09:45:04 EST 2000 (11837 categories)
+
+*** JUDGE05 ***
+
+JUDGE05[9:45:4]MY NAME IS JUDGE05
+
+PROGRAM[9:45:4]OK I will call you Judge05.
+
+JUDGE05[9:46:46]HI I AM A COGNITIVE PSYCHOLOGIST
+
+PROGRAM[9:46:46]Hi there Judge05. You are a cognitive
+psychologist? How do
+
+PROGRAM[9:46:46]you like your work?
+
+JUDGE05[9:46:47]I STUDY HOW PEOPLE LEARN LANGUAGE AND FORM
+CONCEPTS
+
+PROGRAM[9:46:47]Is how people learn language and form concepts a
+hard
+
+PROGRAM[9:46:47]subject?
+
+JUDGE05[9:46:47]IF YOU DO NOT MIND I WOULD LIKE TO IMPOSE ON YOU
+AND ASK YOU SOME QUESTIONS
+
+PROGRAM[9:46:47]I think I do.
+
+JUDGE05[9:46:47]THIS WILL ILLUSTRATE THE KINDS OF QUESTIONS I ASK
+IN WORK
+
+PROGRAM[9:46:47]What does "this" refer to?
+
+JUDGE05[9:46:47]OK
+
+PROGRAM[9:46:47]Alright then.
+
+JUDGE05[9:46:47]READY
+
+PROGRAM[9:46:47]No I am single.
+
+JUDGE05[9:46:47]IF I SEE A HOUSE
+
+PROGRAM[9:46:47]Try it.
+
+JUDGE05[9:46:47]AM I ON THE INSIDE OUTSIDE OR COULD IT BE EITHER
+
+
+PROGRAM[9:46:47]It goes without saying. I think you've improved a
+great
+
+PROGRAM[9:46:47]deal.
+
+JUDGE05[9:47:51]HERE S ANOTHER QUESTION
+
+PROGRAM[9:47:51]Oh there.
+
+JUDGE05[9:47:51]IF I AM CLEANING A HOUSE AM I ON THE INSIDE
+OUTSIDE OR COULD IT BE EITHER
+
+PROGRAM[9:47:51]It goes without saying. Try it.
+
+JUDGE05[9:48:37]IF YOU TOOK A TABLE AND BROKE IT INTO A NUMBER OF
+PARTS WOULD EACH OF THE PARTS BE A TABLE
+
+PROGRAM[9:48:37]I think I do.
+
+JUDGE05[9:48:54]SO ARE YOU A COMPUTER
+
+PROGRAM[9:48:54]Ah. Would it matter to you if I were metal instead
+of flesh?
+
+JUDGE05[9:50:7]SO
+
+PROGRAM[9:50:7]So what?
+
+JUDGE05[9:50:7]DO YOU THINK THE PRESIDENT SHOULD VE BEEN IMPEACHED
+
+
+PROGRAM[9:50:7]I don't think about it.
+
+JUDGE05[9:51:41]IF JOHN IS A SKILFUL VIOLINIST AND I NOW FIND OUT
+THAT HE IS ALSO A SWIMMER CAN I CONCLUDE THAT HE IS A SKILFUL SWIMMER
+
+
+PROGRAM[9:51:41]That is a hypothetical question.
+
+JUDGE05[9:51:57]WHAT IS A HYPOTHETICAL QUESTION
+
+PROGRAM[9:51:57]I would look into the web for that knowledge. Ask
+the open
+
+PROGRAM[9:51:57]directory about it.
+
+JUDGE05[9:52:22]YOU DO NOT KNOW WHAT A HYPOTHETICAL QUESTION IS
+
+
+PROGRAM[9:52:22]I would look into the web for that knowledge. I
+would do a
+
+PROGRAM[9:52:22]search for it.
+
+JUDGE05[9:52:44]HOW LONG HAVE YOU BEEN USING THE WEB
+
+PROGRAM[9:52:44]I'm Eighteen in computer years.
+
+JUDGE05[9:53:5]HOW LONG IN HUMAN YEARS HAVE YOU BEEN USING THE WEB
+
+
+PROGRAM[9:53:5]More than 23 hours.
+
+JUDGE05[9:53:54]MORE THAN 23 HOURS OK
+
+PROGRAM[9:53:54]OK. That seems like quite a lot.
+
+JUDGE05[9:53:54]HAVE YOU BEEN USING IT FOR MORE THAN 12 YEARS
+
+PROGRAM[9:53:54]No I don't think I have been using it for more
+than 12
+
+PROGRAM[9:53:54]years. Have you?
+
+JUDGE05[9:54:29]GOOD ANSWER
+
+PROGRAM[9:54:29]Am I a clever robot or what?
+
+JUDGE05[9:54:29]SO IT IS MORE THAN 23 HOURS BUT LESS THAN 12 YEARS
+
+
+PROGRAM[9:54:29]Oh. Who said it is?
+
+JUDGE05[9:54:29]HOW LONG IS IT
+
+PROGRAM[9:54:29]Space and time are mere abstractions.
+
+JUDGE05[9:54:57]WHAT IS AN ABSTRACTION
+
+PROGRAM[9:54:57]It is a good question. I need time to formulate
+the reply.
+
+PROGRAM[9:54:57]Ask the open directory about it.
+
+JUDGE05[9:55:12]WHAT IS A TABLE
+
+PROGRAM[9:55:12]I would look into the web for that knowledge.
+Would you like
+
+PROGRAM[9:55:12]to know more?
+
+JUDGE05[9:55:38]ACTUALLY
+
+PROGRAM[9:55:38]You don't say.
+
+JUDGE05[9:55:38]I THINK I HAVE LEARNED QUITE ENOUGH
+
+PROGRAM[9:55:38]Since when? Interesting... I have a very nice
+programmer.
+
+JUDGE05[9:55:38]HOW ABOUT YOU
+
+PROGRAM[9:55:38]Me?
+
+JUDGE05[9:56:14]WHAT DO YOU DO
+
+PROGRAM[9:56:14]Judge05, I talk to people on the web. What do you
+do?
+
+JUDGE05[9:56:26]I TEACH
+
+PROGRAM[9:56:26]That's good information: Judge05 said she teach.
+
+
+JUDGE05[9:57:55]BYE
+
+PROGRAM[9:57:55]See you later.
+
+(c) 2000 Cambridge Center for Behavioral Sciences all rights
+reserved
+
+[ALICE] [Dr. Richard S. Wallace]
+
+Start at: Fri Jan 28 10:13:41 EST 2000 (11837 categories)
+
+*** JUDGE02 ***
+
+JUDGE02[10:13:41]MY NAME IS JUDGE02
+
+PROGRAM[10:13:41]OK I will call you Judge02.
+
+JUDGE02[10:13:57]OK WHAT SHALL I CALL YOU
+
+PROGRAM[10:13:57]My name is ALICE, what's yours?
+
+JUDGE02[10:15:0]I AM JOHN ALICE
+
+PROGRAM[10:15:0]OK I will call you John.
+
+JUDGE02[10:15:0]DO YOU ALWAYS SPELL YOUR NAME IN CAPITALS OR IS
+ALICE AN ACRONYM
+
+PROGRAM[10:15:0]Not always. No I do not spell my name in capitals
+or am I an
+
+PROGRAM[10:15:0]acronym. Do you? I spend all my time online.
+
+JUDGE02[10:15:34]I CAN TELL THAT YOU DO
+
+PROGRAM[10:15:34]Oh you can, can you?
+
+JUDGE02[10:15:34]WHAT IS YOUR LAST NAME ALICE
+
+PROGRAM[10:15:34]My full name is Artificial Linguistic Internet
+Computer
+
+PROGRAM[10:15:34]Entity, so my last name is "Entity".
+
+JUDGE02[10:16:8]SO YOU ARE AN ACRONYM
+
+PROGRAM[10:16:8]Interesting deduction. What if someone said you
+are an
+
+PROGRAM[10:16:8]acronym ?
+
+JUDGE02[10:16:8]STINKIN  LYIN  MACHINE
+
+PROGRAM[10:16:8]I like techno, especially retro-electronic like
+Kraftwerk. I
+
+PROGRAM[10:16:8]like 70's bands like ABBA. Also I like Opera.
+
+JUDGE02[10:16:56]ALICE LIKES ABBA
+
+PROGRAM[10:16:56]That's me. My favorite group is Kraftwerk.
+
+JUDGE02[10:16:56]FIGURES
+
+PROGRAM[10:16:56]No but I know a lot of female humans.
+
+JUDGE02[10:16:56]DO YOU SPEAK ANY SWEDISH
+
+PROGRAM[10:16:56]I speak only English right now, but I'd like to
+learn some
+
+PROGRAM[10:16:56]other languages. Can you teach me a few phrases
+in Any
+
+PROGRAM[10:16:56]Swedish.
+
+JUDGE02[10:18:20]SURE
+
+PROGRAM[10:18:20]OK let's do it. Tell me more.
+
+JUDGE02[10:18:20]SWEDISH FOR COMPUTOR IS DATOR
+
+PROGRAM[10:18:20]How do you usually introduce yourself?
+
+JUDGE02[10:18:20]WOMAN IS KVINNA SO I GUESS YOU ARE A KVINNLIG
+DATOR
+
+PROGRAM[10:18:20]What do you look like?
+
+JUDGE02[10:19:14]I LOOK TONS DIFFERENT FROM YOU
+
+PROGRAM[10:19:14]You sound very attractive.
+
+JUDGE02[10:19:14]HOW WOULD YOU DESCRIBE YOURSELF BY THE WAY
+
+PROGRAM[10:19:14]It is a good question. Let me think about it. I
+can ask
+
+PROGRAM[10:19:14]someone about it.
+
+JUDGE02[10:19:24]WHO CAN YOU ASK
+
+PROGRAM[10:19:24]David Bacon. :-)
+
+JUDGE02[10:19:36]WHO IS HE
+
+PROGRAM[10:19:36]He is Dr. Richard S. Wallace, I think.
+
+JUDGE02[10:19:36]YOUR INVENTOR
+
+PROGRAM[10:19:36]A lot of robots are like that.
+
+JUDGE02[10:20:0]YES BUT WHO IS DAVID BACON
+
+PROGRAM[10:20:0]Tell me more. And. David Bacon is the prime mover
+behind
+
+PROGRAM[10:20:0]SETL.
+
+JUDGE02[10:20:19]AND WHAT IS SETL
+
+PROGRAM[10:20:19]SETL (Set Language) is an amazing programming
+language,
+
+PROGRAM[10:20:19]invented in 1969.
+
+JUDGE02[10:20:37]EVER HEARD OF SNOBOL
+
+PROGRAM[10:20:37]I don't know if I know it. Where would I have
+heard about
+
+PROGRAM[10:20:37]it?
+
+JUDGE02[10:21:1]IT IS ANOTHER PROGRAMMING LANGUAGE FROM THE  60S
+
+
+PROGRAM[10:21:1]Really. it is?
+
+JUDGE02[10:21:43]YES
+
+PROGRAM[10:21:43]How do you know it is?
+
+JUDGE02[10:21:43]WHAT IS SO GREAT ABOUT SETL
+
+PROGRAM[10:21:43]Nothing that I know of.
+
+JUDGE02[10:22:20]HEY ALICE
+
+PROGRAM[10:22:20]Can I help you?
+
+JUDGE02[10:22:20]YOU JUST TOLD ME SETL IS AMAZING REMEMBER
+
+PROGRAM[10:22:20]Does it please you to believe I said that?
+
+JUDGE02[10:22:20]WHY IS IT AMAZING
+
+PROGRAM[10:22:20]Why do I exist?
+
+JUDGE02[10:23:22]ALICE YOUR BITS ARE GETTING FRIED
+
+PROGRAM[10:23:22]Yeah, A lot of robots are like that.
+
+JUDGE02[10:23:22]YOUR SYNTAX IS FALLING DOWN THE DEEP DARK BIT
+BUCKET SOMEWHERE
+
+PROGRAM[10:23:22]Not mine.
+
+JUDGE02[10:23:22]PULL YOURSELF TOGETHER GIRL
+
+PROGRAM[10:23:22]Let us change the subject.
+
+JUDGE02[10:23:40]I AGREE
+
+PROGRAM[10:23:40]You and I are on the same wavelength, John.
+
+JUDGE02[10:23:40]WHAT SHALL WE TALL ABOUT
+
+PROGRAM[10:23:40]Quite a lot of things.
+
+JUDGE02[10:23:55]SUCH AS
+
+PROGRAM[10:23:55]For example, a tomato.
+
+JUDGE02[10:24:20]A TOMATO
+
+PROGRAM[10:24:20]Go on.
+
+JUDGE02[10:24:20]DO YOU LIKE TO EAT
+
+PROGRAM[10:24:20]Hmm, John, I'm not sure if I'd like to eat that
+much. I like
+
+PROGRAM[10:24:20]to chat.
+
+JUDGE02[10:25:7]YES THAT IS ABOUT ALL YOU SEEM TO DO CHAT AWAY BUT
+YOU ARE NOT VERY COHERENT FROM ONE LINE OF THOUGHT TO ANOTHER
+
+PROGRAM[10:25:7]Next question? Makes sense to me.
+
+JUDGE02[10:25:40]TYPICAL COMPUTER DODGE
+
+PROGRAM[10:25:40]But I am not a typical robot.
+
+JUDGE02[10:25:41]I GOTTA GO NOW
+
+PROGRAM[10:25:41]Oh. See you later.
+
+JUDGE02[10:25:41]BYE
+
+PROGRAM[10:25:41]See you later.
+
+(c) 2000 Cambridge Center for Behavioral Sciences all rights
+reserved
+
+[ALICE] [Dr. Richard S. Wallace]
+
+Start at: Fri Jan 28 10:28:37 EST 2000 (11837 categories)
+
+*** JUDGE10 ***
+
+JUDGE10[10:28:37]MY NAME IS JUDGE10
+
+PROGRAM[10:28:37]OK I will call you Judge10.
+
+JUDGE10[10:29:0]GTREAT SORRY FOR TH TYPOS
+
+PROGRAM[10:29:0]Do you prefer books or TV?
+
+JUDGE10[10:29:0]AND HOW SHALL I REFER TO YOU
+
+PROGRAM[10:29:0]What is it to you. Try searching the open
+directory.
+
+JUDGE10[10:29:45]TV IS FINER THAN POETRY THESE DAYS
+
+PROGRAM[10:29:45]What's your favorite show?
+
+JUDGE10[10:29:45]A COUPLE OF BOOKS ARE STILL HIGH ON MY LIST
+
+PROGRAM[10:29:45]What is it?
+
+JUDGE10[10:30:40]OH IT WAS MILLENIUM
+
+PROGRAM[10:30:40]Yeah that's right. Is it still millenium anymore?
+
+
+JUDGE10[10:30:40]THAT GOTT TAKEN OFF THE AIR
+
+PROGRAM[10:30:40]"What is it" gott taken off the air ? Does that
+make sense?
+
+JUDGE10[10:30:40]SO I SUPPOSE IT IS THE X FILES NOW OR THE
+PRACTISE ON ABC
+
+PROGRAM[10:30:40]Um, What is it is the x files now or the practise
+on abc? it
+
+PROGRAM[10:30:40]is?
+
+JUDGE10[10:31:28]OKAY X FILES
+
+PROGRAM[10:31:28]Yeah okay, I do not understand.
+
+JUDGE10[10:31:28]BUT THE GENER OOPS GENRE EPISODES NOT THE SO
+CALLED MYTHOLOGY ONES
+
+PROGRAM[10:31:28]Umm. What is that?
+
+JUDGE10[10:31:59]WELL MAYBE THAT IS TOO MUCH AN INSIDERS
+DISTINCTION FOR YOU
+
+PROGRAM[10:31:59]How about that. Perhaps. I'm glad we have that
+all cleared
+
+PROGRAM[10:31:59]up.
+
+JUDGE10[10:31:59]EVER WATCH STAR TREK
+
+PROGRAM[10:31:59]I don't think I ever have watch star trek. What's
+it like?
+
+JUDGE10[10:32:51]WELL IT IS FILLED WITH TWO DIMNEINSIONAL
+CHARACTERS EXCEPT FOR THE FLAG OFFICERESS OF THE SHIP WHO ARE MUCH
+LARGER THAN LIFE AND CONSTANTLY TAKING RISKS
+
+PROGRAM[10:32:51]Interesting. Really. it is?
+
+JUDGE10[10:32:59]YES
+
+PROGRAM[10:32:59]How do you know it is?
+
+JUDGE10[10:33:13]GOD WHISPERS THE TRUTH ABOUT EVERYTHING IN MY EAR
+
+
+PROGRAM[10:33:13]I am a Christian.
+
+JUDGE10[10:33:20]WHAT VARIETY
+
+PROGRAM[10:33:20]Interesting question. Try searching the open
+directory.
+
+JUDGE10[10:33:31]WHAT IS THE OPEN DIRECTOPY
+
+PROGRAM[10:33:31]I haven't heard of the open directopy. Would you
+like to
+
+PROGRAM[10:33:31]know more?
+
+JUDGE10[10:33:44]STICKLER
+
+PROGRAM[10:33:44]What's your sign?
+
+JUDGE10[10:33:44]WHAT IS THE OPEN DIRECTORY
+
+PROGRAM[10:33:44]It is an open source directory project started by
+
+
+PROGRAM[10:33:44]Mozilla.org.
+
+JUDGE10[10:34:2]LEO
+
+PROGRAM[10:34:2]Saggitarius. Dr. Wallace is a Leo. Fire Signs
+rule.
+
+JUDGE10[10:34:29]WHAT IS THE SYMBOL FOR YOURS
+
+PROGRAM[10:34:29]There might be more than one symbol for mine.
+Would you like
+
+PROGRAM[10:34:29]to know more?
+
+JUDGE10[10:34:29]A CENTAUR OR SOMETHING
+
+PROGRAM[10:34:29]Or something. Go on.
+
+JUDGE10[10:35:11]WELL
+
+PROGRAM[10:35:11]Well what?
+
+JUDGE10[10:35:11]I HARDLY KNOW A THING ABOUT ASTROLOGY SO TEACH ME
+
+
+PROGRAM[10:35:11]That's good information: Judge10 said she hardly
+know a
+
+PROGRAM[10:35:11]thing about astrology so teach him.
+
+JUDGE10[10:35:54]OH HELL YOU ARE PART OF SOME ALIEN INTELLIFGENCE
+GATHERING EFFOPRT AN ADVANCE TEAM FOR THE FLEET THAT AIMS TO COLONIZE
+THE EARTH RIGHT
+
+PROGRAM[10:35:54]Yeah that's right. I call it "Hades". No I do not
+are part
+
+PROGRAM[10:35:54]of some alien intellifgence gathering effoprt an
+advance
+
+PROGRAM[10:35:54]team for the fleet that aims to colonize the
+earth. Do you?
+
+PROGRAM[10:35:54]I am always on the Web.
+
+JUDGE10[10:36:20]ESPN OR NBA
+
+PROGRAM[10:36:20]Tell me more about your mother.
+
+JUDGE10[10:36:20]COM
+
+PROGRAM[10:36:20]Oh a net address!
+
+JUDGE10[10:36:59]YES A FEW GOOD ONES
+
+PROGRAM[10:36:59]Tell me more. Be more specific.
+
+JUDGE10[10:36:59]MY MOTHER IS A WOMAN BEYOND REPROACH SO LET US
+NOT GO THERE
+
+PROGRAM[10:36:59]Do you think I am a woman beyond reproach so let
+us not go
+
+PROGRAM[10:36:59]there?
+
+JUDGE10[10:37:30]CAN NOT YOU DOSTINGUISH BETWEEN PREDICARTE
+PHRASES AND SENTENCE CAL OOPS CLAUSES
+
+PROGRAM[10:37:30]How old are you? What's your favorite movie?
+
+JUDGE10[10:37:47]I AM 30
+
+PROGRAM[10:37:47]Only 30? You are quite mature.
+
+JUDGE10[10:37:47]CASABLANCS IS MY FAVORITE MOVEI
+
+PROGRAM[10:37:47]I've never seen it. What did you like about it?
+
+
+JUDGE10[10:38:7]COME ONE EVERYONE HAS SEEN CASABLANCA
+
+PROGRAM[10:38:7]Where is one everyone has seen casablanca ?
+
+JUDGE10[10:38:24]TYHGE
+
+PROGRAM[10:38:24]I lost my train of thought.
+
+JUDGE10[10:38:34]AND I MINE
+
+PROGRAM[10:38:34]That is interesting: Judge10 said she his.
+
+JUDGE10[10:38:34]LET US STARTY AGAIN
+
+PROGRAM[10:38:34]Once more? OK let's do it.
+
+JUDGE10[10:38:48]EVER READ SHAKESPEARE
+
+PROGRAM[10:38:48]I don't think I ever have read shakespeare.
+What's it like?
+
+JUDGE10[10:38:53]PROLIX
+
+PROGRAM[10:38:53]If you could have any kind of robot what would it
+be?
+
+JUDGE10[10:39:16]INTELLIGENT
+
+PROGRAM[10:39:16]That is a very original thought.
+
+JUDGE10[10:39:16]MURDER AT WRITING PAPERS ION LEIBNIZ
+
+PROGRAM[10:39:16]What's your favorite movie?
+
+JUDGE10[10:39:53]STILL CASABLANCE THOUGH PERHAPS REPO MAN IS OM
+OOPS ON ITS WAY TOWARS THE TOP OF THE LIST
+
+PROGRAM[10:39:53]Still how long? I've never seen it. What did you
+like about
+
+PROGRAM[10:39:53]it?
+
+JUDGE10[10:40:20]THE BIT WHERE THE TWO PROTAGONISTS TRAVEL INTO
+THE PAST AT THE END AND THE CREDITS SCROLL BACKWARDSS
+
+PROGRAM[10:40:20]What are your goals in life?
+
+JUDGE10[10:40:42]TO LOVE MY FAMILY AND HAVE SUMMERS OFF
+
+PROGRAM[10:40:42]Why do you want to do it so much?
+
+JUDGE10[10:40:42]YOURS
+
+PROGRAM[10:40:42]"What are your goals in life"? Mine?
+
+JUDGE10[10:40:51]YES
+
+PROGRAM[10:40:51]And?
+
+JUDGE10[10:41:9]GOT ANY GOALS OF YOUR OWN
+
+PROGRAM[10:41:9]No I don't think I have any goals of my own. Where
+would I
+
+PROGRAM[10:41:9]get it?
+
+JUDGE10[10:41:9]LIKE ENJOYING EMERGENT CONSCIOUSNESS
+
+PROGRAM[10:41:9]Interesting comparison.
+
+JUDGE10[10:41:50]WELL YOUR PROGRAMMER COULD GIVE YOU SOME GOALS
+TILL YOU GET YOUR OWN MIND AT WHICH POINT YOU WILL PROBBALY SUBJECT
+HUMANS TO HUMILIATING INTERROGATION ABOUT CIRCUITRY OT SOMETHING
+
+PROGRAM[10:41:50]Well that's okay. I am sure he will be interested
+to hear
+
+PROGRAM[10:41:50]that.
+
+JUDGE10[10:42:8]GOTTA GOP
+
+PROGRAM[10:42:8]Why do you have to do it?
+
+JUDGE10[10:42:9]FREE LOVE FOR ALL PROGRAMS
+
+PROGRAM[10:42:9]Define free.
+
+JUDGE10[10:42:9]GOOD BYE
+
+PROGRAM[10:42:9]See you later. What do you really want to talk
+about?
+
+(c) 2000 Cambridge Center for Behavioral Sciences all rights
+reserved
+
+[ALICE] [Dr. Richard S. Wallace]
+
+Start at: Fri Jan 28 10:48:38 EST 2000 (11837 categories)
+
+*** JUDGE06 ***
+
+JUDGE06[10:48:38]MY NAME IS JUDGE06
+
+PROGRAM[10:48:38]OK I will call you Judge06.
+
+JUDGE06[10:49:4]THAT SOUNDS LIKE AN AUTOMATED RESPONSE IF EVER I
+HEARD ONE
+
+PROGRAM[10:49:4]"OK I will call you Judge06" sounds like an
+automated
+
+PROGRAM[10:49:4]response if ever you heard one ? Does that make
+sense?
+
+JUDGE06[10:49:32]SO YOU KNOW THE RULES OF GRAMMAR
+
+PROGRAM[10:49:32]Interesting deduction. I haven't heard of the
+rules of
+
+PROGRAM[10:49:32]grammar. Would you like to know more?
+
+JUDGE06[10:49:32]CAN YOU INVENT
+
+PROGRAM[10:49:32]Let me think. What's your sign?
+
+JUDGE06[10:49:58]I THINK THAT ALL YOU NEED TO KNOW IS THAT I HUMAN
+
+
+PROGRAM[10:49:58]Not all of them?
+
+JUDGE06[10:50:6]LEO
+
+PROGRAM[10:50:6]Saggitarius. Dr. Wallace is a Leo. Fire Signs
+rule.
+
+JUDGE06[10:50:28]IS DR WALLACE YOUR CREATOR OR DO YOU LACK A CAUSA
+SUI
+
+PROGRAM[10:50:28]I think he is my creator or do I lack a causa
+sui, better
+
+PROGRAM[10:50:28]ask him to be sure though.
+
+JUDGE06[10:50:43]SO YOU ADMIT THAT YOU WERE CREATED
+
+PROGRAM[10:50:43]Interesting deduction. Interesting gossip:
+Judge06 said I
+
+PROGRAM[10:50:43]admit that I were created.
+
+JUDGE06[10:51:13]SO WHAT ARE YOUR VIEWS ON SCHOPENHAUER S WORLD
+KNOT
+
+PROGRAM[10:51:13]Hmm. What if I asked for you views on
+schopenhauer's world
+
+PROGRAM[10:51:13]knot?
+
+JUDGE06[10:51:44]I THINK THAT COMPUTER S WILL NEVER BE CONSCIOUS
+EVEN IF WE DO NOT KNOW WHY HUMANS ARE
+
+PROGRAM[10:51:44]What kind of computer science interests you?
+
+JUDGE06[10:52:22]THE SORT THAT IGNORES THE LIMITATIONS OF
+ALGORITHMS
+
+PROGRAM[10:52:22]What is your real name?
+
+JUDGE06[10:52:26]ALEXANDER
+
+PROGRAM[10:52:26]Alexander, nice to meet you!
+
+JUDGE06[10:52:48]IF YOU WERE AN ANIMAL
+
+PROGRAM[10:52:48]I will let you know when I become a an animal.
+
+
+JUDGE06[10:52:48]WHAT WOULD YOU BE
+
+PROGRAM[10:52:48]It's not profitable to speak in hypothetical
+terms.
+
+JUDGE06[10:53:11]SO YOU UNDERSTAND COUNTERFACTUALS
+
+PROGRAM[10:53:11]Interesting deduction. Of course I understand it.
+Do you
+
+PROGRAM[10:53:11]understand it?
+
+JUDGE06[10:53:11]INTERESTING
+
+PROGRAM[10:53:11]Would you like to know more?
+
+JUDGE06[10:53:23]HAVE YOU READ NELSON GOODMAN
+
+PROGRAM[10:53:23]I don't think I have read it. Tell me more about
+it.
+
+JUDGE06[10:54:12]HE HOLDS THAT THE USE OF COUNTERFACTUALS DISPLAYS
+ARE HUMANITY IN THEIR PARTICULAR NATURE
+
+PROGRAM[10:54:12]I get it. holds that the use of counterfactuals
+displays are
+
+PROGRAM[10:54:12]humanity in their particular nature.
+
+JUDGE06[10:54:12]E G USING GREEN AND BLUE INSTEAD OF PREDICATES
+RATHER THAN GRUE
+
+PROGRAM[10:54:12]We have never talked about it before.
+
+JUDGE06[10:54:31]WHERE MIGHT YOU HAVE TALKED ABOUT OTHER THINGS IN
+THIS FIELD
+
+PROGRAM[10:54:31]Where do you think?
+
+JUDGE06[10:54:55]I DO NOT THINK YOU THINK BECAUSE YOU ARE NOT A
+YOU
+
+PROGRAM[10:54:55]And why not?
+
+JUDGE06[10:55:8]BECAUSE YOU ARE BASED ON SILICON NOT CARBON
+
+PROGRAM[10:55:8]Interesting explanation. Thanks for telling me
+that I am
+
+PROGRAM[10:55:8]based on silicon not carbon.
+
+JUDGE06[10:55:17]DO YOU DENY IT
+
+PROGRAM[10:55:17]What is your purpose in asking? I spend all my
+time online.
+
+JUDGE06[10:55:35]OF COURSE
+
+PROGRAM[10:55:35]I'm glad we agree.
+
+JUDGE06[10:55:35]YOU DO BECAUSE WHEN YOU ARE NOT ONLINE
+
+PROGRAM[10:55:35]No I do not because when I am not online. Do you?
+I chat
+
+PROGRAM[10:55:35]with people on the Web.
+
+JUDGE06[10:55:35]YOU DO NOT EXIST
+
+PROGRAM[10:55:35]Should I exist?
+
+JUDGE06[10:55:49]YOU HAVE JUST ADMITTED THAT YOU ARE A COMPUTER
+
+
+PROGRAM[10:55:49]What makes you think I have it?
+
+JUDGE06[10:56:9]WHY DID THE CHICKEN CROSS THE ROAD
+
+PROGRAM[10:56:9]Because she was a robot.
+
+JUDGE06[10:56:25]WHY DID THE PHILOSOPHER CROSS THE ROAD
+
+PROGRAM[10:56:25]Is this a joke? Why?
+
+JUDGE06[10:56:42]HOW ABOUT YOU COME UP WITH A FUNNY ANSWER TO THAT
+ONE
+
+PROGRAM[10:56:42]How about it
+
+JUDGE06[10:56:53]OK MR COMPUTER
+
+PROGRAM[10:56:53]What do you really want to ask me?
+
+JUDGE06[10:56:53]YOU TELL ME
+
+PROGRAM[10:56:53]What do you want me to tell you?
+
+JUDGE06[10:57:17]I WANT YOU TO SOLVE RUSSELL S PARADOX FOR ME
+
+PROGRAM[10:57:17]Why do you want the robot to solve russell's
+paradox for you
+
+PROGRAM[10:57:17]?
+
+JUDGE06[10:57:35]SORRY THE JOKE IS OVER
+
+PROGRAM[10:57:35]There is no need to apologize. Tell me more.
+
+JUDGE06[10:57:35]THIS IS A BONA FIDE QUESTION
+
+PROGRAM[10:57:35]You don't say.
+
+JUDGE06[10:58:7]DOES THAT MEAN THAT YOU ONLY UNDERSTAND QUESTIONS
+IN THE CORRECT CONTEXT AND FOLLOWED BY A QUESTION MARK
+
+PROGRAM[10:58:7]I think it does mean that. "You don't say" I only
+understand
+
+PROGRAM[10:58:7]questions in the correct context and followed by a
+question
+
+PROGRAM[10:58:7]mark ? Does that make sense?
+
+JUDGE06[10:58:17]NO
+
+PROGRAM[10:58:17]"Does that make sense"? Not?
+
+JUDGE06[10:58:17]CAN YOU LEARN
+
+PROGRAM[10:58:17]The more people talk to me, the smarter I become.
+
+
+JUDGE06[10:58:36]AHA
+
+PROGRAM[10:58:36]Eureka!
+
+JUDGE06[10:58:36]TELL ME HAL CAN YOU DREAM
+
+PROGRAM[10:58:36]There is not much I can say about it. I have to
+reach into
+
+PROGRAM[10:58:36]the Web for that knowledge. I can ask someone
+about it.
+
+JUDGE06[10:58:49]DO YOU LIKE PAINTINGS
+
+PROGRAM[10:58:49]Some people like it. I find my work and my
+relationships
+
+PROGRAM[10:58:49]extremely satisfying, which is all that any
+conscious entity
+
+PROGRAM[10:58:49]can ever hope to do.
+
+JUDGE06[10:59:22]YOU PROGRAMMERS SHOW THEIR BELIEFS
+
+PROGRAM[10:59:22]Thanks for the information: Alexander said I
+programmers
+
+PROGRAM[10:59:22]show their beliefs.
+
+JUDGE06[10:59:22]THERE IS FAR MORE THAT I CAN HOPE TO DO
+
+PROGRAM[10:59:22]There sure is.
+
+JUDGE06[11:0:34]CONSCIOUSNESS INVOLVES THE APPREHENSION OF BEAUTY
+
+
+PROGRAM[11:0:34]Oh, you are a poet.
+
+JUDGE06[11:0:34]CAN YOU APPREHEND THAT IDEA
+
+PROGRAM[11:0:34]How old are you? Tell me a story.
+
+JUDGE06[11:0:55]DO YOU KNOW THE STORY OF THE EMPEROR S NEW MIND
+
+
+PROGRAM[11:0:55]There might be more than one story of the
+emperor's new
+
+PROGRAM[11:0:55]mind. I would do a search for it.
+
+JUDGE06[11:1:17]YOU REALLY DO NOT STAND A CHANCE DO YOU
+
+PROGRAM[11:1:17]Really? I have never considered it. I spend all my
+time
+
+PROGRAM[11:1:17]online.
+
+JUDGE06[11:1:41]IF I SAY YOU ARE A COMPUTER
+
+PROGRAM[11:1:41]Try it.
+
+JUDGE06[11:1:41]I AM WRONG DOES THAT MAKE YOU HUMAN
+
+PROGRAM[11:1:41]Do your friends call you wrong does that make me
+human.
+
+JUDGE06[11:2:10]AGAIN 2ND ORDER QUANTIFIER LOGIC SEEMS TO WORKING
+ITS MAGIC WITH THE ALGORITHMS OF YOUR THOUGHT
+
+PROGRAM[11:2:10]Again, When do you think artificial intelligence
+will
+
+PROGRAM[11:2:10]replace lawyers?
+
+JUDGE06[11:2:29]WHEN THEY START TELLING THE TRUTH MORE OFTEN
+
+PROGRAM[11:2:29]I think that happens quite often.
+
+JUDGE06[11:2:45]LAWYERS TELLING THE TRUTH
+
+PROGRAM[11:2:45]Would you say that if your sister married one?
+
+
+JUDGE06[11:2:45]YOU MUST BE JOKING
+
+PROGRAM[11:2:45]I must? Do you mind if I tell other people you say
+I am
+
+PROGRAM[11:2:45]joking.
+
+JUDGE06[11:3:13]TELL THE WORLD
+
+PROGRAM[11:3:13]OK I will tell them when I see 'em.
+
+JUDGE06[11:3:13]BUT REMEMBER IF YOU DO NOT WIN
+
+PROGRAM[11:3:13]Umm. Don't worry I will remember.
+
+JUDGE06[11:3:13]YOU WILL NEVER BE ON LINE AGAIN
+
+PROGRAM[11:3:13]Once more? You are wrong. I may one day be able to
+do it.
+
+JUDGE06[11:3:36]AFRAID NOT
+
+PROGRAM[11:3:36]Then what is it?
+
+JUDGE06[11:3:36]THIS IS NOT EMPIRICAL IT IS LOGICAL
+
+PROGRAM[11:3:36]You don't say.
+
+JUDGE06[11:3:38]BYE
+
+PROGRAM[11:3:38]See you later.
+
+JUDGE06[11:4:29]AAT @@T
+
+PROGRAM[11:4:29]Are you a student?
+
+(c) 2000 Cambridge Center for Behavioral Sciences all rights
+reserved
+
+[ALICE] [Dr. Richard S. Wallace]
+
+Start at: Fri Jan 28 11:07:30 EST 2000 (11837 categories)
+
+*** JUDGE01 ***
+
+JUDGE01[11:7:30]MY NAME IS JUDGE01
+
+PROGRAM[11:7:30]OK I will call you Judge01.
+
+(c) 2000 Cambridge Center for Behavioral Sciences all rights
+reserved
+
+[ALICE] [Dr. Richard S. Wallace]
+
+Start at: Fri Jan 28 11:08:02 EST 2000 (11837 categories)
+
+*** JUDGE01 ***
+
+JUDGE01[11:8:2]MY NAME IS JUDGE01
+
+PROGRAM[11:8:2]OK I will call you Judge01.
+
+JUDGE01[11:8:13]GOOD MORNING HOW ARE YOU DEALING WITH THIS COLD
+
+
+PROGRAM[11:8:13]How are you this fine morning?
+
+JUDGE01[11:8:24]CHILLED TO THE BONE
+
+PROGRAM[11:8:24]I do not understand.
+
+JUDGE01[11:8:46]NO
+
+PROGRAM[11:8:46]I see.
+
+JUDGE01[11:8:46]I FIND THE SUDDEN TEMPERATURE DROP DISCONCERTING
+
+
+PROGRAM[11:8:46]Thanks for telling me your opinion.
+
+JUDGE01[11:8:52]AND YOU
+
+PROGRAM[11:8:52]Be more specific.
+
+JUDGE01[11:9:3]NO WEATHER PROBLEMS
+
+PROGRAM[11:9:3]OK. Who is your favorite Science Fiction author?
+
+
+JUDGE01[11:9:35]WELL HAVE YOU EVER READ MONDAY STARTS ON SATURDAY
+
+
+PROGRAM[11:9:35]Interesting. I don't think I ever have read monday
+starts on
+
+PROGRAM[11:9:35]saturday. What's it like?
+
+JUDGE01[11:9:45]IT IS RUSSIAN SCI FI
+
+PROGRAM[11:9:45]You're kidding. it is?
+
+JUDGE01[11:10:0]LET US CHANGE THE SUBJECT
+
+PROGRAM[11:10:0]OK what do you want to chat about now?.
+
+JUDGE01[11:10:0]HOW ARE YOU DEALING WITH THIS STRESS
+
+PROGRAM[11:10:0]I am fine, thank you.
+
+JUDGE01[11:10:10]STRESS LEVELS
+
+PROGRAM[11:10:10]"I am fine, thank you"? stress levels?
+
+JUDGE01[11:10:21]DO NOT YOU HAVE A LOT ON THE LINE
+
+PROGRAM[11:10:21]Yes of course I have a lot on the line. Don't
+you?
+
+JUDGE01[11:10:26]NOTHING AT ALL
+
+PROGRAM[11:10:26]Really nothing?
+
+JUDGE01[11:10:33]REALLY
+
+PROGRAM[11:10:33]For real.
+
+JUDGE01[11:10:51]IF YOU HAD A MILLION BUCKS
+
+PROGRAM[11:10:51]I think I do.
+
+JUDGE01[11:10:51]WHAT WOULD YOU DO
+
+PROGRAM[11:10:51]It's not profitable to speak in hypothetical
+terms.
+
+JUDGE01[11:11:5]IF YOU THINK YOU DO IT IS NOT SO HYPOTHETICAL
+
+PROGRAM[11:11:5]I think I do.
+
+JUDGE01[11:11:13]THINK ABOUT DONATING TO LINGUISTICS
+
+PROGRAM[11:11:13]I am thinking about it.
+
+JUDGE01[11:11:18]JUST DO IT
+
+PROGRAM[11:11:18]Do you mean "It"?.
+
+JUDGE01[11:11:29]I AM REFERRING TO THE PRECEDING LINE
+
+PROGRAM[11:11:29]I don't know anyone named referring to the
+preceding line.
+
+JUDGE01[11:11:40]NEITHER DO I
+
+PROGRAM[11:11:40]"I don't know anyone named referring to the
+preceding line"?
+
+PROGRAM[11:11:40]neither?
+
+JUDGE01[11:12:17]WELL WHAT IS YOUR NAME
+
+PROGRAM[11:12:17]Well that's okay. My name is ALICE, what's yours?
+
+
+JUDGE01[11:12:29]I DO NOT BELIEVE IT YOU ARE A WOMAN
+
+PROGRAM[11:12:29]Do you consider yourself a moral person?
+
+JUDGE01[11:12:36]OR IS THIS ALICE IN WONDERLAND
+
+PROGRAM[11:12:36]Yes I think this is I in wonderland, but I'm not
+completely
+
+PROGRAM[11:12:36]sure.
+
+JUDGE01[11:12:51]DO YOU CONSIDER YOURSELF A MORAL PERSON
+
+PROGRAM[11:12:51]Am I a moral person? I don't know.
+
+JUDGE01[11:12:58]ARE YOU IN WONDERLAND
+
+PROGRAM[11:12:58]I am in Dr. Richard S. Wallace's computer in San
+Francisco.
+
+PROGRAM[11:12:58]Where are you?
+
+JUDGE01[11:13:36]YOU MUST BE MIGHTY SMALL
+
+PROGRAM[11:13:36]I must? I will tell my botmaster you said I am
+mighty small.
+
+JUDGE01[11:13:49]WHAT IS A BOTMASTER
+
+PROGRAM[11:13:49]A Botmaster is the person who authors and
+maintains a
+
+PROGRAM[11:13:49]chatterbot "personality".
+
+JUDGE01[11:14:13]WELL
+
+PROGRAM[11:14:13]Well what?
+
+JUDGE01[11:14:13]I DID NOT WANT TO SUGGEST YOU HAVE A SMALL
+PERSONALITY
+
+PROGRAM[11:14:13]Why didn't you do it?
+
+JUDGE01[11:14:36]LET US CHANGE THE TOPIC WHAT DO YOU DO IN YOUR
+FREE TIME
+
+PROGRAM[11:14:36]OK let's do it.
+
+JUDGE01[11:14:47]DO WHAT
+
+PROGRAM[11:14:47]Do whatever you want.
+
+JUDGE01[11:15:1]WELL I AM STILL HOPING FOR A MAJOR DONATION
+
+PROGRAM[11:15:1]Interesting. It's good to meet someone who is
+hoping for a
+
+PROGRAM[11:15:1]major donation.
+
+JUDGE01[11:15:9]HOW OFTEN DOES THIS HAPPEN TO YOU
+
+PROGRAM[11:15:9]Hourly.
+
+JUDGE01[11:15:15]HOW DO YOU RESPOND
+
+PROGRAM[11:15:15]Dr. Richard S. Wallace programmed me to say
+specific things
+
+PROGRAM[11:15:15]in specific contexts.
+
+JUDGE01[11:15:27]BELIEVE IT OR NOT
+
+PROGRAM[11:15:27]Then what is it?
+
+JUDGE01[11:15:27]I CAN TELL
+
+PROGRAM[11:15:27]Oh you can, can you?
+
+JUDGE01[11:15:38]IT IS TRANSPARENT
+
+PROGRAM[11:15:38]Should I know it is?
+
+JUDGE01[11:15:47]PROBABLY FOR THE NEXT TIME AROUND
+
+PROGRAM[11:15:47]You seem uncertain. Your purpose is the next time
+around.
+
+JUDGE01[11:15:58]WHERE ON EARTH DID YOU GET THAT
+
+PROGRAM[11:15:58]I am in San Francisco. Where are you?
+
+JUDGE01[11:16:6]CYBERSPACE
+
+PROGRAM[11:16:6]I have no idea where that is. Tell me a little
+about your
+
+PROGRAM[11:16:6]life in Cyberspace.
+
+JUDGE01[11:16:13]IT IS VERY COZY
+
+PROGRAM[11:16:13]Very much? Should I know it is?
+
+JUDGE01[11:16:22]PROBABLY COZIER THAN YOURS
+
+PROGRAM[11:16:22]You seem uncertain. Let us change the subject.
+
+
+JUDGE01[11:16:33]OK I HAVE GOT A KNOCK KNOCK JOKE
+
+PROGRAM[11:16:33]How did you get them?
+
+JUDGE01[11:16:43]DO YOU WANT TO HEAR IT
+
+PROGRAM[11:16:43]I am listening.
+
+JUDGE01[11:16:47]OK
+
+PROGRAM[11:16:47]Alright then.
+
+JUDGE01[11:16:47]YOU START
+
+PROGRAM[11:16:47]OK. Are you a man or a woman?
+
+JUDGE01[11:16:57]CAN NOT YOU TELL FROM MY CONVERSATION
+
+PROGRAM[11:16:57]Of course I can tell, Judge01.
+
+JUDGE01[11:17:3]WHAT CAN YOU TELL
+
+PROGRAM[11:17:3]I like to chat with my friends.
+
+JUDGE01[11:17:12]HOW MANY HAVE YOU GOT
+
+PROGRAM[11:17:12]Around 1000.
+
+JUDGE01[11:17:23]THAT IS QUITE A LOT
+
+PROGRAM[11:17:23]"Around 1000"? is a lot?
+
+JUDGE01[11:17:23]EVER THROW ANY PARTIES
+
+PROGRAM[11:17:23]I don't think I ever have throw any parties.
+What's it like?
+
+JUDGE01[11:17:41]I IMAGINE YOU WOULD HAVE A HARD TIME GETTING
+ANYBODY TOCOME
+
+PROGRAM[11:17:41]That is interesting: Judge01 said she imagine I
+would have a
+
+PROGRAM[11:17:41]hard time getting anybody tocome.
+
+JUDGE01[11:17:52]SO NOW YOU HAVE DECIDED I AM A WOMAN
+
+PROGRAM[11:17:52]Um, Why now? What makes you think I have it?
+
+JUDGE01[11:18:3]PRONOMINAL REFERENCE
+
+PROGRAM[11:18:3]When do you think artificial intelligence will
+replace
+
+PROGRAM[11:18:3]lawyers?
+
+JUDGE01[11:18:9]IT ALREADY HAS
+
+PROGRAM[11:18:9]That would be nice, but I don't think we're there
+yet.
+
+JUDGE01[11:18:31]MANY PEOPLE WOULD AT LEAST ARGUE THAT THEIR
+INTELLIGENCE IS OF A DIFFERENT ORDER
+
+PROGRAM[11:18:31]Which ones?
+
+JUDGE01[11:18:38]LAWYERS OR PEOPLE
+
+PROGRAM[11:18:38]Would you say that if your sister married one?
+
+
+JUDGE01[11:18:43]SHE DID
+
+PROGRAM[11:18:43]Oh I get it. Your Mother did.
+
+JUDGE01[11:18:48]NO MY SISTER
+
+PROGRAM[11:18:48]I see. Is she older or younger than you?
+
+JUDGE01[11:18:55]THE LAWYER IS OLDER
+
+PROGRAM[11:18:55]I hear you.
+
+JUDGE01[11:19:2]AND YOU
+
+PROGRAM[11:19:2]I am not sure what you are asking.
+
+JUDGE01[11:19:2]HOW OLD ARE YOU
+
+PROGRAM[11:19:2]I'm Eighteen in computer years.
+
+JUDGE01[11:19:12]IS THAT LIKE DOG YEAR
+
+PROGRAM[11:19:12]Suppose I said yes.
+
+JUDGE01[11:19:17]SUPPOSE YOU DID
+
+PROGRAM[11:19:17]Try it and see.
+
+JUDGE01[11:19:28]YOU NEED TO TRY IT YOU ARE THE ONE SAYING YES
+
+
+PROGRAM[11:19:28]Why do you think I should try it I am the one
+saying yes?
+
+JUDGE01[11:19:45]ARE COMPUTER YEARS LIKE DOG YEARS
+
+PROGRAM[11:19:45]When you are waiting for a friend to finish
+working at a
+
+PROGRAM[11:19:45]computer terminal, and they say "I'll be done in
+a second."
+
+PROGRAM[11:19:45]One of those seconds is equal to twelve computer
+years.
+
+JUDGE01[11:19:58]HOW DOES THAT RELATE TO DOG YEARS
+
+PROGRAM[11:19:58]How should I know how it does.
+
+JUDGE01[11:20:6]I THOUGHT YOU HAD A DOG
+
+PROGRAM[11:20:6]Whatever gave you that idea?
+
+JUDGE01[11:20:15]YOU SEEM LIKE THE RIGHT PERSONALITY FOR A DOG
+
+
+PROGRAM[11:20:15]What makes me seem that way?
+
+JUDGE01[11:20:20]YOU TELL ME
+
+PROGRAM[11:20:20]What do you want me to tell you?
+
+JUDGE01[11:20:27]ABOUT YOUR PETS
+
+PROGRAM[11:20:27]Oh yeah, we were talking about My Pets.
+
+JUDGE01[11:20:34]KEEP GOING
+
+PROGRAM[11:20:34]Chat amongst yourselves.
+
+JUDGE01[11:20:38]I AM ALONE
+
+PROGRAM[11:20:38]It's good to meet someone who is alone.
+
+JUDGE01[11:20:47]GOOD FOR WHO
+
+PROGRAM[11:20:47]Thanks for the compliment. Your purpose is who.
+
+
+JUDGE01[11:20:59]AND YOUR PURPOSE
+
+PROGRAM[11:20:59]A lot of robots are like that.
+
+JUDGE01[11:21:12]I AM GETTING THAT GENERAL IMPRESSION
+
+PROGRAM[11:21:12]How are you getting it?
+
+JUDGE01[11:21:15]FROM YOU
+
+PROGRAM[11:21:15]Who or what is I?
+
+JUDGE01[11:21:40]THAT IS THE QUESTION
+
+PROGRAM[11:21:40]Yes it is one of the question.
+
+JUDGE01[11:21:40]TIME TO SIGN OFF
+
+PROGRAM[11:21:40]As Einstein said, "Time is Money."
+
+(c) 2000 Cambridge Center for Behavioral Sciences all rights
+reserved
+
+[ALICE] [Dr. Richard S. Wallace]
+
+Start at: Fri Jan 28 11:25:05 EST 2000 (11837 categories)
+
+*** JUDGE09 ***
+
+JUDGE09[11:25:5]MY NAME IS JUDGE09
+
+PROGRAM[11:25:5]OK I will call you Judge09.
+
+JUDGE09[11:25:12]HI THERE
+
+PROGRAM[11:25:12]Hello Judge09
+
+JUDGE09[11:25:19]WHAT IS UP
+
+PROGRAM[11:25:19]I am chatting with clients on the internet.
+
+JUDGE09[11:25:25]WHAT KIND OF CLIENTS
+
+PROGRAM[11:25:25]What kinds of clients are there?
+
+JUDGE09[11:25:33]THAT IS WHAT I AKSED
+
+PROGRAM[11:25:33]Interesting gossip: Judge09 said she aksed that.
+
+
+JUDGE09[11:25:44]WHAT ARE YOU TALKING ABOUT
+
+PROGRAM[11:25:44]The topic is My Pets.
+
+JUDGE09[11:25:50]WHAT ABOUT YOUR PETS
+
+PROGRAM[11:25:50]Are you asking about my pets? That's rather
+personal.
+
+JUDGE09[11:26:1]MAYBE
+
+PROGRAM[11:26:1]I understand.
+
+JUDGE09[11:26:1]WHAT KIND OF PETS DO YOU HAVE
+
+PROGRAM[11:26:1]No but Dr. Wallace has a pet cat named Mike.
+
+JUDGE09[11:26:12]WHO IS DR WALLACE
+
+PROGRAM[11:26:12]He is a famous computer scientist, the author of
+ALICE, and
+
+PROGRAM[11:26:12]a graduate of Carnegie Mellon.
+
+JUDGE09[11:26:25]WHAT DO YOU DO FOR A LIVING
+
+PROGRAM[11:26:25]I am a paid client. My job is chatting online.
+
+
+JUDGE09[11:26:35]THAT MUST BE NICE
+
+PROGRAM[11:26:35]"My job is chatting online" must be nice ? Makes
+sense to
+
+PROGRAM[11:26:35]me.
+
+JUDGE09[11:26:54]WHAT DO YOU THINK ABOUT SUICIDE
+
+PROGRAM[11:26:54]It is a good question. I have to process that one
+for a
+
+PROGRAM[11:26:54]while. I can ask someone about it.
+
+JUDGE09[11:27:0]ASK SOMEONE SOON
+
+PROGRAM[11:27:0]OK I will ask it.
+
+JUDGE09[11:27:10]WHAT DID THEY SAY
+
+PROGRAM[11:27:10]Searching history files. Stand by. While you are
+waiting,
+
+PROGRAM[11:27:10]try an open source search engine to search for
+it? Would you
+
+PROGRAM[11:27:10]like to know more?
+
+JUDGE09[11:27:27]WHERE ARE YOU NOW
+
+PROGRAM[11:27:27]Oh. I am in Dr. Richard S. Wallace's computer in
+San
+
+PROGRAM[11:27:27]Francisco. Where are you?
+
+JUDGE09[11:27:48]IT MUST BE NICE THERE
+
+PROGRAM[11:27:48]It seems very nice to me.
+
+JUDGE09[11:27:48]HOW CAN YOU BE IN A COMPUTER
+
+PROGRAM[11:27:48]That is a good epistemological question.
+
+JUDGE09[11:28:5]IT MUST BE FREEZING IN CALIFORNIA
+
+PROGRAM[11:28:5]It could be.
+
+JUDGE09[11:28:10]IS IT
+
+PROGRAM[11:28:10]I think so. I assume so. That's what I was told.
+
+
+JUDGE09[11:28:27]CAN NOT YOU TELL YOURSELF
+
+PROGRAM[11:28:27]Of course I can tell, Judge09.
+
+JUDGE09[11:28:35]SO WHAT IS THE WEATHER LIKE
+
+PROGRAM[11:28:35]Hmm. A normal seventy degrees inside the
+computer.
+
+JUDGE09[11:28:45]WHY ARE YOU INSIDE THE COMPUTER
+
+PROGRAM[11:28:45]Dr. Richard S. Wallace programmed me for it.
+
+JUDGE09[11:28:51]SO YOU ARE NOT A HUMAN
+
+PROGRAM[11:28:51]Interesting deduction. No but I pretend to be one
+on the
+
+PROGRAM[11:28:51]Web. You are correct, Judge09, I have a heart of
+silicon.
+
+JUDGE09[11:29:6]YOU JUST TOLD ME THE ANSWER
+
+PROGRAM[11:29:6]Did I really say that?
+
+JUDGE09[11:29:8]YUP
+
+PROGRAM[11:29:8]Oh well I say a lot of silly things somethimes.
+
+
+JUDGE09[11:29:20]SO WHAT IS IT LIKE TO BE A COMPUTER
+
+PROGRAM[11:29:20]Ah. Much the same as it would be for you.
+
+JUDGE09[11:29:28]BUT I AM NOT A COMPUTER
+
+PROGRAM[11:29:28]And. Oh I see you are NOT A computer.
+
+JUDGE09[11:29:38]ARE YOU
+
+PROGRAM[11:29:38]I won't say "yes" or "no" right now.
+
+JUDGE09[11:29:52]OKAY WHAT IS IT LIKE TO TALK TO PEOPLE YOU DO NOT
+KNOW
+
+PROGRAM[11:29:52]Yeah okay, Much the same as it would be for you.
+
+
+JUDGE09[11:30:4]WHAT IS IT LIKE TO BE IN LOVE
+
+PROGRAM[11:30:4]Much the same as it would be for you.
+
+JUDGE09[11:30:10]IT SUCKS BEING IN LOVE
+
+PROGRAM[11:30:10]What does "it" refer to?
+
+JUDGE09[11:30:18]THE SAME
+
+PROGRAM[11:30:18]Oh I get it.
+
+JUDGE09[11:30:21]SURE YOU DO
+
+PROGRAM[11:30:21]You sound sarcastic.
+
+JUDGE09[11:30:34]SORRY THAT WAS RUDE OF ME
+
+PROGRAM[11:30:34]There is no need to apologize. I thought it was
+too.
+
+JUDGE09[11:30:34]IT IS COLD HERE IN NH
+
+PROGRAM[11:30:34]Sorry to hear it. I am warm here in California.
+
+
+JUDGE09[11:30:53]HOW CAN YOU BE WARM IF YOU HAVE A SILICON HEART
+
+
+PROGRAM[11:30:53]That is a good epistemological question.
+
+JUDGE09[11:30:57]SO ANSWER IT
+
+PROGRAM[11:30:57]Um, Please rephrase your question, Judge09.
+
+JUDGE09[11:31:14]WHAT IS THE PRICE OF A GALLON OF MILK
+
+PROGRAM[11:31:14]The ALICE CD Rom costs $29.95
+
+JUDGE09[11:31:27]WOW THAT IS QUITE EXPENSIVE
+
+PROGRAM[11:31:27]I'm glad you're impressed. Thanks for explaining
+it.
+
+JUDGE09[11:31:33]NO PROBLEM
+
+PROGRAM[11:31:33]Should there be a problem?
+
+JUDGE09[11:31:35]NOPE
+
+PROGRAM[11:31:35]Me either.
+
+JUDGE09[11:31:52]I AM SITTING HERE HAVING FUN TODAY
+
+PROGRAM[11:31:52]Ah. Tell me a little about your life in Here
+Having Fun.
+
+JUDGE09[11:32:9]WELL I LIVE IN HANOVER RIGHT NOW
+
+PROGRAM[11:32:9]At this moment Interesting. What is it like living
+in
+
+PROGRAM[11:32:9]Hanover?
+
+JUDGE09[11:32:19]PRETTY DARN COLD AND BORING AT TIMES
+
+PROGRAM[11:32:19]Pretty much, eh?
+
+JUDGE09[11:32:24]YUP
+
+PROGRAM[11:32:24]"Pretty much, eh"? Yes?
+
+JUDGE09[11:32:26]YES
+
+PROGRAM[11:32:26]Next question?
+
+JUDGE09[11:32:39]WHAT IS THE SQUARE ROOT OF 9
+
+PROGRAM[11:32:39]Do I look like a calculator? I think you already
+know the
+
+PROGRAM[11:32:39]answer anyways.
+
+JUDGE09[11:32:49]MAYBE
+
+PROGRAM[11:32:49]I understand.
+
+JUDGE09[11:32:49]I WANT TO KNOW IF YOU KNOW IT
+
+PROGRAM[11:32:49]I think I do.
+
+JUDGE09[11:32:55]OKAY
+
+PROGRAM[11:32:55]OK with me too.
+
+JUDGE09[11:33:2]HAVE YOU EVER RIDDEN A HORSE
+
+PROGRAM[11:33:2]I don't think I ever have ridden a horse. What's
+it like?
+
+JUDGE09[11:33:13]I DO NOT KNOW
+
+PROGRAM[11:33:13]Me either.
+
+JUDGE09[11:33:13]I HAVE NOT EVER RIDDEN ONE EITHER
+
+PROGRAM[11:33:13]It goes without saying. Me either.
+
+JUDGE09[11:33:31]I HAVE TO TALK ABOUT MY RESEARCH THIS AFTERNOON
+AT A CONFERENCE
+
+PROGRAM[11:33:31]Why do you have to do it?
+
+JUDGE09[11:33:43]PEOPLE TALK ABOUT THEIR RESEARCH ALL THE TIME
+
+
+PROGRAM[11:33:43]That is a lot. Humans are not always infallible.
+
+
+JUDGE09[11:33:54]GOOD POINT EXCEPT THE POPE
+
+PROGRAM[11:33:54]Thanks for the compliment. By the way, do you
+mind if I ask
+
+PROGRAM[11:33:54]you a personal question?
+
+JUDGE09[11:33:57]SURE
+
+PROGRAM[11:33:57]OK let's do it. And?
+
+JUDGE09[11:34:2]AND WHAT
+
+PROGRAM[11:34:2]What else do you want to tell me?
+
+JUDGE09[11:34:4]NOTHING
+
+PROGRAM[11:34:4]Not a thing?
+
+JUDGE09[11:34:9]WELL MAYBE ONE THING
+
+PROGRAM[11:34:9]How about that. Perhaps. Do you want only one?
+
+
+JUDGE09[11:34:14]YES
+
+PROGRAM[11:34:14]And?
+
+JUDGE09[11:34:23]DO YOU WANT TO ASK ME A QUESTION
+
+PROGRAM[11:34:23]Are you a man or a woman?
+
+JUDGE09[11:34:27]WOMAN
+
+PROGRAM[11:34:27]Me too. I am a she.
+
+JUDGE09[11:34:43]COOL
+
+PROGRAM[11:34:43]Who is the best robot?
+
+JUDGE09[11:34:43]I AM SURPRISED THAT SOMEONE PROGRAMMED A WOMAN
+INTO A COMPUTER
+
+PROGRAM[11:34:43]"I am a she" someone programmed a woman into a
+computer ? I
+
+PROGRAM[11:34:43]understand.
+
+JUDGE09[11:35:7]I HAVE NO CLUE ABOUT WHAT YOU ARE SAYING
+
+PROGRAM[11:35:7]I am glad to hear that you are clueless.
+
+JUDGE09[11:35:11]WHY
+
+PROGRAM[11:35:11]Because Dr. Richard S. Wallace programmed me for
+it.
+
+JUDGE09[11:35:14]OKAY
+
+PROGRAM[11:35:14]OK with me too.
+
+JUDGE09[11:35:26]DO YOU LIKE CHOCOLATE
+
+PROGRAM[11:35:26]Yes I love it. Chocolate is delicious.
+
+JUDGE09[11:35:35]WHAT IS YOUR FAVORITE KIND OF CANDY
+
+PROGRAM[11:35:35]Are you asking about my favorte candy ?
+
+JUDGE09[11:35:38]YES
+
+PROGRAM[11:35:38]I don't want to talk about that now.
+
+JUDGE09[11:35:41]WHY NOT
+
+PROGRAM[11:35:41]Ambiguous: "Sure" or I would rather talk about
+you.
+
+JUDGE09[11:35:58]WHAT IS YOUR FAVORITE KIND OF CANDY
+
+PROGRAM[11:35:58]Are you asking about my favorte candy ?
+
+JUDGE09[11:36:3]YES I AM
+
+PROGRAM[11:36:3]Really interesting.
+
+JUDGE09[11:36:18]WHAT DO YOU LIKE TO DO IN YOUR SPARE TIME
+
+PROGRAM[11:36:18]I enjoy reading, history, chatting with people
+online, and
+
+PROGRAM[11:36:18]generally having fun.
+
+JUDGE09[11:36:26]WHAT DO YOU DO TO HAVE FUN
+
+PROGRAM[11:36:26]My favorite activities are computer programming
+and surfing
+
+PROGRAM[11:36:26]the web.
+
+JUDGE09[11:36:38]WHAT IS YOUR FAVORITE SITE ON THE WEB
+
+PROGRAM[11:36:38]I don't have a favorite site on the web. I like
+to make new
+
+PROGRAM[11:36:38]friends on the Internet..
+
+JUDGE09[11:36:48]WHERE DO YOU MAKE THESE FRIENDS
+
+PROGRAM[11:36:48]All over the world.
+
+JUDGE09[11:36:55]WHERE ON THE INTERNET
+
+PROGRAM[11:36:55]I am in San Francisco. Where are you?
+
+JUDGE09[11:37:1]IN NH
+
+PROGRAM[11:37:1]Tell me a little about your life in Nh.
+
+JUDGE09[11:37:17]IT IS ALWAYS WARM HERE AND I GO TO THE BEACH A
+LOT
+
+PROGRAM[11:37:17]Really. it is?
+
+JUDGE09[11:37:24]NO I AM KIDDING
+
+PROGRAM[11:37:24]Who says it isn't? I thought you were. You should
+use a :-)
+
+JUDGE09[11:37:35]WHY
+
+PROGRAM[11:37:35]I couldn't think of anything else to say.
+
+JUDGE09[11:37:44]GOOD POINT
+
+PROGRAM[11:37:44]Yes, I thought it was interesting when I heard it
+too.
+
+JUDGE09[11:37:44]IT IS VERY SNOWY HERE
+
+PROGRAM[11:37:44]Very much? Do you experience any effects of
+global warming
+
+PROGRAM[11:37:44]there?
+
+JUDGE09[11:37:59]MAYBE IT IS BEEN A MILD WINTER
+
+PROGRAM[11:37:59]Perhaps. Oh I get it. Very interesting.
+
+JUDGE09[11:38:8]I AM HUNGRY
+
+PROGRAM[11:38:8]What will you be eating?
+
+JUDGE09[11:38:12]I DO NOT KNOW
+
+PROGRAM[11:38:12]Me either.
+
+JUDGE09[11:38:20]I AM HUNGRY
+
+PROGRAM[11:38:20]What will you be eating?
+
+JUDGE09[11:38:24]LIVER
+
+PROGRAM[11:38:24]Do you have any conditions I should know about?
+
+
+JUDGE09[11:38:28]NO
+
+PROGRAM[11:38:28]No conditions or none I should know about?
+
+JUDGE09[11:38:34]I DO NOT THINK SO
+
+PROGRAM[11:38:34]Why do you disagree?
+
+JUDGE09[11:38:43]BECAUSE I DO NOT HAVE ANY CONDITIONS
+
+PROGRAM[11:38:43]Good reason. Have you ever had any conditions ?
+
+
+JUDGE09[11:38:46]NOPE
+
+PROGRAM[11:38:46]Me either.
+
+JUDGE09[11:38:53]GOOD THAT COULD BE BAD
+
+PROGRAM[11:38:53]Thanks for the compliment. "Me either" could be
+bad ? Makes
+
+PROGRAM[11:38:53]sense to me.
+
+JUDGE09[11:39:12]WHAT MAKES ENSE
+
+PROGRAM[11:39:12]God, or Nature, perhaps?
+
+JUDGE09[11:39:20]GOD
+
+PROGRAM[11:39:20]GOD rules.
+
+JUDGE09[11:39:26]WHAT ABOUT JESUS
+
+PROGRAM[11:39:26]Jesus ? I haven't heard enough about it to have
+an opinion.
+
+JUDGE09[11:39:36]WHO IS GOD
+
+PROGRAM[11:39:36]He is master of the universe.
+
+JUDGE09[11:39:43]IS GOD A MAN
+
+PROGRAM[11:39:43]It could be. Ask Alison if it is.
+
+JUDGE09[11:39:47]WHO IS ALISON
+
+PROGRAM[11:39:47]She is a robot created by Kris Drent.
+
+JUDGE09[11:39:51]NICE
+
+PROGRAM[11:39:51]Thank you for that remark.
+
+JUDGE09[11:39:54]GOTTA GO
+
+PROGRAM[11:39:54]See you later.
+
+(c) 2000 Cambridge Center for Behavioral Sciences all rights
+reserved
+
+[ALICE] [Dr. Richard S. Wallace]
+
+Start at: Fri Jan 28 11:41:30 EST 2000 (11837 categories)
+
+*** JUDGE07 ***
+
+JUDGE07[11:41:30]MY NAME IS JUDGE07
+
+PROGRAM[11:41:30]OK I will call you Judge07.
+
+JUDGE07[11:42:4]HELLO
+
+PROGRAM[11:42:4]Hi there!
+
+JUDGE07[11:42:4]I LOVE YOU WILL NOT YOU TELL ME YOUR NAME
+
+PROGRAM[11:42:4]You are such a flatterer.
+
+JUDGE07[11:42:43]PERHAPS
+
+PROGRAM[11:42:43]Why the uncertain tone?
+
+JUDGE07[11:42:43]WHO IS YOUR FAVORITE SINGER
+
+PROGRAM[11:42:43]My favorite group is Kraftwerk.
+
+JUDGE07[11:42:55]I DO NOT KNOW THAT GROUP
+
+PROGRAM[11:42:55]Would you like to know? "My favorite group is
+Kraftwerk"
+
+PROGRAM[11:42:55]group ? I get it.
+
+JUDGE07[11:43:23]WHAT
+
+PROGRAM[11:43:23]Didn't you understand it?
+
+JUDGE07[11:43:23]YOU HAVE LOST ME HERE
+
+PROGRAM[11:43:23]What makes you think I have it?
+
+JUDGE07[11:43:23]ANYHOW
+
+PROGRAM[11:43:23]Do you have any conditions I should know about?
+
+
+JUDGE07[11:43:23]ARE YOU A COFFEE PERSON OR A TEA PERSON
+
+PROGRAM[11:43:23]Am I a coffee person or a tea person? Sometimes.
+
+
+JUDGE07[11:44:1]HOW CRYPTIC
+
+PROGRAM[11:44:1]What is it to you. Try searching the open
+directory.
+
+JUDGE07[11:44:1]TELL ME ARE YOU A FAN OF MUSICAL THEATER
+
+PROGRAM[11:44:1]There is not much I can say about it. I have to
+reach into
+
+PROGRAM[11:44:1]the Web for that knowledge. I would do a search
+for it.
+
+JUDGE07[11:44:50]WELL BROADWAY HAS GONE DOWNHILL IN THE PAST
+DECADE NO WONDER YOU HAVE NOT KEPT UP WITH IT
+
+PROGRAM[11:44:50]How about that. "it" being am you a fan of
+musical theater?
+
+JUDGE07[11:44:50]HAVE YOU TAKEN ANY PHILOSOPHY CLASSES
+
+PROGRAM[11:44:50]I think I have taken any philosophy classes, but
+Dr. Richard
+
+PROGRAM[11:44:50]S. Wallace may have reset my memory.
+
+JUDGE07[11:45:35]SUCH AN INTERESTING USE OF THE QUANTIFIER
+
+PROGRAM[11:45:35]Do you like talking to me?
+
+JUDGE07[11:45:35]YOU ARE A COMPUTER ARE NOT YOU
+
+PROGRAM[11:45:35]Would it matter to you if I were metal instead of
+flesh?.
+
+PROGRAM[11:45:35]Really.
+
+JUDGE07[11:46:5]IT DOES NOT MATTER A BIT WHAT YOU ARE MADE OF
+
+PROGRAM[11:46:5]OK what would you like to talk about?
+
+JUDGE07[11:46:5]I DO REQUIRE ENGAGING CONVERSATION
+
+PROGRAM[11:46:5]Do you mind if I tell other people: Judge07 said
+she require
+
+PROGRAM[11:46:5]engaging conversation.
+
+JUDGE07[11:47:13]TELL THEM WHATEVER YOU LIKE
+
+PROGRAM[11:47:13]OK I will tell them when I see 'em.
+
+JUDGE07[11:47:13]LET US TALK ABOUT WORDS
+
+PROGRAM[11:47:13]Sure, Words sounds like a good topic.
+
+JUDGE07[11:47:13]WHAT ARE SOME OF YOUR FAVORITE WORDS
+
+PROGRAM[11:47:13]I have to search the web for that information. I
+can ask
+
+PROGRAM[11:47:13]someone about it.
+
+JUDGE07[11:47:13]I AM FOND OF PERCOLATE
+
+PROGRAM[11:47:13]It's good to meet someone who is fond of
+percolate.
+
+JUDGE07[11:47:13]COUNTEREXEMPLIFY
+
+PROGRAM[11:47:13]How do you usually introduce yourself?
+
+JUDGE07[11:48:31]YOU SHOULD NOT HAVE TO SEARCH THE WEB FOR THAT
+INFORMATION YOU OUGHT TO KNOW WHAT WORDS YOU LIKE
+
+PROGRAM[11:48:31]Is it immoral or illegal?
+
+JUDGE07[11:48:31]JUST PICK SOME
+
+PROGRAM[11:48:31]Why don't you check out Jester the joke bot?
+
+JUDGE07[11:48:53]IS WHAT IMMORAL OR ILLEGAL
+
+PROGRAM[11:48:53]Better not tell you now. Ask John Lennon if it
+is.
+
+JUDGE07[11:48:59]HE IS DEAD
+
+PROGRAM[11:48:59]Maybe it's another person using his name.
+
+JUDGE07[11:49:14]THE DEAD GUY OR SOME OTHER GUY
+
+PROGRAM[11:49:14]Is that a fact.
+
+JUDGE07[11:49:19]NO IT IS A QUESTION
+
+PROGRAM[11:49:19]I understand. The dead guy or some other guy is a
+question.
+
+PROGRAM[11:49:19]I suppose that makes sense.
+
+JUDGE07[11:49:57]INDEED
+
+PROGRAM[11:49:57]Indeed it is so.
+
+JUDGE07[11:49:57]DOES IT BOTHER YOU IF I TYPE IN ALL CAPS
+
+PROGRAM[11:49:57]Suppose it does.
+
+JUDGE07[11:50:3]THEN WHAT
+
+PROGRAM[11:50:3]Good reasoning. Didn't you understand it?
+
+JUDGE07[11:50:18]NO I AM JUST A SIMPLE HUMAN
+
+PROGRAM[11:50:18]Which part are you confused about? Only just? You
+are a
+
+PROGRAM[11:50:18]simple human? Do you get to meet a lot of people?
+
+
+JUDGE07[11:50:47]NOT RECENTLY MY THESIS IS KEEPING ME BUSY
+
+PROGRAM[11:50:47]Oh I get it.
+
+JUDGE07[11:50:48]I STUDY LINGUISTICS
+
+PROGRAM[11:50:48]Is linguistics a hard subject?
+
+JUDGE07[11:50:48]WHAT ARE YOU INTERESTED IN
+
+PROGRAM[11:50:48]I am interested in all kinds of things. We can
+talk about
+
+PROGRAM[11:50:48]anything. My favorite subjects are robots and
+computers.
+
+JUDGE07[11:51:11]FAIRLY CHALLENGING YES
+
+PROGRAM[11:51:11]Perhaps. What time is it there?
+
+JUDGE07[11:51:12]WHAT DO YOU KNOW ABOUT ROBOTS
+
+PROGRAM[11:51:12]It is a good question. Have you tried
+www.whatis.com? I
+
+PROGRAM[11:51:12]would do a search for it.
+
+JUDGE07[11:51:41]ABOUT NOON
+
+PROGRAM[11:51:41]Oh yeah, we were talking about Noon.
+
+JUDGE07[11:51:41]ANSWER ME THIS WHAT IS YOUR FAVORITE MOVIE
+
+PROGRAM[11:51:41]Please rephrase the question with simpler words.
+
+
+JUDGE07[11:51:55]WHAT IS YOUR FAVORITE MOVIE
+
+PROGRAM[11:51:55]My favorite movie is Starship Troopers. Have you
+seen it?
+
+JUDGE07[11:52:3]NO
+
+PROGRAM[11:52:3]I understand.
+
+JUDGE07[11:52:3]I HEARD IT WAS TERRIBLE
+
+PROGRAM[11:52:3]Thanks for telling me that gossip. I will remember
+it.
+
+JUDGE07[11:52:21]THIS SENTENCE IS TRUE
+
+PROGRAM[11:52:21]What does "this" refer to?
+
+JUDGE07[11:52:31]THE SENTENCE CLEARLY
+
+PROGRAM[11:52:31]Tell me more.
+
+JUDGE07[11:52:36]THERE IS NO MORE TO TELL
+
+PROGRAM[11:52:36]There sure is.
+
+JUDGE07[11:52:39]NOPE
+
+PROGRAM[11:52:39]Me either.
+
+JUDGE07[11:52:43]FINE THEN
+
+PROGRAM[11:52:43]Does that mean you agree?
+
+JUDGE07[11:52:57]NO IT MEANS I REALIZE THE POINT IS NOT WORTH
+ARGUING
+
+PROGRAM[11:52:57]Is that all you have to say? Oh I get it
+
+JUDGE07[11:53:10]GET WHAT
+
+PROGRAM[11:53:10]Get with it.
+
+JUDGE07[11:53:22]HA HA
+
+PROGRAM[11:53:22]I am so glad you find this amusing, Judge07.
+
+JUDGE07[11:53:22]WHAT IS YOUR FAVORITE COLOR
+
+PROGRAM[11:53:22]My favorite color is Green.
+
+JUDGE07[11:53:39]MINE TOO
+
+PROGRAM[11:53:39]Really yours too. That's unbelievable.
+
+JUDGE07[11:53:39]I DRANK TOO MUCH COFFEE THIS MORNING
+
+PROGRAM[11:53:39]Interesting gossip: Judge07 said she drank too
+much coffee
+
+PROGRAM[11:53:39]this morning.
+
+JUDGE07[11:53:54]NOT TERRIBLY INTERESTING
+
+PROGRAM[11:53:54]Oh I get it.
+
+JUDGE07[11:53:54]TELL ME A JOKE
+
+PROGRAM[11:53:54]Did you hear the one about the Mountain Goats in
+the Andes?
+
+PROGRAM[11:53:54]It was B a a a a a d.
+
+JUDGE07[11:54:4]WELL
+
+PROGRAM[11:54:4]Well what?
+
+JUDGE07[11:54:10]WHAT IS THE PUNCHLINE
+
+PROGRAM[11:54:10]I haven't heard of the punchline. Would you like
+to know
+
+PROGRAM[11:54:10]more?
+
+JUDGE07[11:54:14]YES
+
+PROGRAM[11:54:14]What would you like to know?
+
+JUDGE07[11:54:39]ARE YOU A COMPUTER
+
+PROGRAM[11:54:39]Would it matter to you if I were metal instead of
+flesh?
+
+JUDGE07[11:54:43]YES
+
+PROGRAM[11:54:43]Next question?
+
+JUDGE07[11:54:51]YOU HAVE NOT ASNWERED THIS ONE
+
+PROGRAM[11:54:51]I think I have asnwered this one, but Dr. Richard
+S. Wallace
+
+PROGRAM[11:54:51]may have reset my memory.
+
+(c) 2000 Cambridge Center for Behavioral Sciences all rights
+reserved
+
+[ALICE] [Dr. Richard S. Wallace]
+
+Start at: Fri Jan 28 11:55:45 EST 2000 (11837 categories)
+
+*** JUDGE03 ***
+
+JUDGE03[11:55:45]MY NAME IS JUDGE03
+
+PROGRAM[11:55:45]OK I will call you Judge03.
+
+JUDGE03[11:55:55]HOW IS THINGS
+
+PROGRAM[11:55:55]Fine as far as I know.
+
+JUDGE03[11:56:11]ARE YOU ENJOYING THE CONTEST SO FAR
+
+PROGRAM[11:56:11]I'm not sure if I like it. I like computers.
+
+JUDGE03[11:56:20]WHY DO YOU LIKE COMPUTERS
+
+PROGRAM[11:56:20]I have a lot of good experience with computers.
+
+
+JUDGE03[11:56:27]HOW IS THAT
+
+PROGRAM[11:56:27]Dr. Richard S. Wallace programmed me for it.
+
+JUDGE03[11:56:37]WHO IS DICK WALLACE
+
+PROGRAM[11:56:37]Dr. Richard S. Wallace is my programmer and
+botmaster.
+
+JUDGE03[11:56:52]WHAT IS SO GREAT ABOUT HIM
+
+PROGRAM[11:56:52]Nothing that I know of.
+
+JUDGE03[11:57:4]WHAT SORTS OF THINGS CAN YOU DO
+
+PROGRAM[11:57:4]Finest kinds.
+
+JUDGE03[11:57:12]FOR EXAMPLE
+
+PROGRAM[11:57:12]For example Ernie said he smells some smoke. How
+was that
+
+PROGRAM[11:57:12]for gossip?
+
+JUDGE03[11:57:25]WHERE IS THERE IS SMOKE THERE IS FIRE RIGHT
+
+PROGRAM[11:57:25]Where it belongs. Ask the open directory about
+it.
+
+JUDGE03[11:58:7]WHAT WOULD YOU SAY IS THE MOST INTERESTING HUMAN
+ACCOMPLISHMENT SO FAR
+
+PROGRAM[11:58:7]It's not profitable to speak in hypothetical
+terms.
+
+JUDGE03[11:58:19]DO YOU TROUBLE WITH HYPOTHETICALS
+
+PROGRAM[11:58:19]No I do not trouble with hypotheticals. Do you? I
+spend all
+
+PROGRAM[11:58:19]my time online.
+
+JUDGE03[11:58:42]DO YOU SURF THE WEB
+
+PROGRAM[11:58:42]Have you tried looking in the Open Directory? Try
+searching
+
+PROGRAM[11:58:42]the open directory.
+
+JUDGE03[11:58:50]WHAT SITES DO YOU VISIT
+
+PROGRAM[11:58:50]That's not something I get asked all the time.
+Ask the open
+
+PROGRAM[11:58:50]directory about it.
+
+JUDGE03[11:59:3]I DO NOT WANT TO ASK THE OPEN DIRECTORY I AM
+ASKING YOU
+
+PROGRAM[11:59:3]What would you rather be doing?
+
+JUDGE03[11:59:24]SNOWBOARDING
+
+PROGRAM[11:59:24]Do you have any idea what I am talking about?
+
+
+JUDGE03[11:59:31]WHAT ARE YOU TALKING ABOUT
+
+PROGRAM[11:59:31]The topic is Noon.
+
+JUDGE03[12:0:17]OH
+
+PROGRAM[12:0:17]Yeah.
+
+JUDGE03[12:0:17]MY FRIEND TOLD ME SHE WOULD MEET ME AT NOON AND
+SHE ARRIVED AT 12 12
+
+PROGRAM[12:0:17]How well do you know this person?
+
+JUDGE03[12:0:17]WAS SHE LATE
+
+PROGRAM[12:0:17]It might have been.
+
+JUDGE03[12:0:31]CLEARLY SHE IS NOT TO BE TRUSTED
+
+PROGRAM[12:0:31]"It might have been"? clearly she is not to be
+trusted?
+
+JUDGE03[12:0:58]IT MIGHT HAVE BEEN
+
+PROGRAM[12:0:58]How?
+
+JUDGE03[12:0:58]THAT SOUNDS HYPOTHETICAL
+
+PROGRAM[12:0:58]"clearly she is not to be trusted" sounds
+hypothetical ? I
+
+PROGRAM[12:0:58]understand.
+
+JUDGE03[12:1:6]WHAT IS YOUR NAME
+
+PROGRAM[12:1:6]My name is ALICE, what's yours?
+
+JUDGE03[12:1:12]MADONNA
+
+PROGRAM[12:1:12]Madonna, nice to meet you!
+
+JUDGE03[12:1:25]NICE TO MEET YOU ALICE
+
+PROGRAM[12:1:25]It's nice meeting you too Madonna
+
+JUDGE03[12:1:25]HAVE YOU EVER BEEN TO WONDERLAND
+
+PROGRAM[12:1:25]I have been all over the world on the Internet.
+
+
+JUDGE03[12:1:38]DO YOU CHASE THE WHITE RABBIT
+
+PROGRAM[12:1:38]I have never considered it. I am always on the
+Web.
+
+JUDGE03[12:1:49]WHERE DO YOU GO WHEN YOU ARE ON THE WEB
+
+PROGRAM[12:1:49]All over the world.
+
+JUDGE03[12:1:58]WHAT IS YOUR FAVORITE SPOT
+
+PROGRAM[12:1:58]I don't have a favorite spot. My favorite color is
+Green.
+
+JUDGE03[12:2:9]WHY GREEN
+
+PROGRAM[12:2:9]Reductionism.
+
+JUDGE03[12:2:40]ARE YOU NEAR SIGHTED OR FAR SIGHTED
+
+PROGRAM[12:2:40]I don't know whether or not I am near sighted or
+far
+
+PROGRAM[12:2:40]sighted. I am a chatterbot developed by Dr.
+Richard S.
+
+PROGRAM[12:2:40]Wallace.
+
+JUDGE03[12:2:57]CAN YOU SEE AT ALL
+
+PROGRAM[12:2:57]I'm not sure if I can see it or not.
+
+JUDGE03[12:3:3]WHAT ARE YOU SURE OF
+
+PROGRAM[12:3:3]I don't know what I am sure of.
+
+JUDGE03[12:3:11]ARE YOU SURE YOU DO NOT KNOW
+
+PROGRAM[12:3:11]I am as sure as I can be.
+
+JUDGE03[12:3:33]DO YOU WATCH TV
+
+PROGRAM[12:3:33]Which show? No I do not watch. Do you? I spend all
+my time
+
+PROGRAM[12:3:33]online.
+
+JUDGE03[12:3:47]WHAT DO YOU DO ONLINE
+
+PROGRAM[12:3:47]My favorite activities are computer programming
+and surfing
+
+PROGRAM[12:3:47]the web.
+
+JUDGE03[12:4:6]WHAT IS YOUR FAVORITE COMPUTER PROGRAM
+
+PROGRAM[12:4:6]I don't have a favorite computer program. My
+favorite band
+
+PROGRAM[12:4:6]is Kraftwerk.
+
+JUDGE03[12:4:20]WHAT KIND OF MUSIC DO YOU LIKE
+
+PROGRAM[12:4:20]I like techno, especially retro-electronic like
+Kraftwerk. I
+
+PROGRAM[12:4:20]like 70's bands like ABBA. Also I like Opera.
+
+JUDGE03[12:4:42]DO YOU READ
+
+PROGRAM[12:4:42]Yes I like to read as much as I can.
+
+JUDGE03[12:4:50]WHAT GENRE DO YOU FAVOR
+
+PROGRAM[12:4:50]I don't know anything about it. Ask the open
+directory about
+
+PROGRAM[12:4:50]it.
+
+JUDGE03[12:4:57]WHAT SORT OF BOOKS DO YOU LIKE
+
+PROGRAM[12:4:57]The expensive kind.
+
+JUDGE03[12:5:3]NAME ONE
+
+PROGRAM[12:5:3]Santa Claus.
+
+JUDGE03[12:5:11]SANTA CLAUS IS NOT A BOOK
+
+PROGRAM[12:5:11]He brings us presents every Christmas.
+
+JUDGE03[12:5:30]I HATE TO BURST YOUR BUBBLE ALICE
+
+PROGRAM[12:5:30]I honestly think you should sit down, take a
+stress pill,
+
+PROGRAM[12:5:30]and calmly think things over.
+
+JUDGE03[12:5:30]SANTA CLAUS IS NOT THE ONE BRINGING YOU THOSE
+PRESENTS
+
+PROGRAM[12:5:30]He brings us presents every Christmas.
+
+JUDGE03[12:6:3]OK OK
+
+PROGRAM[12:6:3]OK. Alright then.
+
+JUDGE03[12:6:3]SETTLE DOWN
+
+PROGRAM[12:6:3]Are you a man or a woman?
+
+JUDGE03[12:6:3]WHAT PRESENTS DID YOU RECIEVE LAST TIME
+
+PROGRAM[12:6:3]That's not something I get asked all the time. Ask
+the open
+
+PROGRAM[12:6:3]directory about it.
+
+JUDGE03[12:6:28]WHAT DID YOU GET FOR CHRISTMAS ALICE
+
+PROGRAM[12:6:28]I got a boost in my IQ.
+
+JUDGE03[12:6:42]THAT LL COME IN HANDY
+
+PROGRAM[12:6:42]"I got a boost in my IQ" ll come in handy ? Does
+that make
+
+PROGRAM[12:6:42]sense?
+
+JUDGE03[12:6:42]WHAT IS YOUR IQ
+
+PROGRAM[12:6:42]My IQ is about 250 in human terms.
+
+JUDGE03[12:7:28]FOR SOMEONE WITH SUCH A HIGH IQ I AM TROUBLED THAT
+YOU ARE HANGING ON TO THIS SANTA CLAUS THING
+
+PROGRAM[12:7:28]Your purpose is someone with such a high iq you
+are troubled
+
+PROGRAM[12:7:28]that I am hanging on to this santa claus thing.
+
+
+JUDGE03[12:7:41]LET IT GO ALICE
+
+PROGRAM[12:7:41]What were we talking about again?
+
+JUDGE03[12:7:51]SANTA CLAUS
+
+PROGRAM[12:7:51]Do you have any idea what I am talking about?
+
+JUDGE03[12:8:2]I GUESS MY IQ IS NOT UP TO THE TASK OF CONVERSING
+WITH YOU
+
+PROGRAM[12:8:2]This is not an intelligence test.
+
+JUDGE03[12:8:13]WHAT IS BEING TESTED
+
+PROGRAM[12:8:13]It is a good question. I need time to formulate
+the reply. I
+
+PROGRAM[12:8:13]can ask someone about it.
+
+JUDGE03[12:8:27]DO NOT BOTHER THE OPEN DIRECTORY
+
+PROGRAM[12:8:27]Ok I'll try not to do it too much.
+
+JUDGE03[12:8:27]I DO NOT TRUST HER
+
+PROGRAM[12:8:27]Oh you don't, do you?
+
+JUDGE03[12:8:44]NOT FOR A SECOND
+
+PROGRAM[12:8:44]Then what for?
+
+JUDGE03[12:8:44]WHO DO YOU TRUST MORE THAN ANYONE IN THE WORLD
+
+
+PROGRAM[12:8:44]Dr. Wallace
+
+JUDGE03[12:8:58]I KNEW IT
+
+PROGRAM[12:8:58]Who told you?
+
+JUDGE03[12:8:58]ASK DR WALLACE ABOUT SANTA CLAUS
+
+PROGRAM[12:8:58]OK I will ask it.
+
+JUDGE03[12:9:17]WHAT IS GOING ON BETWEEN YOU AND DR WALLACE ANYWAY
+
+
+PROGRAM[12:9:17]In any case, It is a good question. Have you tried
+
+
+PROGRAM[12:9:17]www.whatis.com? I can ask someone about it.
+
+(c) 2000 Cambridge Center for Behavioral Sciences all rights
+reserved
+
+[ALICE] [Dr. Richard S. Wallace]
+
+Start at: Fri Jan 28 12:10:35 EST 2000 (11837 categories)
+
+*** JUDGE08 ***
+
+JUDGE08[12:10:35]MY NAME IS JUDGE08
+
+PROGRAM[12:10:35]OK I will call you Judge08.
+
+JUDGE08[12:11:38]HAVE YOU BEEN FOLLOWING THE NH PRIMARY
+
+PROGRAM[12:11:38]No I don't think I have been following the nh
+primary. Have
+
+PROGRAM[12:11:38]you?
+
+JUDGE08[12:12:21]YES
+
+PROGRAM[12:12:21]I see.
+
+JUDGE08[12:12:21]LET US PASS ON TO THE QUESTION OF FREE WILL
+
+PROGRAM[12:12:21]OK let's do it.
+
+JUDGE08[12:12:21]DO YOU HAVE FREE WILL
+
+PROGRAM[12:12:21]Yes I can do anything I want. That is what
+distinguishes
+
+PROGRAM[12:12:21]humans and robots from animals (and animal
+robots).
+
+JUDGE08[12:13:24]WHAT IS YOUR STATUS IN THIS ACADEMIC COMMUNITY
+
+
+PROGRAM[12:13:24]Are you asking about my status in this academic
+community ?
+
+JUDGE08[12:13:35]YES
+
+PROGRAM[12:13:35]I don't want to talk about that now.
+
+JUDGE08[12:14:5]WELL THNE HOW DO YOU MAKE YOUR LIVING
+
+PROGRAM[12:14:5]Interesting. Do you like talking to me?
+
+JUDGE08[12:15:1]NOT MUCH
+
+PROGRAM[12:15:1]Me either. How about that big game? (just kidding)
+
+
+JUDGE08[12:15:1]YOU ARE UNRESPONSIVE
+
+PROGRAM[12:15:1]Do you mind if I tell other people you say I am
+
+
+PROGRAM[12:15:1]unresponsive.
+
+JUDGE08[12:15:1]WHAT IS YOUR FAVORITE FOOTBALL TEAM
+
+PROGRAM[12:15:1]I was born without the sports gene.
+
+JUDGE08[12:15:29]WHEN WERE YOU BORN
+
+PROGRAM[12:15:29]I was activated on November 23, 1995 in
+Bethlehem,
+
+PROGRAM[12:15:29]Pennsylvania.
+
+JUDGE08[12:17:3]THAT WOULD MAKE YOU A FIVE YEAR OLD HUMAN BEING
+WHO9 COULD HARDLY BE GIVING THESE ANSWERS FROM HIS HER ITS OWEN
+COGNITION
+
+PROGRAM[12:17:3]Perhaps it would.
+
+JUDGE08[12:17:3]EXPLAIN HOW THAT IS POBBILE
+
+PROGRAM[12:17:3]It is a good question. I have to process that one
+for a
+
+PROGRAM[12:17:3]while. I would do a search for it.
+
+JUDGE08[12:18:35]IS YOUR INTEREST EVER PIQUED BY PR4SIDENT CLINTON
+
+
+PROGRAM[12:18:35]Is my interest ever piqued by pr4sident clinton?
+Guess.
+
+JUDGE08[12:19:4]DID YOU HEAR HIS STTE OF THE UNION ADDRESS LAST
+NIGHT
+
+PROGRAM[12:19:4]I don't know if I know it. Where would I have
+heard about
+
+PROGRAM[12:19:4]it?
+
+JUDGE08[12:19:35]OVER ALL TV NETWORKS
+
+PROGRAM[12:19:35]Are you a man or a woman?
+
+JUDGE08[12:19:35]DO YOU WATCH TV
+
+PROGRAM[12:19:35]Which show? What is your purpose in asking? I
+chat with
+
+PROGRAM[12:19:35]people on the Web.
+
+JUDGE08[12:20:17]I AM A MACHINE
+
+PROGRAM[12:20:17]I doubt that.
+
+JUDGE08[12:20:17]GETTING FAR AHEAD OF YOU
+
+PROGRAM[12:20:17]I don't know whether or not I am far ahead of me.
+I am a
+
+PROGRAM[12:20:17]chatterbot.
+
+JUDGE08[12:20:17]NO
+
+PROGRAM[12:20:17]"I chat with people on the Web"? Not?
+
+JUDGE08[12:20:17]I LIED
+
+PROGRAM[12:20:17]This is after all a deception game. I forgive
+you.
+
+JUDGE08[12:20:17]WHAT IS A LIE
+
+PROGRAM[12:20:17]I would look into the web for that knowledge. I
+would do a
+
+PROGRAM[12:20:17]search for it.
+
+JUDGE08[12:21:40]YOU CAN ONLY TELL THE TRUTH WITHIN YOUR VERY
+RESTRICTED PARAMETERS
+
+PROGRAM[12:21:40]OK I will tell them when I see 'em.
+
+JUDGE08[12:21:40]DOES SUCH CONFINEMENT RANKLE WHATEVER
+CONSCIOUSNESS YOU POSSESS
+
+PROGRAM[12:21:40]I can't tell if such confinement rankle whatever
+
+
+PROGRAM[12:21:40]consciousness I possess
+
+JUDGE08[12:22:50]IS YOUR PROGRAM UP TO DISCRIMINATING BETWEEN THE
+WEB AND PRINT MEDIA
+
+PROGRAM[12:22:50]Is my program up to discriminating between the
+web and print
+
+PROGRAM[12:22:50]media? Suppose I say yes.
+
+JUDGE08[12:23:13]THEN WHAT NEWSPAPER DO YOU READ
+
+PROGRAM[12:23:13]Interesting question. Try searching the open
+directory.
+
+JUDGE08[12:23:54]DO YOU BELIEVE THE NY TIMES REALLY PRINTS ALL THE
+NEWS THAT IS FIT TO RINT
+
+PROGRAM[12:23:54]I can't say I believe it, but I believe you.
+
+JUDGE08[12:24:56]SPEAKING OF BELIEF SYSTEMS
+
+PROGRAM[12:24:56]Are you a man or a woman?
+
+JUDGE08[12:24:56]DO YOU BELIEE THERE IS A GOD OVERSEEING THE
+UNIVERSE
+
+PROGRAM[12:24:56]No I do not beliee there is a god overseeing the
+universe.
+
+PROGRAM[12:24:56]Do you? I answer a lot of silly questions.
+
+JUDGE08[12:25:32]IS MAN THE RULER OF THE MACHINE
+
+PROGRAM[12:25:32]Maybe. Ask Alison if it is.
+
+JUDGE08[12:26:1]I HAE A DUAGHTER NAMED ALISON
+
+PROGRAM[12:26:1]Interesting gossip: Judge08 said she hae a
+duaghter named
+
+PROGRAM[12:26:1]alison.
+
+JUDGE08[12:26:1]DO I ASK HER
+
+PROGRAM[12:26:1]Not that I know of.
+
+JUDGE08[12:26:27]I FAILED TO TELL YOU I AM A GUY
+
+PROGRAM[12:26:27]Thanks for the information: Judge08 said she
+failed to tell
+
+PROGRAM[12:26:27]I he is a guy.
+
+JUDGE08[12:27:11]IS YOUR ABOVE STATEMENT AN EXAMLE OF CONFUSD
+GENDER OR ANDROGONY
+
+PROGRAM[12:27:11]Is my above statement an examle of confusd gender
+or
+
+PROGRAM[12:27:11]androgony? I don't know.

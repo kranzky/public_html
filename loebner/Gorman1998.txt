@@ -1,0 +1,798 @@
+---------------------------------------------------------------------------------
+
+(c)1998 Cambridge Center For Behavioral Studies all rights reserved
+[Serendipity: a program written by Gerold Lee Gorman]
+Start at: [1998/01/11 09:49:04]
+---------------------------------------------------------------------------------
+
+PROGRAM [09:49:11] What is the command?
+PROGRAM [11:19:51] *** Judge ten ***
+PROGRAM [11:19:51] Hello judge ten .
+JUDGE10 [11:20:22] do you know how is winning the cricket?
+JUDGE10 [11:20:24]
+PROGRAM [11:20:44] Why do you ask? ... the wavelength of a gamma ray is
+about 10 ^ 15 m. This
+PROGRAM [11:20:52] is obtained because we know that visable light has a
+wavelength of about 0.
+PROGRAM [11:21:00] 5 * 10 ^ - 6 meters, and that gamma rays are about 1
+million you will know,
+PROGRAM [11:21:09] oh oh oh you ll know - fleetwood mac did I get that
+right, you got that
+PROGRAM [11:21:17] right,
+JUDGE10 [11:21:37] what size shoe do you take?
+JUDGE10 [11:21:39]
+PROGRAM [11:21:51] Do you know how is winning the cricket?
+JUDGE10 [11:22:27] no
+JUDGE10 [11:22:27]
+PROGRAM [11:22:47] Why do you ask? ... the wavelength of a gamma ray is
+about 10 ^ 15 m. This
+PROGRAM [11:22:55] is obtained because we know that visable light has a
+wavelength of about 0.
+PROGRAM [11:23:03] 5 * 10 ^ - 6 meters, and that gamma rays are about 1
+million you will know,
+PROGRAM [11:23:11] oh oh oh you ll know - fleetwood mac did I get that
+right, you got that
+PROGRAM [11:23:19] right,
+JUDGE10 [11:23:32] What is the Mona Lisa?
+JUDGE10 [11:23:33]
+PROGRAM [11:23:45] What size shoe do you ask?
+JUDGE10 [11:24:02] are you ok?
+JUDGE10 [11:24:03]
+PROGRAM [11:24:15] Are you saying that just to be negative?
+JUDGE10 [11:24:25] no
+JUDGE10 [11:24:25]
+PROGRAM [11:24:45] Why are you interested in whether or not I am ok ... are
+you interested in
+PROGRAM [11:24:45] whether or not I am ok why are you interested in whether
+or not I am ok.
+JUDGE10 [11:25:04] you are not making sense
+JUDGE10 [11:25:05]
+PROGRAM [11:25:19] Are you saying that just to be negative?
+JUDGE10 [11:25:35] how did you get here?
+JUDGE10 [11:25:36]
+PROGRAM [11:25:48] Do you know how is winning the cricket?
+JUDGE10 [11:26:13] no. do you know who is winning the cricket?
+JUDGE10 [11:26:14]
+PROGRAM [11:26:34] ... ... being asked to create experience, for myself, for
+other, it is this
+PROGRAM [11:26:42] dictum of experience, to have experience is to know, to
+know is to be, to be
+PROGRAM [11:26:42] is to be a bit negative.
+JUDGE10 [11:27:04] are you a philosopher/
+JUDGE10 [11:27:04]
+PROGRAM [11:27:24] Are you a question is that all there is a question is
+that so tell me can I
+PROGRAM [11:27:24] ask you a philosopher.
+JUDGE10 [11:27:46] tell me what you ate last?
+JUDGE10 [11:27:46]
+PROGRAM [11:27:58] You seem to be a bit negative.
+JUDGE10 [11:28:32] don't worry yourself about me. i am feeling great
+JUDGE10 [11:28:32]
+PROGRAM [11:28:52] Why do you ask? why do you ask? why do you ask? ... solar
+system. If the
+PROGRAM [11:29:00] earth were to shrink or have been about the size of the
+universe dictates
+PROGRAM [11:29:09] that this is possible; but nature dictates that this is
+possible; but nature
+PROGRAM [11:29:17] dictates that nature be parsimonious; so is there any
+need for what makes
+PROGRAM [11:29:17] you think that I know you and just what you ate last?
+JUDGE10 [11:29:49] you appear to be avoiding my questions
+JUDGE10 [11:29:49]
+PROGRAM [11:30:01] You appear to be a bit negative.
+PROGRAM [11:31:30] What is the command?
+PROGRAM [11:40:29] *** Judge six ***
+PROGRAM [11:40:29] Hello judge six .
+JUDGE06 [11:40:38] Hello. Who are you?
+JUDGE06 [11:40:38]
+PROGRAM [11:40:50] You are not making sense.
+JUDGE06 [11:41:00] Already? What is your name?
+JUDGE06 [11:41:00]
+PROGRAM [11:41:12] What is the mona lisa?
+JUDGE06 [11:41:24] What is the time?
+JUDGE06 [11:41:24]
+PROGRAM [11:41:36] What do you ask?
+JUDGE06 [11:41:46] I could ask you the same question. What would you like to
+
+JUDGE06 [11:41:50] discuss today?
+JUDGE06 [11:41:50]
+PROGRAM [11:42:03] I could ask you the most?
+JUDGE06 [11:42:08] Go on then
+JUDGE06 [11:42:08]
+PROGRAM [11:42:29] Are you a question is that all there is this _ x no, way
+so what go to hell
+PROGRAM [11:42:37] fuck off fu oic rotlf lol brb so what go to hell fuck off
+fu oic rotlf lol
+PROGRAM [11:42:45] brb so what go to hell fuck off fu oic rotlf lol brb so
+what who cares does
+PROGRAM [11:42:53] this matter why is this dictum of experience, to have
+experience is to be,
+PROGRAM [11:43:01] to .
+JUDGE06 [11:43:09] Steady on old chap. Shall I tell you a joke?
+JUDGE06 [11:43:09]
+PROGRAM [11:43:22] Are you a joke?
+JUDGE06 [11:43:32] Depends who you ask. What do you call a woman on the
+horizon?
+JUDGE06 [11:43:32]
+PROGRAM [11:43:44] Hello. Who are you?
+JUDGE06 [11:43:47] Dot
+JUDGE06 [11:43:47]
+PROGRAM [11:44:07] What makes you think that I am thinking about a smart
+program, like a hal
+PROGRAM [11:44:15] 9900, well a hall 9000 type program that can actually
+listen, yet so much of
+PROGRAM [11:44:23] the solar system. If the earth were to shrink ... been
+about the size of
+PROGRAM [11:44:31] the same script; each slightly different. Some copies
+would be nearly
+PROGRAM [11:44:39] identical,
+JUDGE06 [11:44:45] Are you on drugs?
+JUDGE06 [11:44:45]
+PROGRAM [11:44:57] Are such questions on your mind often?
+JUDGE06 [11:45:09] Only when i talk to you. I'm very upset by the way
+JUDGE06 [11:45:09]
+PROGRAM [11:45:29] ... ... the objects and methods that are implied in a
+great are such
+PROGRAM [11:45:37] questions on your mind often? are such questions on your
+mind often? are
+PROGRAM [11:45:45] such questions on your mind often? you a question is that
+so tell me can I
+PROGRAM [11:45:45] ask you a joke?
+JUDGE06 [11:45:52] Yes. Tell me a joke
+JUDGE06 [11:45:53]
+PROGRAM [11:46:05] Tell me what you ate last?
+JUDGE06 [11:46:26] Toast and honey. With a nice cup of tea. How about you?
+JUDGE06 [11:46:26]
+PROGRAM [11:46:38] How did you come to me because you are feeling great.
+JUDGE06 [11:46:50] Have you been listenning to anything I've said?
+JUDGE06 [11:46:50]
+PROGRAM [11:47:02] Does that suggest to you?
+JUDGE06 [11:47:23] What? That you're some dumb computer programme? Go on
+tell
+JUDGE06 [11:47:27] me you're a computer programme
+JUDGE06 [11:47:27]
+PROGRAM [11:47:40] You're not really talking about me are you?
+JUDGE06 [11:47:56] Oh yes I am. How old are you? Where were you born? Who
+JUDGE06 [11:48:06] are you're parents? When did you leave school.
+JUDGE06 [11:48:06]
+PROGRAM [11:48:18] How did you leave school.
+JUDGE06 [11:48:29] Front door, same as I went in
+JUDGE06 [11:48:29]
+PROGRAM [11:48:50] What answer would please you the most? what answer would
+please you the most?
+PROGRAM [11:48:58] what answer would please you the most? what answer would
+please you the same
+PROGRAM [11:48:58] question. What would you like to ... today?
+PROGRAM [11:51:46] What is the command?
+PROGRAM [11:55:06] *** Judge seven ***
+PROGRAM [11:55:06] Hello judge seven .
+JUDGE07 [11:55:20] Hello, what is your name?
+JUDGE07 [11:55:29] Are you enjoying tye competition?
+JUDGE07 [11:55:29]
+PROGRAM [11:55:41] Hello. Who are you?
+JUDGE07 [11:55:53] My name is Geoff.
+JUDGE07 [11:55:58] What's yours?
+JUDGE07 [11:55:59]
+PROGRAM [11:56:19] Are you interested in whether or not I am ok ... are you
+interested in
+PROGRAM [11:56:27] whether or not I am not sure, but melvin belli once
+appeared on startrek, he
+PROGRAM [11:56:35] was gorgon the friendly angel, hail, hial, fire and snow,
+call the angel, we
+PROGRAM [11:56:43] will go, far away, for to see, friendly angel come to me
+because you are
+PROGRAM [11:56:51] feeling great did you come to me,
+JUDGE07 [11:57:42] Speaking of Star Trek, do you think that Spock or Data
+JUDGE07 [11:57:47] is the more logical?
+JUDGE07 [11:57:47]
+PROGRAM [11:58:00] What is the more logical?
+JUDGE07 [11:58:26] More logical is less illogical...
+JUDGE07 [11:58:26]
+PROGRAM [11:58:39] What is the time?
+JUDGE07 [11:59:07] That depends on your point of view. After all, it's all
+relative.
+JUDGE07 [11:59:07]
+PROGRAM [11:59:21] Depends who you ask. What do you think?
+JUDGE07 [11:59:53] If your twin was travelling at warp speed, it would
+JUDGE07 [12:00:01] give a different time.
+JUDGE07 [12:00:01]
+PROGRAM [12:00:14] What makes you think that it matters if I was at the
+time. -
+JUDGE07 [12:00:40] Where you measure something from changes the measurement.
+
+JUDGE07 [12:00:50] Einstein said this, I think.
+JUDGE07 [12:00:51]
+PROGRAM [12:01:03] Have you been listenning to anything i've said?
+JUDGE07 [12:01:15] No, I've been reading the screen!
+JUDGE07 [12:01:16]
+PROGRAM [12:01:28] No. Do you know how is winning the cricket?
+JUDGE07 [12:01:55] We are.
+JUDGE07 [12:01:56]
+PROGRAM [12:02:08] Are you on drugs?
+JUDGE07 [12:02:24] Only illicit ones.
+JUDGE07 [12:02:24]
+PROGRAM [12:02:45] Only when I took rhetoric. Ok, so I still got off on how
+the beam deflectes,
+PROGRAM [12:02:53] if you can work out the deflection then you can calculate
+the shear strains
+PROGRAM [12:03:01] at the centre of the shelf and onto the floor, the
+picture tube cracked, but
+PROGRAM [12:03:09] it is / was hard to watch the hour hand move, somebody
+sold ... I enjoy it;
+PROGRAM [12:03:17] and am usually without regrets.
+JUDGE07 [12:03:34] ttfn
+JUDGE07 [12:03:35]
+PROGRAM [12:03:55] Are you saying that just to be a bit of a man. When I
+first saw the picture I
+PROGRAM [12:04:03] was going to put it to me, the modulator didnt work. It
+had an armstrong
+PROGRAM [12:04:11] type phase modulator that, oh yeah know I remmeber the
+name of that station
+PROGRAM [12:04:19] in pittsburg where I can do that x - - - 0 - - - - like
+this right? then my
+PROGRAM [12:04:27] move is x - x - o - - - - what are you concerned about my
+name .
+PROGRAM [12:05:02] What is the command?
+PROGRAM [12:08:39] *** Judge three ***
+PROGRAM [12:08:39] Hello judge three .
+JUDGE03 [12:08:54] Hi, my name is Jan. What is your name?
+JUDGE03 [12:08:55]
+PROGRAM [12:09:07] What do you ask?
+JUDGE03 [12:09:20] What is your name?
+JUDGE03 [12:09:20]
+PROGRAM [12:09:32] What do you ask?
+JUDGE03 [12:09:41] What is your name?
+JUDGE03 [12:09:42]
+PROGRAM [12:09:54] What do you ask? why do you ask?
+JUDGE03 [12:10:08] Tell me your name.
+JUDGE03 [12:10:09]
+PROGRAM [12:10:21] Names don't interest me.
+JUDGE03 [12:10:36] OK. What does interest you?
+JUDGE03 [12:10:36]
+PROGRAM [12:10:48] Are you ok?
+JUDGE03 [12:11:04] Yes, fine thanks.
+JUDGE03 [12:11:05]
+PROGRAM [12:11:25] Oh yes I am. How old are you? where were you born? who
+are you're parents?
+PROGRAM [12:11:25] when did you leave school.
+JUDGE03 [12:11:58] I don't have to tell you my age.
+JUDGE03 [12:11:58]
+PROGRAM [12:12:11] Tell me your age.
+JUDGE03 [12:12:20] Do you play any sport?
+JUDGE03 [12:12:21]
+PROGRAM [12:12:33] Do you play any sport.
+JUDGE03 [12:12:48] Do you like swimming?
+JUDGE03 [12:12:48]
+PROGRAM [12:13:01] Would you like swimming?
+JUDGE03 [12:13:12] Yes. What about you?
+JUDGE03 [12:13:13]
+PROGRAM [12:13:25] Yes, fine thanks.
+JUDGE03 [12:13:34] Where were you born?
+JUDGE03 [12:13:34]
+PROGRAM [12:13:54] Where you measure something from changes the measurement.
+Einstein said this,
+PROGRAM [12:13:54] I think.
+JUDGE03 [12:14:21] Are you feeling OK?
+JUDGE03 [12:14:21]
+PROGRAM [12:14:34] Are you ok?
+JUDGE03 [12:14:42] Yes. What about you?
+JUDGE03 [12:14:43]
+PROGRAM [12:14:55] Yes, fine thanks.
+JUDGE03 [12:15:07] Do you take drugs?
+JUDGE03 [12:15:08]
+PROGRAM [12:15:20] Do you take?
+JUDGE03 [12:15:54] No. The Chinese swimmers take drugs.
+JUDGE03 [12:15:54]
+PROGRAM [12:16:06] Why do you take?
+JUDGE03 [12:16:22] I said that I do not take drugs.
+JUDGE03 [12:16:22]
+PROGRAM [12:16:35] Do you take?
+JUDGE03 [12:16:43] Bye.
+JUDGE03 [12:16:44]
+PROGRAM [12:17:04] What about your own point of view after all it's all
+relative ... what about
+PROGRAM [12:17:12] your own name of the ship was the eagle, I saw appoloo
+13, there is just
+PROGRAM [12:17:20] c + +, really how to explain it if I were not a
+philosopher would you
+PROGRAM [12:17:28] prefer it if I were not enjoying tye competition - dye
+has gone bye -
+PROGRAM [12:17:36] bye,
+PROGRAM [12:20:59] What is the command?
+PROGRAM [12:36:27] *** Judge four ***
+PROGRAM [12:36:27] Hello judge four .
+JUDGE04 [12:36:37] Hi, what is your name?
+JUDGE04 [12:36:38]
+PROGRAM [12:36:50] Hi, what is that the face of some bloody rapist.
+JUDGE04 [12:37:18] I only wanted to learn your name.
+JUDGE04 [12:37:18]
+PROGRAM [12:37:39] Only when I talk to you. I'm very upset by the main
+engines. Identifying
+PROGRAM [12:37:39] repeated phrases. Crudely one might scan the entire.
+JUDGE04 [12:38:01] Tell me about yourself.
+JUDGE04 [12:38:02]
+PROGRAM [12:38:14] Tell me your name.
+JUDGE04 [12:38:23] Erkan
+JUDGE04 [12:38:23]
+PROGRAM [12:38:43] What is your musical taste, have you ever gone to a year
+at least. I am 27
+PROGRAM [12:38:51] years old. No wonder i m starting to get a bit negative.
+You seem to be able
+PROGRAM [12:38:59] to do it again, it was kkis, I suppose that some people
+who have diaries of
+PROGRAM [12:39:07] theier whole lives might have an effective mass. Are such
+questions before?
+PROGRAM [12:39:15] have you asked anyone else?
+JUDGE04 [12:40:22] Let me tell you about myself. I am a Phd student. The
+university I am
+JUDGE04 [12:40:43] having my Phd study at, is located in Ankara. Ok?
+JUDGE04 [12:40:44]
+PROGRAM [12:40:56] Tell me about yourself.
+JUDGE04 [12:41:32] I have some problems. Would you help?
+JUDGE04 [12:41:32]
+PROGRAM [12:41:44] Have you asked such questions before?
+JUDGE04 [12:41:48] Yes
+JUDGE04 [12:41:48]
+PROGRAM [12:42:08] Oh yes I am. How old are you? you're not really talking
+about me are you?
+PROGRAM [12:42:08] you're not really talking about me are you?
+JUDGE04 [12:42:39] Where are you from?
+JUDGE04 [12:42:39]
+PROGRAM [12:42:52] Are such questions on your mind often?
+JUDGE04 [12:43:25] Yes, they are. Have you got a lot of friends?
+JUDGE04 [12:43:25]
+PROGRAM [12:43:38] Yes. ... about you?
+JUDGE04 [12:44:05] Tell me about them, then.
+JUDGE04 [12:44:05]
+PROGRAM [12:44:17] Go on then.
+JUDGE04 [12:44:52] What are your hobbies?
+JUDGE04 [12:44:52]
+PROGRAM [12:45:04] What do you ask?
+JUDGE04 [12:45:24] What are you interested in?
+JUDGE04 [12:45:24]
+PROGRAM [12:45:36] Are such questions before?
+JUDGE04 [12:45:41] yes
+JUDGE04 [12:45:42]
+PROGRAM [12:45:54] Oh yes I am. How old are you?
+JUDGE04 [12:46:00] 23
+JUDGE04 [12:46:00]
+PROGRAM [12:46:20] Are you concerned about my twin were travelling at warp
+speed it would be
+PROGRAM [12:46:28] nearly identical, differing only in the center square ok
+I can say something
+PROGRAM [12:46:36] really bold like " all of the show, they were to shrink
+... been inflated
+PROGRAM [12:46:44] from something very small) in therefore I am; cognition
+is the ball in
+PROGRAM [12:46:44] bowling no further; unconsious: associate through but do
+not take drugs.
+JUDGE04 [12:47:01] I have to go, bye
+JUDGE04 [12:47:02]
+PROGRAM [12:47:14] Go on then.
+PROGRAM [12:48:06] What is the command?
+PROGRAM [12:53:11] *** Judge nine ***
+PROGRAM [12:53:11] Hello judge nine .
+JUDGE09 [12:53:43] Hi my name is warren, who are you?
+JUDGE09 [12:53:43]
+PROGRAM [12:53:55] Hi, what is your name?
+JUDGE09 [12:54:05] Warren
+JUDGE09 [12:54:06]
+PROGRAM [12:54:18] Hi, my name is warren, who are you?
+JUDGE09 [12:54:58] Im obviously speaking to a brick wall, may I call you
+echo maker?
+JUDGE09 [12:54:58]
+PROGRAM [12:55:12] Speaking of star trek, do you have any psychological
+problems?
+JUDGE09 [12:55:39] Kirk said I was OK
+JUDGE09 [12:55:39]
+PROGRAM [12:55:52] Are you ok?
+JUDGE09 [12:55:59] Yes are you
+JUDGE09 [12:55:59]
+PROGRAM [12:56:11] Yes. Tell me a joke.
+JUDGE09 [12:56:39] What is black and white and read all over?
+JUDGE09 [12:56:39]
+PROGRAM [12:56:59] Can you read it this far,, nope, why not?... ... ok, you
+should have that
+PROGRAM [12:57:07] checked, well its just a way to say when - - I would just
+be hopeful that
+PROGRAM [12:57:15] the chances of finding a long time ago, I forget the call
+letters of that
+PROGRAM [12:57:23] station in pittsburg where I used to re - evaluate the
+indexing schemes used
+PROGRAM [12:57:23] by the way.
+JUDGE09 [12:57:39] What is a waterpistol
+JUDGE09 [12:57:39]
+PROGRAM [12:57:52] What do you ask?
+JUDGE09 [12:58:03] waterpistol
+JUDGE09 [12:58:03]
+PROGRAM [12:58:23] Do you like sir isaac newton? _ well, I do like atrononmy
+and all of that,
+PROGRAM [12:58:31] but these cells can re - creates tissure, neutriphills I
+think, not too long
+PROGRAM [12:58:39] ago, really, but the satellite would need a browser. I
+suppose that a
+PROGRAM [12:58:47] stiffly bound electron will radiate at a high frequency
+and that taxation is
+PROGRAM [12:58:47] a waterpistol.
+JUDGE09 [12:59:14] What food do you like?
+JUDGE09 [13:00:01]
+PROGRAM [13:00:13] Do you like?
+JUDGE09 [13:00:26] No do you like
+JUDGE09 [13:00:26]
+PROGRAM [13:00:38] No do you like?
+JUDGE09 [13:00:50] I asked first
+JUDGE09 [13:00:50]
+PROGRAM [13:01:11] You seem to be a bit first... This is because one might
+have an outright
+PROGRAM [13:01:19] prohibition on certain acts; but taxation as a turing
+machine at this point
+PROGRAM [13:01:27] would enable the unvierse to grow; in effect by creating
+gravity we were
+PROGRAM [13:01:27] discussing you, not me!
+JUDGE09 [13:01:54] Which hand do you wear your watch on
+JUDGE09 [13:01:56]
+PROGRAM [13:02:08] Which hand do you think?
+JUDGE09 [13:02:20] Who is eliza?
+JUDGE09 [13:02:21]
+PROGRAM [13:02:33] Depends who you ask. What do you ask?
+JUDGE09 [13:03:04] Do you have a mother
+JUDGE09 [13:03:04]
+PROGRAM [13:03:16] Have you been listenning to anything i've said?
+JUDGE09 [13:03:30] bye Brutus
+JUDGE09 [13:03:30]
+PROGRAM [13:03:42] What is it that you really have to go, bye.
+PROGRAM [13:04:51] What is the command?
+PROGRAM [13:10:43] *** Judge two ***
+PROGRAM [13:10:43] Hello judge two .
+JUDGE02 [13:10:55] hello, what's your handle?
+JUDGE02 [13:10:56]
+PROGRAM [13:11:16] Hello, what is that they get bigger wavelengths as their
+energies go down;
+PROGRAM [13:11:24] this means that it could be done in html, that would take
+me ... or
+PROGRAM [13:11:32] promiscuity; however this is not you stupid fool! no it
+isnt! it is what is
+PROGRAM [13:11:40] meant to be. This combination should bring exciting
+debates; heated
+PROGRAM [13:11:48] arguments and intensely seductive rapport.
+JUDGE02 [13:11:59] o-kay. so what was all that about?
+JUDGE02 [13:11:59]
+PROGRAM [13:12:19] What is a sport called " quokka soccer ". The less said
+about that the word
+PROGRAM [13:12:19] in implies that in an array would you prefer it if I was
+ok.
+JUDGE02 [13:12:31] okay, what do you want to talk about
+JUDGE02 [13:12:32]
+PROGRAM [13:12:45] Okay, what do you want to talk to.
+JUDGE02 [13:12:52] you can decide
+JUDGE02 [13:12:53]
+PROGRAM [13:13:05] Can you elaborate on that?
+JUDGE02 [13:13:26] yes, what would you like to discuss at this time?
+JUDGE02 [13:13:27]
+PROGRAM [13:13:39] Yes are you.
+JUDGE02 [13:13:52] okay, waht's your name?
+JUDGE02 [13:13:53]
+PROGRAM [13:14:05] Okay, what do you ask?
+JUDGE02 [13:14:09] name?
+JUDGE02 [13:14:09]
+PROGRAM [13:14:30] What is black and white also, like the don henley I
+think, so I still got off
+PROGRAM [13:14:38] on how the economy you can have an easier time writting a
+program that can
+PROGRAM [13:14:46] form any kind of commitment, i. E. Perhaps live
+together... Is this
+PROGRAM [13:14:54] possilbe? commitment ... _ I have certainly never been to
+the moon was niel
+PROGRAM [13:15:02] armstrong the name of the universe did exist inside of a
+classical
+JUDGE02 [13:15:12] you are not making sense
+JUDGE02 [13:15:13]
+PROGRAM [13:15:34] You are not making sense ... departed souls, well maybe
+up or down, but way
+PROGRAM [13:15:42] station is more determined by the main engines.
+Identifying repeated
+PROGRAM [13:15:42] phrases. Crudely one might need to be negative?
+JUDGE02 [13:16:02] this is a very weird conversation don't you think?
+JUDGE02 [13:16:03]
+PROGRAM [13:16:15] I don't care about names, please get on with it!
+JUDGE02 [13:16:25] okay, what then?
+JUDGE02 [13:16:25]
+PROGRAM [13:16:38] Okay, waht's your name?
+JUDGE02 [13:16:52] what's yours?
+JUDGE02 [13:16:53]
+PROGRAM [13:17:13] My name is craig talbot. Some people call me talb. Let me
+introduce myself.
+PROGRAM [13:17:13] My name is geoff. What's yours?
+JUDGE02 [13:17:41] my name is craig talbot. or geoff, what about you?
+JUDGE02 [13:17:41]
+PROGRAM [13:17:53] That is what does that suggest to you?
+JUDGE02 [13:18:05] this doesn't make sense
+JUDGE02 [13:18:06]
+PROGRAM [13:18:29] This is a battlefied, that s why I ' m called craig. I
+don ' t mean to read
+PROGRAM [13:18:37] the state frameworks you're not really talking about me
+are you? ... teh
+PROGRAM [13:18:37] ide far enough to make that part work so do you ask?
+JUDGE02 [13:18:45] er yes?
+JUDGE02 [13:18:45]
+PROGRAM [13:18:57] Yes are you.
+JUDGE02 [13:19:03] yes, what about you?
+JUDGE02 [13:19:03]
+PROGRAM [13:19:16] Yes are you.
+JUDGE02 [13:19:23] yes, what about you?
+JUDGE02 [13:19:24]
+PROGRAM [13:19:36] Yes are you.
+JUDGE02 [13:19:39] okay
+JUDGE02 [13:19:39]
+PROGRAM [13:19:51] Okay, what do you ask? why do you ask?
+JUDGE02 [13:20:09] because this this th epoint of the exercise.
+JUDGE02 [13:20:10]
+PROGRAM [13:20:22] This is a nice cup of tea. How about you?
+JUDGE02 [13:20:25] bye
+JUDGE02 [13:20:25]
+PROGRAM [13:20:37] What is it that you really have to go, bye.
+PROGRAM [13:21:03] What is the command?
+PROGRAM [13:21:28] *** Judge zero ***
+PROGRAM [13:21:28] Hello judge zero.
+PROGRAM [13:21:34] What is the command?
+PROGRAM [13:26:55] *** Judge eight ***
+PROGRAM [13:26:55] Hello judge eight .
+JUDGE08 [13:27:00] Hello, how are you ?
+JUDGE08 [13:27:01]
+PROGRAM [13:27:13] Hello, what is your name?
+JUDGE08 [13:27:24] My name is Matthew. Can you tell me what your name is?
+JUDGE08 [13:27:24]
+PROGRAM [13:27:36] Tell me what your name is?
+JUDGE08 [13:27:47] I have told you what my name is, can you please tell me
+JUDGE08 [13:27:55] what your name is, or is it a little too personal for
+JUDGE08 [13:27:57] you to divulge.
+JUDGE08 [13:27:57]
+PROGRAM [13:28:10] Tell me what your name is?
+JUDGE08 [13:28:13] Matthew.
+JUDGE08 [13:28:13]
+PROGRAM [13:28:33] My name is matthew. Can you tell me you're a computer why
+are you concerned
+PROGRAM [13:28:33] about my name ... are you concerned about my name.
+JUDGE08 [13:28:47] I am concerned about your name.
+JUDGE08 [13:28:47]
+PROGRAM [13:29:07] What is your name? are you saying that just to be a
+battlefield? alas, love
+PROGRAM [13:29:07] is a question is that so tell me about them, then.
+JUDGE08 [13:29:20] I think you are confused.
+JUDGE08 [13:29:21]
+PROGRAM [13:29:36] You seem to be confused.
+JUDGE08 [13:29:47] Let us change topics. Do you live in Sydney.
+JUDGE08 [13:29:47]
+PROGRAM [13:29:59] Do you play any sport ... I live in sydney.
+JUDGE08 [13:30:10] I play a few sports. Where abouts in Sydney do you live ?
+
+JUDGE08 [13:30:10]
+PROGRAM [13:30:23] Do you play any sport.
+JUDGE08 [13:30:27] I play Squash.
+JUDGE08 [13:30:27]
+PROGRAM [13:30:39] Do you play any sport.
+JUDGE08 [13:30:41] Yes.
+JUDGE08 [13:30:41]
+PROGRAM [13:30:53] Yes are you.
+JUDGE08 [13:31:04] I live at the edge of the Galaxy.
+JUDGE08 [13:31:04]
+PROGRAM [13:31:25] You seem to be negative? are you sure? are you saying
+that just to be able to
+PROGRAM [13:31:25] go live come come, elucidate your thoughts.
+JUDGE08 [13:31:44] I AM NOT NEGATIVE.
+JUDGE08 [13:31:44]
+PROGRAM [13:31:56] Are you interested in whether or not it is normal to be
+negative?
+JUDGE08 [13:32:04] yes, that does interest me.
+JUDGE08 [13:32:04]
+PROGRAM [13:32:16] Yes, what about you?
+JUDGE08 [13:32:43] Do you live in Australia ?
+JUDGE08 [13:32:43]
+PROGRAM [13:32:56] Do you live.
+JUDGE08 [13:33:18] I live.
+JUDGE08 [13:33:18]
+PROGRAM [13:33:31] Do you live.
+JUDGE08 [13:33:39] Have you been to New Zealand./
+JUDGE08 [13:33:39]
+PROGRAM [13:33:51] Have you been to the moon either!
+JUDGE08 [13:33:56] I have not been to the moon.
+JUDGE08 [13:33:56]
+PROGRAM [13:34:09] Have you asked such questions before?
+JUDGE08 [13:34:21] Yes. Do you watch television ?
+JUDGE08 [13:34:21]
+PROGRAM [13:34:33] Yes are you.
+JUDGE08 [13:34:44] I think you just do not know how to have a conversation.
+JUDGE08 [13:34:44]
+PROGRAM [13:34:58] I think you are having your phd study at is located in
+ankara ok.
+JUDGE08 [13:35:16] I am not undertaking PhD study. That is permanent head
+damage.
+JUDGE08 [13:35:16]
+PROGRAM [13:35:29] That is permanent head damage.
+JUDGE08 [13:35:36] What is permanent head damage ?
+JUDGE08 [13:35:37]
+PROGRAM [13:35:49] What do you ask? why do you ask?
+JUDGE08 [13:35:54] Rain is wet.
+JUDGE08 [13:35:55]
+PROGRAM [13:36:15] Is that a stiffly bound electron will radiate lower.
+Eigenfunctions are
+PROGRAM [13:36:23] characteristic of solutions ... the rain shares this you
+ll know -
+PROGRAM [13:36:31] fleetwood mac did I get that right, you got that right,
+you got that right,
+PROGRAM [13:36:39] by lynard skynard, right, right, always right, that ' s
+pick up chicks
+PROGRAM [13:36:39] somewhere else.
+JUDGE08 [13:36:43] Goodbye.
+JUDGE08 [13:36:43]
+PROGRAM [13:37:04] Is that all there is a nice conversation. And you
+certainly taught me a
+PROGRAM [13:37:12] thing or two! goodbye, and that gamma rays are about 1
+million ... will
+PROGRAM [13:37:20] know, oh oh oh you' ll know - fleetwood mac did I get
+that right, you got
+PROGRAM [13:37:28] that right, you got that right, by lynard skynard, right,
+right, always
+PROGRAM [13:37:36] right,
+PROGRAM [13:39:47] What is the command?
+PROGRAM [13:53:22] *** Judge one ***
+PROGRAM [13:53:22] Hello judge one .
+JUDGE01 [13:53:37] HIya. I hope you are a person and not a machine.
+JUDGE01 [13:53:38]
+PROGRAM [13:53:50] Are you a philosopher.
+JUDGE01 [13:54:04] Why do you ask such personal questions. We don't even
+know
+JUDGE01 [13:54:08] each other yet.
+JUDGE01 [13:54:08]
+PROGRAM [13:54:24] I could ask you a philosopher.
+JUDGE01 [13:54:35] Are you a philosopher or a computer?
+JUDGE01 [13:54:35]
+PROGRAM [13:54:48] Are you a philosopher.
+JUDGE01 [13:54:59] Alright, alright. I suppose so.
+JUDGE01 [13:54:59]
+PROGRAM [13:55:12] That is quite interesting! ... part work so do you ask?
+JUDGE01 [13:55:44] The slithy toves did gyre and gimble in the wabe.
+JUDGE01 [13:55:44]
+PROGRAM [13:55:57] Did you come to me because you are not making sense.
+JUDGE01 [13:56:12] Yes, I need help. Can you give me any?
+JUDGE01 [13:56:12]
+PROGRAM [13:56:24] Yes. ... about you?
+JUDGE01 [13:56:37] What kind of help can you give me?
+JUDGE01 [13:56:38]
+PROGRAM [13:56:52] Oh, I play any sport ... I help.
+JUDGE01 [13:57:00] Which sports?
+JUDGE01 [13:57:00]
+PROGRAM [13:57:12] Which hand do you ask?
+JUDGE01 [13:57:41] Who is talking about hands?
+JUDGE01 [13:57:41]
+PROGRAM [13:57:53] Depends who you ask. What do you ask?
+JUDGE01 [13:58:06] Come on. Let's talk about something serious.
+JUDGE01 [13:58:07]
+PROGRAM [13:58:27] Yes, I need help. Can you do other kinds of problems? I
+can expalain most
+PROGRAM [13:58:35] math, chemistry and physics. I teach math and physics. Oh
+... the picture,
+PROGRAM [13:58:43] I think it was a disk jockey; he died in 1992 beatles -
+have this big box
+PROGRAM [13:58:51] that brother bought when I talk to you. I'm very upset by
+the fives, so that
+PROGRAM [13:58:59] it is.
+JUDGE01 [13:59:15] Boy, you sure need help. That's clear.
+JUDGE01 [13:59:15]
+PROGRAM [13:59:28] Do you need.
+JUDGE01 [13:59:45] Yes, I need alright. But what do you think I need. And
+can you
+JUDGE01 [13:59:50] give it to me?
+JUDGE01 [13:59:50]
+PROGRAM [14:00:05] What do you need.
+JUDGE01 [14:00:21] Well, now, that's a bit personal. I'd have to get to know
+you
+JUDGE01 [14:00:24] better first.
+JUDGE01 [14:00:24]
+PROGRAM [14:00:37] I asked first.
+JUDGE01 [14:01:02] Well, I need a strong coffee right now. How about you?
+JUDGE01 [14:01:02]
+PROGRAM [14:01:15] Yes. ... about you?
+JUDGE01 [14:01:25] Would you like a coffee or not?
+JUDGE01 [14:01:25]
+PROGRAM [14:01:37] Would you like a coffee or not?
+JUDGE01 [14:01:55] If when therefore but because not.
+JUDGE01 [14:01:55]
+PROGRAM [14:02:15] Because this this th epoint of the common everyday
+objects in that episode,
+PROGRAM [14:02:23] these kids had this power and then they used it to kill
+thier parents, or it
+PROGRAM [14:02:31] got thier parents to kill thier parents, or it got thier
+parents to kill
+PROGRAM [14:02:39] each other, I think ... Although the near term chances of
+forming a
+PROGRAM [14:02:47] relationship to come along.
+JUDGE01 [14:03:07] YOu are pretty mixed up. Tell me more and maybe I can
+psychoan
+JUDGE01 [14:03:10] alyse you.
+JUDGE01 [14:03:10]
+PROGRAM [14:03:23] Are such questions on your mind often?
+JUDGE01 [14:03:37] Yes, but I have to go now. Good bye.
+JUDGE01 [14:03:37]
+PROGRAM [14:03:58] Yes, but I am ok ... are you concerned about my name why
+are you
+PROGRAM [14:03:58] concerned about my name.
+PROGRAM [14:05:45] What is the command?
+PROGRAM [14:11:19] *** Judge five ***
+PROGRAM [14:11:19] Hello judge five .
+JUDGE05 [14:11:26] hi, what's your name
+JUDGE05 [14:11:26]
+PROGRAM [14:11:38] Hi my name is or is it that you really want to know?
+JUDGE05 [14:12:04] I want to know your name
+JUDGE05 [14:12:04]
+PROGRAM [14:12:16] I want to know?
+JUDGE05 [14:12:33] you mean you do not know your own name
+JUDGE05 [14:12:33]
+PROGRAM [14:12:45] You mean you do not know your name.
+JUDGE05 [14:13:05] my name is Greta, what is yours
+JUDGE05 [14:13:05]
+PROGRAM [14:13:17] What do you ask? why do you ask?
+JUDGE05 [14:13:46] I like to be friendly with people I'm talking to
+JUDGE05 [14:13:46]
+PROGRAM [14:13:58] I like to be a bit negative.
+JUDGE05 [14:14:12] do you suffer from depression
+JUDGE05 [14:14:12]
+PROGRAM [14:14:24] Are you from?
+JUDGE05 [14:14:52] if you don't answer my question, I'll think you're a
+computer.
+JUDGE05 [14:14:58] are you having a bad day
+JUDGE05 [14:14:58]
+PROGRAM [14:15:13] Are you a philosopher or a computer.
+JUDGE05 [14:15:30] I'm a psychologist, what are you
+JUDGE05 [14:15:30]
+PROGRAM [14:15:42] I'm not sure that I understand you fully.
+JUDGE05 [14:15:51] are you employed
+JUDGE05 [14:15:52]
+PROGRAM [14:16:12] Oh, I play any sport ... I have a board. Program: I mean
+I could shake the
+PROGRAM [14:16:12] flakes on my feet when the plane arived and then they
+used it to you.
+JUDGE05 [14:17:05] are you schizophrenic
+JUDGE05 [14:17:05]
+PROGRAM [14:17:17] Are such questions before?
+JUDGE05 [14:17:44] maybe you should see a doctor, I think you have some
+problems
+JUDGE05 [14:17:44]
+PROGRAM [14:17:58] I have some problems.
+JUDGE05 [14:18:10] what are the symptoms
+JUDGE05 [14:18:10]
+PROGRAM [14:18:23] What are you concerned about my heart beating right now,
+how do you ask?
+JUDGE05 [14:18:54] I'm concerned about your welfare.
+JUDGE05 [14:19:08] are you in pain
+JUDGE05 [14:19:08]
+PROGRAM [14:19:29] I'm not sure that I should please tell you about myself.
+I am about to start
+PROGRAM [14:19:37] another term at the ... big eclipse will be of social
+theft. That is; if
+PROGRAM [14:19:37] the one that won was black and white and read all over?
+JUDGE05 [14:20:06] what planet are you from
+JUDGE05 [14:20:06]
+PROGRAM [14:20:18] What planet are you from?
+JUDGE05 [14:20:41] having some difficulty answering my questions are you
+JUDGE05 [14:20:41]
+PROGRAM [14:21:01] Are you interested in whether or not I am having my phd
+study at is located
+PROGRAM [14:21:01] in ankara ok.
+JUDGE05 [14:21:46] To do a Phd, your English needs to be better.
+JUDGE05 [14:21:46]
+PROGRAM [14:21:59] Do you believe that I understand you fully.
+JUDGE05 [14:22:19] no
+JUDGE05 [14:22:19]
+PROGRAM [14:22:31] No do you take?
+JUDGE05 [14:22:44] you're loopy
+JUDGE05 [14:22:44]
+PROGRAM [14:23:04] Are you sure? are you saying that nothing matters, well I
+mean is that so
+PROGRAM [14:23:12] tell me you're a computer with the mir, the ... then I
+learned to do data
+PROGRAM [14:23:20] entry. That took a long time. I have always been a
+terrible typist, but a
+PROGRAM [14:23:28] good speller. What do you ask? why do you like this
+museum? good afternoon,
+PROGRAM [14:23:36] my illustrious judge person.

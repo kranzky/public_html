@@ -1,0 +1,10 @@
+digraph thread_6 {
+thread [label="Botson",URL="Index.html?perform=ClassSubView&sub_class=2",shape=diamond];
+thread -> enter;
+enter [label="HAL's age",URL="Index.html?perform=ScriptSubView&sub_script=6",shape=box];
+rule_15[label="Hal’s conversations were presented to...",color=blue,URL="Index.html?perform=RuleSubView&sub_rule=15"];
+enter -> rule_15 [label="How can you tell how old is HALone?"];
+rule_15 -> rule_16 [label="(default)"];
+rule_16[label="HALone passed the “Infant Turing Test...",color=yellow,style=filled,URL="Index.html?perform=RuleSubView&sub_rule=16"];
+rule_17[label="(silence)",color=green,URL="Index.html?perform=RuleSubView&sub_rule=17"];
+}

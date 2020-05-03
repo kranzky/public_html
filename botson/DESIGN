@@ -1,0 +1,99 @@
+USE BotsonTool\g
+DROP TABLE Session\g
+CREATE TABLE Session (
+	Session CHAR(19) NOT NULL,
+	UNIQUE INDEX (Session),
+	AuthorID INT,
+	Modified TIMESTAMP,
+	Created TIMESTAMP
+)\g
+DROP TABLE Author\g
+CREATE TABLE Author (
+	ID SMALLINT UNSIGNED NOT NULL AUTO_INCREMENT,
+	PRIMARY KEY (ID),
+	UNIQUE INDEX (ID),
+	Name CHAR(32) NOT NULL,
+	UNIQUE INDEX (Name),
+	Type ENUM ( 'Author','Admin' ),
+	Email CHAR(32),
+	Phone CHAR(16),
+	Password CHAR(16),
+	Description BLOB,
+	CreateID INT,
+	LockedID	INT,
+	ChangeID INT,
+	Modified TIMESTAMP,
+	Created TIMESTAMP
+)\g
+INSERT INTO Author (Name,Password,Type,CreateID,Created) VALUES ("Jason Hutchens","mahwagp3",'Admin',0,NOW())\g
+DROP TABLE Class\g
+INSERT INTO Author (Name,Password,Type,CreateID,Created) VALUES ("Hugh Testalopolous","test",'Author',1,NOW())\g
+DROP TABLE Class\g
+CREATE TABLE Class (
+	ID SMALLINT UNSIGNED NOT NULL AUTO_INCREMENT,
+	PRIMARY KEY (ID),
+	UNIQUE INDEX (ID),
+	ParentID INT,
+	Label CHAR(32) NOT NULL,
+	Description BLOB,
+	CreateID INT,
+	LockedID	INT,
+	ChangeID INT,
+	Modified TIMESTAMP,
+	Created TIMESTAMP
+)\g
+INSERT INTO Class (ParentID,Label,Description,CreateID,Created) VALUES (0,"Top Level","This is the top level of Botson's brain.",1,NOW())\g
+DROP TABLE Script\g
+CREATE TABLE Script (
+	ID SMALLINT UNSIGNED NOT NULL AUTO_INCREMENT,
+	PRIMARY KEY (ID),
+	UNIQUE INDEX (ID),
+	ParentID INT,
+	Label CHAR(32) NOT NULL,
+	Description BLOB,
+	CreateID INT,
+	LockedID	INT,
+	ChangeID INT,
+	Modified TIMESTAMP,
+	Created TIMESTAMP
+)\g
+DROP TABLE Rule\g
+CREATE TABLE Rule (
+	ID SMALLINT UNSIGNED NOT NULL AUTO_INCREMENT,
+	PRIMARY KEY (ID),
+	UNIQUE INDEX (ID),
+	Label CHAR(32) NOT NULL,
+	Description BLOB,
+	Type ENUM ( 'Body','Entry','Fail','Goal' ),
+	ParentID INT,
+	CreateID INT,
+	LockedID	INT,
+	ChangeID INT,
+	Modified TIMESTAMP,
+	Created TIMESTAMP
+)\g
+DROP TABLE RuleEntry\g
+CREATE TABLE RuleEntry (
+	ID SMALLINT UNSIGNED NOT NULL AUTO_INCREMENT,
+	PRIMARY KEY (ID),
+	UNIQUE INDEX (ID),
+	RuleID INT,
+	Pattern BLOB
+)\g
+DROP TABLE RuleResponse\g
+CREATE TABLE RuleResponse (
+	ID SMALLINT UNSIGNED NOT NULL AUTO_INCREMENT,
+	PRIMARY KEY (ID),
+	UNIQUE INDEX (ID),
+	RuleID INT,
+	Response BLOB
+)\g
+DROP TABLE RuleNext\g
+CREATE TABLE RuleNext (
+	ID SMALLINT UNSIGNED NOT NULL AUTO_INCREMENT,
+	PRIMARY KEY (ID),
+	UNIQUE INDEX (ID),
+	RuleID INT NOT NULL,
+	NextID INT NOT NULL,
+	UNIQUE INDEX (RuleID,NextID)
+)\g

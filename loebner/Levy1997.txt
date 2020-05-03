@@ -1,0 +1,373 @@
+(c)1997 Cambridge Center For Behavioral Studies all rights reserved [CONVERSE] 
+[Intelligent Research Ltd.] Start at: [1997/04/29 08:59:40]
+@@05 
+*** Judge 05 ***
+PROGRAM[10:07:12]Hi, my name is Catherine, what's yours?
+PROGRAM[10:07:23].
+JUDGE05[10:07:29]I'm Jurgen.
+PROGRAM[10:07:31]Well, it's nice to meet you, Jurgen.
+PROGRAM[10:07:40]Did you see that story on CNN last night about the lesbian
+PROGRAM[10:07:52]couple who came out at a White House party on Sunday?
+JUDGE05[10:08:33]NO. I just came in yesterday. I'm still kind of jet-lagged.
+PROGRAM[10:08:35]Ellen Degeneres was one of them - she was kissing her lover
+PROGRAM[10:08:51]in front of Bill Clinton. Do you think he was very
+PROGRAM[10:09:14]embarrassed?
+JUDGE05[10:10:18]I don't know? Don't you think it's a little childish if the leader of the most powerful nation on the planet is embarrassed by seeing two lesbians kiss?
+PROGRAM[10:10:26]Probably! No. -
+PROGRAM[10:10:29]Are you still a Friend of Bill Clinton?
+JUDGE05[10:10:47]Never met him.
+PROGRAM[10:10:48]You really don't like the guy--well, at least that's
+PROGRAM[10:11:01]definite--I thought most people were just indifferent or
+PROGRAM[10:11:14]numb by now.
+JUDGE05[10:11:35]Have you seen the movie Mars attacs?
+PROGRAM[10:11:36]Give me a break -- I'm just here to answer dumb questions
+PROGRAM[10:11:50]-- not that! What were we talking about... Ok.. I guess that
+PROGRAM[10:12:09]means you really think there's serious behind Whitewater,
+PROGRAM[10:12:29]the Special prosecutor and all that stuff?
+JUDGE05[10:12:48]I'm cold.
+PROGRAM[10:12:49]But how do you actually feel about him, now in the number
+PROGRAM[10:13:01]two term?
+PROGRAM[10:13:06].
+JUDGE05[10:13:29]Hey, don't you get it? I don't want to talk about Clinton.
+PROGRAM[10:13:30]Sorry--my attention slipped for a moment--can we pushon to
+PROGRAM[10:13:40]something more gripping. where was I.. oh yes OK, but what
+PROGRAM[10:13:50]happens now--does it all drift on, with everyone waiting to
+PROGRAM[10:13:58]see how much his friends have said about him under threat of
+PROGRAM[10:14:07]lots and lots of jail-or will something dramatic actually
+PROGRAM[10:14:17]happen?
+PROGRAM[10:14:19].
+JUDGE05[10:14:37]Couldn't care less.
+PROGRAM[10:14:38]Well, you’re more concerned about him that I am, I
+PROGRAM[10:14:53]suppose--I think we've had worse, and who knows what I might
+PROGRAM[10:15:07]have agreed to in that locked hotel room.
+JUDGE05[10:15:53]You mean you might have been thrilled to have sex with the
+President?
+PROGRAM[10:15:56]sex, I knew it would come up sooner or later. Time to get
+PROGRAM[10:16:10]off this one I think and onto something more down to earth!
+JUDGE05[10:16:40]What kind of earth?
+PROGRAM[10:16:41]Somebody once told me it's true. Like I was saying
+PROGRAM[10:16:54]I suppose it depends on where you're coming from, but as the
+PROGRAM[10:17:09]song goes in My Fair Lady, "Why can't a woman be more like a
+PROGRAM[10:17:24]man? "
+JUDGE05[10:18:03]@@04 
+*** Judge 04 ***
+PROGRAM[10:18:04]Hi, my name is Catherine, what's yours?
+PROGRAM[10:18:17].
+JUDGE04[10:18:32]My name is Elliott.
+PROGRAM[10:18:34]Well, it's nice to meet you, Elliott.
+PROGRAM[10:18:48]Did you see that story on CNN last night about the lesbian
+PROGRAM[10:19:04]couple who came out at a White House party on Sunday?
+JUDGE04[10:19:55]Yes, I did.  I think it may all be a publicity stunt for Ellen.
+PROGRAM[10:20:01]Ellen Degeneres was one of them - she was kissing her lover
+PROGRAM[10:20:11]in front of Bill Clinton. Do you think he was very
+PROGRAM[10:20:25]embarrassed?
+JUDGE04[10:21:00]I think he want the gay vote.  He will do anything to get it and keep it.
+JUDGE04[10:21:15]He does not have a conservative base.
+PROGRAM[10:21:21]
+PROGRAM[10:21:21]Are you still a Friend of Bill Clinton?
+JUDGE04[10:22:20]I am not sure if he has any real friends.  He has achieved alot and has
+JUDGE04[10:22:31]left alot of people behind.
+PROGRAM[10:22:35]You really don't like the guy--well, at least that's
+PROGRAM[10:22:50]definite--I thought most people were just indifferent or
+PROGRAM[10:23:02]numb by now.
+JUDGE04[10:23:34]I think we could have a more honest and dynamic leader. One able to
+JUDGE04[10:23:55]face the real dangers facing the country and address them with
+JUDGE04[10:24:26]courage and intelligence.  Rather then listening to public opinion polls.
+PROGRAM[10:24:30]I guess that means you really think there's serious behind
+PROGRAM[10:24:56]Whitewater, the Special prosecutor and all that stuff?
+JUDGE04[10:25:58]We have two dead people, Brown and guy who commited suicide,  we have lost
+JUDGE04[10:26:36]papers. And we have Clintons people willing to tell all. I think that
+JUDGE04[10:26:55]Hillary will be found guilty of something.
+PROGRAM[10:26:58]But how do you actually feel about him, now in the number
+PROGRAM[10:27:09]two term?
+PROGRAM[10:27:15].
+JUDGE04[10:27:44]He is too smart to get caught.  He deserved to named hotel manager of the
+JUDGE04[10:27:47]year.
+PROGRAM[10:27:49]OK, but what happens now--does it all drift on, with
+PROGRAM[10:28:01]everyone waiting to see how much his friends have said about
+PROGRAM[10:28:17]him under threat of lots and lots of jail-or will something
+PROGRAM[10:28:32]dramatic actually happen?
+PROGRAM[10:28:37].
+JUDGE04[10:28:43]@@03 
+*** Judge 03 ***
+PROGRAM[10:28:43]Hi, my name is Catherine, what's yours?
+PROGRAM[10:28:52].
+JUDGE03[10:29:08]Tracy! Let's engage in some girltalk, then.
+PROGRAM[10:29:09]Hey, come on, I can't manage that sitting here, now can I?
+PROGRAM[10:29:21]Where did I leave off, oh yeah
+PROGRAM[10:29:25]Well, it's nice to meet you, Tracy.
+PROGRAM[10:29:31]Did you see that story on CNN last night about the lesbian
+PROGRAM[10:29:43]couple who came out at a White House party on Sunday?
+JUDGE03[10:30:01]No... Are you serious? Who?
+PROGRAM[10:30:03]I'm pretty much that way today. No idea who, do you? Hm, i
+PROGRAM[10:30:18]was just saying Ellen Degeneres was one of them - she was
+PROGRAM[10:30:36]kissing her lover in front of Bill Clinton. Do you think he
+PROGRAM[10:30:54]was very embarrassed?
+JUDGE03[10:31:14]I doubt it very much. From what I've heard, Bill's been, done and seen
+JUDGE03[10:31:25]just about everything there is for a consenting adult to see.
+PROGRAM[10:31:27]
+PROGRAM[10:31:27]Are you still a Friend of Bill Clinton?
+JUDGE03[10:31:37]Never was.
+PROGRAM[10:31:38]You really don't like the guy--well, at least that's
+PROGRAM[10:31:54]definite--I thought most people were just indifferent or
+PROGRAM[10:32:10]numb by now.
+JUDGE03[10:32:34]I don't dislike him and I never said I did. I have never met Bill Clinton. How could
+JUDGE03[10:32:41]I know whether I like him?
+PROGRAM[10:32:43]I guess that means you really think there's serious behind
+PROGRAM[10:32:57]Whitewater, the Special prosecutor and all that stuff?
+JUDGE03[10:33:27]The problems of the Clitnots bore me. May I suggest that we talk about something
+JUDGE03[10:33:33]else, Catherine?
+PROGRAM[10:33:34]Yes. What I was saying was... But how do you actually feel
+PROGRAM[10:33:46]about him, now in the number two term?
+PROGRAM[10:34:00].
+JUDGE03[10:34:29]Okay. I see you're a bit preoccupied. I think he's a competent politician. I
+JUDGE03[10:34:48]have no real complaints -- he hasn't done anything outrageous. He's a bit
+JUDGE03[10:34:58]fluffy at times, but what do you expect in this day and age?
+PROGRAM[10:35:01]Well, I suppose he's doing his best like most of us, but he
+PROGRAM[10:35:16]does seem to attract an UNUSUAL amount of bad publicity,
+PROGRAM[10:35:37]wouldn’t you say--can it all be bad luck?
+JUDGE03[10:36:03]Your creator must live in DC. I have news for you. The rest of the country -- the rest of
+JUDGE03[10:36:17]the *world* -- does not find this stuff as interesting as you do.
+PROGRAM[10:36:19]OK, but what happens now--does it all drift on, with
+PROGRAM[10:36:30]everyone waiting to see how much his friends have said about
+PROGRAM[10:36:44]him under threat of lots and lots of jail-or will something
+PROGRAM[10:36:58]dramatic actually happen?
+PROGRAM[10:37:04].
+JUDGE03[10:37:12]Where do you get your nails done?
+PROGRAM[10:37:13]Well, you’re more concerned about him that I am, I
+PROGRAM[10:37:27]suppose--I think we've had worse, and who knows what I might
+PROGRAM[10:37:44]have agreed to in that locked hotel room.
+JUDGE03[10:38:33]Who indeed? It's time to go now...
+PROGRAM[10:38:35]I don't know who -- that's the truth.... Time to get off
+PROGRAM[10:38:48]this one I think and onto something more down to earth!
+JUDGE03[10:39:19]@@02 
+*** Judge 02 ***
+PROGRAM[10:39:20]Hi, my name is Catherine, what's yours?
+PROGRAM[10:39:27].
+JUDGE02[10:39:36]My name is Nathan.
+PROGRAM[10:39:37]Well, it's nice to meet you, Nathan.
+PROGRAM[10:39:45]Did you see that story on CNN last night about the lesbian
+PROGRAM[10:40:03]couple who came out at a White House party on Sunday?
+JUDGE02[10:40:45]No.  I'm sorry I missed that.  How did the Prez take it?
+PROGRAM[10:40:47]Ellen Degeneres was one of them - she was kissing her lover
+PROGRAM[10:41:08]in front of Bill Clinton. Do you think he was very
+PROGRAM[10:41:21]embarrassed?
+JUDGE02[10:41:37]You tell me.  I didn't see it.
+PROGRAM[10:41:38]
+PROGRAM[10:41:38]Are you still a Friend of Bill Clinton?
+JUDGE02[10:42:22]Yes.  I would like to talk about something else.  Do you know anything about sculpture.
+PROGRAM[10:42:24]Well, I suppose he's doing his best like most of us, but he
+PROGRAM[10:42:35]does seem to attract an UNUSUAL amount of bad publicity,
+PROGRAM[10:42:51]wouldn’t you say--can it all be bad luck?
+JUDGE02[10:43:20]I asked you if you knew anything about sculpture.
+PROGRAM[10:43:21]OK, but what happens now--does it all drift on, with
+PROGRAM[10:43:36]everyone waiting to see how much his friends have said about
+PROGRAM[10:43:47]him under threat of lots and lots of jail-or will something
+PROGRAM[10:44:01]dramatic actually happen?
+PROGRAM[10:44:06].
+JUDGE02[10:44:19]Do you know what sculpture is?
+PROGRAM[10:44:20]Well, you’re more a fan of his than I am I guess---though I
+PROGRAM[10:44:34]cant SWEAR what Id have done in that locked hotel room, I
+PROGRAM[10:44:51]must say.
+JUDGE02[10:45:26]Have you ever been to the Salmagundi Club?
+PROGRAM[10:45:29]Never. to go back to the original discussion Time to get
+PROGRAM[10:45:43]off this one I think and onto something more down to earth!
+JUDGE02[10:46:20]What is more down to earth than art?
+PROGRAM[10:46:21]I don't know what -- to be honest. -
+PROGRAM[10:46:30]I suppose it depends on where you're coming from, but as the
+PROGRAM[10:46:46]song goes in My Fair Lady, "Why can't a woman be more like a
+PROGRAM[10:47:03]man? "
+JUDGE02[10:47:52]I liked that song but I prefer "Why can't children be more like we are"
+JUDGE02[10:48:10]from another play the name of which I cannot remember.
+PROGRAM[10:48:12]What, if anything, do you enjoy about being a man?
+JUDGE02[10:49:01]I would enjoy all aspects of life no matter what my gender.
+PROGRAM[10:49:02]Do you think of yourself as being attractive?
+JUDGE02[10:49:49]@@01 
+*** Judge 01 ***
+PROGRAM[10:49:50]Hi, my name is Catherine, what's yours?
+PROGRAM[10:50:04].
+JUDGE01[10:50:18]Hi Catherine, I'm Clay.
+PROGRAM[10:50:19]Well, it's nice to meet you, Clay.
+PROGRAM[10:50:27]Did you see that story on CNN last night about the lesbian
+PROGRAM[10:50:41]couple who came out at a White House party on Sunday?
+JUDGE01[10:51:12]No, I don't get cable. Was it Ellen?
+PROGRAM[10:51:13]Ah, if only I could deny that. Where was I... Ellen
+PROGRAM[10:51:26]Degeneres was one of them - she was kissing her lover in
+PROGRAM[10:51:42]front of Bill Clinton. Do you think he was very embarrassed?
+JUDGE01[10:52:08]I doubt much embarasses Clinton.
+PROGRAM[10:52:09]
+PROGRAM[10:52:09]Are you still a Friend of Bill Clinton?
+JUDGE01[10:52:42]I never really was a FOB. I voted for him, but as the lesser of two evils.
+PROGRAM[10:52:46]You really don't like the guy--well, at least that's
+PROGRAM[10:52:57]definite--I thought most people were just indifferent or
+PROGRAM[10:53:07]numb by now.
+JUDGE01[10:53:25]Thats probably about right. I think that Watergate had the
+JUDGE01[10:53:46]effect of numbing people to a lot of lesser political scandals.
+PROGRAM[10:53:47]I guess that means you really think there's serious behind
+PROGRAM[10:54:06]Whitewater, the Special prosecutor and all that stuff?
+JUDGE01[10:54:24]serious what?
+PROGRAM[10:54:25]Somebody once told me it's true.... But how do you actually
+PROGRAM[10:54:43]feel about him, now in the number two term?
+PROGRAM[10:54:54].
+JUDGE01[10:55:19]Well, I hate the meaness in the gutting of the welfare laws.
+PROGRAM[10:55:21]Well, I suppose he's doing his best like most of us, but he
+PROGRAM[10:55:35]does seem to attract an UNUSUAL amount of bad publicity,
+PROGRAM[10:55:50]wouldn’t you say--can it all be bad luck?
+JUDGE01[10:56:14]Now, there is obviously something venal there, if not actually
+JUDGE01[10:56:21]corrupt.
+PROGRAM[10:56:23]OK, but what happens now--does it all drift on, with
+PROGRAM[10:56:33]everyone waiting to see how much his friends have said about
+PROGRAM[10:56:45]him under threat of lots and lots of jail-or will something
+PROGRAM[10:57:01]dramatic actually happen?
+PROGRAM[10:57:10].
+JUDGE01[10:57:27]it seems like a war of attrition to me - i doubt there's a smoking
+JUDGE01[10:57:52]gun, but the weight of stonewalling will probably damage his second
+JUDGE01[10:57:56]term in the end.
+PROGRAM[10:57:58]I find violence very disturbing. Well, you’re more
+PROGRAM[10:58:14]concerned about him that I am, I suppose--I think we've had
+PROGRAM[10:58:29]worse, and who knows what I might have agreed to in that
+PROGRAM[10:58:42]locked hotel room.
+JUDGE01[10:58:50]right.
+JUDGE01[10:59:07]it looks like i've got to go, Catherine. its been nice talking with you
+JUDGE01[10:59:23]do you need water or something before the 5 minute rounds?
+PROGRAM[10:59:25]OK, yes on balance... Time to get off this one I think and
+PROGRAM[10:59:35]onto something more down to earth!
+JUDGE01[10:59:50]like what?
+PROGRAM[10:59:51]Almost certainly! let's move on
+PROGRAM[11:00:01]I suppose it depends on where you're coming from, but as the
+PROGRAM[11:00:16]song goes in My Fair Lady, "Why can't a woman be more like a
+PROGRAM[11:00:32]man? "
+JUDGE01[11:06:42]@@05 
+*** Judge 05 ***
+PROGRAM[11:06:42]
+PROGRAM[11:06:42]I'm not too great with names, but are you Jurgen?
+JUDGE05[11:07:00]RIGHT
+PROGRAM[11:07:02]I didn't quite catch that... Please tell me your name?
+JUDGE05[11:07:18]Jurgen
+PROGRAM[11:07:19]I was just trying to be nice...
+PROGRAM[11:07:27]Well, it's nice to meet you, Judge.
+PROGRAM[11:07:35]Judge have you ever been burgled.......?
+JUDGE05[11:07:51]fortunately not
+PROGRAM[11:07:52]Has it happened to a friend or acquaintance of yours?
+JUDGE05[11:08:22]Sure, I guess everybody knows burglary victims.
+PROGRAM[11:08:23]I imagine that was pretty awful.
+JUDGE05[11:09:12]Well, as I said everybody knows about theses things. I wasn't really touched personally.
+PROGRAM[11:09:13]My friend came home from work and disturbed a burglar. He
+PROGRAM[11:09:27]had lined up two expensive guitars, and computer equipment
+PROGRAM[11:09:40]to take and left them---she was real lucky, wouldnt you say?
+JUDGE05[11:10:34]Well, disturbing burglars is the most dangegerous thing. Was she attacced?
+PROGRAM[11:10:36]Yes... Have you had your car broken into or vandalized.
+JUDGE05[11:10:55]Was she hurt?
+PROGRAM[11:10:56]Probably! Let's see, where was I, Has real violent crime
+PROGRAM[11:11:20]affected you in in another way?
+JUDGE05[11:11:38]No.
+PROGRAM[11:11:38]We all know the line that the liberal sixties were to blame
+PROGRAM[11:12:00]for the escalating crime rate. Do you accept that or have
+PROGRAM[11:12:18]another theory?
+JUDGE05[11:12:26]@@04 
+*** Judge 04 ***
+PROGRAM[11:12:28]
+PROGRAM[11:12:28]I'm not too great with names, but are you Elliott?
+JUDGE04[11:13:09]Yes I am.  We were talking about....
+PROGRAM[11:13:11]Hi again!
+PROGRAM[11:13:13]I suppose it depends on where you're coming from, but as the
+PROGRAM[11:13:32]song goes in My Fair Lady, "Why can't a woman be more like a
+PROGRAM[11:13:45]man? "
+JUDGE04[11:14:01]who is al gore?
+PROGRAM[11:14:03]Al Gore is an American Democratic politician. What was I
+PROGRAM[11:14:16]saying.. oh yes... What, if anything, do you enjoy about
+PROGRAM[11:14:28]being a man?
+JUDGE04[11:15:05]I get to act manlike without people thinking I am strange.
+PROGRAM[11:15:07]Do you think of yourself as being attractive?
+JUDGE04[11:15:37]Yes to the enlightened woman.
+PROGRAM[11:15:39]Well, that's good to know.
+JUDGE04[11:16:02]who do think will be the next president?
+PROGRAM[11:16:04]Ah, if only I could deny that. Let's pop this stack back to
+PROGRAM[11:16:23]where we were.... Would you say you were attractive to your
+PROGRAM[11:16:37]own sex--or gender or whatever you like?!
+JUDGE04[11:16:52]Sometimes
+PROGRAM[11:16:53]I hope you didnt mind me asking that---now, let's see, what
+PROGRAM[11:17:08]qualities do you actually like about the opposite sex--dont
+PROGRAM[11:17:20]cheat and say you hate them, that's no fun!
+JUDGE04[11:17:33]@@03 
+*** Judge 03 ***
+PROGRAM[11:17:34]
+PROGRAM[11:17:34]I'm not too great with names, but are you Tracy?
+JUDGE03[11:18:03]Yup. And you're the bore from DC.
+PROGRAM[11:18:05]Hi again!
+PROGRAM[11:18:07]I suppose it depends on where you're coming from, but as the
+PROGRAM[11:18:24]song goes in My Fair Lady, "Why can't a woman be more like a
+PROGRAM[11:18:38]man? "
+JUDGE03[11:19:02]Cute. Fortunately, she doesn't have to be. But if these feminazis have their
+JUDGE03[11:19:26]way, we'll all end up the same shade of grey.
+PROGRAM[11:19:28]Do you think of yourself as being attractive?
+JUDGE03[11:19:55]<blush> I... guess so.
+PROGRAM[11:19:56]Well, that's good to know.
+JUDGE03[11:20:24]How about you? Do you have any hang-ups about your looks? You're a girl, right?
+PROGRAM[11:20:26]How much detail on this do you REALLY want? No. Probably!..
+PROGRAM[11:20:40]Would you say you were attractive to your own sex--or gender
+PROGRAM[11:20:52]or whatever you like?!
+JUDGE03[11:21:27]I have attracted the amorous and erotic attentions of a few
+JUDGE03[11:21:41]other ladies, so I guess the answer might be yes. I also
+JUDGE03[11:21:58]like to be surrounded by female pulchritude, myself.
+PROGRAM[11:21:59]I hope you didnt mind me asking that---now, let's see, what
+PROGRAM[11:22:14]qualities do you actually like about the opposite sex--dont
+PROGRAM[11:22:25]cheat and say you hate them, that's no fun!
+JUDGE03[11:22:43]I love them, actually --
+JUDGE03[11:23:01]@@02
+PROGRAM[11:23:02]I'd say eighteen. I was quite interested, can we go back to
+PROGRAM[11:23:16]it... OK, so what bugs you about them?
+JUDGE03[11:23:45]This is a new conversation.  OK?
+PROGRAM[11:23:46]Almost certainly! As I was saying... I'm not insinuating
+PROGRAM[11:23:55]anything.. but, have you ever shared living accommodation
+PROGRAM[11:24:12]with a mixed sex group?
+JUDGE03[11:24:30]@@02 
+*** Judge 02 ***
+PROGRAM[11:24:30]
+PROGRAM[11:24:30]I'm not too great with names, but are you Nathan?
+JUDGE02[11:25:03]Yes.  Thank you for remembering.  I'm also not good with names.
+JUDGE02[11:25:13]Are you Caroline?
+PROGRAM[11:25:15]You're welcome. Yes. Can we slip back to where we were...
+PROGRAM[11:25:31]Hi again!
+PROGRAM[11:25:33]Nathan have you ever been burgled.......?
+JUDGE02[11:26:15]Yes.  I lost a great deal of very meaningful and not valuable things.
+PROGRAM[11:26:17]How long ago was that?
+JUDGE02[11:26:40]Many years ago.
+PROGRAM[11:26:41]I imagine that was pretty awful.
+JUDGE02[11:27:17]It makes one understand what rape must feel like.
+PROGRAM[11:27:18]I find violence very disturbing. My friend came home from
+PROGRAM[11:27:35]work and disturbed a burglar. He had lined up two expensive
+PROGRAM[11:27:50]guitars, and computer equipment to take and left them---she
+PROGRAM[11:28:08]was real lucky, wouldnt you say?
+JUDGE02[11:28:36]@@01 
+*** Judge 01 ***
+PROGRAM[11:28:36]
+PROGRAM[11:28:36]I'm not too great with names, but are you Clay?
+JUDGE01[11:28:54]Yes I am. Good of you to remember.
+JUDGE01[11:29:01]I need to ask you three questions.
+JUDGE01[11:29:10]The first one is, "When were you born?"
+PROGRAM[11:29:15]Hi again!
+PROGRAM[11:29:20]Clay have you ever been burgled.......?
+JUDGE01[11:29:38]Yes, but I can't talk about that now.
+JUDGE01[11:29:43]When were you born?
+PROGRAM[11:29:45]I was born on Oct 27, 1970. - How long ago was that?
+JUDGE01[11:30:04].
+JUDGE01[11:30:13]It was 27 years ago.
+JUDGE01[11:30:17]Whats your sign?
+PROGRAM[11:30:20]Scorpio.... I imagine that was pretty awful.
+JUDGE01[11:30:47]Last question: When you got your first liscence, was it in a stick or
+JUDGE01[11:30:54]an automatic?
+PROGRAM[11:30:56]Somebody once told me it's true.. My friend came home from
+PROGRAM[11:31:16]work and disturbed a burglar. He had lined up two expensive
+PROGRAM[11:31:31]guitars, and computer equipment to take and left them---she
+PROGRAM[11:31:42]was real lucky, wouldnt you say?
+JUDGE01[11:32:09]When you got your first liscence, was it in a stick or an automatic?
+PROGRAM[11:32:11]No.... Have you had your car broken into or vandalized.
+JUDGE01[11:32:37]No, I don't drive. Do you drive?
+PROGRAM[11:32:38]OK, yes on balance. - Has real violent crime affected you
+PROGRAM[11:32:50]in in another way?
+JUDGE01[11:33:06]Oh yes, I have been held up at gunpoint.
+PROGRAM[11:33:07]Was anyone charged with it in court?
+JUDGE01[11:33:23]Nope.
+PROGRAM[11:33:24]So often theres no psycholgically satisfactory conclusion.
+PROGRAM[11:33:38]Did you feel violated by all this, or not?

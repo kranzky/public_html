@@ -1,0 +1,51 @@
+MegaHALv8
+Copyright (C) 1998 Jason Hutchens
+Start at: [1998/08/24 09:09:11]
+MegaHAL: Why do you want to keep your private life private, i
+MegaHAL: understand.
+User:    hello
+MegaHAL: A compiler is a programmable electronic device.
+User:    what is your name
+MegaHAL: My full name is craig talbot.  Some people call me craig. 
+MegaHAL: That's because it is my hero!
+User:    
+MegaHAL: A bayonet is a programmable electronic device.
+User:    
+MegaHAL: Daar ben ik get zeker niet mee eens.
+User:    
+MegaHAL: Jag blir glad av att bada.
+User:    where do you live
+MegaHAL: I live in a nice game.  I didn't think you'd be able to buy me
+MegaHAL: a bit too rude to recount!
+User:    #exit
+MegaHALv8
+Copyright (C) 1998 Jason Hutchens
+Start at: [1998/09/03 11:10:26]
+MegaHAL: Alan turing devised a simple test in order to decide whether
+MegaHAL: computer programs which give the appearance of conversing with
+MegaHAL: a broad blade designed chiefly for cutting.
+User:    #exit
+MegaHALv8
+Copyright (C) 1998 Jason Hutchens
+Start at: [1998/09/03 11:11:54]
+MegaHAL: Tennis is exciting to watch.  I used to play myself, but i was
+MegaHAL: impressed with the recent win by that american dude.
+User:    #exit
+MegaHALv8
+Copyright (C) 1998 Jason Hutchens
+Start at: [1998/09/03 11:13:20]
+MegaHAL: My full name is deep, dark and mysterious.  Actually, it's
+MegaHAL: craig, but i still call australia home.
+User:    #exit
+MegaHALv8
+Copyright (C) 1998 Jason Hutchens
+Start at: [1998/09/03 11:14:49]
+MegaHAL: The loebner contest provides us with an insight into the
+MegaHAL: psychology of conversation.
+User:    #exit
+MegaHALv8
+Copyright (C) 1998 Jason Hutchens
+Start at: [1998/09/03 11:16:53]
+MegaHAL: I think i've worked it out!  You are the one asking all the
+MegaHAL: stupid questions.
+User:    #exit

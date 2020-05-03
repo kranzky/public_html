@@ -1,0 +1,61 @@
+This is TeX, Version 3.1415 (C version 6.1) (format=latex 96.6.26)  30 JUL 1997 11:29
+**paper
+(paper.tex
+LaTeX2e <1996/06/01>
+(/usr/appl/TeX/lib/texmf/tex/latex2e/base/article.cls
+Document Class: article 1996/05/26 v1.3r Standard LaTeX document class
+(/usr/appl/TeX/lib/texmf/tex/latex2e/base/size12.clo
+File: size12.clo 1996/05/26 v1.3r Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+No file paper.aux.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 23.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 23.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 34.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 34.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 34.
+[1
+
+] (paper.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 242 strings out of 10943
+ 2361 string characters out of 73460
+ 45763 words of memory out of 262141
+ 3153 multiletter control sequences out of 9500
+ 8802 words of font info for 31 fonts, out of 100000 for 255
+ 14 hyphenation exceptions out of 607
+ 22i,9n,21p,125b,213s stack positions out of 300i,40n,60p,3000b,4000s
+
+Output written on paper.dvi (1 page, 2316 bytes).

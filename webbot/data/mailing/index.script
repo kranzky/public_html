@@ -1,0 +1,23 @@
+(1)
+""
+{
+	response = "I have no response to this yet.";
+	changecontext("default");
+}
+[]
+
+(1)
+""
+{
+	changecontext("default");
+	throw(input);
+}
+[]
+
+(1)
+""
+{
+	changecontext("default");
+	throw(input);
+}
+[]

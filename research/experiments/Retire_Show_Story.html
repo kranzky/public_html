@@ -1,0 +1,51 @@
+<? Include("Verify.html"); ?>
+<? Include("Retired.html"); ?>
+<? Include("Functions.html"); ?>
+<? $title = "Story Experiment"; ?>
+<? Include("Header.html"); ?>
+
+<H2>Show Story</H2>
+
+This is the story thus far for the <? echo $genre; ?> genre of order
+<? echo $order; ?>.  The words added by you are shown in uppercase bold.
+
+<P>
+<CENTER>
+<TABLE WIDTH="90%" CELLPADDING=0 CELLSPACING=0>
+<TR><TD>
+<BIG>
+<?
+	mysql_connect("localhost","hutch","wally37");
+	mysql_select_db("experiments");
+   $result=mysql_query("SELECT story,length FROM story WHERE genre='$genre' AND context=$order");
+   $num = mysql_num_rows($result);
+	if($num!=1) {
+		Error("No $genre genre of order $order exists", "");
+	}
+	$story=mysql_result($result, 0, "story");
+	$length= mysql_result($result, 0, "length");
+
+	$i=0;
+	while($i<$length) {
+   	$result=mysql_query("SELECT word,user FROM story_info WHERE number=$i AND story=$story");
+   	$num = mysql_num_rows($result);
+		if($num!=1) {
+			Error("Unable to select a word for the story context (length = $length, story=$story, word=$i, matches=$num", "");
+		}
+		$word=mysql_result($result,0,"word");
+		$user=mysql_result($result,0,"user");
+		if($user==$s_user) {
+			$word=strtoupper($word);
+			echo "<B>$word</B>";
+		} else {
+			echo $word;
+		}
+		$i+=1;
+	}
+?>
+</BIG>
+</TD></TR>
+</TABLE>
+</CENTER>
+
+<? Include("Footer.html"); ?>

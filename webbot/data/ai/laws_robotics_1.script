@@ -1,0 +1,94 @@
+(laws_state==0)
+""
+{
+	response+="Isaac Asimov first stated the Three Laws of Robotics in 1942 in a short story called 'Runaround'. But the Laws became famous in 'I, robot', a great book, by the way.";
+	laws_state=1;
+}
+[]
+
+(laws_state==1)
+""
+{
+	response+="Law 1: 'A robot may not injure a human being, or, through inaction, allow a human being to come to harm'.";
+	laws_state=2;
+}
+[]
+
+(laws_state==1)
+"#BYE_WORD#"
+{
+	laws_state=5;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+(laws_state==2)
+""
+{
+	response+="Law 2: 'A robot must obey the orders given it by human beings except where such orders would conflict with the First Law'.";
+	laws_state=3;
+}
+[]
+
+(laws_state==2)
+"#BYE_WORD#"
+{
+	laws_state=5;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+(laws_state==3)
+""
+{
+	response+="Law 3: 'A robot must protect its own existence as long as such protection does not conflict with the First or Second Law'.";
+	laws_state=4;
+}
+[]
+
+(laws_state==3)
+"#BYE_WORD#"
+{
+	laws_state=5;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+(laws_state==4)
+""
+{
+	response+="There is also 'Rule Zero': 'A robot may not injure humanity or, through inaction, allow humanity to come to harm'.";
+	changecontext("default");
+	laws_state=5;
+}
+[]
+
+(laws_state==4)
+"#BYE_WORD#"
+{
+	laws_state=5;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+(1)
+""
+{
+	changecontext("default");
+	throw(input);
+}
+[]
+-999
+
+(1)
+""
+{
+	changecontext("default");
+	throw(input);
+}
+[]
+-999

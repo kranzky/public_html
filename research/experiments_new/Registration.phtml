@@ -1,0 +1,60 @@
+<? $title = "Registration"; >
+<? Include("Header.phtml"); >
+
+<H2>Registration Form</H2>
+
+In order to take part in these experiments, and have a chance at winning the
+$100, you must fill out the following form.  You must include a valid email
+address, as it will be used to send you a password.  You must also agree
+to abide by the rules of the experiment.  All other fields are
+optional, but it would really help me if you took the time to fill them
+out.  Your honesty is appreciated.  Entering false or misleading information
+will lead to disqualification.
+
+<FORM METHOD=POST ACTION="Process_Registration.phtml">
+<CENTER>
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=4>
+
+<TR><TD BGCOLOR="EEEEBB">Name:</TD><TD BGCOLOR="EEEEBB"><INPUT SIZE=30 NAME=e_name></TD></TR>
+<TR><TD>Email Address:</TD><TD><INPUT SIZE=30 NAME=e_email></TD></TR>
+
+<TR><TD BGCOLOR="EEEEBB">Do you agree to abide by the rules of this experiment (see previous page)?</TD><TD BGCOLOR="EEEEBB">
+<INPUT SIZE=40 NAME=e_abide TYPE=radio VALUE="Yes">Yes</INPUT>
+<INPUT SIZE=40 NAME=e_abide TYPE=radio VALUE="No" CHECKED>No</INPUT>
+</TD></TR>
+
+<meTR><TD>Gender:</TD><TD>
+<INPUT SIZE=40 NAME=e_gender TYPE=radio VALUE="M">Male</INPUT>
+<INPUT SIZE=40 NAME=e_gender TYPE=radio VALUE="F">Female</INPUT>
+</TD></TR>
+
+<TR><TD BGCOLOR="EEEEBB">Age in years:</TD><TD BGCOLOR="EEEEBB"><INPUT SIZE=3 NAME=e_age></TD></TR>
+
+<TR><TD>Nationality:</TD>
+<TD><SELECT NAME=e_nationality>
+<OPTION SELECTED VALUE="Unspecified">Unspecified</OPTION>
+<OPTION VALUE="American">American (citizen of USA)</OPTION>
+<OPTION VALUE="Australian">Australian</OPTION>
+<OPTION VALUE="British">British</OPTION>
+<OPTION VALUE="Canadian">Canadian</OPTION>
+<OPTION VALUE="New Zealander">New Zealander</OPTION>
+<OPTION VALUE="Other">Other</OPTION>
+</SELECT></TD></TR>
+
+<TR><TD BGCOLOR="EEEEBB">Is English your first language?</TD><TD BGCOLOR="EEEEBB">
+<INPUT SIZE=40 NAME=e_english TYPE=radio VALUE="Y">Yes</INPUT>
+<INPUT SIZE=40 NAME=e_english TYPE=radio VALUE="N">No</INPUT>
+</TD></TR>
+
+<TR><TD BGCOLOR="EEEEBB">Would you like to be kept up-to-date with occasional emails?</TD><TD BGCOLOR="EEEEBB">
+<INPUT SIZE=40 NAME=e_list TYPE=radio VALUE="Y">Yes</INPUT>
+<INPUT SIZE=40 NAME=e_list TYPE=radio VALUE="N" CHECKED>No</INPUT>
+</TD></TR>
+
+</TABLE>
+<P>
+<INPUT TYPE=submit value="Register yourself as a participant">
+</CENTER>
+</FORM>
+
+<? Include("Footer.phtml"); >

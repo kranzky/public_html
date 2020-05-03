@@ -1,0 +1,73 @@
+<?
+function snaffle($lang,$text)
+{
+	$fp=fsockopen("babelfish.altavista.digital.com",80);
+	if(!$fp) return "Unable to open connexion to Babelfish!";
+	$data="doit=done&BabelFishFrontPage=yes&bblType=urltext&urltext=".rawurlencode($text)."&lp=$lang";
+	$request="POST /translate.dyn HTTP/1.0\nReferer: http://10.111.222.113/~hutch/translations/Index.html\nConnection: Keep-Alive\nUser-Agent: SnaffleBot\nHost: babelfish.altavista.digital.com\nContent-Type: application/x-www-form-urlencoded\nContent-Length: ".strlen($data)."\n\n$data\n";
+	fputs($fp, $request);
+	$buffer="";
+	while((!feof($fp))&&(!strstr($buffer, "<textarea")))
+		$buffer=fgets($fp, 4096);
+	$translation="";
+	$buffer="";
+	while((!feof($fp))&&(!strstr($buffer, "</textarea")))
+	{
+		$translation.=$buffer;
+		$buffer=fgets($fp, 4096);
+	}
+	fclose($fp);
+	return $translation;
+}
+?>
+<!DOCTYPE HTML PUBLIC "-//Netscape Comm. Corp.//DTD HTML//EN">
+<HTML>
+<HEAD>
+<TITLE>Jason Hutchens: translations</TITLE>
+<LINK REL="StyleSheet" HREF="style/jason.css" TYPE="text/css" MEDIA="screen">
+<LINK REV="Made" HREF="mailto:hutch@tmbg.org">
+</HEAD>
+<BODY>
+<?
+	if(!IsSet($input)) $input="";
+	if(!IsSet($language)) $language="";
+	if(!IsSet($translation)) $translation="";
+	if($input!="")
+	{
+		$translation=snaffle("en_".$language,$input);
+		$translation=snaffle($language."_en",$translation);
+?>
+<TABLE>
+<TR>
+<TH>English</TH>
+<TD><TT><? echo($input); ?></TT></TD>
+</TR>
+<TR><TH>
+<?
+if($language=="it") echo("Via Italian");
+if($language=="fr") echo("Via French");
+if($language=="de") echo("Via German");
+if($language=="pt") echo("Via Portugese");
+if($language=="es") echo("Via Spanish");
+?>
+</TH>
+<TD><TT><? echo($translation); ?></TT></TD>
+</TR>
+</TABLE>
+<?
+	}
+?>
+<FORM METHOD="Post" ACTION="Index.html">
+<INPUT TYPE="submit" VALUE="Translate">
+<INPUT SIZE="50" NAME="input" VALUE="<?echo( $translation); ?>">
+to English via
+<SELECT NAME="language">
+<OPTION <? if($language=="it") echo("SELECTED"); ?> VALUE="it">Italian</OPTION>
+<OPTION <? if($language=="fr") echo("SELECTED"); ?> VALUE="fr">French</OPTION>
+<OPTION <? if($language=="de") echo("SELECTED"); ?> VALUE="de">German</OPTION>
+<OPTION <? if($language=="pt") echo("SELECTED"); ?> VALUE="pt">Portugese</OPTION>
+<OPTION <? if($language=="es") echo("SELECTED"); ?> VALUE="es">Spanish</OPTION>
+</SELECT>
+</FORM>
+</BODY>
+</HTML>

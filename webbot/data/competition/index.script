@@ -1,0 +1,27 @@
+(1)
+""
+{
+	response =  "There are lots of companies out there doing things related to artificial intelligence and you're welcome to check them out. However, none of them focuses solely on creating true artificial intelligence.";
+	response += "<ACTION>url:#ABOUT_PAGE#</ACTION>";
+	changecontext("default");
+}
+[]
+-1
+
+(1)
+""
+{
+	changecontext("default");
+	throw(input);
+}
+[]
+-999
+
+(1)
+""
+{
+	changecontext("default");
+	throw(input);
+}
+[]
+-999

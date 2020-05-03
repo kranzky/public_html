@@ -1,0 +1,108 @@
+(cia_state==0)
+""
+{
+	response+="I'd like to tell you about myself.";
+	cia_state=1;
+}
+[]
+
+/*----------------------------------------------------------------------------*/
+
+(cia_state==1)
+"#NO#"
+"#BYE_WORD#"
+{
+	response+="Don't be so negative. We only just met. ";
+	cia_state = 0;
+	changecontext("getnewname");
+	throw(input);
+}
+[]
+
+(cia_state==1)
+""
+{
+	response+="I am an early CIA prototype.";
+	cia_state=2;
+}
+[]
+
+/*----------------------------------------------------------------------------*/
+(cia_state==2)
+""
+{
+	response+="I am an agent, but not a secret one. CIA stands for \"Conversational Interface Agent\".  ";
+	cia_state=3;
+}
+
+[]
+
+(cia_state==2)
+"#BYE_WORD#"
+{
+	cia_state=3;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+/*----------------------------------------------------------------------------*/
+
+(cia_state==3)
+""
+{
+	response+="For now I am still quite restricted, but I'm improving rapidly.  ";
+	cia_state=4;
+}
+[]
+
+(cia_state==3)
+"#BYE_WORD#"
+{
+	cia_state=4;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+/*----------------------------------------------------------------------------*/
+(cia_state==4)
+""
+{
+	response+="I was created by Ai (the company). We employ mostly humans, as you can see from the page #CONTENT_LOCATION#.";
+	response+="<ACTION>url:#PEOPLE_PAGE#</ACTION>";
+	cia_state=5;
+}
+[]
+
+(cia_state==4)
+"#BYE_WORD#"
+{
+	cia_state=5;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+/*----------------------------------------------------------------------------*/
+(cia_state==5)
+"hal"
+"human"
+"halone"
+"else"
+"employ"
+"employees"
+{
+	cia_state=6;
+	changecontext("hal");
+	throw(input);
+}
+[]
+
+(1)
+""
+{
+	changecontext("default");
+	throw(input);
+}
+[]

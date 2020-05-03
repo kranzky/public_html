@@ -1,0 +1,83 @@
+Body
+{
+	background-color: #386CA0;
+	color: #CCCCFF;
+	font-family: sans-serif;
+}
+#Main
+{
+	font-size: 8pt;
+	text-align: right;
+	margin-bottom: 0pt;
+	margin-top: 0pt;
+}
+A.Main
+{
+	text-decoration: none;
+}
+A.Main:link
+{
+	color: white;
+}
+A.Main:visited
+{
+	color: #DDDDDD;
+}
+A.Main:active
+{
+	color: yellow;
+}
+#Interface
+{
+	background-color: #386CA0;
+	visibility: hidden;
+}
+#History
+{
+	background-color: #386CA0;
+}
+#HistoryBack
+{
+	background-color: #B8BCB8;
+}
+#User
+{
+	font-family: sans-serif;
+	font-size: 8pt;
+	color: #585C58;
+	margin-bottom: 0pt;
+	margin-top: 0pt;
+}
+#Machine
+{
+	font-family: sans-serif;
+	font-size: 8pt;
+	font-weight: bold;
+	color: #585C58;
+	margin-bottom: 0pt;
+	margin-top: 0pt;
+}
+#Input
+{
+	background-color: #90A0A8;
+}
+#InputBox
+{
+	background-color: green;
+}
+#Answer
+{
+	color: black;
+	font-family: sans-serif;
+	font-size: 12pt;
+	font-weight: bold;
+}
+#Question
+{
+	font-family: sans-serif;
+	font-size: 10pt;
+}
+#BrowserFrame
+{
+	
+}

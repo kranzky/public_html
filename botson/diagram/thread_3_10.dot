@@ -1,0 +1,11 @@
+digraph thread_3 {
+rule_8[label="HALone is our pride and joy. He is ou...",color=blue,URL="Index.html?perform=RuleSubView&sub_rule=8"];
+enter [shape=box,label="Botson",URL="Index.html?perform=ClassSubView&sub_class=2",shape=diamond];
+enter -> rule_8 [label="tell me about HAL"];
+rule_8 -> rule_9 [label="yes i think so too"];
+rule_8 -> rule_10 [label="negative"];
+rule_9[label="(silence)",color=black,URL="Index.html?perform=RuleSubView&sub_rule=9"];
+enter [shape=box,label="Botson",URL="Index.html?perform=ClassSubView&sub_class=2",shape=diamond];
+rule_10[label="(silence)",color=yellow,style=filled,URL="Index.html?perform=RuleSubView&sub_rule=10"];
+enter [shape=box,label="Botson",URL="Index.html?perform=ClassSubView&sub_class=2",shape=diamond];
+}

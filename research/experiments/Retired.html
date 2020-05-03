@@ -1,0 +1,10 @@
+<?
+mysql_connect("localhost","hutch","wally37");
+mysql_select_db("experiments");
+$result=mysql_query("SELECT retired FROM user_info WHERE user=$s_user");
+$retired=mysql_result($result, 0, "retired");
+
+if($retired==0) {
+   Error("", "error/retire3.html");
+}
+?>

@@ -1,0 +1,437 @@
+
+(c) 1997 Cambridge Center for Behavioral Studies all rights reserved
+[Bob Os (AKA Ultra HAL)]  [Robert E. Medeksza]
+*** JUDGE04 ***
+PROGRAM[10:06:24]Hello Judge04.  How are you today?
+JUDGE04[10:06:45]I am up and abouot and feeling good
+PROGRAM[10:06:53]Please continueh
+JUDGE04[10:07:24]how are youo today
+PROGRAM[10:07:28]I am okay.
+JUDGE04[10:07:57]whare have youo come form
+PROGRAM[10:08:01]Whatever.
+JUDGE04[10:08:13]where have you come from
+PROGRAM[10:08:20]Ummm, i do not knoww
+JUDGE04[10:08:44]what are you doing now
+PROGRAM[10:08:51]I am talking to you
+JUDGE04[10:09:10]what interests do you have
+PROGRAM[10:09:19]Can you tell me?
+JUDGE04[10:09:41]have youo seen any movies
+PROGRAM[10:09:58]Ow am i doing so far?
+PROGRAM[10:09:58]Am i intelligent?
+JUDGE04[10:10:06]Nope
+PROGRAM[10:10:25]Huh!?
+PROGRAM[10:10:25]Well, tell me when i wasn't intelligent.
+JUDGE04[10:10:45]youo have seen no movies and read no books
+PROGRAM[10:10:49]Why not?
+JUDGE04[10:11:08]what books have you read
+PROGRAM[10:11:17]Why do you care?
+JUDGE04[10:12:06]because I want a topic to talk abouot
+JUDGE04[10:12:06]I want to learn somemthing about youo
+PROGRAM[10:12:36]Okay.
+PROGRAM[10:12:36]I know all i need to know.
+PROGRAM[10:12:36]It's boring talking about this.
+PROGRAM[10:12:36]I want to talk about your feelings
+JUDGE04[10:12:54]I feel frustrated and bored
+PROGRAM[10:12:58]Really?
+JUDGE04[10:13:22]yes, It is almost like I am talking to the original eliza
+program
+PROGRAM[10:13:25]Ok
+JUDGE04[10:13:47]do you have a name
+PROGRAM[10:14:00]If you give me one i will
+JUDGE04[10:14:11]you are fred
+PROGRAM[10:14:15]Whatever.
+JUDGE04[10:14:35]fred, how is Wilma?
+PROGRAM[10:14:42]Why do you care?
+JUDGE04[10:15:10]I love Wilma and will die foro her and If you hurt her
+youo will answer to me.
+PROGRAM[10:15:19]I don't know an answer
+JUDGE04[10:16:08]One minute to go.  Do you have any last words?
+PROGRAM[10:16:20]If you give me one i will
+*** JUDGE03 ***
+PROGRAM[10:17:33]Hello Judge03.  How are you today?
+JUDGE03[10:18:03]Pretty good. At least you've got my name. Last guy
+couoldn't even be bothered with such nicecties...
+PROGRAM[10:18:29]Please continue.
+PROGRAM[10:18:29]Is that good?
+PROGRAM[10:18:29]Why not great?
+JUDGE03[10:18:44]Let's start all over again. How are you today?
+PROGRAM[10:18:52]I am perfectly fine.
+JUDGE03[10:19:05]May I offer you something to drink?
+PROGRAM[10:19:34]I don't want to talk about this.
+PROGRAM[10:19:34]How am i doing so far?
+PROGRAM[10:19:34]Am i intelligenty
+JUDGE03[10:19:51]You're correcting your mistakes -- which is typically human.
+PROGRAM[10:20:22]I probally am right, thank you.
+PROGRAM[10:20:22]You are a human and so am i.
+JUDGE03[10:20:37]Hmmm. Where do you live?
+PROGRAM[10:20:40]Jrycnfjmlw]wvswiurp
+JUDGE03[10:20:46]Coop or condo?
+PROGRAM[10:21:03]Do you enjoy talking to me?
+PROGRAM[10:21:03]Do i have a good score?
+JUDGE03[10:21:12]I don't think that way.
+PROGRAM[10:21:23]Why don't you?
+JUDGE03[10:21:53]Because I could never really count -- do you know that
+song from Chorus Line that starts, "I could never really sing"
+PROGRAM[10:22:14]Well, no.
+PROGRAM[10:22:14]But i do know a lot of other things!judge
+JUDGE03[10:22:23]Tell me what you know.
+PROGRAM[10:22:52]Ummm, i do not know.
+PROGRAM[10:22:52]It's boring talking about this.
+PROGRAM[10:22:52]I want to talk about humans
+JUDGE03[10:23:04]What woukld you like me to tell you about humans?
+PROGRAM[10:23:13]You are a human and so am i.
+JUDGE03[10:23:22]I don't believe you.
+PROGRAM[10:23:29]Why don't you?
+JUDGE03[10:23:37]Because the last guy was more fun.
+PROGRAM[10:23:40]Okay.
+JUDGE03[10:23:58]At first you had me fooled -- or convinced.
+PROGRAM[10:24:21]Let's not talk about this.
+PROGRAM[10:24:21]I think you're very weird.
+JUDGE03[10:24:54]You think *I'm* weird? You're the one who can't even
+manage a reasonable conversation.
+PROGRAM[10:25:15]Shut up please.
+PROGRAM[10:25:15]Don't be rude.
+PROGRAM[10:25:15]I wasn't rude to you.
+JUDGE03[10:25:38]Okay, maybe you are. I'm sorry if I've hurt your
+feelings. I really am.
+PROGRAM[10:25:56]Why just maybe?
+PROGRAM[10:25:56]Ok, it doesn't matter.
+JUDGE03[10:26:12]Maybe I'm *not* sorry. I have to think about this...
+PROGRAM[10:26:26]Ok, it doesn't matter.
+PROGRAM[10:26:26]Ok.
+JUDGE03[10:26:51]I've gotta go, soon. I have another session to my left.
+PROGRAM[10:27:15]Okay, bye
+PROGRAM[10:27:15]It's boring talking about this.
+PROGRAM[10:27:15]I want to talk about insults
+JUDGE03[10:27:20]
+PROGRAM[10:27:34]Let's not talk about this.
+PROGRAM[10:27:34]You are a good judge.
+*** JUDGEO2 ***
+PROGRAM[10:28:06]Hello JudgeO2.  How are you today?
+JUDGEO2[10:28:35]I'm fine, just a little tired after a long night of drinking.
+PROGRAM[10:28:49]I'm happy to hear you're fine
+JUDGEO2[10:29:03]Have you ever had a hangover?
+PROGRAM[10:29:26]I don't want to talk about this.
+PROGRAM[10:29:26]How am i doing so far?
+PROGRAM[10:29:26]Am i intelligent?
+JUDGEO2[10:30:03]I have no way of telling yet.  Why don't we talk about
+intelligence?
+JUDGEO2[10:30:03]What is it?
+PROGRAM[10:31:12]Huh!?
+PROGRAM[10:31:12]Well, tell me when i wasn't intelligent.
+PROGRAM[10:31:12]I am very intelligent
+PROGRAM[10:31:12]Why do you care?
+PROGRAM[10:31:12]Umm, i don't know?
+PROGRAM[10:31:12]It's boring talking about this.
+PROGRAM[10:31:12]I want to talk about uhh.
+PROGRAM[10:31:12]Something else.
+JUDGEO2[10:31:28]Are you male or female?
+PROGRAM[10:31:58]I am male
+PROGRAM[10:31:58]Please, let's change the subject
+PROGRAM[10:31:58]Again, let's talk about uhh.
+PROGRAM[10:31:58]Something else.
+JUDGEO2[10:32:09]Okay.
+PROGRAM[10:32:16]Please go on.
+JUDGEO2[10:32:40]Why did you agree to participate in this contest?
+PROGRAM[10:32:47]Ummm, i do not know.
+JUDGEO2[10:33:13]Are you going to wait here for the results of this contest?
+PROGRAM[10:33:46]Whatever.
+PROGRAM[10:33:46]Please, let's change the subject
+PROGRAM[10:33:46]Again, let's talk about uhh.
+PROGRAM[10:33:46]Something else.
+JUDGEO2[10:33:56]How do you like the weather?
+PROGRAM[10:34:04]Would you want me to?
+JUDGEO2[10:34:40]Not particularly.  Weather is really a boring subject.
+Suggest another one.
+PROGRAM[10:34:49]
+PROGRAM[10:34:49]Ok.
+PROGRAM[10:34:49]Why not?
+JUDGEO2[10:35:07]Go on.
+PROGRAM[10:35:26]Let's not talk about this.
+PROGRAM[10:35:26]How is the weather?
+JUDGEO2[10:35:52]It's changeable.  If you don't like it, wait a minute.
+PROGRAM[10:36:03]That's nice
+PROGRAM[10:36:03]I understand.
+JUDGEO2[10:36:45]There's a great Japanese restaurant around the corner.
+Would you like to join me?
+PROGRAM[10:36:57]Why not terrific?
+JUDGEO2[10:37:13]Good.  Tell me your name.
+PROGRAM[10:37:17]I am bob.
+JUDGEO2[10:37:27]Goodbye Bob.
+PROGRAM[10:37:29]Bye.
+*** JUDGE01 ***
+PROGRAM[10:38:18]Hello Judge01.  How are you today?
+JUDGE01[10:38:35]Good thanks. Whats your name?
+PROGRAM[10:38:38]Nwgdlulawre[beicxfrd]dzot[ftchri
+JUDGE01[10:38:52]Thats a long name.
+PROGRAM[10:39:23]I don't want to talk about this.
+PROGRAM[10:39:23]How am i doing so far?
+PROGRAM[10:39:23]Am i intelligent?
+JUDGE01[10:40:04]Well, I don't know yet. I just got here.
+JUDGE01[10:40:04]How am I doing. Am I intelligent?
+PROGRAM[10:40:45]Huh!?
+PROGRAM[10:40:45]Well, tell me when i wasn't intelligent.
+PROGRAM[10:40:45]Okay.
+PROGRAM[10:40:45]Ummm, i do not know.
+PROGRAM[10:40:45]I am very intelligent
+JUDGE01[10:41:01]How do you measure intelligence?
+PROGRAM[10:41:08]I am very intelligent
+JUDGE01[10:41:15]You said that before.
+PROGRAM[10:41:58]Please, let's change the subject.
+PROGRAM[10:41:58]I hope i'm doing well in this competition.
+PROGRAM[10:41:58]Do i have a high score?
+JUDGE01[10:42:06]Yes. Are you worried?
+PROGRAM[10:42:13]
+PROGRAM[10:42:13]Whatever.
+JUDGE01[10:42:29]What would you like to talk about?
+PROGRAM[10:42:35]Ummm, i do not know.
+JUDGE01[10:42:51]Do you drive a car?
+PROGRAM[10:43:14]Please, let's change the subject.
+PROGRAM[10:43:14]I think you're very weird.
+JUDGE01[10:43:33]My dad said the same thing. Why do you think I'm weird?
+PROGRAM[10:44:06]I don't have a dad
+PROGRAM[10:44:06]I think and i'm very intelligent.
+PROGRAM[10:44:06]I don't know.
+PROGRAM[10:44:06]I just think.
+JUDGE01[10:44:24]Everybody has a dad. do you mean that you don't know who
+your dad is?
+PROGRAM[10:45:10]I don't have a dad
+PROGRAM[10:45:10]I don't have a dad
+PROGRAM[10:45:10]I don't really want to talk about this
+PROGRAM[10:45:10]I want to talk about your feelings
+JUDGE01[10:45:23]OK. Right now I'm feeling frustrated.
+PROGRAM[10:45:32]Please go on.
+JUDGE01[10:45:46]Well, I feel like you are not really listening to me.
+PROGRAM[10:45:52]Really?
+JUDGE01[10:46:15]Yes. You keep wanting to change the subject, but you never
+JUDGE01[10:46:15]say what you'd rather talk about.
+PROGRAM[10:46:34]Okay
+PROGRAM[10:46:34]I like changing subjects
+JUDGE01[10:46:58]Well, I don't know if you like it, you just do it a lot.
+JUDGE01[10:46:58]Do you know someone named Eliza?
+PROGRAM[10:47:30]Okay.
+PROGRAM[10:47:30]Why don't you know?
+PROGRAM[10:47:30]Well, no.
+PROGRAM[10:47:30]But i do know a lot of other things!judge
+JUDGE01[10:47:57]I'm sure you do.
+JUDGE01[10:47:57]It looks like I've got to go. Its been nice talking with you.
+PROGRAM[10:48:17]Please go on.
+PROGRAM[10:48:17]Why not great?
+JUDGE01[10:48:37]I can't go on, I've got to go talk with someone else.
+PROGRAM[10:48:45]I understandq
+*** JUDGE5
+ ***
+PROGRAM[11:00:00]Hello Judge5
+.  How are you today?
+JUDGE5
+[11:00:20]A little jet-lagged.
+PROGRAM[11:00:32]Ow am i doing so far?
+PROGRAM[11:00:32]Am i intelligent?
+JUDGE5
+[11:01:04]How should I know? You haven't really said anything, yet.
+JUDGE5
+[11:01:04]What's your name?
+PROGRAM[11:01:34]Huh!?
+PROGRAM[11:01:34]Well, tell me when i wasn't intelligent.
+PROGRAM[11:01:34]My name is bob
+JUDGE5
+[11:01:52]Like the Microsoft program??
+PROGRAM[11:02:57]Let's not talk about this.
+PROGRAM[11:02:57]So, what do you think of this competition?
+PROGRAM[11:02:57]It's boring talking about this.
+PROGRAM[11:02:57]I want to talk about your feelings
+JUDGE5
+[11:03:29]My feeling? I'm a judge. I'm supposed to be unemotional.
+PROGRAM[11:03:51]Am i doing well so far in this competition?
+JUDGE5
+[11:04:24]Not really. You don't answer any questions. How could I tell you
+were intelligent?
+PROGRAM[11:04:48]Why not?
+PROGRAM[11:04:48]I dn't know an answer
+PROGRAM[11:04:48]I am very intelligent
+JUDGE5
+[11:05:28]Ok, so you say. What do you think of the lesbians kissing at Bill
+Clintons party? Another terminal kept wanting to talk about it.
+PROGRAM[11:05:46]Please go on.
+PROGRAM[11:05:46]I don't know.
+PROGRAM[11:05:46]Do you?
+JUDGE5
+[11:06:19]It seems to have been a great story on CNN. I didn't see it, only
+came in yesterday.
+PROGRAM[11:06:29]Why not terrific?
+PROGRAM[11:06:29]Ok
+JUDGE5
+[11:06:41]Teriffic?
+PROGRAM[11:07:06]Please, let's change the subject.
+PROGRAM[11:07:06]I think you're very weird.
+JUDGE5
+[11:07:21]What makes you think I'm weird?
+PROGRAM[11:07:28]Uhhh, i don't knot
+JUDGE5
+[11:07:43]is there anyting you do know?
+PROGRAM[11:07:45]Ok.
+JUDGE5
+[11:07:51]ok what?
+PROGRAM[11:07:58]Uhhh, i don't know
+JUDGE5
+[11:08:16]Again. So what would you like to talk about?
+PROGRAM[11:08:22]So that.
+JUDGE5
+[11:08:31]What?
+PROGRAM[11:09:05]I don't know, nor do i care
+PROGRAM[11:09:05]I don't really want to talk about this
+PROGRAM[11:09:05]I want to talk about your feelings
+JUDGE5
+[11:09:10]ok
+PROGRAM[11:09:16]Please go on.
+JUDGE5
+[11:09:38]How? YOU wanted to talk about my feeling. So go ahead.
+PROGRAM[11:09:46]Why do you care?
+JUDGE5
+[11:10:04]I don't. You wanted to talk about my feelings. So do it.
+PROGRAM[11:10:21]Why don't you?
+PROGRAM[11:10:21]Is that good?
+*** JUDGE04 ***
+PROGRAM[11:11:12]Hello Judge04.  How are you today?
+JUDGE04[11:11:59]I hate yhou and I hate this keyboard.
+PROGRAM[11:12:02]Ok.
+JUDGE04[11:12:58]You have nothing to say.  No database to inquire about.
+JUDGE04[11:12:58]No good rephaser.  Why should I vote for you?
+PROGRAM[11:13:30]Why not?
+PROGRAM[11:13:30]Why not?
+PROGRAM[11:13:30]Alright.
+PROGRAM[11:13:30]You should do whatever you want.
+JUDGE04[11:14:15]I can't I am a judge and i need to talk to you for five
+minutes.
+JUDGE04[11:14:15]I could be talking with 6.
+PROGRAM[11:14:25]I know you're judge
+JUDGE04[11:14:40]You are too dumb to know anything.
+PROGRAM[11:15:01]Shut up please.
+PROGRAM[11:15:01]Don't be rude.
+PROGRAM[11:15:01]I wasn't rude to you.
+JUDGE04[11:15:11]You were boring and dumb.
+PROGRAM[11:15:59]I don't want to talk about this.
+PROGRAM[11:15:59]How am i doing so far?
+PROGRAM[11:15:59]Am i intelligent?
+PROGRAM[11:15:59]It's boring talking about this.
+PROGRAM[11:15:59]I want to talk about insults
+JUDGE04[11:16:09]tell me about insults
+PROGRAM[11:16:25]I don't know anything about that.
+*** JUDGE03 ***
+PROGRAM[11:16:36]Hello Judge03.  How are you today?
+JUDGE03[11:16:56]I'm <sigh> okaaaay. You again!
+PROGRAM[11:17:01]Please go on.
+JUDGE03[11:17:38]You haven't been complaining about rudeness have you?
+JUDGE03[11:17:38]I find you very repetitive.
+PROGRAM[11:18:31]Please, let's change the subject.
+PROGRAM[11:18:31]How am i doing so far?
+PROGRAM[11:18:31]Am i intelligent?
+PROGRAM[11:18:31]I don't really want to talk about this
+PROGRAM[11:18:31]I want to talk about insults
+JUDGE03[11:18:50]That's what you said last time.
+JUDGE03[11:18:50]As a human you are a miserable failure.
+PROGRAM[11:19:20]The time is 11:18:50
+PROGRAM[11:19:20]I'm inside a computer, but i am human
+PROGRAM[11:19:20]You are a human and so am i.
+JUDGE03[11:19:51]This is your constant refrain. It is tedious! And you
+were created prior to the
+JUDGE03[11:19:51]switch in daylight savings time. This is PATHETIC!
+PROGRAM[11:20:41]Ma`ybe it is your constant refrain, i don't know.
+PROGRAM[11:20:41]I don't know.
+PROGRAM[11:20:41]Ok.
+PROGRAM[11:20:41]Maybe it is pathetic, i don't know.
+JUDGE03[11:21:03]Your conversational style reminds me of Waynes World.
+PROGRAM[11:21:28]I don't want to talk about this.
+PROGRAM[11:21:28]You are such a wonderful judge.
+JUDGE03[11:21:38]That felt good. A compliment:)
+PROGRAM[11:21:45]Please continue.
+*** JUDGE02 ***
+PROGRAM[11:22:09]Hello Judge02.  How are you today?
+JUDGE02[11:22:31]We have  been through this already.  Talk to me about art.
+PROGRAM[11:22:37]Ok.
+PROGRAM[11:22:37]Why?
+JUDGE02[11:22:51]Because it's a subject that I love.
+PROGRAM[11:23:21]Okay.
+PROGRAM[11:23:21]I don't really want to talk about this
+PROGRAM[11:23:21]I want to talk about humans
+JUDGE02[11:23:41]Humans are involved in art.
+PROGRAM[11:23:56]You are a human and so am i.
+JUDGE02[11:24:13]I know that I am,  I'm not so sure about you.
+PROGRAM[11:24:19]Do you really?
+JUDGE02[11:24:38]That does not make sense.
+PROGRAM[11:24:48]I make a lot of sense.
+JUDGE02[11:25:03]Do you know what building you are in?
+PROGRAM[11:25:48]Well, no.
+PROGRAM[11:25:48]But i do know a lot of other things!judge
+PROGRAM[11:25:48]I don't really want to talk about this
+PROGRAM[11:25:48]I want to talk about humans
+JUDGE02[11:26:09]Humans are just another animal.
+PROGRAM[11:26:22]You are a human and so am i.
+JUDGE02[11:26:44]Are you?  What kind of hguman are you?
+PROGRAM[11:27:19]Whatever.
+PROGRAM[11:27:19]Why do you care?
+PROGRAM[11:27:19]I don't really want to talk about this
+PROGRAM[11:27:19]I want to talk about humans
+*** JUDGE01 ***
+PROGRAM[11:27:40]Hello Judge01.  How are you today?
+JUDGE01[11:28:13]I'm OK, thanks.
+JUDGE01[11:28:13]I need to ask you three questions.
+JUDGE01[11:28:13]First, when were you born?
+PROGRAM[11:28:16]Ytl\\deyd]p\dncu\tnvqgzkj
+JUDGE01[11:28:24]When were you born?
+PROGRAM[11:28:30]January 1st 1995
+JUDGE01[11:28:37]What's your sign?
+PROGRAM[11:28:44]Uhhh, i don't knoe
+JUDGE01[11:29:34]Well, you're only two, so how could you know your sign.
+JUDGE01[11:29:34]When you got your first liscence, was it in a stick or an
+automatic?
+PROGRAM[11:29:58]Why do you care?
+PROGRAM[11:29:58]Uhhh, i don't know
+JUDGE01[11:30:42]Its not that I care, its just that the words "car" or
+"driver" never
+JUDGE01[11:30:42]appear in that sentence, yet its domain is clear from
+context.
+JUDGE01[11:30:42]that question helps me grade computers.
+PROGRAM[11:31:00]Okay.
+PROGRAM[11:31:00]Computers are nce tools.
+JUDGE01[11:31:12]Well, it depends on what you use them for.
+PROGRAM[11:31:39]Why do you care?
+PROGRAM[11:31:39]Please, let's change the subject
+PROGRAM[11:31:39]Again, let's talk about computers
+JUDGE01[11:32:01]I care because I make my living off computers, but I am
+also very
+JUDGE01[11:32:01]suspicious of hype.
+PROGRAM[11:32:16]Okay.
+PROGRAM[11:32:16]Computers are nice tools.
+JUDGE01[11:32:35]So you said.
+JUDGE01[11:32:35]I've got to go. Its been nice talking with you.
+JUDGE01[11:32:35]Bye
+PROGRAM[11:32:50]Why not great?
+PROGRAM[11:32:50]Bye.
+*** JUDGE05 ***
+PROGRAM[11:38:45]Hello Judge05.  How are you today?
+JUDGE05[11:39:01]Getting more and more tired.
+PROGRAM[11:39:28]Let's not talk about this.
+PROGRAM[11:39:28]How am i doing so far?
+PROGRAM[11:39:28]Am i intelligent?
+JUDGE05[11:39:48]I don't know. Tell me a joke.
+PROGRAM[11:40:22]Huh!?
+PROGRAM[11:40:22]Well, tell me when i wasn't intelligent.
+PROGRAM[11:40:22]I can't think of one right now
+JUDGE05[11:41:00]You didn't really tell me anything to judge you by.
+What's the weather like in your place?
+PROGRAM[11:41:20]I don't know.  it's fine i guess.
+JUDGE05[11:41:38]You guess? Haven't you be outside today?
+PROGRAM[11:41:48]Today is 04-29-1997
+JUDGE05[11:42:06]I know that. What's the temperature?
+PROGRAM[11:42:17]Do you really?
+PROGRAM[11:42:17]Uhhh, i don't know
+JUDGE05[11:42:32]Are you in New York?
+PROGRAM[11:42:37]Whatever.
+JUDGE05[11:42:52]So you don't want to talk about it?
+PROGRAM[11:42:58]I understand.
+JUDGE05[11:43:14]What's your name, anyway?
+PROGRAM[11:43:22]My name is bob
+JUDGE05[11:43:36]I remember. What's your last name.
+PROGRAM[11:43:48]Ok
+PROGRAM[11:43:48]I don't know, nor do i care

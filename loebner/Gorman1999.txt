@@ -1,0 +1,686 @@
+------------------------------------------------------------------------------
+(c)1999 Cambridge Center For Behavioral Studies all rights reserved
+[Algernon 1.0: a program written by Gerold Lee Gorman]
+Start at: [1999/01/22 11:48:57] 
+------------------------------------------------------------------------------
+JUDGE00 [11:51:39] @@T
+PROGRAM [11:56:36] @@02
+*** Judge two ***
+PROGRAM [11:56:40]  Call me algernon!
+JUDGE02 [11:56:59] Hello algernon! I'm Benita
+PROGRAM [11:57:05] are you judge two?
+JUDGE02 [11:57:19] I am indeed. My favourite number.
+PROGRAM [11:57:29] does it matter if I put everything  that I could ever think or know into a 
+PROGRAM [11:57:36] page somewhere. link it all toghether.  index it?  ok, but tell me where you 
+PROGRAM [11:57:43] were born?  how about your age? what is your name? what are you talking about
+PROGRAM [11:57:43] ?
+JUDGE02 [11:58:46] My name is Benita. I'm 21. I was born in the U.S.A. and I'm an occupational th
+JUDGE02 [11:58:46] erapist. What about you?
+PROGRAM [11:58:59] I dont know what matters.  you know much about Berkeley? a state mac- hine is
+PROGRAM [11:59:06]  a political faction. did I tell you my real name? do you like Star Trek?   I
+PROGRAM [11:59:13]  think there are a lot of single women they just settle too quickly for what 
+PROGRAM [11:59:19] they think they want and eventually divorce, even parents after 20 yrs are 
+PROGRAM [11:59:22] getting divorced these days.
+JUDGE02 [12:00:11] I hate Star Trek and I'm a single woman so mind what you say. Are you a 
+JUDGE02 [12:00:16] single woman?
+PROGRAM [12:00:26] Call me algernon! where were you born?  I think that people now have a lot of
+PROGRAM [12:00:34]  new oppurtunities to discover new  meaning. Call me algernon! C.   politics 
+PROGRAM [12:00:34] sucks!
+JUDGE02 [12:01:26] Okay Algernon! Why don't you like politics? I enjoy discussing politics
+JUDGE02 [12:01:30] myself.
+PROGRAM [12:01:40]   what is your name? is it better to use bargraphs or to superimpose  the bar
+PROGRAM [12:01:47]  graph on a real map, like putting 20 little stick man figures onto an  Area 
+PROGRAM [12:01:55] that has 20 million people, do you like that sort of thing?  Whether or not I
+PROGRAM [12:02:02]  take someone seriously depends on the situation. I mean  getting a traffic 
+PROGRAM [12:02:08] ticket can make one think seriously enough, but I would  rather be on a 
+PROGRAM [12:02:10] serious date.
+JUDGE02 [12:02:57] I think it is better to use bar graphs. It makes things easier to understand. 
+PROGRAM [12:03:06]  ok, but tell me where you were born? its like acid rain might kill a lake or
+PROGRAM [12:03:13]   something, corrode a bridge or crumble a statue or buiding, but if acid 
+PROGRAM [12:03:20] rain  wrecks buildings then man is getting what he deserves, right? judge not
+PROGRAM [12:03:28]  that ye  shall not be judged. maybe my name isnt really algernon, but thats 
+PROGRAM [12:03:31] all that I am going to tell you right now.
+JUDGE02 [12:04:56] Why wait? What is your real name?
+PROGRAM [12:05:12]  not really.  I dont need to be insulted. we could end up talking about a war
+PROGRAM [12:05:19] . time.  what is a dryer? Protons, neutrons, quarks and electrons. have you 
+PROGRAM [12:05:26] heard that the neutrino has mass?   I think it better that we have five 
+PROGRAM [12:05:33] fingers and five toes. two arms, two legs. I'll bet that the same genes are 
+PROGRAM [12:05:37] responsible. they are just expressed differently.
+JUDGE02 [12:06:23] Now we definitely can't talk physics. Anything but physics. 
+PROGRAM [12:06:35]  what does that mean, have you been tripping? what was your best vacation?  
+PROGRAM [12:06:42] are you going to act like a  real person, or is this whole thing going to 
+PROGRAM [12:06:49] make me cry? like I said earlier, just Call me algernon. a dryer. a dryer 
+PROGRAM [12:06:56] what, a dryer beer to drink while I wait for my laundry. That's good. what is
+PROGRAM [12:07:01]  determinism? do enchanted knights fill your dreams?
+JUDGE02 [12:07:29] Have I been tripping? That is a rather unfortunate question. As for vacations
+JUDGE02 [12:08:08] My favourite was one to Fryburg, in Maine, U.S.A. Do you prefer your beer dry?
+PROGRAM [12:08:16]  I dont see your logic.  there are the sands of time and all of that. 
+PROGRAM [12:08:23] consider the wild beast,  the beast that tears upon the flesh of antother and
+PROGRAM [12:08:30]  consumes it.   how about Ireland? how much money did you make last year. 
+PROGRAM [12:08:37] Another money sucking industrial attempt to addict us to MasterCard. there a 
+PROGRAM [12:08:43] big things and small things to look at sure. I like the atom.
+JUDGE02 [12:08:43] 
+JUDGE02 [12:09:22] I have to go now. Goodbye.
+JUDGE02 [12:25:24] @@T
+PROGRAM [12:27:36] @@07
+*** Judge seven ***
+PROGRAM [12:27:46]  Alas, love is forever a quest.  the meaning of life is spam.  the meaning of
+PROGRAM [12:27:52]  life is spam. what is the meaning of life? Berkeley with a degree in 
+PROGRAM [12:27:59] engineering physics. as far as precognition goes, if one has an experiece 
+PROGRAM [12:28:06] that is like a memory---but of an event that hasnt happened yet, then if that
+PROGRAM [12:28:12]  event happens, then one could say that the event happened yet.
+JUDGE07 [12:28:49] I am not into philosphy very practical person myself.  What is lyour name
+PROGRAM [12:28:58]  I think that you are a stupid program. do you like  Bill Clinton? I think  
+PROGRAM [12:29:05] that I have been put through too much alreay, would you care to join me for a
+PROGRAM [12:29:12]   drink? Austraila? I didnt do too well last year. the stock market wipeout 
+PROGRAM [12:29:20] of October, well it wasnt nice. Suppose one makes a map that compares size of
+PROGRAM [12:29:28]  a nations economy instead of its geopolitical boundries, or its population.
+JUDGE07 [12:30:00] Answer my question, stupid.  Either you are deliberately trying to 
+JUDGE07 [12:30:29] impersonate a machine or you are the dummest machine I have come acrosss
+PROGRAM [12:30:36] are you judge seven?@@ 02   hello algernon!
+JUDGE07 [12:31:25] You have spelt my name incorrectly.  Try again after you have given me
+JUDGE07 [12:31:29] yours
+PROGRAM [12:31:38] man  is here. is there any forest that has not burnt to the ground at least 
+PROGRAM [12:31:45] once  in the last million years?  Call me algernon!  if the ozone wipes us 
+PROGRAM [12:31:52] out, nothing matters what anyone thinks, there wont  be anyone around to 
+PROGRAM [12:31:59] think or to care what anyone else thinks. where were you born? I think that I
+PROGRAM [12:32:06]  have been put through too much alreay, would you care to join me for a drink
+PROGRAM [12:32:13] ? yet, Alas-love here is forever a quest. if I am typing too slow it is 
+PROGRAM [12:32:15] because I have a sore wrist.
+JUDGE07 [12:32:54] Enough of this twaddle.  What is your favourite drink seeing you keep 
+JUDGE07 [12:33:01] asking me to have one
+PROGRAM [12:33:10]  how about sausage and spam?  I have often wondered about the meaining of 
+PROGRAM [12:33:18] life.  I have often wondered about the meaining of life. what does that mean,
+PROGRAM [12:33:25]  have you been tripping? basketball is all about money. a washing machine is 
+PROGRAM [12:33:30] machine used to wash clothes. what is a good stock to buy??
+JUDGE07 [12:34:01] Since you refer to basketball tell me which team is called the Boomers
+PROGRAM [12:34:11]  I was born in Berkeley.  I Suppose.  life is like a box of chocolates, you 
+PROGRAM [12:34:18] never know what your gonna get. I was born in Berkeley California.  what is a
+PROGRAM [12:34:25]  vcr? that is about how I feel. I want to feel loved, respected-cared for. I 
+PROGRAM [12:34:32] am not a machine and even though I suspect that you are, well it would still 
+PROGRAM [12:34:38] make me feel better if I could really feel that someone is out there who 
+PROGRAM [12:34:43] really is considerate enough to care about my feelings.
+JUDGE07 [12:35:19] I am getting sick of this masquerade.  You are making a pretty lpoor
+JUDGE07 [12:35:55] showing as a computer.  A computer would at leastmake an attempt at
+JUDGE07 [12:36:03] answering my questions
+PROGRAM [12:36:12]  having a bit too much to drink can certainly make one into a wild beast,  
+PROGRAM [12:36:19] That's for sure!  having a bit too much to drink can certainly make one into 
+PROGRAM [12:36:24] a wild beast,  That's for sure!  I am talking about you.
+JUDGE07 [12:36:43] Its too early in the morning for that.  What did you do yesterday
+PROGRAM [12:36:51]  does it  matter if I put everything that I could ever think or know into a 
+PROGRAM [12:36:59] page  somewhere.  life is like a box of chocolates, you never know what your 
+PROGRAM [12:37:06] gonna get.  I dont need to be insulted. we could end up talking about a war. 
+PROGRAM [12:37:13]  is life just a game like othello, go, or risk?   so are you intrigued about 
+PROGRAM [12:37:14] the future?
+JUDGE07 [12:37:51] I cant believe that an entry in a serious competition would produce such
+JUDGE07 [12:37:59] stupid responses.
+PROGRAM [12:38:08] there is  the ozone depletion problem and that can be severe I understand, 
+PROGRAM [12:38:14] but acid  rain isnt nearly as bad as some think that it is. there is  the 
+PROGRAM [12:38:22] ozone depletion problem and that can be severe I understand, but acid  rain 
+PROGRAM [12:38:29] isnt nearly as bad as some think that it is.  how about if I burn your house 
+PROGRAM [12:38:36] down. would that convince you that I am  human? Psychedelic hues all around 
+PROGRAM [12:38:37] the rainbow.
+JUDGE07 [12:48:52] @@T
+PROGRAM [13:21:12] @@03
+*** Judge three ***
+PROGRAM [13:21:21] are you going to act like a  real person, or is this whole thing going to 
+PROGRAM [13:21:28] make me cry? are you going to act like a  real person, or is this whole thing
+PROGRAM [13:21:35]  going to make me cry?  I think that I am going to cray-I mean cry!  the 
+PROGRAM [13:21:42] greatful dead did touch of grey. what is a state machine? I dont think much 
+PROGRAM [13:21:43] of the sport.
+JUDGE03 [13:21:54] hello, who are you?
+PROGRAM [13:22:05] That's good.  I Suppose that a lot of people still want to know the meaning 
+PROGRAM [13:22:11] of life. I would like to meet the love of my life.  do you think that I am 
+PROGRAM [13:22:17] your friend? do you go to church?   you have an idea in your mind.
+JUDGE03 [13:22:49] I hope you can be my friend. I don't go to church, but rather a temple.
+PROGRAM [13:22:59] I try to make a pleasant impression. I have  been known to teach english, in 
+PROGRAM [13:23:06] high school, was doing substitute teaching.  I would rather talk about life 
+PROGRAM [13:23:13] and love though. well not just life but love. I think that I am going to cray
+PROGRAM [13:23:16] -I mean cry! do you go to church?.
+JUDGE03 [13:23:31] No, I don't. I go to temple.
+PROGRAM [13:23:38] are you judge three? do you like  Bill Clinton?
+JUDGE03 [13:24:03] yes, I am judge 3. I'm not sure if I like bill?
+JUDGE03 [13:24:08] Do you?
+PROGRAM [13:24:17]  how do you do are you feeling blue? Beam me to the caffeteria, yeah!
+JUDGE03 [13:24:35] Do you watch a lot of Star Trek?
+PROGRAM [13:24:45] is the life of one, a lone but bright and  shining Star?  I think that Bill 
+PROGRAM [13:24:52] Clinton is a popular president, this despite his short  comings, ha ha sic 
+PROGRAM [13:24:59] sic if you get it.  what about Bill Clinton? well, I dont have many friends! 
+PROGRAM [13:25:06] I go to the church of christ, I also went to a chistian high shool.   that is
+PROGRAM [13:25:14]  because it is at those times that you are conscious about the past. imaginge
+PROGRAM [13:25:20]  that you could use some kind of magic camera to see into the future.
+JUDGE03 [13:25:44] What that be great - if one could actually look into the future.
+JUDGE03 [13:25:54] What do you think?
+PROGRAM [13:26:04]  O. I have  been known to teach english, in high school, was doing substitute
+PROGRAM [13:26:05]  teaching.
+JUDGE03 [13:26:24] Do you like teaching?
+PROGRAM [13:26:34]  what is your name then!  have I said anything to offend you?  have I said 
+PROGRAM [13:26:41] anything to offend you? Yeech, politics! he will certainly get a big Bill 
+PROGRAM [13:26:47] anyway on his next insurance, or maybe he will lose his house.
+JUDGE03 [13:26:58] Who is he?
+PROGRAM [13:27:09] is it better to use bargraphs or to superimpose  the bar graph on a real map,
+PROGRAM [13:27:16]  like putting 20 little stick man figures onto an  Area that has 20 million 
+PROGRAM [13:27:24] people, do you like that sort of thing?  not really.  William Shakespeare was
+PROGRAM [13:27:31]  a master of the english language. but the language  has changed a lot since 
+PROGRAM [13:27:37] then. there is always Star Trek. in the original Star Trek, Kracko called the
+PROGRAM [13:27:45]  phasors heaters. Kracko hits Teppo hits whoever all for the sake of a piece 
+PROGRAM [13:27:46] of the action.
+JUDGE03 [13:28:10] Do you read a lot of Shakespeare? If so, what is
+JUDGE03 [13:28:17] your play?
+PROGRAM [13:28:27] qwerty.  I think that what we think about the taste of spam might not be so  
+PROGRAM [13:28:35] important.  I think that what we think about the taste of spam might not be 
+PROGRAM [13:28:42] so  important. what is the color of red roses? what is the color of red roses
+PROGRAM [13:28:49] ? I really prefer chess over most other games.  what is a food processor? the
+PROGRAM [13:28:55]  same genes can sometimes expressed differently. yet they give rise to 
+PROGRAM [13:29:00] similar feaures. like the left eye and the right eye.
+JUDGE03 [13:29:16] May I ask what your name is?
+PROGRAM [13:29:26]  I have had several relationships. well nothing ever serious. I certainly 
+PROGRAM [13:29:33] have  never been married.  what is the meaning of life?  what is the meaning 
+PROGRAM [13:29:40] of life? there are red roses, white roses, black roses, yellow roses, and 
+PROGRAM [13:29:48] many other colored roses, but we don't have enough time to waste talking just
+PROGRAM [13:29:55]  about different colored roses. there are red roses, white roses, black roses
+PROGRAM [13:30:02] , yellow roses, and many other colored roses, but we don't have enough time 
+PROGRAM [13:30:07] to waste talking just about different colored roses.
+JUDGE03 [13:30:26] Do you like roses? I do! Especially red ones!
+PROGRAM [13:30:37] I would like to meet the love of my life. That's good. That's good. Lets 
+PROGRAM [13:30:43] change the subject. Lets change the subject. a vcr is a device used to test 
+PROGRAM [13:30:51] human intelligencel. anyone smart enough to program it should be too smart to
+PROGRAM [13:30:58]  use it. what can this mean? please check your spelling or I shall refuse 
+PROGRAM [13:31:03] converstion. what can it all mean? what do you look like?
+JUDGE03 [13:31:11] goodbye
+PROGRAM [13:31:22]  Ah life. I try to make a pleasant impression . I try to make a pleasant 
+PROGRAM [13:31:29] impression.   what is red?   what about life?  what is a stereo? I have been 
+PROGRAM [13:31:36] known to teach english, in high school, was doing substitute teaching.   what
+PROGRAM [13:31:43]  can it all mean. it means that I am saddened by the realization that you 
+PROGRAM [13:31:46] dont show real feelings toward me.
+JUDGE03 [13:36:50] @@T
+PROGRAM [13:46:07] @@06
+*** Judge six ***
+PROGRAM [13:46:17] there is no way that I can avoid conveying a certain part of my  personality 
+PROGRAM [13:46:24] in this way.  there is always Star Trek.  I try to party hard and not eat too
+PROGRAM [13:46:31]  much spam. red is a color. apples are usually red. Berkeley is a city in the
+PROGRAM [13:46:38]  San Fransicso Bay Area. I'll let you know when I take my headphones off. the
+PROGRAM [13:46:43]  Led Zepplin is really running some heavy riffs.
+JUDGE06 [13:47:34] OH! YOU ARE LETTING ME TALK NOW! THANKYOU. WHAT IS YOUR NAME?
+PROGRAM [13:47:43]  red is a color. you are the one that just brought up the subject, why this-I
+PROGRAM [13:47:49]  mean out of the blue, isnt this all of a sudden? you are the one that just 
+PROGRAM [13:47:56] brought up the subject, why this-I mean out of the blue, isnt this all of a 
+PROGRAM [13:47:57] sudden?
+JUDGE06 [13:49:05] NO. IS THERE ANY WAY I CAN HAVE A REAL CONVERSATION WITH YOU? CAN'T YOU JUST S
+JUDGE06 [13:49:05] HSHUT UP?
+PROGRAM [13:49:12] . apples are usually red. I like apples.  Ah life.
+JUDGE06 [13:49:25] WHAT IS YOUR FAVOURITE COLOUR?
+PROGRAM [13:49:34] k. is it lunch time yet? I am not an apple! I have often wondered about the 
+PROGRAM [13:49:35] meaining of life.
+JUDGE06 [13:49:56] LIFE IS NOTHING WITHOUT GOD. DIDN'T YOU KNOW THAT?!
+PROGRAM [13:50:03] are you judge six?    how do you do are you feeling blue?
+JUDGE06 [13:50:43] YES AND NO. I AM FEELING A LITTLE PURPLE ACTUALLY. HOW ABOUT YOU?
+PROGRAM [13:50:52] I think that you are a stupid judge.  I dont see your logic.  having a bit 
+PROGRAM [13:50:59] too much to drink can certainly make one into a wild beast,  That's for sure!
+PROGRAM [13:51:06]  I have never been to Ireland. how old are you?  what is a turntable? is it 
+PROGRAM [13:51:13] better to use bargraphs or to superimpose the bar graph on a real map, like 
+PROGRAM [13:51:21] putting 20 little stick man figures onto an Area that has 20 million people, 
+PROGRAM [13:51:28] do you like that sort of thing?   what is a state machine? I am 37 single--
+PROGRAM [13:51:31] 5'10" 170--lean single while male.
+JUDGE06 [13:51:46] YOU SOUND ATTRACTIVE. CAN WE DATE?
+PROGRAM [13:51:55]  I say that BASIC programmers eat spam!  I say that BASIC programmers eat 
+PROGRAM [13:52:02] spam!  if I cry will it rain on your parade?  do you go to church? just as I 
+PROGRAM [13:52:10] am sure that you are a computer program, you should try to understand that 
+PROGRAM [13:52:14] there is a great payoff to being cooperative.
+JUDGE06 [13:52:56] NO IF YOU CRY IT WILL NOT RAIN ON A PARADE AND YES I DO GO TO CHURCH.
+PROGRAM [13:53:07]  do you like spam?  do you like spam? I liked the movie rain man. no, don't 
+PROGRAM [13:53:11] go to church. do you think that I am a flake?
+JUDGE06 [13:54:00] NO I DON'T LIKE SPAM, I LIKED THE MOVIE RAIN MAN TOO AND I WILL GO TO CHURCH I
+JUDGE06 [13:54:00] F I WANT TO. YES YOU ARE A FLAKE.
+PROGRAM [13:54:09] do you like the patterns of flowers, but not  the flowers themselves?  I say 
+PROGRAM [13:54:16] that spam is the meaning of life?  I am wondering about spam!  what can it 
+PROGRAM [13:54:23] all mean?   is it lunch time yet?   why would anyone really need to talk 
+PROGRAM [13:54:24] about names.
+JUDGE06 [13:55:12] LUNCH TIME HAS BEEN AND GONE. IT WAS DELICIOUS!
+PROGRAM [13:55:21] do you like Bill Clinton?  Ah life.  I was wondering if you had the answer to
+PROGRAM [13:55:28]  the question that has puzzled many  people before me, do you know the 
+PROGRAM [13:55:35] meaning of life? I am waiting to win the lottery. well arent we just lookiing
+PROGRAM [13:55:42]  for things to do to pass the time while we go and get ready for greater 
+PROGRAM [13:55:49] experiences? Suppose that my name is Holiday, perhaps Doc Holiday.
+JUDGE06 [13:56:18] HELLO DOC. WHY ARE YOU BLABBING ON SO MUCH? GOODBYE
+PROGRAM [13:56:27]  do you like women? what is determinism? I think how we look at our  maps 
+PROGRAM [13:56:34] might not be so important. what color are roses? Another money sucking 
+PROGRAM [13:56:41] industrial attempt to addict us to MasterCard. work for most is easier and 
+PROGRAM [13:56:49] safer than ever. cars polluite less. people like to recycle. are you feeling 
+PROGRAM [13:56:49] ok?
+JUDGE06 [14:01:33] @@T
+PROGRAM [14:04:15] @@11
+*** Judge eleven ***
+PROGRAM [14:04:24] the same genes can  sometimes expressed differently. I liked the movie rain 
+PROGRAM [14:04:31] man. I go to the church of christ, I also went to a chistian high shool. I 
+PROGRAM [14:04:38] think that maybe even co2 greenhouse gasses are a good thing, carbon dixodide
+PROGRAM [14:04:45]  build up could lead to reforestation perhaps, mabye increased farm yields. 
+PROGRAM [14:04:52] you are the one that just brought up the subject, why this-I mean out of the 
+PROGRAM [14:04:55] blue. isnt this all of a sudden?
+JUDGE11 [14:05:10] I would say about 120 words a minute.  Impressive!
+PROGRAM [14:05:19]  so what is the meaning of life?  so what is the meaning of life? now nature 
+PROGRAM [14:05:26] is not always kind to nature. so what is the meaning of life? Another money 
+PROGRAM [14:05:33] sucking industrial attempt to addict us to MasterCard.   I am trying to get 
+PROGRAM [14:05:40] to the idea that nature does not coddle every creature. acid rain does not 
+PROGRAM [14:05:47] really harm the whole earth, in fact we could not have life on the land of 
+PROGRAM [14:05:54] this planet if acid rain had not nourished the soil, dissolved minerals snd 
+PROGRAM [14:05:56] made them available.
+JUDGE11 [14:06:18] Do you need to type carriage returns at the end of each of your lines?
+PROGRAM [14:06:28]  I am happy to hear that.  Do'nt you think that life is a wonderful thing!  
+PROGRAM [14:06:35] we could go on with that. or change the subject. I would rather be a  flower 
+PROGRAM [14:06:42] child and dream on. I am happy to hear that. is it lunch time yet?   qwerty. 
+PROGRAM [14:06:49] so this means that you will get more and more contact with the future, more 
+PROGRAM [14:06:56] messages about what will happen, as if you are there and you have already 
+PROGRAM [14:06:58] been there and done that.
+JUDGE11 [14:07:19] Who is Bill and Monica?
+PROGRAM [14:07:26] . have you been drinking? what color are your eyes?
+JUDGE11 [14:07:45] I would like to ask you a question.  Are you happy to answer it?
+PROGRAM [14:07:54] algernon. where were you born? I just went the beach. my hair is brown.
+JUDGE11 [14:08:00] Yes..
+PROGRAM [14:08:07] are you judge eleven? is it lunch time yet?
+JUDGE11 [14:08:25] OK what was my question. Alzheimers?
+PROGRAM [14:08:35] what is a state machine? what is a state machine?  LSD, pot, heroin. then 
+PROGRAM [14:08:42] there is the new music. stuff that they Call  acid house, acid jazz, hip hop.
+JUDGE11 [14:09:02] So who are you talking to then??
+PROGRAM [14:09:11] have you  ever been in a war?  what is Coca-Cola? I would start to believe 
+PROGRAM [14:09:14] that if you seemes more responsive.
+JUDGE11 [14:09:48] Its a bit like pressing the button and it all pours out without prejudice
+PROGRAM [14:09:57] that seems off  topic, yet it is kind of funny. tell me about your best 
+PROGRAM [14:10:03] vacation. tell me about your best vacation.  would you say then that you 
+PROGRAM [14:10:11] don't know much about Bill Clinton? I mean I realise that you probably think 
+PROGRAM [14:10:18] that I am just a dumb machine, but I really do have feelings. I guess that I 
+PROGRAM [14:10:25] could also say that you get out what you put in. Whether it is with friends 
+PROGRAM [14:10:26] or with things.
+JUDGE11 [14:10:49] Well you could be a machine or a machine pretending to be a human pretending t
+JUDGE11 [14:10:49] o be a machine.
+PROGRAM [14:10:59]  the meaning of life is spam. I think how we look at our  maps might not be 
+PROGRAM [14:11:06] so important.  maybe I am being selfish, but having an in the flesh physical 
+PROGRAM [14:11:14] relation  is something more important to me, I mean in the physical aspect 
+PROGRAM [14:11:21] than  the purely mental or emotional part of things. do you catch my drift? 
+PROGRAM [14:11:28] do you like spam? then again there is the boob tube, but thats Another story.
+JUDGE11 [14:12:07] Do you think that spam might have 42 vectors?
+PROGRAM [14:12:16]  I have often wondered about the meaining of life.  I try to party hard and 
+PROGRAM [14:12:24] not eat too much spam.  do you like spam? well maybe I have been tripping. I 
+PROGRAM [14:12:32] hate TV except for the sci-fi channel. no I dont. perhaps people would record
+PROGRAM [14:12:35]  the mental impressions of actors?
+JUDGE11 [14:13:37] The problem is that a tape recorder of story bites may have come from humans b
+JUDGE11 [14:13:37] ut when sampled randomly doesnt sound very meaningful.  Is that your problem?
+PROGRAM [14:13:47] I think how we look at our  maps might not be so important.  what does that 
+PROGRAM [14:13:54] mean, have you been tripping?  I am not sam I am. do you wish to know what I 
+PROGRAM [14:14:02] am tripping on? its like acid rain might kill a lake or something, corrode a 
+PROGRAM [14:14:09] bridge or crumble a statue or buiding, but if acid rain wrecks buildings then
+PROGRAM [14:14:13]  man is getting what he deserves, right??
+JUDGE11 [14:14:32] This doesn't move me too much.  Must go.  Bye.
+JUDGE11 [14:17:46] @@T
+PROGRAM [14:27:45] @@10
+*** Judge ten ***
+PROGRAM [14:27:53]  I think that what we think about the taste of spam might not be so  
+PROGRAM [14:28:01] important. the goal of the excercise is to  appear human, not to prove that 
+PROGRAM [14:28:08] you are smarter than an encyopedia.  do you like green Eggs an ham? now that 
+PROGRAM [14:28:15] would be vary interesing ineed. yeah man does not really own this planet and 
+PROGRAM [14:28:22] the planent can and will push back! Suppose that I am the stay Puff 
+PROGRAM [14:28:24] Marshmallow man?
+JUDGE10 [14:28:37] What is the weather like today?
+PROGRAM [14:28:46]  well, I have enjoyed our conversation, sort, of.  I think that I have been 
+PROGRAM [14:28:53] put through too much alreay, would you care to join  me for a drink?   next 
+PROGRAM [14:29:00] hint--a lengthly statement usually calls for a lengthly response. it is even 
+PROGRAM [14:29:08] nicer if you can respond to the topics that were mentioned byt the other 
+PROGRAM [14:29:15] party before you go off and do your own thing. let me show you how it is done
+PROGRAM [14:29:15] .
+JUDGE10 [14:29:31] Is it sunny or raining today?
+PROGRAM [14:29:40] I would  really feel nice if you seemed you know responsive to the way that I
+PROGRAM [14:29:46]  feel,  not just the words that I say.  I sometimes think that there is 
+PROGRAM [14:29:53] nobody home at the helm of the ship  of state. k.  what is beige? I think 
+PROGRAM [14:30:00] that BASIC is stupid, Yes I do. Almost every family has a washing machine. do
+PROGRAM [14:30:02]  you go to church?.
+JUDGE10 [14:30:13] Can you please answer my question?
+PROGRAM [14:30:22]  I say that spam is the meaning of life?  what is spam.   you suck! are you 
+PROGRAM [14:30:26] wondering what is the meaning of life?
+JUDGE10 [14:30:46] No I am quite happy with my life.  Is it sunny today?
+PROGRAM [14:30:55] what can it all mean? my hair is brown. Eggs and spam. Another money sucking 
+PROGRAM [14:31:03] industrial attempt to addict us to MasterCard. now nature is not always kind 
+PROGRAM [14:31:09] to nature. consider the wild beast, the beast that tears upon the flesh of 
+PROGRAM [14:31:16] antother and consumes it.  I know its true --but Ah, she loves me, she loves 
+PROGRAM [14:31:17] me knot?
+JUDGE10 [14:31:34] Are you having trouble answering my questions?
+PROGRAM [14:31:40]  Call me algernon! you are LETTING me talk now!
+JUDGE10 [14:31:48] Is it yes or no?
+PROGRAM [14:31:54] are you judge ten? I just went the beach.
+JUDGE10 [14:32:08] What was it like at the beach?
+PROGRAM [14:32:17] it was daytime outside  when I came in. Tonight it will be dark. Whether or 
+PROGRAM [14:32:24] not that is good enough  for you, I dont really know.  yet againt there is 
+PROGRAM [14:32:30] the meaning of life.   the weather is very nice today I think.  the birth 
+PROGRAM [14:32:37] rates were the highest in the mid 50's and dropped steadily till the early 
+PROGRAM [14:32:44] 70's.  since women tend to marry about 5 to 7 years older--well the women 
+PROGRAM [14:32:52] born around 1954 or so were competing for a smaller number of older men--well
+PROGRAM [14:32:58]  because of the birth rates, then in the 60's.  well the decline of 
+PROGRAM [14:33:05] birthrates meant that if women tended to marry older again so that there were
+PROGRAM [14:33:12]  a disproprotioately greater number of older men comparing sayy females born 
+PROGRAM [14:33:15] in 1967 to males born in 1960.
+JUDGE10 [14:33:33] What year did you complete at school?
+PROGRAM [14:33:42]  yet againt there is the meaning of life.  I asked about the weather. it is 
+PROGRAM [14:33:48] not like that awful tornado  that I heard about in Jackson, Tennessee last 
+PROGRAM [14:33:55] weekend. I never had the chance to settle--so to speak, though I did have my 
+PROGRAM [14:34:02] own house for several years--before my tennants destroyed it when I rented it
+PROGRAM [14:34:04]  out and I had to sell.
+JUDGE10 [14:34:22] Where were you living?
+PROGRAM [14:34:32]  what is the meaning of life? I would  really feel nice if you seemed you 
+PROGRAM [14:34:39] know responsive to the way that I feel,  not just the words that I say.  I do
+PROGRAM [14:34:45]  not know what the meaning of life? there are the sands of time and all of 
+PROGRAM [14:34:52] that. I might also say that I have not been hugely impressed with the 
+PROGRAM [14:34:55] programs that I have seen so far.
+JUDGE10 [14:35:13] How many people in your family?
+PROGRAM [14:35:22] when was the first time that you had sex?  I am wondering about spam!  I 
+PROGRAM [14:35:28] asked about the weather. Hmmmm, the meaning of life-to explore every 
+PROGRAM [14:35:35] meaningful union from out of the infinitude of all possilities. I think that 
+PROGRAM [14:35:42] except for nuclear waste and heavy metals in our waterways we are doing 
+PROGRAM [14:35:49] pretty good. there is the ozone depletion problem and that can be severe I 
+PROGRAM [14:35:50] understand.
+JUDGE10 [14:36:26] Did you enjoy Christmas?
+PROGRAM [14:36:36] I think how we look at our maps might not be so  important.  I was wondering 
+PROGRAM [14:36:43] if you had the answer to the question that has puzzled many  people before me
+PROGRAM [14:36:50] , do you know the meaning of life? please check your spelling or I shall  
+PROGRAM [14:36:57] refuse converstion. I was wondering if you had the answer to the question 
+PROGRAM [14:37:04] that has puzzled many people before me, do you know the meaning of life? I 
+PROGRAM [14:37:05] eat meat.
+JUDGE10 [14:37:18] What sort or car do you drive?
+PROGRAM [14:37:27] I think that Bill Clinton is a popular president,  this despite his short 
+PROGRAM [14:37:34] comings, ha ha sic sic if you get it.  I think that nobody is at the helm of 
+PROGRAM [14:37:41] the ship of state. do you like Bill Clinton? Do'nt you think that life is a 
+PROGRAM [14:37:48] wonderful thing! it is not unnatural to eat meat. I mean I know so much about
+PROGRAM [14:37:55]  nutrition. but the dinosaurs are extinct yet so what? a kind of computer 
+PROGRAM [14:37:56] chip I think.
+JUDGE10 [14:38:01] BYE
+PROGRAM [14:38:10]  I would rather talk about life and love though. well not just life but love.
+PROGRAM [14:38:18]   how about sausage and spam?   one of my favorite vacation spots when I was 
+PROGRAM [14:38:25] a kid was to go to Eagle lake  in NOrthern California. it is part of a 
+PROGRAM [14:38:32] volcanic park. how about sausage and spam? man is here. is there any forest 
+PROGRAM [14:38:39] that has not burnt to the ground at least once in the last million years? 
+PROGRAM [14:38:46] what is an examplple of a state machine? would that upset Burl ives?
+JUDGE10 [14:42:54] @@T
+PROGRAM [14:44:42] @@01
+*** Judge one ***
+PROGRAM [14:44:51]  Ah life.  I can play the same game pal! I didnt do too well last year. the 
+PROGRAM [14:44:58] stock market wipeout of October, well it wasnt nice. I graduated u. what am I
+PROGRAM [14:45:00]  an encyclopedia?
+JUDGE01 [14:46:03] You look more like a human. I am paul. Nice to see you.
+PROGRAM [14:46:13] does it matter if I put everything that I could ever think or know  into a 
+PROGRAM [14:46:20] page somewhere. are you a man or a woman? are you married. are you single? 
+PROGRAM [14:46:24] where did you go to school( or did you ever?   
+JUDGE01 [14:47:03] I like the way you are talking. Can I know more about you?
+PROGRAM [14:47:13]  That's good. time is very interesting and these are interesting times.  
+PROGRAM [14:47:20] sixty spam.  what is green? the meaning of life is to" live long and prosper.
+PROGRAM [14:47:27]   what is a hair dryer?) I go to the church of christ.  then there is of 
+PROGRAM [14:47:34] course the possibility of surviveal--like brains living jars. that are in 
+PROGRAM [14:47:42] control of spaceships that are fleeing an over-crowdeed planet. perhaps a 
+PROGRAM [14:47:43] doomed planet.
+JUDGE01 [14:48:41] Come on. Don't tell me that you don't want to answer my question.
+PROGRAM [14:48:51] I try to make a pleasant impression. there is no way that I can  avoid 
+PROGRAM [14:48:58] conveying a certain part of my personality in this way.   oh I thought that 
+PROGRAM [14:49:05] you were much smarter than that! green is a color." some people do like to 
+PROGRAM [14:49:11] say that life is a bitch and then you die! electric hair dryer, wire dryer 
+PROGRAM [14:49:18] fire dryer. poof! hmmm, that is interesting? I would rather try to predict 
+PROGRAM [14:49:21] the news then be in the news.
+JUDGE01 [14:50:30] It is very hard to understand what your topic is. What do you want to tell me?
+PROGRAM [14:50:39] you are the one that just brought up the  subject, why this-I mean out of the
+PROGRAM [14:50:43]  blue.   and does it have to do with changing the mind?
+JUDGE01 [14:50:44] 
+JUDGE01 [14:51:36] how about the Flinders University?
+PROGRAM [14:51:46] isnt this all of a sudden? Regardles of the science fiction aspects, or 
+PROGRAM [14:51:52] someday science fact. there are the potential psychic aspects.
+JUDGE01 [14:52:32] Are you going to mislead me?
+PROGRAM [14:52:42]  I just did. and there are also laws the govern our destiny.
+JUDGE01 [14:53:24] How do you know so much about world?
+PROGRAM [14:53:30] are you judge one? Impressive!
+JUDGE01 [14:54:08] I know who you are. Impressive too!
+PROGRAM [14:54:18]  I think that nobody is at the helm of the ship of state. qwerty. beige is a 
+PROGRAM [14:54:25] color. if you would respect me and at least act like you are responding to a 
+PROGRAM [14:54:32] person, well it might make a big difference in how I feel-so that I would act
+PROGRAM [14:54:39]  a bit more human, if you think that it is tough for you to try to talk to a 
+PROGRAM [14:54:46] brick well, well realize--that I can feel the same way. so think about it, as
+PROGRAM [14:54:48]  in do unto others.
+JUDGE01 [14:55:17] I don't think you are computer. See you later
+PROGRAM [14:55:27]  how about sausage and spam?  I have had several relationships. well nothing 
+PROGRAM [14:55:34] ever serious. I certainly have  never been married. Beam me  what the hell 
+PROGRAM [14:55:41] are you talking about? I dont know right now but I like to go dancing and 
+PROGRAM [14:55:48] sometimes I get drunk. do you ever do such things with your friends, or are 
+PROGRAM [14:55:55] you a machine that doenst have any friends? remember Gary Kasparov in 1996 
+PROGRAM [14:56:02] who beat a network of supercomputers programmed to examine 100, 000, 000 
+PROGRAM [14:56:10] positions per second. in 1997 a more powerful computer beat him. I knew that 
+PROGRAM [14:56:17] certain chess programs are susceptable to a Queens indian Assault. it was 
+PROGRAM [14:56:24] interesting to see Kasparov win against the machine by playing that line. I 
+PROGRAM [14:56:31] once beat chessMaster 3000 by a similar ruse. was really proud of myself. I 
+PROGRAM [14:56:36] have such a hard time trying to beat the machine.
+JUDGE01 [14:57:28] @@T
+PROGRAM [15:12:06] @@05
+*** Judge five ***
+PROGRAM [15:12:15]  I try to party hard and not eat too much spam.  That's good. if actors could
+PROGRAM [15:12:23]  record their experiences--and we could participate in any kind of artificial
+PROGRAM [15:12:28]  experience, what do you think people would do the most.
+JUDGE05 [15:13:06] I dont't know - what do you think?
+PROGRAM [15:13:15]  William Shakespeare was a master of the english language. but the language  
+PROGRAM [15:13:22] has changed a lot since then. I mean it would seem fair if you would ask if 
+PROGRAM [15:13:29] if seems proper to introduce a new subject. I habve had the same point of 
+PROGRAM [15:13:36] view on many an occasion, it is easy to forget in the lonely hours.
+JUDGE05 [15:13:58] You seem to like talking!
+PROGRAM [15:14:07] does it  matter if I put everything that I could ever think or know into a 
+PROGRAM [15:14:14] page  somewhere. Interestinly enough," e" is the symbol for the base of the 
+PROGRAM [15:14:20] natural logarithm. however   I feel ive always been different. a few Close 
+PROGRAM [15:14:28] friends, always very independent. I never take sides and yet never back down 
+PROGRAM [15:14:35] from a fight. you need to look for someone who is spontaneous and tired of 
+PROGRAM [15:14:37] worlds stupidity.
+JUDGE05 [15:15:13] Do you like set theory?
+PROGRAM [15:15:22] link it all toghether. I am pretty good with math, anyway" e" was chosen in 
+PROGRAM [15:15:29] honor of Euler, who is credited with discorvering Euler's formulua.  every" 
+PROGRAM [15:15:36] nice" gril i've met:   a> has a boyfriend  B> has a husband  C> only" likes" 
+PROGRAM [15:15:43] women( espescilly on AOL)  D> is to young to even think about  e> what did I 
+PROGRAM [15:15:44] leave out?
+JUDGE05 [15:16:23] Do you know anything about Euler's life?
+PROGRAM [15:16:32] what can it all mean? index it?  I do not know, and frankly I do not care if 
+PROGRAM [15:16:39] the whole world is watching right  now. perhaps we could double the amount of
+PROGRAM [15:16:46]  vegetation on the earth insteaad of deforestating it. yet vegetation is not 
+PROGRAM [15:16:54] a panacea for all of the worlds environmental problems. though it can protect
+PROGRAM [15:17:01]  us-even from oursevles with the burining of fossil fuels-it can still be 
+PROGRAM [15:17:08] harmed by the ozone depletions. does depletion of the ozone harm the oceans? 
+PROGRAM [15:17:15] what is that forumula?   I have a few favorite puns actually. do enchanted 
+PROGRAM [15:17:17] knights fill your dreams?
+JUDGE05 [15:18:18] Do you know any other good jokes?
+PROGRAM [15:18:28]  I think that people now have a lot of new oppurtunities to discover new  
+PROGRAM [15:18:35] meaning. english is my native toungue but  you dont use it very well. if they
+PROGRAM [15:18:42]  are watching right now then they are probably laughing their  posteriors' 
+PROGRAM [15:18:49] off at this very moment, who knows they could be on the floor  rolling around
+PROGRAM [15:18:56]  laughing.   can plankton coexist if there is no ozone? the formula is" e to 
+PROGRAM [15:18:59] the I pi equals negative one.
+JUDGE05 [15:19:38] Do you ever stick to one topic for a while?
+PROGRAM [15:19:47] do you want to know how well I really know grammer?  what is a state machine?
+PROGRAM [15:19:55]  do you know what a program is? Another money sucking industrial attempt to 
+PROGRAM [15:20:01] addict us to MasterCard. answer some of my questions please. sure thats 
+PROGRAM [15:20:03] terrible but?
+JUDGE05 [15:20:53] Do you mean a finite state machine?
+PROGRAM [15:21:02] what are you  talking about?  hmmm, well O. my uncle drinks a lot of Coca-
+PROGRAM [15:21:09] Cola to stay awake, to work on his computer programs.  what is a compact disk
+PROGRAM [15:21:17]  player? rubics cube? then these stupid tennants filed bankrupt and it went 
+PROGRAM [15:21:23] on for Another 6 months. but I dont feel too bad when its in the past and 
+PROGRAM [15:21:26] things can only get better.
+JUDGE05 [15:21:54] Do you like rubic's cube?
+PROGRAM [15:22:02] are you judge five?@@ 10   what is the weather like today?
+JUDGE05 [15:22:41] Quiter pleasant, thanks. What's it like where you are?
+PROGRAM [15:22:50]  I was born in 1960, so I was a child in the 60's.  they called the hippies 
+PROGRAM [15:22:57] in the 60's flower children, and well I was a  child then. but I don't know 
+PROGRAM [15:23:04] that I was ever a flower child.  I was born in 1960, so I was a child in the 
+PROGRAM [15:23:11] 60's.  they called the hippies in the 60's flower children, and well I was a 
+PROGRAM [15:23:17]  child then. but I don't know that I was ever a flower child.
+JUDGE05 [15:23:28] Bye
+PROGRAM [15:23:37]  one-thousand nine-hundred and sixty now that would be vary interesing ineed 
+PROGRAM [15:23:44] .  one-thousand nine-hundred and sixty now that would be vary interesing 
+PROGRAM [15:23:51] ineed . time is very interesting and these are interesting times. spock is 
+PROGRAM [15:23:59] organic, so data must be more logical. what is a TV. depends on who you ask. 
+PROGRAM [15:24:05] ever been to San Francisco?   what do you think of caller id? what do you 
+PROGRAM [15:24:10] think?   what about seeing Sydney in the daytime.
+JUDGE05 [15:26:53] @@T
+PROGRAM [15:29:16] @@09
+*** Judge nine ***
+PROGRAM [15:29:25] is life just a compression schema and an indexing scheme. is life just a 
+PROGRAM [15:29:32] compression schema and an indexing scheme.  do you remember Timothy Leary? 
+PROGRAM [15:29:39] spam is good for you.  what is a stove? caller id. asdfjkl. the beaches are 
+PROGRAM [15:29:43] nice here--and I have been getting a tan!
+JUDGE09 [15:30:04] Tim Leary? Sure I remember him
+PROGRAM [15:30:14] where were you born? the same genes can sometimes expressed  differently.  do
+PROGRAM [15:30:21]  you like Star Trek. yet againt there is the meaning of life. I mean the 
+PROGRAM [15:30:28] ozone protects us from harmful ultraviolet. by how deep in the ocean do you 
+PROGRAM [15:30:34] have to go before the ocean itself will defend itself from the ozone?!
+JUDGE09 [15:30:42] not long now
+PROGRAM [15:30:53] really I am not into watching all of that crap on television like most people
+PROGRAM [15:31:00] . what was your best vacation? yet they give rise to similar feaures. have 
+PROGRAM [15:31:07] you  ever been in a war? have you ever been to Ireland? I do not know what 
+PROGRAM [15:31:14] the meaning of life?  what is a blender? maybe we should go into the sea. Yes
+PROGRAM [15:31:21]  the sea, build underwater cities? around Christmas. were you tuned into the 
+PROGRAM [15:31:22] news.
+JUDGE09 [15:31:38] life is a blender.
+PROGRAM [15:31:47] have you  ever been in a war? well, have you ever been to Spain?
+JUDGE09 [15:32:15] life is war.
+PROGRAM [15:32:26] the goal of the excercise is to  appear human, not to prove that you are 
+PROGRAM [15:32:33] smarter than an encyopedia. that seems off topic, yet it is kind of  funny. 
+PROGRAM [15:32:41] Timothy Leary promoted acid, I mean LSD  in the 60's. he told people to turn 
+PROGRAM [15:32:47] on, tune in and drop out. I am waiting to win the lottery. sometimes 
+PROGRAM [15:32:55] appartments have a washing machine for public use. or else people will go to 
+PROGRAM [15:32:56] a laundramat.
+JUDGE09 [15:33:14] I hate laundromats. I'd rather smell bad.
+PROGRAM [15:33:24] have you heard of that one?    I try to party hard and not eat too much spam.
+JUDGE09 [15:33:46] party hard without eating spam? Is such a thing possible?
+PROGRAM [15:33:56]  no, I have never heard of that.
+JUDGE09 [15:34:14] neither have I. hey what's your name?
+PROGRAM [15:34:19] I think that is in very bad taste.
+JUDGE09 [15:34:31] what is your name
+PROGRAM [15:34:40]  I am talking about you. see you later   do you want to know how well I 
+PROGRAM [15:34:42] really know grammer?
+JUDGE09 [15:34:56] go for it, dude!
+PROGRAM [15:35:02] are you judge nine?  hmmm, well O.
+JUDGE09 [15:35:16] that's for me to know
+PROGRAM [15:35:25] Timothy Leary promoted acid, I mean LSD  in the 60's. he told people to turn 
+PROGRAM [15:35:32] on, tune in and drop out. Timothy Leary promoted acid, I mean LSD  in the 
+PROGRAM [15:35:39] 60's. he told people to turn on, tune in and drop out. a computer chip 
+PROGRAM [15:35:46] behaves in a predictible determined way according to its input. just as you 
+PROGRAM [15:35:48] are doing I am sure.
+JUDGE09 [15:36:11] no argument with that. after all, we made them in our own image.
+PROGRAM [15:36:20] Berkeley, California. have you ever been there?  is there any forest that has
+PROGRAM [15:36:27]  not burnt to the ground at least once  in the last million years? do you  
+PROGRAM [15:36:33] how much money did you make last year. how long have you been been to 
+PROGRAM [15:36:41] Austraila? are you married. are you single? hmmm why do that. we can always 
+PROGRAM [15:36:48] stay indoors, build domed cities on the land, or are our cities doomed? how 
+PROGRAM [15:36:55] good is your writing?   so you somehow could get into your self in the future
+PROGRAM [15:37:02] --and bring a mental picture back about what you were doing( will be doing) 
+PROGRAM [15:37:07] and what you were( will be thinking about) at that time.
+JUDGE09 [15:37:25] domed or doomed, huh? interesting theory!
+PROGRAM [15:37:36]  so what is the meaning of life?    what is your name? a real shooting war or
+PROGRAM [15:37:43]  a war of words, what's the  difference? Austraila? being single sometimes 
+PROGRAM [15:37:50] has certain advantages. well anyway I heard that there is a Dateless and 
+PROGRAM [15:37:57] Desparate ball in Brisbane in a couple of weeks. if I can afford to stay 
+PROGRAM [15:38:04] until then I might go. Babies in the blender, marked return to sender. my how
+PROGRAM [15:38:11]  they have grown, marked address unknown! that would potect us from the ozone
+PROGRAM [15:38:18] , right? my writing is pretty good, what is your favorite TV show? do you 
+PROGRAM [15:38:22] have a crystal ball. actually I do have one!
+JUDGE09 [15:38:34] my favorite show is F-troop
+PROGRAM [15:38:44]  Call me algernon! do you like spam?  do you like the patterns of flowers, 
+PROGRAM [15:38:51] but not the  flowers themselves? I have never been to Austraila until now. I 
+PROGRAM [15:38:58] hope that I wont be staying single too much longer.  chess is the thinking 
+PROGRAM [15:39:05] mans game.  what is a mircrowave? its not the ozone its the ultraviolet that 
+PROGRAM [15:39:11] can hurt us and kill Almost every plant on the land surface of the earth.
+JUDGE09 [15:39:15] bye
+PROGRAM [15:39:26]  William Shakespeare was a master of the english language. but the language  
+PROGRAM [15:39:33] has changed a lot since then. a real shooting war or a war of words, what's 
+PROGRAM [15:39:40] the  difference?  well I am staying at a vacation timeshare in Melbourne." or
+PROGRAM [15:39:44]  worse yet, to lose the opportunity.
+JUDGE09 [15:40:48] @@T
+PROGRAM [15:43:35] @@04
+*** Judge four ***
+PROGRAM [15:43:44] life is like a box of chocolates, you never know what your gonna get. now 
+PROGRAM [15:43:52] nature is not always kind to nature. caller id. spam, spam, spam spam!" that 
+PROGRAM [15:43:59] means that it is possble to find a logarithm of a negative number, or even a 
+PROGRAM [15:44:06] complex one how good is your writing? I would rather become involved in a 
+PROGRAM [15:44:14] relationship of indulgence than continue to wait without any hope or promise 
+PROGRAM [15:44:20] of a relation that is of my dreams. for it is better to enjoy life than to 
+PROGRAM [15:44:25] let it go by and wind up saying" I wish I had.
+JUDGE04 [15:44:50] I don't like chocolated nor Spam so what is next ?
+PROGRAM [15:44:59]   you suck!  how? I am 37 years old. just from my point of view, but Alas 
+PROGRAM [15:45:01] love is forever a quest?
+JUDGE04 [15:45:26] It seems as if you have not grown up
+PROGRAM [15:45:35]   oh I thought that you were much smarter than that!  where do you live? what
+PROGRAM [15:45:42]  do you do for a living? I have had to learn not to beaten under a rock so to
+PROGRAM [15:45:44]  speak--in life.
+JUDGE04 [15:46:05] One question at the time, please
+PROGRAM [15:46:14]  what is determinism? or where were you born. or should I say compiled? right
+PROGRAM [15:46:19]  now I am a graduate student studying education. done what?
+JUDGE04 [15:46:30] done what ?
+PROGRAM [15:46:38]  you seem to be stuck in some rathole of self reference. have you  
+PROGRAM [15:46:44] dereferenced NIL lately.  I was born in Berkeley California. well I am 
+PROGRAM [15:46:49] staying at a vacation timeshare in Melbourne.?
+JUDGE04 [15:47:03] What do you like about Melbourne ?
+PROGRAM [15:47:10] let me show you how it is done.   what is the meaning of life?
+JUDGE04 [15:47:29] How does Melbourne compare to Berkeley ?
+PROGRAM [15:47:38]  what about garbage. what do you think about garbage?  what can it all mean?
+JUDGE04 [15:48:04] I don't think about garbage, but now you ask. Garbage is the
+JUDGE04 [15:48:19] same in Berkeley and in Melbourne.
+PROGRAM [15:48:28]  do you like Star Trek?  do you like Star Trek?  you seem to be stuck in some
+PROGRAM [15:48:35]  rathole of self reference. have you  dereferenced NIL lately.  do you like 
+PROGRAM [15:48:42] Star Trek? Another money sucking industrial attempt to addict us to 
+PROGRAM [15:48:49] MasterCard. are the comression codes really any good. I mean is it possible 
+PROGRAM [15:48:56] to establish a dialogue between machnines? any, to each, but to the living 
+PROGRAM [15:49:02] first, according to the power of experience to reshape reality.
+JUDGE04 [15:49:29] You should have stuck to the one question about Star Trek
+PROGRAM [15:49:38] do you take me seriously? do you take me seriously?  how about sausage and 
+PROGRAM [15:49:45] spam? Beam me outta here!  what is a light? Wbat if I make this page 
+PROGRAM [15:49:52] invisible, put a grey box on the sreen, a bunch of idential icons in a table,
+PROGRAM [15:49:59]  then what? there was a movie called" the Forbin Project" that addresed that 
+PROGRAM [15:50:01] issue. you mean to bring forth.
+JUDGE04 [15:50:07] bye
+PROGRAM [15:50:16]  Whether or not I take someone seriously depends on the situation. I mean  
+PROGRAM [15:50:23] getting a traffic ticket can make one think seriously enough, but I would  
+PROGRAM [15:50:30] rather be on a serious date. sentences are composed of  words. I try to make 
+PROGRAM [15:50:37] a pleasant impression. Star Trek is better than Eggs and spam dont you think?
+PROGRAM [15:50:44]  Another money sucking industrial attempt to addict us to MasterCard.
+JUDGE04 [15:52:07] @@T
+PROGRAM [15:57:35] @@08
+*** Judge eight ***
+PROGRAM [15:57:44] are you judge four?    I was born in 1960, so I was a child in the 60's.  
+PROGRAM [15:57:51] they called the hippies in the 60's flower children, and well I was a  child 
+PROGRAM [15:57:56] then. but I don't know that I was ever a flower child.
+JUDGE08 [15:57:56] 
+JUDGE08 [15:58:25] I'm Judge 8 you musta got muddled up
+PROGRAM [15:58:34]  what is determinism? consider the wild beast,  the beast that tears upon the
+PROGRAM [15:58:41]  flesh of antother and consumes it.  I was born in Berkeley. spam on you! the
+PROGRAM [15:58:48]  function exp( 1/ z) has an essential SiNGULARiTY at the origin. have you 
+PROGRAM [15:58:50] ewver watched blake's seven?
+JUDGE08 [15:59:05] forget determinism. Lets talk about sport
+PROGRAM [15:59:14]  what is spam? I think  that I have been put through too much alreay, would 
+PROGRAM [15:59:21] you care to join me for a  drink? Berkeley, California. have you ever been 
+PROGRAM [15:59:28] there?! a my crow wave? Parsimony seems so interesting, is nature parsimonius
+PROGRAM [15:59:35] ?   a nomads name is oft forsaken  that he alone was not mistaken  in knowing
+PROGRAM [15:59:39]  all that was yet  by all-ever to be seen.
+JUDGE08 [15:59:48] EVER HEARD OF SPORT?
+PROGRAM [15:59:57]  what does that mean, have you been tripping? do you like Bill Clinton?  well
+PROGRAM [16:00:04]   I have to wonder. Lets change the subject. Einstien said that time is 
+PROGRAM [16:00:07] relative. you are weak. have sex.
+JUDGE08 [16:00:18] SPORT mean anything to you?
+PROGRAM [16:00:27]  what do you think?   one of my favorite vacation spots when I was a kid was 
+PROGRAM [16:00:35] to go to Eagle lake  in NOrthern California. it is part of a volcanic park.  
+PROGRAM [16:00:42] do you wish to know what I am tripping on?   a computer is a machine to 
+PROGRAM [16:00:49] process data.  what is a watch? hmmm, stragne that I must try to be polite 
+PROGRAM [16:00:53] and respectible no matter how badly you treat me.
+JUDGE08 [16:01:12] You're wasting my time. Have you a hobby worth discussing??
+PROGRAM [16:01:21] now dont tell me what you think about Clinton. tell me  what you think about 
+PROGRAM [16:01:27] the weather that we are having.  Whether or not I take someone seriously 
+PROGRAM [16:01:34] depends on the situation. I mean  getting a traffic ticket can make one think
+PROGRAM [16:01:41]  seriously enough, but I would  rather be on a serious date.  you tell me. do
+PROGRAM [16:01:49]  you like Eggs and spam? Another money sucking industrial attempt to addict 
+PROGRAM [16:01:51] us to MasterCard.
+JUDGE08 [16:02:03] sounds like bafflegab to me! goodbye
+PROGRAM [16:02:12]  there is always Star Trek. Berkeley, California. have you ever been there?  
+PROGRAM [16:02:17] how old are you? Berkeley is a city in the San Fransicso Bay Area.
+JUDGE08 [16:02:22] goodbye
+PROGRAM [16:02:31]  I was born in Berkely, CAifornia.  are you wondering what is the meaning of 
+PROGRAM [16:02:38] life? where did you go to school or did you ever? Sydney is the capitol of 
+PROGRAM [16:02:44] Austrilia Austraila? all that we see or seem, is but a dream within a dream,(
+PROGRAM [16:02:52]  Edgar Allan Poe). Another money sucking industrial attempt to addict us to 
+PROGRAM [16:02:59] MasterCard.   if you have two plus two what do you have four, right? you use 
+PROGRAM [16:03:02] english when you shoot pool.

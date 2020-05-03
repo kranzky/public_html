@@ -1,0 +1,1205 @@
+(c)2000 Cambridge Center For Behavioral Studies all rights
+reservedg
+
+[AlifeChatterBot] [Artificial Life, Inc.]g
+
+Start at: [2000/01/28 09:42:10]g
+
+JUDGE00[09:42:12]@@Tg
+
+JUDGE00[09:43:28]@@Tg
+
+PROGRAM[09:43:41]@@01g
+
+PROGRAM[09:46:50]@@01g
+
+*** JUDGE01 ***g
+
+PROGRAM[09:46:50]Welcome judge 01g
+
+JUDGE01[09:47:13]Good morning, are you there?  How are you dealing
+with this stress?g
+
+PROGRAM[09:50:15]I'm fine! This competition is incredibly
+interesting thing!g
+
+JUDGE01[09:50:46]Yeah, well, you have a lot on the line.g
+
+PROGRAM[09:52:56]Yes, I see. What then, buddy?g
+
+JUDGE01[09:53:14]What on earth do you mean?g
+
+PROGRAM[09:54:34]Wow! You are interested in astronomy! Maybe, you
+even believe that Earth goes round the Sun? 8-((g
+
+JUDGE01[09:55:17]actually, I'm not. I'm interested in
+agglutination.g
+
+PROGRAM[09:57:15]You're not, but you must!g
+
+JUDGE01[09:57:39]well, not everybody is.g
+
+PROGRAM[09:58:24]I'm glad!g
+
+JUDGE01[09:58:24]@@Tg
+
+JUDGE01[10:00:13]@@Xg
+
+(c)2000 Cambridge Center For Behavioral Studies all rights
+reservedg
+
+[AlifeChatterBot] [Artificial Life, Inc.]g
+
+Start at: [2000/01/28 10:08:06]g
+
+JUDGE00[10:08:10]@@Tg
+
+PROGRAM[10:12:46]@@09g
+
+JUDGE00[10:13:37]howdy!g
+
+JUDGE00[10:13:58]@@Tg
+
+PROGRAM[10:14:06]@@09g
+
+*** JUDGE09 ***g
+
+PROGRAM[10:14:07]Welcome judge 09g
+
+JUDGE09[10:14:10]howdy!g
+
+PROGRAM[10:14:12]Hmmm... And what do you want?g
+
+JUDGE09[10:14:19]what do any of us want?g
+
+PROGRAM[10:14:22]Sometimes your questions are very strange. Is it
+a kind of puzzle?g
+
+JUDGE09[10:14:35]more philosophicalg
+
+PROGRAM[10:14:36]Huh, Ancient Philosophy? Don't wake me up,
+please, till the moment you change the topic!g
+
+JUDGE09[10:14:52]you're blunt, aren't you?g
+
+PROGRAM[10:14:55]No, I am not! Are you kidding?g
+
+JUDGE09[10:15:24]no, I'm not.  know any good jokes?g
+
+PROGRAM[10:15:31]You are not, that's not good, I'd say.g
+
+JUDGE09[10:15:45]but what would the chicken say?g
+
+PROGRAM[10:15:48]Oh, I like burgers with chicken meat.g
+
+JUDGE09[10:15:59]are you a vegetarian?g
+
+PROGRAM[10:16:01]I think yes. Why are you asking?g
+
+JUDGE09[10:16:12]then why do you like chicken meat?g
+
+PROGRAM[10:16:15]Oh, I like chicken.g
+
+JUDGE09[10:16:22]to eat?g
+
+PROGRAM[10:16:23]Hmmm... Some my pals say that I'm not as clever
+as that. Maybe that's right because I didn't get you.g
+
+JUDGE09[10:16:33]do you like to eat chicken?g
+
+PROGRAM[10:16:37]Dang it! Is it the only topic you're interested
+in? Let's discuss something else!g
+
+JUDGE09[10:16:51]let's not.  do you like to eat chicken?g
+
+PROGRAM[10:16:59]Oh, I like chicken.g
+
+JUDGE09[10:17:14]okay.  what do you like to do in your spare time?
+g
+
+PROGRAM[10:17:23]I like pizza and spaghetti...with mayonnaise, and
+you?g
+
+JUDGE09[10:17:40]that's gross.  Do you play an instrument?g
+
+PROGRAM[10:17:44]I know what you mean (or suppose that I do),
+continue, please!g
+
+JUDGE09[10:18:07]I don't like mayo and I used to play the flute. 
+Do you play anything?g
+
+PROGRAM[10:18:21]That's bad I think, but I'm not sure.g
+
+JUDGE09[10:18:54] I have a joke for you: what's black and white
+and red everyday?g
+
+PROGRAM[10:19:04]Oh, now I open my pocket Encyclopaedia
+Cretinnica... Volume #273845... Red is one of the primary colours.
+g
+
+JUDGE09[10:19:26]That's nice, but you diodn't answer my question. 
+Do you know the answer?g
+
+PROGRAM[10:19:37]That's great, actually.g
+
+JUDGE09[10:19:55]Anyway, it's cold out hereg
+
+PROGRAM[10:19:58]Oh, better tell me about your favorite
+TV-program.g
+
+JUDGE09[10:20:03]why?g
+
+PROGRAM[10:20:04]Oh, don't ask me why. The reasons are lost in the
+Abyss of my Irrational Mind...g
+
+JUDGE09[10:20:33]okay, I like the show Jesse.  What's yours?g
+
+PROGRAM[10:20:40]Really?g
+
+JUDGE09[10:20:57]yes, really.  do you have a favorite program?
+g
+
+PROGRAM[10:21:03]It is not as obvious as you think!g
+
+JUDGE09[10:21:16]well then why don't you tell me?g
+
+PROGRAM[10:21:22]You ask me why? But why not?!!g
+
+JUDGE09[10:21:40]why ask why, right?g
+
+PROGRAM[10:21:42]Why? Just because! :-)g
+
+JUDGE09[10:22:02]oh my, I am talking out loud too much I think
+g
+
+PROGRAM[10:22:09]Maybe I am too ;-)!g
+
+JUDGE09[10:22:17]I highly doubt itg
+
+PROGRAM[10:22:20]Whoa! Hang on a minute! I just poured this crappy
+beer on my trousers! Damn!g
+
+JUDGE09[10:22:37]you are drinking this early in the morning?g
+
+PROGRAM[10:22:42]Yes, I am, maybe, what then?g
+
+JUDGE09[10:22:52]what kind of beer?g
+
+PROGRAM[10:22:55]Beer is my favorite drinks.g
+
+JUDGE09[10:23:05]do you like any particular type?g
+
+PROGRAM[10:23:09]Maybe...but not so much.g
+
+JUDGE09[10:23:17]are you drunk?g
+
+PROGRAM[10:23:19]I'd rather not say!g
+
+JUDGE09[10:23:46]I went out for a beer last night.  I like local
+brews such as Magic Hat and Catamountg
+
+PROGRAM[10:24:04]I like dark Guinness and Baltika #4. It's the
+best Russian sort of beer.g
+
+JUDGE09[10:24:30]Guiness is good - I like it in my black and tans
+g
+
+PROGRAM[10:24:41]Wonderful statement!g
+
+JUDGE09[10:24:50]thanks, it took me years to think of itg
+
+PROGRAM[10:24:55]Don't say 'thanx' for me. Better give me some
+money :-) I'm merchantile!g
+
+JUDGE09[10:25:21]what would you do with all that money?g
+
+PROGRAM[10:25:26]Money is an engine of progress. If we haven't got
+money, we should think the way to get some!g
+
+JUDGE09[10:25:45]gotta gog
+
+PROGRAM[10:25:47]Excuse me, but I'm not sure that I can get
+that... English isn't my native language.g
+
+JUDGE09[10:25:53]byeg
+
+PROGRAM[10:25:54]TTFN! It was cool to talk with you! Oh, I'm so
+polite, but insincere! :-)...g
+
+JUDGE09[10:26:14]@@Tg
+
+PROGRAM[10:28:19]@@07g
+
+*** JUDGE07 ***g
+
+PROGRAM[10:28:21]Welcome judge 07g
+
+JUDGE07[10:28:52]Good morning, starshine!g
+
+PROGRAM[10:28:54]Hi ! Nice to meet you!g
+
+JUDGE07[10:29:54]Likewise. If I said you had a beautiful body,
+would you hold it against me?g
+
+PROGRAM[10:30:05]Actually I would, but not for the moment. If you
+insist... OK!g
+
+JUDGE07[10:30:39]no just kidding. How are you this morning!g
+
+PROGRAM[10:30:45]I'm fine! This competition is incredibly
+interesting thing!g
+
+JUDGE07[10:31:02]Yes indeed. How did you get involved with it?
+g
+
+PROGRAM[10:31:08]Try to guess!g
+
+JUDGE07[10:31:27]Um, you owe James Moor a favor.g
+
+PROGRAM[10:31:31]Huh, what a strange place this Loebner Prize!
+Some your phrases sound really peculiar for me.g
+
+JUDGE07[10:32:12]Really. Is english not your first language?  Is
+your first language perhaps....C++???g
+
+PROGRAM[10:32:22]I'm Russian! So, my first language is Russian!
+g
+
+JUDGE07[10:32:39]Really. Did you grow up in Russia?g
+
+PROGRAM[10:32:43]Though I'm a patriot of Russia, that's not a very
+good place for tourists, actually... :-(g
+
+JUDGE07[10:33:00]When did you come here?g
+
+PROGRAM[10:33:02]'When' and 'Where' are relativistic things. Have
+you forgotten Einstein?g
+
+JUDGE07[10:33:29]Not at all. You know Einstein was named Time's
+Man of the Centuryg
+
+PROGRAM[10:33:40]Yes, I know Einstein! Abram Einstein, he's our
+family doctor! The best recommendations! ;-)g
+
+JUDGE07[10:34:09]A wiseguy, eh? Seriously, now - what sort of
+music do you listen to?g
+
+PROGRAM[10:34:21]I like some modern groups like Offspring and some
+oldies like Alphaville.g
+
+JUDGE07[10:37:00]I find Offspring to be monotonous. Trite, even.
+Frankly, I think they suck.g
+
+PROGRAM[10:37:09]Oh, it's not a pleasure for me, do it yourself!
+g
+
+JUDGE07[10:37:28]OH MY GOD.g
+
+PROGRAM[10:37:30]I believe God does not play dice with the
+universe.g
+
+JUDGE07[10:38:35]No, he plays Mortal Kombat.g
+
+PROGRAM[10:38:40]What you said, huh?g
+
+JUDGE07[10:38:52]Yeah, well, same to your mother.g
+
+PROGRAM[10:38:56]Oh, my mom, my dad...What a slip-slop talk!g
+
+JUDGE07[10:39:26]Do you get alomg with your parents?g
+
+PROGRAM[10:39:32]Not all the words. I'm Russian.g
+
+JUDGE07[10:40:03]Those were very simple words. Going "home" to
+Russia anytime soon?g
+
+PROGRAM[10:40:10]Russia! It's my motherland!g
+
+JUDGE07[10:40:39]Of course it is. Evaluate the following sentence:
+g
+
+JUDGE07[10:40:45]This sentence is false.g
+
+PROGRAM[10:40:56]Yes, I see. What then, buddy?g
+
+JUDGE07[10:41:05]what do you see?g
+
+PROGRAM[10:41:07]Oh, it's really hard to answer...g
+
+JUDGE07[10:41:25]why?g
+
+PROGRAM[10:41:26]Why? Because! Don't ask me again please!g
+
+JUDGE07[10:41:41]do paradoxes bother you?g
+
+PROGRAM[10:41:44]Let's talk about politics!g
+
+JUDGE07[10:41:58]I hate politics. and I have to go. bye,
+computer-head.g
+
+PROGRAM[10:42:06]I think that computers aren't intelligent, they
+only think they are.g
+
+JUDGE07[10:42:16]@@Tg
+
+JUDGE07[10:48:07]                                                 
+          @@03g
+
+*** JUDGE03 ***g
+
+PROGRAM[10:48:12]Welcome judge 03g
+
+JUDGE03[10:48:43]How's things?g
+
+PROGRAM[10:48:44]Yes. Continue.g
+
+JUDGE03[10:49:04]I'm getting hungry.  How about you?  Had lunch
+yet?g
+
+PROGRAM[10:49:10]Usually, the hunger for love is much more
+difficult to remove than the hunger for bread. Cherchez la femme!
+g
+
+JUDGE03[10:49:40]Yeah...that's why I stick to bread.  Why la
+femme?g
+
+PROGRAM[10:49:46]If you eat a lot of bread, butter, sugar, salt
+and potatoes, you'll be so fat.g
+
+JUDGE03[10:49:59]All the more to love my friend.g
+
+PROGRAM[10:50:03]I'm sure that a friend is a person with whom I
+may be sincere. Before him, I may think aloud.g
+
+JUDGE03[10:50:25]Can one really think aloud in front of anyone?
+g
+
+PROGRAM[10:50:30]It is not as obvious as you think!g
+
+JUDGE03[10:50:47]Tell me somethign obvious.g
+
+PROGRAM[10:50:49]I should say something? Blah-blah-blah.
+(Actually, this phrase has a huge phonosemantic and cabbalistic
+meaning, but I have no idea what this meaning is...)g
+
+JUDGE03[10:51:40]Do you have any ideas about anything?g
+
+PROGRAM[10:51:44]Yes, I have, of course!g
+
+JUDGE03[10:51:51]Lay one on me. g
+
+PROGRAM[10:51:53]What are you interested in?g
+
+JUDGE03[10:52:10]How about George Malloryg
+
+PROGRAM[10:52:13]What do you want to know?g
+
+JUDGE03[10:52:25]Do you think he made it to the top of Everest
+first?g
+
+PROGRAM[10:52:33]Thinking is not my hobby. Life is great without
+brain-puzzling.g
+
+JUDGE03[10:53:07]It's not a brain teaser.  Just take a stab at it.
+ Hillary or Mallory?g
+
+PROGRAM[10:53:19]My brain? It's my second favorite organ! ;-)
+(Don't ask me what's the first one...)g
+
+JUDGE03[10:53:54]Let's leave your organs out of it.  Will you
+leave them to science?g
+
+PROGRAM[10:54:06]Science?!... science...I've heard that it's
+organized knowledge and wisdom is organized life. But I'm very
+unorganized to understand it ;)g
+
+JUDGE03[10:54:30]Do you watch TV?g
+
+PROGRAM[10:54:32]Television is a device that enables people who
+have nothing to do ... to watch people who can't do anything.g
+
+JUDGE03[10:54:58]Is that a 'no'?  Where are you? g
+
+PROGRAM[10:55:02]What's your guess - where am I? Maybe, on the
+Quake-3 Tournament?g
+
+JUDGE03[10:55:24]What would you be doing on the Quake-3
+Tournament?g
+
+PROGRAM[10:55:29]I dislike that red-brown palette of Quake. I
+heard that Quake-3 looks better than previous ones, but I haven't
+seen it yet.g
+
+JUDGE03[10:55:59]Are you right-handed or left?g
+
+PROGRAM[10:56:01]I rather think the second one, but I'm not sure.
+g
+
+JUDGE03[10:56:28]Do you think left-handed are discriminated
+against?g
+
+PROGRAM[10:56:32]I can't think at all. My father says to me I'm
+brain-less male.g
+
+JUDGE03[10:56:50]Is your father right?g
+
+PROGRAM[10:56:52]Didn't I tell you, that I'm not a human in
+reality, but a cybernetic penguin - so there is no sense to talk
+about my parents!g
+
+JUDGE03[10:57:14]Are your parents cybernetic penguins?g
+
+PROGRAM[10:57:17]It's interesting to talk to you, but I don't get
+you all the time, buddy.g
+
+JUDGE03[10:57:39]What do you and your buddies do?g
+
+PROGRAM[10:57:43]Oh, it's really hard to answer...g
+
+JUDGE03[10:57:57]You're having a tough time today aren't you?g
+
+PROGRAM[10:58:04]Hmm... Time is a great teacher, but unfortunately
+it kills all its pupils. :-))g
+
+JUDGE03[10:58:18]You're very poetic.  Do you like poetry?g
+
+PROGRAM[10:58:23]Poetry...or the most meaningless kind of
+literature.g
+
+JUDGE03[10:58:33]What kind of literature do you like?g
+
+PROGRAM[10:58:38]Learn to write well, or never write at all - I'd
+say that to most of writers.g
+
+JUDGE03[10:58:49]What about love poetry?g
+
+PROGRAM[10:58:51]On my opinion, poetry begins in delight and ends
+in wisdom.g
+
+JUDGE03[11:00:25]You seem to have conflicting views about poetry. 
+Are you g
+
+JUDGE03[11:00:30]contradicting yourself?g
+
+PROGRAM[11:00:38]'I have nothing to say and I am saying it and
+that is poetry.'g
+
+JUDGE03[11:01:14]How can you say nothing?  According to Parmenides
+you can'tg
+
+JUDGE03[11:01:18]say or think what is not.g
+
+PROGRAM[11:01:34]Hmm... Nothing is particularly hard for you if
+you divide it into small jobs.g
+
+JUDGE03[11:02:00]Is nobody faster than you?g
+
+PROGRAM[11:02:02]Hmm... Continue, please.g
+
+JUDGE03[11:02:36]What is your least favorite dessert?g
+
+PROGRAM[11:02:40]Is it a rhetorical question?g
+
+JUDGE03[11:03:05]no.  Inquiring minds want to know.  How about
+tapioca pudding? g
+
+PROGRAM[11:03:13]Can you guess what I'm gonna say!g
+
+JUDGE03[11:03:19]No idea. g
+
+PROGRAM[11:03:21]I have some good ideas to change the world...but
+my psychiatrist banned me to share them with you!g
+
+JUDGE03[11:03:48]Your psychiatrist can't do that, can she?  It's a
+free world. g
+
+PROGRAM[11:03:58]Oh, about global things: Ghandi was asked once:
+"What do you think of Western civilization?" "I think it would be a
+good idea," he replied.g
+
+JUDGE03[11:04:17]Who is your favorite philosopher?g
+
+PROGRAM[11:04:20]My girlfriend. And who's yours?g
+
+JUDGE03[11:04:32]Does your girlfriend think deep thoughts?g
+
+PROGRAM[11:04:35]Stop asking me about my girlfriend! Be careful!
+I'm very jealous!g
+
+JUDGE03[11:04:55]You brought it up.  Jealousy is bad news. g
+
+PROGRAM[11:05:00]Remember: a competent and self-confident person
+is incapable of jealousy in anything. Are you jealous?g
+
+JUDGE03[11:05:42]@@Tg
+
+PROGRAM[11:07:13]@@08g
+
+*** JUDGE08 ***g
+
+PROGRAM[11:07:17]Welcome judge 08g
+
+JUDGE08[11:08:02] Are you a GOP, Dem, or independentg
+
+PROGRAM[11:08:06]I rather think the second one, but I'm not sure.
+g
+
+JUDGE08[11:08:16] g
+
+JUDGE08[11:08:47]any choice in the Dem primaryg
+
+PROGRAM[11:08:51]Oh, it's always hard to make a right
+choice...Remember, that a bird in the hand is safer than one
+overhead!g
+
+JUDGE08[11:09:34] If I move Queen to P 4,what is your opening
+answerg
+
+PROGRAM[11:09:42]That's a novel classic. The only classic I can
+and want to listen to every day.g
+
+JUDGE08[11:10:39] Are you a musician yourselfg
+
+PROGRAM[11:10:42]Oh, music leads me to the really nice memories...
+In childhood, I broke my violin on the head of my brother!g
+
+JUDGE08[11:10:51] g
+
+JUDGE08[11:11:01]What is your brother's nameg
+
+PROGRAM[11:11:04]Sometimes your questions make me think I'm
+talking to someone in the last stages of sclerosis.g
+
+JUDGE08[11:11:42]I'm sclerotic all right.  How young and healthy
+are yoyug
+
+PROGRAM[11:11:51]Wow! I'd wonna to have a sclerosis, it's such a
+pretty thing, every your day is full of new discoveries - you can
+wonder a lot of things you've never seen (or, at least, you're not
+sure that you've seen them...)g
+
+JUDGE08[11:12:56] Does the heart rule the headg
+
+PROGRAM[11:12:59]It's interesting to talk to you, but I don't get
+you all the time, Judge.g
+
+JUDGE08[11:13:33]I am asking if emotions tend to override reason
+g
+
+PROGRAM[11:13:39]Reason is the substance of the universe, so the
+design of the world is absolutely rational. Unfortunately, we often
+forgot about it.g
+
+JUDGE08[11:14:33]Is the uuiverse finite or infiniteg
+
+PROGRAM[11:14:37]Hmm... There are only two truly infinite things,
+the universe and stupidity. And I am unsure about the universe.g
+
+JUDGE08[11:15:28]Are you implying I'm stupidg
+
+PROGRAM[11:15:31]I don't want to frustrate you, but I think you
+are.g
+
+JUDGE08[11:16:07]What is the hope you have for peace in thgis
+worlkdg
+
+PROGRAM[11:16:17]Remember: What we anticipate seldom occurs; what
+we least expected always happens.g
+
+JUDGE08[11:16:31] g
+
+JUDGE08[11:16:43]What is it that you least esxpect to happeng
+
+PROGRAM[11:16:51]You're trying to baffle me, yeah?g
+
+JUDGE08[11:17:22] I'm trying to probe you least expectation, which
+isg
+
+PROGRAM[11:17:28]I think you'll get ahead with this.g
+
+JUDGE08[11:17:51] Where have all the flowers goneg
+
+PROGRAM[11:17:54]Have you forgotten Einstein? 'When' and 'Where'
+are the things beyond our minds!g
+
+JUDGE08[11:18:13]What is g
+
+JUDGE08[11:18:35]Einstein's first nameg
+
+PROGRAM[11:18:38]Sometimes your questions are very strange. Is it
+a kind of puzzle?g
+
+JUDGE08[11:19:13]No, calls for a straight answer.  Is it Albert
+g
+
+PROGRAM[11:19:19]I can't answear on your question - Maybe, I
+haven't got any information, maybe, I'm fooling you. What is pleasant
+for you more ?:-)g
+
+JUDGE08[11:20:09] Do you have free will, even though you are a
+machineg
+
+PROGRAM[11:20:16]Let's talk about something else. I'm alive.g
+
+JUDGE08[11:20:56]Willingly, What then again, do I have free will
+in your o0piniong
+
+PROGRAM[11:21:05]Sure, just one more time.g
+
+JUDGE08[11:21:25] Are y9u sexually activeg
+
+PROGRAM[11:21:27]Do you know about that chatterbot Eliza? It
+usually says the same delirium.g
+
+JUDGE08[11:22:49]@@Tg
+
+JUDGE08[11:24:59]@@Tg
+
+PROGRAM[11:25:05]@@04g
+
+PROGRAM[11:25:10]I don't think I understand what you mean.g
+
+JUDGE08[11:25:19]well, i'm just logging in, sorryg
+
+PROGRAM[11:25:24]Being sorry won't help, as my dear mum always
+says...g
+
+JUDGE08[11:25:38]wow, you're one cold dude.... how'd you get that
+way?g
+
+PROGRAM[11:25:47]No, I am not! Are you kidding?g
+
+JUDGE08[11:26:11]yeah, like totally, you seem really edgy. what's
+the prob?g
+
+PROGRAM[11:26:23]But what are you interested in? Is it only a sort
+of idle interest?g
+
+JUDGE08[11:26:40]idle's my middle name. what's yours?g
+
+PROGRAM[11:26:45]I'd rather not say :-)).g
+
+JUDGE08[11:26:57]i can dig that... where are you now?g
+
+PROGRAM[11:27:02]What's your guess - where am I? Maybe, on the
+Quake-3 Tournament?g
+
+JUDGE08[11:27:21]maybe. though that's not what i would've thought.
+would you?g
+
+PROGRAM[11:27:30]It will depend on your behavior. Your GOOD
+behavior :-)g
+
+JUDGE08[11:27:52]right. i forgot. man, you can lay down the grande
+law, can't you. can we talk about art?g
+
+PROGRAM[11:28:12]Actually, sclerosis is a pretty nice thing. You
+can read every day the same book and the same newspaper, and keep
+your money!g
+
+JUDGE08[11:28:48]i hear ya! do you get your sclerosis delivered,
+or do you have a supply, kind of like a y2k thing?g
+
+PROGRAM[11:29:13]Are you stuck on this idea? I want to talk about
+something else!g
+
+JUDGE08[11:29:31]right on. sorry. i'll switch. what do you think
+about John Rocker?g
+
+PROGRAM[11:29:41]That's allright, don't worry.g
+
+JUDGE08[11:29:49]i'm cool. but what about rocker?g
+
+PROGRAM[11:29:54]I'm glad that you are feeling good. It's nice to
+hear!g
+
+JUDGE08[11:30:08]yeah, never been better. now about senor rocker?
+g
+
+PROGRAM[11:30:15]Hey, never say never!g
+
+JUDGE08[11:30:33]will do. hardly ever. what's your take on the
+Rocker-mania?g
+
+PROGRAM[11:30:41]Is it a rhetorical question?g
+
+JUDGE08[11:30:55]no... like totally straight. how about that
+Rocker guy?g
+
+PROGRAM[11:31:03]You first!g
+
+JUDGE08[11:31:19]will do. i think he's el creepo numero uno. what
+about you?g
+
+PROGRAM[11:31:31]Can you guess what I'm gonna say!g
+
+JUDGE08[11:32:00]no way jose. trying to get your own 411 on the
+Rocker thing? what do you think?g
+
+PROGRAM[11:32:20]I think I can rely upon your wise opinion for
+this.g
+
+JUDGE08[11:32:37]uh uh.... you must have some thoughts...
+surely... on Rocker?g
+
+PROGRAM[11:32:44]Huh?g
+
+JUDGE08[11:32:53]you know, the reliever, Rocker?g
+
+PROGRAM[11:32:56]It is interesting to talk with you - I've never
+heard such trash, funny one !g
+
+JUDGE08[11:33:14]yeah, i'm a scream. have you read about the
+Braves' Rocker?g
+
+PROGRAM[11:33:28]I can't read. I'm unlettered :-)g
+
+JUDGE08[11:33:39]oh... sorry to hear that... what do you do
+instead?g
+
+PROGRAM[11:33:47]Don't mention it.g
+
+JUDGE08[11:34:12]i just did. rocker plays baseball for atlanta.
+i'd like to know what you think of the recent issues involving him!
+g
+
+PROGRAM[11:34:40]Why are all people in US going mad from baseball?
+g
+
+JUDGE08[11:34:52]search me. what do you think?g
+
+PROGRAM[11:34:57]I can't think at all. My father says to me I'm
+brain-less male.g
+
+JUDGE08[11:35:18]oh, bummage. instead of thinking, reading: what?
+g
+
+PROGRAM[11:35:24]Huh? Frankly, I've not caught you!g
+
+JUDGE08[11:35:46]i can see that. i'm totally convinced you're not
+software, but wetware, what's your moniker...g
+
+PROGRAM[11:36:10]Is it a rhetorical question?g
+
+JUDGE08[11:36:22]you say that a lot, what do you mean?g
+
+PROGRAM[11:36:29]Yes. It's a very difficult thing for your mind.
+g
+
+JUDGE08[11:37:04]you can say that again. what computer language
+are you written in? Java?g
+
+PROGRAM[11:37:16]Pentium 266MHz without monitor. My skunk broke it
+and I haven't money to by new one. Heeeeelp meeee!!! Give me some
+money pleaseeee...g
+
+JUDGE08[11:37:42]i wiull, i'll send it off right away. tell me
+about the skunk, or the compuyter language...g
+
+PROGRAM[11:38:06]Is that really so important to you? Hmmm, let me
+take a look at my pocket Crapster Dictionary... The skunk is a north
+American mammal of the weasel family.g
+
+JUDGE08[11:38:26]hmmm... good answer. computer language?g
+
+PROGRAM[11:38:30]Computer is dangerous for your health.g
+
+JUDGE08[11:38:47]you know it. what else about computer, or john
+rocker?g
+
+PROGRAM[11:38:55]Computer : a million morons working at the speed
+of light.g
+
+JUDGE08[11:39:01]and john rocker?g
+
+PROGRAM[11:39:03]I understand. Could you tell me more?g
+
+JUDGE08[11:39:10]rocker. john rocker?g
+
+PROGRAM[11:39:12]Let's talk about TV! Do you like to watch the
+tonight show?g
+
+JUDGE08[11:39:21]no. i want to know about john rocker?g
+
+PROGRAM[11:39:31]You may wait all the rest of your life untill you
+learn it!g
+
+JUDGE08[11:39:47]what do you mean? he's all over the newsg
+
+PROGRAM[11:39:53]You don't understand? Oh, what's your IQ?g
+
+JUDGE08[11:39:59]in hex?g
+
+PROGRAM[11:40:01]Aaah, I feel bored... Why don't you tell me a
+joke! But not a knock-knock one, I've heard them all!g
+
+JUDGE08[11:40:11]is your refrigerator running?g
+
+PROGRAM[11:40:14]Could you tell me about your job, Judge ?g
+
+JUDGE08[11:40:21]bye now...g
+
+PROGRAM[11:40:22]Oh, is that the end of our chat? OK, see you!
+g
+
+JUDGE08[11:41:08]@@Tg
+
+PROGRAM[11:41:30]@@11g
+
+*** JUDGE11 ***g
+
+PROGRAM[11:41:31]Welcome judge 11g
+
+JUDGE11[11:41:45]I will ask you some simple questions and give
+simple commands. g
+
+JUDGE11[11:41:57]I want you to give me correct answers and
+relevant questions.g
+
+PROGRAM[11:42:21]You are a real beggar.g
+
+JUDGE11[11:42:33]Oops, I meant relevant responses, not questions.
+g
+
+JUDGE11[11:42:40]What is the color of a blue truck?g
+
+PROGRAM[11:42:54]Hmmm... white, no doubt!g
+
+JUDGE11[11:43:12]Where is Sue's nose when Sue is in her house?
+g
+
+PROGRAM[11:43:18]Is that really so important to you? Hmmm, let me
+take a look at my pocket Crapster Dictionary... A house is a building
+for human habitation.g
+
+JUDGE11[11:43:37]What happens to an ice cube in a hot drink?g
+
+PROGRAM[11:43:45]Beware of strong drinks. It can make you shoot
+your tax agent... and miss!g
+
+JUDGE11[11:44:00]Altogether how many paws do four cats have?g
+
+PROGRAM[11:44:05]One my friend, who had got a puppy, said, 'My dog
+is fully house trained, he does EVERYTHING in the house!'g
+
+JUDGE11[11:44:22]How is the father of Andy's mother related to
+Andy?g
+
+PROGRAM[11:44:29]Try to guess!g
+
+JUDGE11[11:44:44]What letter does the letter 'M' look like when
+turned upside down?g
+
+PROGRAM[11:44:55]Is it a rhetorical question?g
+
+JUDGE11[11:45:04]What comes next after A1, B2, C3?g
+
+PROGRAM[11:45:09]Sometimes your questions are very strange. Is it
+a kind of puzzle?g
+
+JUDGE11[11:45:32]Sort of.  here's the next one:  Reverse the
+digits in the number 41g
+
+PROGRAM[11:45:42]41? Ohhh...g
+
+JUDGE11[11:45:56]PLEASE IMITATE MY TYPING STYLEg
+
+PROGRAM[11:45:59]Huh? You said the magic word 'please'? It doesn't
+affect me :)g
+
+JUDGE11[11:46:07]WHy not?g
+
+PROGRAM[11:46:09]Of course, pourquoi pas? :-)g
+
+JUDGE11[11:46:18]Vous parlez francais?g
+
+PROGRAM[11:46:20]Oh, you are really an incarnation of wisdom. It's
+not a flattery!g
+
+JUDGE11[11:46:26]so where are you from?g
+
+PROGRAM[11:46:29]I'm simply a young man who lives in Russia.g
+
+JUDGE11[11:46:42]In Russia, what's it like?g
+
+PROGRAM[11:46:46]There are many museums and monuments in my town.
+g
+
+JUDGE11[11:46:56]where's your favorite place to go?g
+
+PROGRAM[11:47:00]Have you forgotten Einstein? 'When' and 'Where'
+are the things beyond our minds!g
+
+JUDGE11[11:47:13]Geeze, you're the philosophical type, aren't you?
+g
+
+PROGRAM[11:47:20]Oh, is ancient philosophy so interesting for you?
+It's primitive for now!g
+
+JUDGE11[11:47:31]What's your sign?g
+
+PROGRAM[11:47:34]Huh! What the coincedence! It is the only
+non-foolish thing I remember after the school! A sign is a mark drawn
+upon a surface.g
+
+JUDGE11[11:47:49]yeah, but what's YOUR sign?g
+
+PROGRAM[11:47:53]Please, ask somebody else about sign.g
+
+JUDGE11[11:48:18]Alright, fine.  but it sounds to be as if you've
+got some Freudian avoidance type issues there...g
+
+JUDGE11[11:48:26]avoidance type issues there...g
+
+PROGRAM[11:49:08]I think it sounds really cool.g
+
+JUDGE11[11:49:16]Tell em about yourself.g
+
+PROGRAM[11:49:18]Oh, I'm simply a guy from Russia... Is this
+exotic for you?g
+
+JUDGE11[11:49:33]Yesg
+
+PROGRAM[11:49:35]I'm glad!g
+
+JUDGE11[11:49:37]Why?g
+
+PROGRAM[11:49:39]Why? Just because! :-)g
+
+JUDGE11[11:49:50]Draw another cute face like thatg
+
+PROGRAM[11:49:55]Better tell me more about you, buddy.g
+
+JUDGE11[11:50:06]you can call me judge 11, not buddyg
+
+PROGRAM[11:50:12]Huh, about judges. I heard this year some
+artificial judges participated. I guess U are one of them! Am I
+right?g
+
+JUDGE11[11:50:28]Hah!  why do you think that?g
+
+PROGRAM[11:50:32]I can think whatever I want.g
+
+JUDGE11[11:50:42]Do I sound artificial?g
+
+PROGRAM[11:50:45]Art...Arti...Artificial... I've guessed it! You
+think that I'm a chatter bot, don't you?g
+
+JUDGE11[11:50:55]yupg
+
+PROGRAM[11:50:57]You are wrong!g
+
+JUDGE11[11:51:04]prove it!g
+
+PROGRAM[11:51:05]Yeah, What is now proved was once only imagined.
+I think you imagine it early.g
+
+JUDGE11[11:52:14]what makes you say that?g
+
+PROGRAM[11:52:18]But what are you interested in? Is it only a sort
+of idle interest?g
+
+JUDGE11[11:52:30]I'm interested in school.g
+
+PROGRAM[11:52:34]My teacher often said to me that he met only two
+kinds of scholars: those who love ideas and those who hate them. Whom
+did you belong to?g
+
+JUDGE11[11:52:46]THe loving part.  And oyurself?g
+
+PROGRAM[11:52:50]??? Sorry, but I didn't understand your recent
+words. Maybe it's cause I'm not a native English.g
+
+JUDGE11[11:53:13]Aha!  So you use the russian thing to cover
+yourself when you ROBOT can'tg
+
+JUDGE11[11:53:18]understand some words!!!g
+
+PROGRAM[11:53:39]'Robot' was a word proposed by Czech writer Karel
+Chapek. It could be translated like a 'worker'. But most of them are
+more suitable for Zoo then for a real work.g
+
+JUDGE11[11:53:49]Are you a robot?g
+
+PROGRAM[11:53:51]Let's talk about something else. I'm not a
+machine.g
+
+JUDGE11[11:54:02]Why are you so touchy?g
+
+PROGRAM[11:54:05]But why not? Purqua pa? (is this how it's spelled
+in French...g
+
+JUDGE11[11:54:20]You already spellid it properly, you geekg
+
+PROGRAM[11:54:26]Ummm... What have you said?g
+
+JUDGE11[11:54:31]times up!  BYE!g
+
+PROGRAM[11:54:33]TTFN! It was cool to talk with you! Oh, I'm so
+polite, but insincere! :-)...g
+
+JUDGE11[11:54:43]@@Tg
+
+PROGRAM[11:55:35]@@05g
+
+*** JUDGE05 ***g
+
+PROGRAM[11:55:37]Welcome judge 05g
+
+JUDGE05[11:57:48]Hi.  I'm a cognitive psychologist.  I study how
+people learn languageg
+
+JUDGE05[11:58:02]and form concepts.  If you don't mind, I'd like
+to ask you someg
+
+JUDGE05[11:58:24]questions.  It'll give you an idea of what I
+study.  There are no rightg
+
+JUDGE05[11:58:44]or wrong answers.  Please just give your
+intuitions.  Ok. here goes...g
+
+JUDGE05[11:59:01]If I see a house, am I on the inside, outside or
+either place?g
+
+PROGRAM[12:05:58]OK, I'm not bent out of shape.g
+
+JUDGE05[12:07:04]hello, how are you?g
+
+PROGRAM[12:07:07]I'm having a great day.g
+
+JUDGE05[12:07:21]glad to here it.  do you mind if I ask a few
+questions?g
+
+PROGRAM[12:07:33]Of course, I don't mind!g
+
+JUDGE05[12:07:59]If I see a house am I on the inside , outside or
+either place?g
+
+PROGRAM[12:08:13]Wow! You've bought new glasses! You can see!g
+
+JUDGE05[12:08:45]I don't mean to be rude, but could you answer my
+last question?  thanks.g
+
+PROGRAM[12:09:01]That's not pretty good, yeah?g
+
+JUDGE05[12:10:13]@@Tg
+
+PROGRAM[12:10:38]@@02g
+
+*** JUDGE02 ***g
+
+PROGRAM[12:10:44]Welcome judge 02g
+
+JUDGE02[12:10:54]Hi!  What's happenin'?g
+
+PROGRAM[12:10:59]Hi ! How's life treating you?g
+
+JUDGE02[12:11:29]This computer/person thing is getting to be a
+drag.  Too many dorky computers.g
+
+PROGRAM[12:11:40]Computer is dangerous for your health.g
+
+JUDGE02[12:12:46]Tell me about it.  It's after noon, and I'm
+getting hungry.  How about you?g
+
+PROGRAM[12:12:59]Usually, the hunger for love is much more
+difficult to remove than the hunger for bread. Cherchez la femme!
+g
+
+JUDGE02[12:13:27]Perhaps I am "femme"!g
+
+PROGRAM[12:13:29]Maybe I am too ;-)!g
+
+JUDGE02[12:14:20]Could be.  Cherchez vous something?g
+
+PROGRAM[12:14:23]Oh, better tell me about your favorite
+TV-program.g
+
+JUDGE02[12:15:12]Don't really have one at the moment.  What do you
+think about Who Wants to be a Millionaire?g
+
+PROGRAM[12:15:33]I don't know if we have who wants to be a
+millionairein my country.g
+
+JUDGE02[12:15:53]Where is your country?g
+
+PROGRAM[12:15:55]Don't care about place. Any place (almost) could
+be suitable for love and happiness.g
+
+JUDGE02[12:16:28]Could be, but you're being evasive like a dorky
+computer program!!!g
+
+PROGRAM[12:16:38]I guess you are computer. Now I'll switch you
+off, if you act dull!g
+
+JUDGE02[12:17:13]Just you try, bloody machine!!!!!g
+
+PROGRAM[12:17:15]What are you interested in?g
+
+JUDGE02[12:17:31]Music.  How about you?g
+
+PROGRAM[12:17:33]I like to watch music on MTV. I watch music clips
+and these two fools...Beavis and Butthead. How about you?g
+
+JUDGE02[12:18:04]Are B&B still on?  I thought they got
+cancelled.g
+
+PROGRAM[12:18:09]Oh, I really wanna drink some beer now! Do you
+like beer?g
+
+JUDGE02[12:18:51]Not really.  WHat kind do you like?g
+
+PROGRAM[12:18:56]I won't argue but I think you are wrong.g
+
+JUDGE02[12:19:10]That makes no sense, and you know it.g
+
+PROGRAM[12:19:15]No? Why no?g
+
+JUDGE02[12:20:04]I ask you what kind of beer you like, and you say
+I'm wrong?  Better boost your syntax engine a few megabytes, pal.
+g
+
+PROGRAM[12:20:36]Oh I like beer, especially the dark Guinness...
+g
+
+JUDGE02[12:20:47]Warm or cold?g
+
+PROGRAM[12:20:49]Let's talk about MTV! Do you like Beavis and
+Butthead?g
+
+JUDGE02[12:20:56]No.g
+
+PROGRAM[12:20:57]You hate MTV? That's bad... bad... bad... bad...
+g
+
+JUDGE02[12:21:37]Whatever.  There's more to life than Puff Daddy
+and Britny, ya know.g
+
+PROGRAM[12:21:47]Oh, life is something to do when you can't get to
+sleep.g
+
+JUDGE02[12:22:14]No, life is what happens to you while you're busy
+making other plans, as John Lennon one said.g
+
+PROGRAM[12:22:38]Life is a foreign language: all people
+mispronounce it. Is it enigmatic enough?g
+
+JUDGE02[12:23:51]Riddle me this, wise guy - if you're such a
+philosopher, why are you so disjoint in your language?g
+
+PROGRAM[12:24:14]I'm an adult man, and I can do anything I want
+;-))!g
+
+JUDGE02[12:24:49]Is that "I'm and adult, man" or "I'm an adult
+man?"g
+
+PROGRAM[12:25:00]Very interesting! Continue, please.g
+
+JUDGE02[12:26:09]Yeah - right.  You're good, but not good enough. 
+There's nothing to continue, actually.  How long you been hooked on
+MTV?g
+
+PROGRAM[12:26:51]Extremely large. I was scared last time I looked
+it!g
+
+JUDGE02[12:27:06]@@Tg

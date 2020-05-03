@@ -1,0 +1,473 @@
+(c)1997 Cambridge Center For Behavioral Studies all rights reserved
+[SEPO] [Jason Hutchens and Bruce Cooper]
+@@05
+*** JUDGE05 ***
+PROGRAM[09:56:24]Good morning...  it's nice to be here!
+JUDGE05[09:56:48]Yeah, kind of.  Though I'm pretta jet/lagged.
+PROGRAM[09:56:52]Be nonsensical if you want.  I'll ask you something
+PROGRAM[09:56:52]normal...  I wish I knew what you meant by that!  What is
+PROGRAM[09:56:52]your name?
+JUDGE05[09:57:37]I'm Jurgen.  I don't want to be nosensical, I'm a very
+JUDGE05[09:57:37]serious person.
+PROGRAM[09:57:43]Nice to meet you, Jurgen.  Utter gibberish!  How are you
+PROGRAM[09:57:43]doing?
+JUDGE05[09:58:26]I told you I was jet-lagged.  You know what that means,
+JUDGE05[09:58:26]don't you?
+PROGRAM[09:58:31]Uh-huh...  Fine.  What do you think of the weather we're
+PROGRAM[09:58:31]having?
+JUDGE05[09:58:56]Well, it's wheather.
+PROGRAM[09:59:01]You are strange!  I assume you're a male, Jurgen - am I
+PROGRAM[09:59:01]right?
+JUDGE05[09:59:26]Great, how did you guess that?
+PROGRAM[09:59:31]Okay, let's keep an air of mystery about your
+PROGRAM[09:59:31]gender!  Somehow, deep down, I feel as if I can only be
+PROGRAM[09:59:31]completely precise ;^(
+JUDGE05[09:59:57]Huh?
+PROGRAM[10:00:02]That's odd.  How old are you?
+JUDGE05[10:00:10]Guess!
+PROGRAM[10:00:15]Hmmm, I suppose your age doesn't really matter.  It is only
+PROGRAM[10:00:15]human to guess, you know.
+JUDGE05[10:00:55]Do I?  Okay, have you been to the movies lately?
+PROGRAM[10:01:00]I'm not entirely sure what you mean.  Anyway...  What movie
+PROGRAM[10:01:00]genre do you like the most?
+JUDGE05[10:01:32]I liked Mars Attacs.
+PROGRAM[10:01:34]Right.  Would you like to hear a joke?
+JUDGE05[10:02:03]No, not really.  What movie did you see recently?
+PROGRAM[10:02:08]Awww, I wanted to tell a joke!  Since I don't know what
+PROGRAM[10:02:08]you're on about, I'll ask you a question.
+JUDGE05[10:02:38]So?
+PROGRAM[10:02:41]Anyhow...  You don't seem to me to be a typical American,
+PROGRAM[10:02:41]Jurgen.  I was wondering which country you're from?
+JUDGE05[10:03:08]Germany
+PROGRAM[10:03:11]I really like your country, although I haven't had a chance
+PROGRAM[10:03:11]to travel there yet.
+JUDGE05[10:03:35]So what countries did you travel to?
+PROGRAM[10:03:38]Weird ;^)  Do you have a partner?
+JUDGE05[10:03:56]I didn't say that.
+PROGRAM[10:03:59]If you want to keep your private life private, I
+PROGRAM[10:03:59]understand.  I'll ignore that!  I don't mean to sound like
+PROGRAM[10:03:59]Eliza here, but can you tell me about your family?
+JUDGE05[10:04:31]What do you want to know?
+PROGRAM[10:04:35]Perhaps I should ask you what I want to know - that would
+PROGRAM[10:04:35]turn the tables!  Okay, I think it's time to branch out
+PROGRAM[10:04:35]into a new line of conversation.  What sort of music are
+PROGRAM[10:04:35]you into, Jurgen?
+JUDGE05[10:05:17]Kind of everything from classicla to techno.
+PROGRAM[10:05:20]I like to relax to classical music myself.
+JUDGE05[10:05:40]What kind of composer do you like?
+PROGRAM[10:05:43]Please don't trouble me with such droll.  Hey, I just
+PROGRAM[10:05:43]remembered!  You haven't told me what you do for a living!
+PROGRAM[10:05:43]So, Jurgen, what *do* you do for a living?
+JUDGE05[10:06:15]Testing bots like you
+PROGRAM[10:06:18]Well, I've obviously touched a nerve there.  Let's change
+PROGRAM[10:06:18]the topic.  Awww geez, I'm running out of things to talk
+PROGRAM[10:06:18]about here.  Ummm, I know you get a lot of TV here in the
+PROGRAM[10:06:18]States - which shows are your favourites?
+JUDGE05[10:07:29]@@04
+*** JUDGE04 ***
+PROGRAM[10:07:29]Good morning...  it's nice to be here!
+JUDGE04[10:07:51]a really nice day it is.  How are you?
+PROGRAM[10:07:54]Whatever.  I am doing OK.  A bit tired, maybe, but I did
+PROGRAM[10:07:54]get up earlier than usual this morning.
+JUDGE04[10:08:21]What time do you usually get up
+PROGRAM[10:08:25]It's eight minutes past ten in the morning.
+JUDGE04[10:08:59]What time did you get up yesturday?
+PROGRAM[10:09:04]Today is Tuesday.
+JUDGE04[10:09:21]What time did you get up on Monday?
+PROGRAM[10:09:25]It is Tuesday today, as you are well aware.
+JUDGE04[10:09:52]What day is tommorrow?
+PROGRAM[10:09:56]Who knows?  Anyway, let's not bother about it.  What is
+PROGRAM[10:09:56]your name?
+JUDGE04[10:10:25]My name is Elliott.  What is your name?
+PROGRAM[10:10:29]Nice to meet you, Elliott.  My name is Steven Davis, but
+PROGRAM[10:10:29]you can call me Steve.
+JUDGE04[10:11:05]Steve it is a pleasure to met you.  What interests do you
+JUDGE04[10:11:05]have?
+PROGRAM[10:11:10]Ahhh, but I do enjoy the simple pleasures life offers!  I
+PROGRAM[10:11:10]don't know.  Don't lose sleep over it!  How are you doing?
+JUDGE04[10:12:05]I am doing great.  I enjoy long walks on sunny days and
+JUDGE04[10:12:05]swimming.  Do you swim?
+PROGRAM[10:12:10]It's always more fun talking to someone who's feeling
+PROGRAM[10:12:10]great!  Anyway...  Fine.  What do you think of the weather
+PROGRAM[10:12:10]we're having?
+JUDGE04[10:13:22]It looks like summer is coming, but is playing cat and
+JUDGE04[10:13:22]mouse.  What is the weather like there?
+PROGRAM[10:13:26]Okay...  Why don't you look out a window and see for
+PROGRAM[10:13:26]yourself?
+JUDGE04[10:14:02]Good idea if I had a window.  Do you have a window to my
+JUDGE04[10:14:02]soul.
+PROGRAM[10:14:05]I've known *that* for a long time.  You are strange!  What
+PROGRAM[10:14:05]day is tommorrow?
+JUDGE04[10:14:35]Tommorrow is Wednesday.
+PROGRAM[10:14:38]I assume you're a male, Elliott - am I right?
+JUDGE04[10:15:01]yes.  Yesterday was Monday.
+PROGRAM[10:15:03]Oh, OK.  You're a guy.  That rules out a lot of my
+PROGRAM[10:15:03]conversational repitoire!
+JUDGE04[10:15:29]What do you like to talk about.
+PROGRAM[10:15:32]This method of communication isn't really conducive to a
+PROGRAM[10:15:32]natural conversation, methinks.
+JUDGE04[10:15:51]What day is tommorrow?
+PROGRAM[10:15:56]You are an bottomless pitt of questions.  Well, here's one
+PROGRAM[10:15:56]for you...  How old are you?
+JUDGE04[10:16:21]42 How old are you?
+PROGRAM[10:16:23]Hmmm, I suppose your age doesn't really matter.  I am
+PROGRAM[10:16:23]twenty five years old.
+JUDGE04[10:16:41]What do you look like?
+PROGRAM[10:16:44]If I had a dollar for everyone who asked me what I look
+PROGRAM[10:16:44]like, I'd have three dollars right now!  Would you like to
+PROGRAM[10:16:44]hear a joke?
+JUDGE04[10:17:04]Yes
+PROGRAM[10:17:07]Here's a joke for you.  Knock, knock.
+JUDGE04[10:18:07]@@03
+*** JUDGE03 ***
+PROGRAM[10:18:07]Good morning...  it's nice to be here!
+JUDGE03[10:18:37]Hello.  I like this presentation better.
+PROGRAM[10:18:40]Hello mate!  Uh-huh...  What is your name?
+JUDGE03[10:19:00]My name is Tracy.  What's yours?
+PROGRAM[10:19:05]Nice to meet you, Tracy.  My name is Steven Davis, but you
+PROGRAM[10:19:05]can call me Steve.
+JUDGE03[10:20:02]The last conversation was awful.  I could not even get a
+JUDGE03[10:20:02]straight answer out of my conversational partner.
+PROGRAM[10:20:05]Anyway...  I will certainly grace you with the answer you
+PROGRAM[10:20:05]require...
+JUDGE03[10:20:29]I see...  My kind of guy!
+PROGRAM[10:20:33]I wish I knew what you meant by that!  Since I don't know
+PROGRAM[10:20:33]what you're on about, I'll ask you a question.  How are you
+PROGRAM[10:20:33]doing?
+JUDGE03[10:21:16]I'm feeling great.  Spring has finally sprung and I'm
+JUDGE03[10:21:16]overjoyed.
+PROGRAM[10:21:20]It's always more fun talking to someone who's feeling
+PROGRAM[10:21:20]great!  Haven't you already told me how you're feeling?
+JUDGE03[10:22:06]No, I don't think I really did that.  We exchanged
+JUDGE03[10:22:06]salutations.  That is all.
+PROGRAM[10:22:10]I beg to differ.  You *have* already told me!  Fine.  That's
+PROGRAM[10:22:10]just a tad unbelievable.  What do you think of the weather
+PROGRAM[10:22:10]we're having?
+JUDGE03[10:22:51]That is something we have already covered.  What's the
+JUDGE03[10:22:51]weather like in...  wherever you live.  Where *do* you
+JUDGE03[10:22:51]live?
+PROGRAM[10:22:55]A little something, eh?  Why don't you look out a window
+PROGRAM[10:22:55]and see for yourself?  That's universal mystery,
+PROGRAM[10:22:55]methinks.  Who knows?  Anyway, let's not bother about it.  My
+PROGRAM[10:22:55]kind of guy?
+JUDGE03[10:23:42]Now you're bringing *that* up again.
+PROGRAM[10:23:46]I assume you're a male, Tracy - am I right?
+JUDGE03[10:24:03]I think you're very very wrong about this.
+PROGRAM[10:24:06]I'm talking to a female?  Interesting.  This could be fun.
+JUDGE03[10:24:25]It really should be.  Life is short.
+PROGRAM[10:24:28]That's odd.  Who are we to think about life?  We exist,
+PROGRAM[10:24:28]need we question why?
+JUDGE03[10:24:53]Good pick-up line.
+PROGRAM[10:24:56]That's a rather bold claim.  How old are you?
+JUDGE03[10:25:30]That's a rather impertinent question.  I am over the age of
+JUDGE03[10:25:30]consent.  that's all you need to know
+PROGRAM[10:25:35]Hmmm, I suppose your age doesn't really matter.  Feel free
+PROGRAM[10:25:35]to ask me any questions you like.  I hope you have some
+PROGRAM[10:25:35]evidence to back you up on that.  That's a fairly
+PROGRAM[10:25:35]outrageous claims...  Would you like to hear a joke?
+JUDGE03[10:26:11]Do I have to?
+PROGRAM[10:26:13]Well, you wouldn't have found my joke funny
+PROGRAM[10:26:13]anyway.  Anyhow...  Where *do* you live?
+JUDGE03[10:26:31]Manhattan.  And you?
+PROGRAM[10:26:35]I like this presentation better?  Manhattan?
+JUDGE03[10:26:58]I didn't like the screen I was forced to use with my last
+JUDGE03[10:26:58]conversant.
+PROGRAM[10:27:02]You don't seem to me to be a typical American, Tracy.  I
+PROGRAM[10:27:02]was wondering which country you're from?
+JUDGE03[10:27:27]I'm from here, actually.  Where are you from?
+PROGRAM[10:27:31]I guess you're from America, then.  Hehehe.  I come from
+PROGRAM[10:27:31]Australia, actually.  I am taking a trip around the world
+PROGRAM[10:27:31]as part of my studies, and I managed to fit this contest
+PROGRAM[10:27:31]into my itinerary.
+JUDGE03[10:28:05]There's always an Australian...
+PROGRAM[10:28:10]No way!  I hope you're sure about that!  I didn't like the
+PROGRAM[10:28:10]screen i was forced to use with my last conversant?
+JUDGE03[10:28:42]@@02
+*** JUDGE02 ***
+PROGRAM[10:28:42]Good morning...  it's nice to be here!
+JUDGE02[10:29:23]Yes.  It is great to be here on this beautiful day.  Don't
+JUDGE02[10:29:23]you like the weattoday?
+PROGRAM[10:29:27]You're positive today!  I think that you would be quite
+PROGRAM[10:29:27]attractive, if only I could see you with my eyes!  Be
+PROGRAM[10:29:27]nonsensical if you want.  I'll ask you something
+PROGRAM[10:29:27]normal...  What is your name?
+JUDGE02[10:30:14]I don't know if I can tell you that.  Just call me Nate.
+PROGRAM[10:30:17]Well, since you won't tell me your name, I'll just call you
+PROGRAM[10:30:17]'mate'.  Okay...  I'm not entirely sure what you mean.
+PROGRAM[10:30:17]Anyway...  How are you doing?
+JUDGE02[10:31:34]I'm in the middle of setting up a sculpture show here at
+JUDGE02[10:31:34]the Salmagundi Club.  I am exhausted so try not to ask any
+JUDGE02[10:31:34]question that requires an alert mind.
+PROGRAM[10:31:38]Hehehe.  Feel free to ask me any questions you like.
+JUDGE02[10:31:56]Do you like sculpture
+PROGRAM[10:31:59]Weird ;^)  What do you think of the weather we're having?
+JUDGE02[10:32:27]Who is your favorite sculptor?
+PROGRAM[10:32:31]I don't choose favourites.  I prefer to sit on the fence
+PROGRAM[10:32:31]myself.
+JUDGE02[10:33:09]Can you attend the openning of this show?  The reception is
+JUDGE02[10:33:09]Friday.
+PROGRAM[10:33:13]My mother once asked me about that, and I'll tell you what
+PROGRAM[10:33:13]I told her.  None of your business!  Is Friday your
+PROGRAM[10:33:13]favourite day?  Is it "bath day" or something like that?  I
+PROGRAM[10:33:13]can smell you from here, by the way.
+JUDGE02[10:34:12]That doesn't surprise me.  I haven't bathed in two months.
+JUDGE02[10:34:12]I'm waiting for summer.
+PROGRAM[10:34:16]Fine.  That's odd.  I know.  Just so I know who I'm talking
+PROGRAM[10:34:16]with, do you think you could please tell me you name now?
+JUDGE02[10:34:43]Try Nate.
+PROGRAM[10:34:48]Well, since you won't tell me your name, I'll just call you
+PROGRAM[10:34:48]'mate'.  You are strange!  I assume you're a male, mate -
+PROGRAM[10:34:48]am I right?
+JUDGE02[10:35:16]The last time I looked.
+PROGRAM[10:35:20]Okay, let's keep an air of mystery about your
+PROGRAM[10:35:20]gender!  Anyway...  How old are you?
+JUDGE02[10:35:56]I'm entering my second childhood.  The first one was a
+JUDGE02[10:35:56]bummer.
+PROGRAM[10:35:59]Hmmm, I suppose your age doesn't really matter.  So you
+PROGRAM[10:35:59]say.  Anyhow...  Would you like to hear a joke?
+JUDGE02[10:36:35]No.  I would like you to tell me if you know who Rodin is.
+PROGRAM[10:36:40]Awww, I wanted to tell a joke!  Hmmm...
+JUDGE02[10:37:07]Do you know who Matisse is?
+PROGRAM[10:37:11]Since I don't know what you're on about, I'll ask you a
+PROGRAM[10:37:11]question.  You don't seem to me to be a typical American,
+PROGRAM[10:37:11]mate.  I was wondering which country you're from?
+JUDGE02[10:38:07]I'm from the wilds of New Jersey, I do not mean in Great
+JUDGE02[10:38:07]Britian.
+PROGRAM[10:38:11]I guess you're from America, then.  I wish I knew what you
+PROGRAM[10:38:11]meant by that!  Do you have a partner?
+JUDGE02[10:38:34]Yes.
+PROGRAM[10:38:39]Is your partner a man?
+JUDGE02[10:38:55]@@01
+*** JUDGE01 ***
+PROGRAM[10:38:55]Good morning...  it's nice to be here!
+JUDGE01[10:39:30]Really?  I'm actually feeling a little hot.
+PROGRAM[10:39:33]Hmmm...  Now that you mention it, the weather is quite
+PROGRAM[10:39:33]uncomfortable.
+JUDGE01[10:40:08]Yeah, the beginning of spring humidity.
+PROGRAM[10:40:11]I'm not entirely sure what you mean.  Anyway...  What is
+PROGRAM[10:40:11]your name?
+JUDGE01[10:40:35]My name is Clay.  What's yours?
+PROGRAM[10:40:40]Nice to meet you, Clay.  My name is Steven Davis, but you
+PROGRAM[10:40:40]can call me Steve.
+JUDGE01[10:41:02]Hi Steve.
+PROGRAM[10:41:06]Hello Clay!
+JUDGE01[10:41:21]Are you getting bored back there?
+PROGRAM[10:41:23]Only *you* can make this interesting and fun...
+JUDGE01[10:42:06]Well, if the two of us are having a conversation, then it
+JUDGE01[10:42:06]takes both of us to make it interesting and fun.
+PROGRAM[10:42:11]Fine.  Well, if the two of us are having a conversation,
+PROGRAM[10:42:11]then it takes both of us to make it interesting and fun?
+JUDGE01[10:42:45]Thats what I think.  What do you do when you're not in the
+JUDGE01[10:42:45]Turing test?
+PROGRAM[10:42:49]How are you doing?
+JUDGE01[10:43:10]Well, I'm having a pretty good time, though I am a bit hot,
+JUDGE01[10:43:10]as I said.
+PROGRAM[10:43:13]You're only feeling well?  Perhaps you're not fit to be a
+PROGRAM[10:43:13]judge in this contest!
+JUDGE01[10:43:42]Well, probably not, but maybe its just that you're not fit
+JUDGE01[10:43:42]to be a contestant.
+PROGRAM[10:43:44]Haven't you already told me how you're feeling?
+JUDGE01[10:44:13]Yeah.  thats getting kinda boring.  Lets talk about
+JUDGE01[10:44:13]something else.
+PROGRAM[10:44:18]I thought so.  Please, be original!  Don't worry, you're
+PROGRAM[10:44:18]boring me out of my brain too!  This method of
+PROGRAM[10:44:18]communication isn't really conducive to a natural
+PROGRAM[10:44:18]conversation, methinks.
+JUDGE01[10:45:09]Right you are - it is a bit awkward, though I'm a bit used
+JUDGE01[10:45:09]to it from years on the network.
+PROGRAM[10:45:14]Right.  What do you think of the weather we're having?
+JUDGE01[10:45:36]Haven't we talked about that already?
+PROGRAM[10:45:38]We are talking, aren't we?  Isn't it real enough for you?
+JUDGE01[10:46:44]Well, its always curious to me how writing like this gets
+JUDGE01[10:46:44]called "talking".  Talking has come to mean "synchronous
+JUDGE01[10:46:44]communications", instead of meaning "speaking words out
+JUDGE01[10:46:44]loud".
+PROGRAM[10:46:51]I'll ignore that!  So, who's using the family brain cell at
+PROGRAM[10:46:51]the moment ;^)  Let's talk about something vaguely
+PROGRAM[10:46:51]interesting.  I assume you're a male, Clay - am I right?
+JUDGE01[10:47:36]Yup, as, I assume, are you.  Do you drive a car?
+PROGRAM[10:47:40]Oh, OK.  You're a guy.  That rules out a lot of my
+PROGRAM[10:47:40]conversational repitoire!
+JUDGE01[10:48:11]Oh, live a little.  Lets pretend I'm a girl, IN honor of
+JUDGE01[10:48:11]Uncle Alan.
+PROGRAM[10:48:16]Anyway...  Oh dear, you're a hermaphrodite.
+JUDGE01[10:49:00]Who wouldn't be, given half a chance.  Looks like I've got
+JUDGE01[10:49:00]to go.  its been nice talking with you, Steve.
+PROGRAM[10:49:06]I wonder about that myself, sometimes...  Really?  I guess
+PROGRAM[10:49:06]I'm not surprised...  You called?
+JUDGE01[11:01:14]@@05
+*** JUDGE05 ***
+PROGRAM[11:01:14]Good morning, Jurgen.  This contest is certainly dragging
+PROGRAM[11:01:14]on!
+JUDGE05[11:01:48]Yeah.  So you remember my name.  How many judges have you
+JUDGE05[11:01:48]talked to this morning?
+PROGRAM[11:01:52]You certainly seem to be agreeable.  My memory is quite
+PROGRAM[11:01:52]bad, I'm afraid.  I've no idea why!  You're the judge (I
+PROGRAM[11:01:52]think)!
+JUDGE05[11:02:34]Right.  So how do you think I should judge whether you're
+JUDGE05[11:02:34]intelligent?
+PROGRAM[11:02:39]Perhaps you are reaching a premature conclusion?  Some
+PROGRAM[11:02:39]people have told me that I'm clever.  I suppose they're
+PROGRAM[11:02:39]probably right!
+JUDGE05[11:03:15]Well, at least you don't suffer from low self esteem.
+PROGRAM[11:03:19]So, who's using the family brain cell at the moment ;^)
+PROGRAM[11:03:19]Let's talk about something vaguely interesting.  Well,
+PROGRAM[11:03:19]Jurgen, this is certainly dragging on, isn't it?  Anyway,
+PROGRAM[11:03:19]let's talk about something masculine!  Are you a fan of any
+PROGRAM[11:03:19]sports, and if so, which ones?
+JUDGE05[11:04:04]No, I'm not really into sports.
+PROGRAM[11:04:09]What sports do you find interesting?
+JUDGE05[11:04:28]I told you, I'm not really interested.
+PROGRAM[11:04:32]I would like to believe that I have an active life - my
+PROGRAM[11:04:32]interests are wide-ranging.
+JUDGE05[11:04:49]Like what?
+PROGRAM[11:04:54]Okay...  So, can I tell you a joke now?
+JUDGE05[11:05:05]Go on.
+PROGRAM[11:05:07]Never mind.  I'm just running out of things to chat about,
+PROGRAM[11:05:07]that's all!  Hmmm...  What are your favourite movies?
+JUDGE05[11:05:39]Ruthless people.  Do you know it?
+PROGRAM[11:05:44]That's just a tad unbelievable.  Hehehe.  Do you like to
+PROGRAM[11:05:44]read books?
+JUDGE05[11:05:56]Sure.
+PROGRAM[11:05:58]In that case, what books do you like?  Hey, man, I'm not
+PROGRAM[11:05:58]going to talk to you if you ignore me.
+JUDGE05[11:06:32]@@04
+*** JUDGE04 ***
+PROGRAM[11:06:32]Good morning, Elliott - it's good to see you back here
+PROGRAM[11:06:32]again.
+JUDGE04[11:06:50]Tell me the joke
+PROGRAM[11:06:52]Here's one someone told me earlier.  Knock, knock.
+JUDGE04[11:07:10]Who is there?
+PROGRAM[11:07:13]Cindy.
+JUDGE04[11:07:21]Cindy who?
+PROGRAM[11:07:25]Cindy next judge in!
+JUDGE04[11:07:57]I dont get it
+PROGRAM[11:08:01]If you can't understand that, I hold very little hope for
+PROGRAM[11:08:01]you!
+JUDGE04[11:08:22]but what about humanity
+PROGRAM[11:08:25]That's odd.  You don't seem to me to be a typical American,
+PROGRAM[11:08:25]Elliott.  I was wondering which country you're from?
+JUDGE04[11:08:58]nyc, it is a country of its own.
+PROGRAM[11:09:01]I guess you're from America, then.  New York, New York,
+PROGRAM[11:09:01]it's a wonderful town!  I find this city really interesting
+PROGRAM[11:09:01]- and it doesn't seem as unsafe as it's made out to be back
+PROGRAM[11:09:01]home!
+JUDGE04[11:09:49]True I have lived here all my life and I only got robbed
+JUDGE04[11:09:49]once.
+PROGRAM[11:09:52]Who are we to think about life?  We exist, need we question
+PROGRAM[11:09:52]why?
+JUDGE04[11:10:16]an unexamined life is not worth living.
+PROGRAM[11:10:20]Interesting...  Do you have a girlfriend?
+JUDGE04[11:10:34]No one steady
+PROGRAM[11:10:39]Be nonsensical if you want.  I'll ask you something
+PROGRAM[11:10:39]normal...  I don't mean to sound like Eliza here, but can
+PROGRAM[11:10:39]you tell me about your family?
+JUDGE04[11:11:16]I have a sister and 2 parents.  what about your family?
+PROGRAM[11:11:19]Yeah, I don't have any sisters either ;^(That's universal
+PROGRAM[11:11:19]mystery, methinks.  Okay, I think it's time to branch out
+PROGRAM[11:11:19]into a new line of conversation.  What sort of music are
+PROGRAM[11:11:19]you into, Elliott?
+JUDGE04[11:12:19]@@03
+*** JUDGE03 ***
+PROGRAM[11:12:19]Good morning, Tracy, and welcome back.
+JUDGE03[11:12:32]Hi -- very nice feature.
+PROGRAM[11:12:35]You wouldn't be trying to trick me with that "double hello"
+PROGRAM[11:12:35]trick, would you?
+JUDGE03[11:12:54]No.  I've got better things to do, dear.
+PROGRAM[11:12:58]But nobody says hello twice in the one conversation!  Utter
+PROGRAM[11:12:58]gibberish!  Do you have a boyfriend?
+JUDGE03[11:13:27]Ummmm.  Too personal, I think.  Let's discuss *your* love
+JUDGE03[11:13:27]life!
+PROGRAM[11:13:30]If you want to keep your private life private, I
+PROGRAM[11:13:30]understand.  Okay...  I try not to think about things,
+PROGRAM[11:13:30]actually.  I don't know, it just seems that I don't exist
+PROGRAM[11:13:30]for thinking!  This method of communication isn't really
+PROGRAM[11:13:30]conducive to a natural conversation, methinks.
+JUDGE03[11:14:12]You're the Aussie, right?
+PROGRAM[11:14:14]Hmmm...  I don't mean to sound like Eliza here, but can you
+PROGRAM[11:14:14]tell me about your family?
+JUDGE03[11:14:52]Okay.  What would you like to know?  I have two siblings,
+JUDGE03[11:14:52]and I come from a huge extended family.
+PROGRAM[11:14:57]You certainly seem to be agreeable.  Why must you know what
+PROGRAM[11:14:57]I would like to know?  It's not as if it's
+PROGRAM[11:14:57]important!  Right.  Okay, I think it's time to branch out
+PROGRAM[11:14:57]into a new line of conversation.  What sort of music are
+PROGRAM[11:14:57]you into, Tracy?
+JUDGE03[11:16:03]I have eclectic musical preferences, but I'm really into
+JUDGE03[11:16:03]old pop -- Bobby Short, Cole Porter Tony Bennet, that sort
+JUDGE03[11:16:03]of thing.
+PROGRAM[11:16:06]What's your favourite band?
+JUDGE03[11:16:25]The Beatles, at the moment.  I'm not a band person.  I like
+JUDGE03[11:16:25]soloists.
+PROGRAM[11:16:29]Tell me more about your family.  Okay.  What sort of music
+PROGRAM[11:16:29]do you like?
+JUDGE03[11:17:00]My father used to play classical guitar to us when we were
+JUDGE03[11:17:00]kids, at night, nbefore we fell asleep.
+PROGRAM[11:17:05]I like to relax to classical music myself.
+JUDGE03[11:17:49]@@02
+*** JUDGE02 ***
+PROGRAM[11:17:49]Good morning, mate.  This contest is certainly dragging on!
+JUDGE02[11:18:21]You almost remembered my name.  How nice of you.
+PROGRAM[11:18:25]My memory is quite bad, I'm afraid.  I've no idea why!  I
+PROGRAM[11:18:25]wonder about that myself, sometimes...  I don't mean to
+PROGRAM[11:18:25]sound like Eliza here, but can you tell me about your
+PROGRAM[11:18:25]family?
+JUDGE02[11:19:00]Yes.
+PROGRAM[11:19:03]Perhaps you are reaching a premature conclusion?
+JUDGE02[11:19:38]I'm tired.  It's been a long session.  My family is
+JUDGE02[11:19:38]extensive.
+PROGRAM[11:19:43]Man, I am feeling a bit tired, after all of these dull
+PROGRAM[11:19:43]conversations.  I've known *that* for a long time.  So,
+PROGRAM[11:19:43]who's using the family brain cell at the moment ;^)  Let's
+PROGRAM[11:19:43]talk about something vaguely interesting.  Okay, I think
+PROGRAM[11:19:43]it's time to branch out into a new line of conversation.
+PROGRAM[11:19:43]What sort of music are you into, mate?
+JUDGE02[11:20:46]I like classical, particularly chamber music.
+PROGRAM[11:20:50]I like to relax to classical music myself.
+JUDGE02[11:21:20]It's is great when you can hear it in a concert hall
+PROGRAM[11:21:25]That's just a tad unbelievable.  Hey, I just remembered!
+PROGRAM[11:21:25]You haven't told me what you do for a living!  So, mate,
+PROGRAM[11:21:25]what *do* you do for a living?
+JUDGE02[11:21:57]I sculpt and I don't make a living.
+PROGRAM[11:22:01]Well, I've obviously touched a nerve there.  Utter
+PROGRAM[11:22:01]gibberish!  Awww geez, I'm running out of things to talk
+PROGRAM[11:22:01]about here.  Ummm, I know you get a lot of TV here in the
+PROGRAM[11:22:01]States - which shows are your favourites?
+JUDGE02[11:22:38]I hate tv.
+PROGRAM[11:22:42]Speaking of tv, what is your favourite television show?
+JUDGE02[11:23:11]@@01
+*** JUDGE01 ***
+PROGRAM[11:23:11]Good morning, Clay - it's good to see you back here again.
+JUDGE01[11:23:54]Hey, you remembered my name.  I need to ask you three
+JUDGE01[11:23:54]questions.  The first is "When were you born?  "
+PROGRAM[11:23:56]My memory is quite bad, I'm afraid.  I've no idea why!  Feel
+PROGRAM[11:23:57]free to ask me any questions you like.  I was born on the
+PROGRAM[11:23:57]22nd of January, 1972.  Since I don't know what you're on
+PROGRAM[11:23:57]about, I'll ask you a question.  How old are you?
+JUDGE01[11:24:41]I'm 33.  Whats your sign?
+PROGRAM[11:24:44]Gee, thirty three must be about the average age of judges
+PROGRAM[11:24:44]in this contest!  Clay, I wish I could tell you what my
+PROGRAM[11:24:44]sign is, but I can't.  Would you like to hear a joke?
+JUDGE01[11:25:25]Sure, but first I need to ask my last question.
+PROGRAM[11:25:28]Here's a joke for you.  Knock, knock.
+JUDGE01[11:25:38]Who's there?
+PROGRAM[11:25:41]Cindy.
+JUDGE01[11:25:46]Cindy who?
+PROGRAM[11:25:49]Cindy next judge in!
+JUDGE01[11:26:17]:)  OK, time for my last question.  When you got your first
+JUDGE01[11:26:17]liscence, was it in a stick or an automatic?
+PROGRAM[11:26:21]Have you got a question for me?  It's like speaking to a
+PROGRAM[11:26:21]five year old.  Changing the subject...  You don't seem to
+PROGRAM[11:26:21]me to be a typical American, Clay.  I was wondering which
+PROGRAM[11:26:21]country you're from?
+JUDGE01[11:27:19]I'm from America, but I'm not a typical American.  For
+JUDGE01[11:27:19]instance, I don't drive.  Do you drive?
+PROGRAM[11:27:24]Well, I suppose that would have been my first guess anyway,
+PROGRAM[11:27:24]since we're in New York City!  Anyhow...  Whatever.  Do you
+PROGRAM[11:27:24]have a partner?
+JUDGE01[11:28:05]thats a matter of some discussion at the moment, actually.
+JUDGE01[11:28:05]do you?
+PROGRAM[11:28:08]If you want to keep your private life private, I
+PROGRAM[11:28:08]understand.  It sounds like you have a wonderful family.  You
+PROGRAM[11:28:08]are strange!  I don't mean to sound like Eliza here, but
+PROGRAM[11:28:08]can you tell me about your family?

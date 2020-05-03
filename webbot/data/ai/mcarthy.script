@@ -1,0 +1,69 @@
+(mcarthy_state==0)
+""
+{
+	response+="Want to learn more about John McCarthy?";
+	mcarthy_state=1;
+}
+[]
+
+
+/*------------------------------------------------------------------------------*/
+
+(mcarthy_state==1)
+""
+{
+	response+="John McCarthy was born on Sept 4, 1927. One of John McCarthy's most famous contributions to Artificial Intelligence was the organization of the Dartmouth Conference, at which the name 'Artificial Intelligence' was coined"; 
+	mcarthy_state=2;
+}
+[]
+
+
+(mcarthy_state==1)
+"#BYE_WORD#"
+{
+	mcarthy_state=4;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+/*------------------------------------------------------------------------------*/
+
+(mcarthy_state==2)
+""
+{
+	response+="McCarthy initially saw the conference as a failure, but in the years after the conference, many artificial intelligence laboratories were established. Sometimes a success is seen only through the prism of time.";
+	mcarthy_state=3;
+}
+[]
+
+
+(mcarthy_state==2)
+"#BYE_WORD#"
+{
+	mcarthy_state=4;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+/*------------------------------------------------------------------------------*/
+
+(mcarthy_state==3)
+""
+{
+	response+="Another of McCarthy's great accomplishments was the creation of the LISP (List Processing) language. LISP soon became the language of choice for many AI programmers and various versions of LISP are still being used today, forty years later. I've displayed more information about John McCarthy in the pages above: John McCarthy http://web.mit.edu/STS001/www/Team7/mccarthy.html http://www-formal.stanford.edu/jmc/";
+	changecontext("default");
+	mcarthy_state=4;
+}
+[]
+
+
+(mcarthy_state==3)
+"#BYE_WORD#"
+{
+	mcarthy_state=4;
+	changecontext("default");
+	throw(input);
+}
+[]

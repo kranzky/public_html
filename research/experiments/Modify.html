@@ -1,0 +1,41 @@
+<? Include("Verify.html"); ?>
+<? Include("Functions.html"); ?>
+<? $title = "Modify your Details"; ?>
+<? Include("Header.html"); ?>
+
+<?
+   mysql_connect("localhost","hutch","wally37");
+	mysql_select_db("experiments");
+
+	if(IsSet($e_name)) {
+		$result=mysql_query("UPDATE user_info SET name='$e_name',list='$e_list' WHERE user=$s_user");
+		echo "<H2>Details Updated</H2>";
+		echo "Your details have been modified.  You may return to the ";
+		echo "<A HREF=\"Experiment_List.html\">experiment list</A> now.";
+	}
+
+	$result=mysql_query("SELECT name,list FROM user_info WHERE user = $s_user");
+   $name = mysql_result($result, 0, "name");
+   $list = mysql_result($result, 0, "list");
+?>
+
+<H2>Modify User</H2>
+
+<FORM METHOD=POST ACTION="Modify.html">
+<CENTER>
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=4>
+
+<TR><TD BGCOLOR="EEEEBB">Name:</TD><TD BGCOLOR="EEEEBB"><INPUT SIZE=30 NAME=e_name VALUE="<? echo $name; ?>"></TD></TR>
+
+<TR><TD BGCOLOR="EEEEBB">Would you like to be kept up-to-date with occasional emails?</TD><TD BGCOLOR="EEEEBB">
+<INPUT SIZE=40 NAME=e_list TYPE=radio VALUE="Y" <? if($list=="Y") { echo "CHECKED"; } ?>>Yes</INPUT>
+<INPUT SIZE=40 NAME=e_list TYPE=radio VALUE="N" <? if($list=="N") { echo "CHECKED"; } ?>>No</INPUT>
+</TD></TR>
+
+</TABLE>
+<P>
+<INPUT TYPE=submit value="Modify Your Details">
+</CENTER>
+</FORM>
+
+<? Include("Footer.html"); ?>

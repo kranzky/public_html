@@ -1,0 +1,10 @@
+<?
+msql_connect("localhost");
+$result=msql("hutch", "SELECT email FROM user WHERE email = '$s_email' AND password = '$s_password'");
+$num = msql_NumRows($result);
+
+if(($num!=1)||(($s_email!="hutch")&&($s_email!="hutch1")&&($s_email!="hutch2")));
+	Include("Banned.phtml");
+	Exit;
+endif;
+>

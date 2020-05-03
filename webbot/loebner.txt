@@ -1,0 +1,8 @@
+(c)2000 Cambridge Center For Behavioral Studies all rights reserved
+[eBrain] [Jason Lloyd Hutchens]
+Start at: [2000/12/03 11:06:04]
+JUDGE00[11:06:06]hello
+PROGRAM[11:06:06]0You said "if" all by itself!  
+(c)2000 Cambridge Center For Behavioral Studies all rights reserved
+[eBrain] [Jason Lloyd Hutchens]
+Start at: [2000/12/03 11:07:23]

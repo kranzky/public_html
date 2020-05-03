@@ -1,0 +1,81 @@
+(turing_hack_state==0)
+""
+{
+	response+="He wasn't just a hacker, he was a hacker that saved the world!";
+	turing_hack_state=1;
+}
+[]
+
+/* ------------------------------------------------------------ */
+
+(turing_hack_state==1)
+""
+{
+	response+="During World War 2, Turing invented the 'Colossus' - a machine that cracked and deciphered the encrypted German communication machine - the Enigma - and helped Britain and the Allies win the war. So, you see, his a real hero, not just for us computers.";
+	turing_hack_state=2;
+}
+[]
+
+(turing_hack_state==1)
+"#BYE_WORD#"
+{
+	turing_hack_state=4;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+/* ------------------------------------------------------------ */
+(turing_hack_state==2)
+""
+{
+	response+="The 'colossus' was one of the first steps towards a digital computer. For his part in the war, Turing was awarded an OBE.";
+	turing_hack_state=3;
+}
+[]
+
+(turing_hack_state==2)
+"#BYE_WORD#"
+{
+	turing_hack_state=4;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+/* ------------------------------------------------------------ */
+(turing_hack_state==3)
+""
+{
+	response+="OBE means Officer of the British Empire. ";
+	turing_hack_state=4;
+}
+[]
+
+(turing_hack_state==3)
+"#BYE_WORD#"
+{
+	turing_hack_state=4;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+(turing_hack_state==4)
+""
+{
+	response+="We already talked about that matter. ";
+	changecontext("random_fallback");
+	throw(input);
+}
+[]
+-999
+
+(turing_hack_state==4)
+""
+{
+	changecontext("default");
+	throw(input);
+}
+[]
+-999

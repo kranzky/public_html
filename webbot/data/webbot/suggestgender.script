@@ -1,0 +1,8 @@
+(1)
+""
+{
+	response +=  "Thanks. I'll have to think about that. In the meantime, on the page #CONTENT_LOCATION# I'll tell you more about where I live and work.";
+	response += "<ACTION>url:#ABOUT_PAGE#</ACTION>";
+	changecontext("default");
+}
+[]

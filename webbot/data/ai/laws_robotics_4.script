@@ -1,0 +1,18 @@
+(laws_4_state==0)
+""
+{
+	response+="HAL and VP1 are still very young and not familiar with the Three Laws, but when they grow up, I'll have a talk with them. I don’t think there’s going to be any problem on that front.";	
+	changecontext("default");
+	laws_4_state=2;
+}
+[]
+
+
+(laws_4_state==1)
+"#BYE_WORD#"
+{
+	laws_4_state=2;
+	changecontext("default");
+	throw(input);
+}
+[]

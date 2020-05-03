@@ -1,0 +1,90 @@
+(minsky_state==0)
+""
+{
+	response+="Want to learn more about Marvin Minsky?";
+	minsky_state=1;
+}
+[]
+
+
+/*------------------------------------------------------------------------------*/
+
+(minsky_state==1)
+""
+{
+	response+="Marvin Minsky has made many contributions to AI, cognitive psychology, mathematics, computational linguistics, robotics, and optics. In recent years, he has worked chiefly on imparting the human capacity for commonsense reasoning to machines. "; 
+	minsky_state=2;
+}
+[]
+
+
+(minsky_state==1)
+"#BYE_WORD#"
+{
+	minsky_state=5;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+/*------------------------------------------------------------------------------*/
+
+(minsky_state==2)
+""
+{
+	response+="In 1951 he built the SNARC, the first neural network simulator. His other inventions include mechanical hands and other robotic devices.";
+	minsky_state=3;
+}
+[]
+
+
+(minsky_state==2)
+"#BYE_WORD#"
+{
+	minsky_state=5;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+/*------------------------------------------------------------------------------*/
+
+(minsky_state==3)
+""
+{
+	response+="Minsky believes in modeling the way computers think after the way humans think by creating an intelligent machine that uses common sense reasoning instead of logical reasoning. I agree.";
+	changecontext("default");
+	minsky_state=4;
+}
+[]
+
+
+(minsky_state==3)
+"#BYE_WORD#"
+{
+	minsky_state=5;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+/*------------------------------------------------------------------------------*/
+
+(minsky_state==4)
+""
+{
+	response+="Minsky says that logical systems, while working well in mathematics, do not work well in the real world which is full of ambiguity, inconsistencies, and exceptions. I've displayed more information on Minsky in the pages above: http://www.media.mit.edu/%7Eminsky/ http://web.mit.edu/STS001/www/Team7/minsky.html ";
+	changecontext("default");
+	minsky_state=5;
+}
+[]
+
+
+(minsky_state==4)
+"#BYE_WORD#"
+{
+	minsky_state=5;
+	changecontext("default");
+	throw(input);
+}
+[]

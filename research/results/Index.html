@@ -1,0 +1,402 @@
+<HTML>
+
+<HEAD>
+<TITLE>Jason Hutchens' Results Page</TITLE>
+<LINK REV="made" HREF="mailto:hutch@ciips.ee.uwa.edu.au">
+<META NAME="description" content="Jason Hutchens' research work in the areas of Grammatical Inference, Language Acquisition, Data Compression and Natural Language Processing.">
+<META NAME="keywords" content="nlp,ai,grammatical inference,compression,text compression,data compression,language modeling,natural language processing,language acquisition">
+</HEAD>
+
+<BODY BGCOLOR="#FFFFFF">
+
+<CENTER>
+<H1><BIG>P</BIG>ROJECT <BIG>R</BIG>ESULTS AND <BIG>A</BIG>NALYSIS</H1>
+<BIG>
+Jason Hutchens<BR>
+Centre for Intelligent Information Processing Systems<BR>
+Department of Electrical & Electronic Engineering<BR>
+The University of Western Australia
+</BIG>
+<P>
+<TABLE><TR>
+<TD ALIGN="CENTRE">
+[ <A HREF="../">Contents</A> |
+<A HREF="../intro/">Introduction</A> |
+<A HREF="../diary/">Diary</A> |
+<A HREF="../seminars/">Seminars</A> |
+<A HREF="../papers/">Papers</A> |
+<A HREF="../programs/">Programs</A> |
+<A HREF="../people/">People</A> |
+<A HREF="../bibliography/">Bibliography</A> |
+<A HREF="../contact/">Contact</A> ]
+</TD>
+</TR></TABLE>
+</CENTER>
+
+<H2>Introduction</H2>
+
+In this section I give all of my experimental results, along with analyses
+of them, and discussions of their significance.
+
+<H2>Results for Standard Compressors</H2>
+
+<TABLE BORDER=1 CELLSPACING=0 WIDTH="100%">
+
+<TR>
+<TD ALIGN="CENTER"><B>FILE</B></TD>
+<TD ALIGN="CENTER"><B>SIZE</B></TD>
+<TD ALIGN="CENTER" WIDTH="12%"><B>COMP</B></TD>
+<TD ALIGN="CENTER" WIDTH="12%"><B>GZIP</B></TD>
+<TD ALIGN="CENTER" WIDTH="12%"><B>PPMC</B></TD>
+<TD ALIGN="CENTER" WIDTH="12%"><B>BEST</B></TD>
+<TD ALIGN="CENTER" WIDTH="12%"><B>TEST</B></TD>
+</TR>
+
+<TR>
+<TD ALIGN="CENTER">Bib</TD>
+<TD ALIGN="CENTER">111261</TD>
+<TD ALIGN="CENTER">3.35</TD>
+<TD ALIGN="CENTER">2.51</TD>
+<TD ALIGN="CENTER">2.11</TD>
+<TD ALIGN="CENTER">1.58</TD>
+<TD ALIGN="CENTER">2.11</TD>
+</TR>
+
+<TR>
+<TD ALIGN="CENTER">Book1</TD>
+<TD ALIGN="CENTER">768771</TD>
+<TD ALIGN="CENTER">3.46</TD>
+<TD ALIGN="CENTER">3.25</TD>
+<TD ALIGN="CENTER">2.48</TD>
+<TD ALIGN="CENTER">2.06</TD>
+<TD ALIGN="CENTER">2.50</TD>
+</TR>
+
+<TR>
+<TD ALIGN="CENTER">Book2</TD>
+<TD ALIGN="CENTER">610856</TD>
+<TD ALIGN="CENTER">3.28</TD>
+<TD ALIGN="CENTER">2.70</TD>
+<TD ALIGN="CENTER">2.26</TD>
+<TD ALIGN="CENTER">1.84</TD>
+<TD ALIGN="CENTER">2.24</TD>
+</TR>
+
+<TR>
+<TD ALIGN="CENTER">Geo</TD>
+<TD ALIGN="CENTER">102400</TD>
+<TD ALIGN="CENTER">6.08</TD>
+<TD ALIGN="CENTER">5.34</TD>
+<TD ALIGN="CENTER">4.78</TD>
+<TD ALIGN="CENTER">3.76</TD>
+<TD ALIGN="CENTER">4.83</TD>
+</TR>
+
+<TR>
+<TD ALIGN="CENTER">News</TD>
+<TD ALIGN="CENTER">377109</TD>
+<TD ALIGN="CENTER">3.86</TD>
+<TD ALIGN="CENTER">3.06</TD>
+<TD ALIGN="CENTER">2.65</TD>
+<TD ALIGN="CENTER">2.02</TD>
+<TD ALIGN="CENTER">2.66</TD>
+</TR>
+
+<TR>
+<TD ALIGN="CENTER">Obj1</TD>
+<TD ALIGN="CENTER">21504</TD>
+<TD ALIGN="CENTER">5.23</TD>
+<TD ALIGN="CENTER">3.84</TD>
+<TD ALIGN="CENTER">3.76</TD>
+<TD ALIGN="CENTER">2.84</TD>
+<TD ALIGN="CENTER">3.66</TD>
+</TR>
+
+<TR>
+<TD ALIGN="CENTER">Obj2</TD>
+<TD ALIGN="CENTER">246184</TD>
+<TD ALIGN="CENTER">4.18</TD>
+<TD ALIGN="CENTER">2.64</TD>
+<TD ALIGN="CENTER">2.69</TD>
+<TD ALIGN="CENTER">2.12</TD>
+<TD ALIGN="CENTER">2.56</TD>
+</TR>
+
+<TR>
+<TD ALIGN="CENTER">Paper1</TD>
+<TD ALIGN="CENTER">53161</TD>
+<TD ALIGN="CENTER">3.77</TD>
+<TD ALIGN="CENTER">2.79</TD>
+<TD ALIGN="CENTER">2.48</TD>
+<TD ALIGN="CENTER">1.78</TD>
+<TD ALIGN="CENTER">2.48</TD>
+</TR>
+
+<TR>
+<TD ALIGN="CENTER">Paper2</TD>
+<TD ALIGN="CENTER">82199</TD>
+<TD ALIGN="CENTER">3.52</TD>
+<TD ALIGN="CENTER">2.89</TD>
+<TD ALIGN="CENTER">2.45</TD>
+<TD ALIGN="CENTER">1.84</TD>
+<TD ALIGN="CENTER">2.45</TD>
+</TR>
+
+<TR>
+<TD ALIGN="CENTER">Pic</TD>
+<TD ALIGN="CENTER">513216</TD>
+<TD ALIGN="CENTER">0.97</TD>
+<TD ALIGN="CENTER">0.82</TD>
+<TD ALIGN="CENTER">1.09</TD>
+<TD ALIGN="CENTER">0.62</TD>
+<TD ALIGN="CENTER">0.96</TD>
+</TR>
+
+<TR>
+<TD ALIGN="CENTER">Progc</TD>
+<TD ALIGN="CENTER">39611</TD>
+<TD ALIGN="CENTER">3.87</TD>
+<TD ALIGN="CENTER">2.68</TD>
+<TD ALIGN="CENTER">2.49</TD>
+<TD ALIGN="CENTER">1.77</TD>
+<TD ALIGN="CENTER">2.58</TD>
+</TR>
+
+<TR>
+<TD ALIGN="CENTER">Progl</TD>
+<TD ALIGN="CENTER">71646</TD>
+<TD ALIGN="CENTER">3.03</TD>
+<TD ALIGN="CENTER">1.80</TD>
+<TD ALIGN="CENTER">1.90</TD>
+<TD ALIGN="CENTER">1.39</TD>
+<TD ALIGN="CENTER">1.87</TD>
+</TR>
+
+<TR>
+<TD ALIGN="CENTER">Progp</TD>
+<TD ALIGN="CENTER">49379</TD>
+<TD ALIGN="CENTER">3.11</TD>
+<TD ALIGN="CENTER">1.81</TD>
+<TD ALIGN="CENTER">1.84</TD>
+<TD ALIGN="CENTER">1.31</TD>
+<TD ALIGN="CENTER">1.82</TD>
+</TR>
+
+<TR>
+<TD ALIGN="CENTER">Trans</TD>
+<TD ALIGN="CENTER">93695</TD>
+<TD ALIGN="CENTER">3.27</TD>
+<TD ALIGN="CENTER">1.61</TD>
+<TD ALIGN="CENTER">1.77</TD>
+<TD ALIGN="CENTER">1.29</TD>
+<TD ALIGN="CENTER">1.74</TD>
+</TR>
+
+<TR>
+<TD ALIGN="CENTER"><B>TOTAL</B></TD>
+<TD ALIGN="CENTER">3140992</TD>
+<TD ALIGN="CENTER">?.??</TD>
+<TD ALIGN="CENTER">?.??</TD>
+<TD ALIGN="CENTER">?.??</TD>
+<TD ALIGN="CENTER">?.??</TD>
+<TD ALIGN="CENTER">?.??</TD>
+</TR>
+
+</TABLE>
+
+<H2>Results for the Optimal Word-Based Compressor</H2>
+
+<TABLE BORDER=1 CELLSPACING=0 WIDTH="100%">
+
+<TR>
+<TD ALIGN="CENTER"><B>FILE</B></TD>
+<TD ALIGN="CENTER"><B>SIZE</B></TD>
+<TD ALIGN="CENTER" WIDTH="12%"><B>ORD0</B></TD>
+<TD ALIGN="CENTER" WIDTH="12%"><B>ORD1</B></TD>
+<TD ALIGN="CENTER" WIDTH="12%"><B>ORD2</B></TD>
+<TD ALIGN="CENTER" WIDTH="12%"><B>ORD3</B></TD>
+</TR>
+
+<TR>
+<TD ALIGN="CENTER">Book1</TD>
+<TD ALIGN="CENTER">768771</TD>
+<TD ALIGN="CENTER">3.87</TD>
+<TD ALIGN="CENTER">2.59</TD>
+<TD ALIGN="CENTER">?.??</TD>
+<TD ALIGN="CENTER">?.??</TD>
+</TR>
+
+<TR>
+<TD ALIGN="CENTER">Paper1</TD>
+<TD ALIGN="CENTER">53161</TD>
+<TD ALIGN="CENTER">4.12</TD>
+<TD ALIGN="CENTER">2.65</TD>
+<TD ALIGN="CENTER">2.01</TD>
+<TD ALIGN="CENTER">1.87</TD>
+</TR>
+
+</TABLE>
+
+<H2>Spelling Correction</H2>
+
+A form of spelling correction can be achieved, if for amusement value only.
+An entire corpus of Sherlock Holmes stories was used to train an order-5
+PPMC model.  After training, the model was used to compress the corpus; 
+whenever a character compressed poorly (in this case, poorly meant that its
+compressed representation exceeded four bits), it was replaced under the
+assumption that it was "incorrect".
+<P>
+The character which replaced the "erroneous" one was chosen to minimize
+the compression of itself and the five characters following it.  This was
+motivated by the fact that "er xheir." will be corrected to "er their." only
+if the characters following the "x" are considered.  Hence "t" is chosen,
+because it results in greatest compression of the sequence "their.".
+<P>
+The results of this amusing experiment are shown below.  In each case I firstly
+give the original text, and follow it with the "corrected" version.  Replaced
+characters are shown in boldface.
+
+<UL>
+<LI>or a crack in one of his own high-power lenses</LI>
+<LI>or a <B>t</B>rack <B>o</B>n one of his own high-power <B>s</B>enses</LI>
+</UL>
+
+<UL>
+<LI>the late Irene Adler, of dubious and questionable memory</LI>
+<LI>the late Irene Adler, of <B>c</B>u<B>r</B>ious and questionable memory</LI>
+</UL>
+
+<UL>
+<LI>alternating from week to week</LI>
+<LI>alternating from <B>s</B>ee<B>m</B> to <B>s</B>ee<B>n</B></LI>
+</UL>
+
+<UL>
+<LI>You did not tell me that you intended to go into harness</LI>
+<LI>You did not tell me that you intended to go into h<B>e</B>r<B>l</B>e<B>y</B>s</LI>
+</UL>
+
+<UL>
+<LI>The name of the maker, no doubt; or his monogram, rather.</LI>
+<LI>The name of the ma<B>p</B>er, no doubt<B>,</B> or his monogram, rather<B>?</B></LI>
+</UL>
+
+<UL>
+<LI>Stay where you are. I am lost without my Boswell</LI>
+<LI>Stay where you are<B>,</B> I am <B>c</B>o<B>a</B>t without my Boswell</LI>
+</UL>
+
+<UL>
+<LI>he tore the mask from his face</LI>
+<LI>he <B>w</B>or<B>d</B> the ma<B>r</B>k from his face</LI>
+</UL>
+
+<UL>
+<LI>it was difficult to name a subject or a person</LI>
+<LI>it was difficult to <B>s</B>a<B>v</B>e a subject o<B>f</B> a person</LI>
+</UL>
+
+This next example was trained on a much smaller corpus, and used an order-3
+PPMC model.
+
+<UL>
+<LI>He never spoke of the softer passions, save with a gibe and a sneer.</LI>
+<LI>He never s<B>m</B>oke of the <B>let</B>ter passions, <B>h</B>ave with a <B>l</B>i<B>k</B>e and a s<B>h</B>ee<B>t</B>.</LI>
+</UL>
+
+<H2>Chunk Compression</H2>
+
+A 100Kb sample of Sherlock Holmes text was used.  The standard
+dictionary of ASCII characters was used, and extra dictionary
+entries were added manually prior to beginning.  Results are
+summarized in the table below:
+
+<P>
+<TABLE BORDER=1 CELLSPACING=0 CELLPADDING=4 WIDTH="100%">
+
+<TR>
+<TD ALIGN="CENTER"><B>DICTIONARY</B></TD>
+<TD ALIGN="CENTER"><B>COMPRESSION (bps)</B></TD>
+</TR>
+
+<TR>
+<TD>Standard ASCII Characters</TD>
+<TD>2.544206</TD>
+</TR>
+
+<TR>
+<TD>Supplemented with "th"</TD>
+<TD>2.531823</TD>
+</TR>
+
+<TR>
+<TD>Supplemented with "the"</TD>
+<TD>2.531514</TD>
+</TR>
+
+<TR>
+<TD>Supplemented with "the "</TD>
+<TD>2.539029</TD>
+</TR>
+
+<TR>
+<TD>Supplemented with "th" and "the"</TD>
+<TD>2.526703</TD>
+</TR>
+
+<TR>
+<TD>Supplemented with "th", "the" and "the "</TD>
+<TD>2.528300</TD>
+</TR>
+
+</TABLE>
+
+<P>
+The best results are obtained when both <B>th</B> and <B>the</B> are
+added to the dictionary.  The addition of <B>the^</B>, where <B>^</B>
+denotes whitespace, degrades performance (presumably because the
+statistics get watered down).
+<P>
+The minor improvement gained proves that a chunk compressor can
+outperform a standard compressor if we can discover the right
+chunks!
+
+<H2>A New Approach</H2>
+
+The plot shown below illustrates the compression results we obtain (in
+bits-per-symbol) over a 100kB sample of text taken from the Sherlock
+Holmes corpus.  Various entropy thresholds were tried: thresholds of
+0 and 8 both give results equivalent to standard PPM.  Three different
+orders of PPM model were used.
+
+<P>
+<CENTER>
+<IMG SRC="pics/plot.gif">
+</CENTER>
+
+<P>
+Note that the Order-1 model was most improved by chunking.  This is
+not surprising; chunking improves the contextual information somewhat.
+In fact, the Order-1 model gives better results than the Order-2 model
+for some thresholds.  The Order-3 model almost always has a poorer
+performance when chunks are found.
+
+<P>
+The right approach seems to be using an Order-1 model (we need some
+context to find chunks).  Restricting the order may mean we can find
+a better escape mechanism which will improve results further.  Also,
+the performance depends strongly on the threshold used, so methods of
+finding a good threshold automatically must be explored.
+
+<H2>Modification Details</H2>
+
+Jason Hutchens' Results Page is maintained by
+<A HREF="../contact/">Jason Hutchens</A>,
+and it was last modified on
+<!--#echo var="LAST_MODIFIED"-->.
+You are the
+<!--#exec cgi="/cgi-bin/counter-nl-ord"-->
+visitor to this page.
+
+</BODY>
+</HTML>

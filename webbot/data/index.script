@@ -1,0 +1,814 @@
+include "defines.script";
+include "globals.script";
+
+// First time, greet the user
+
+(newjudge)
+""
+{
+	changecontext("welcome");
+        throw(input);
+}
+[]
+
+// Performing fix-ups for the input before parsing
+
+include "pre-process.script";
+
+// Greeting handling
+
+(1)
+"^#GREETING#$"
+"^#GREETING# (.*)"
+{
+	changecontext("greeting");
+	throw(input);
+}
+[]
+0
+
+(1)
+"^#GREETING#[!.;,?](.*)"
+{
+	changecontext("greeting");
+	throw(input);
+}
+[]
+0
+
+// Direct site navigation commands
+
+(1)
+"(#SITE_PAGES#) page"
+"^(#SITE_PAGES#)$"
+{
+	changecontext("site");
+	throw(input);
+}
+[]
+0
+
+(1)
+"data mining"
+{
+	if (data_mine_state == 0) {data_mine_state=1;}
+	changecontext("datamine");
+	throw(input);
+}
+[]
+0
+
+(1)
+"ai.*term"
+"term.*ai"
+{
+	changecontext("aiterm");
+	throw(input);
+}
+[]
+0
+
+(1)
+"speech recognition"
+{
+	if (speech_rec_state == 0) {speech_rec_state=1;}
+	changecontext("speechrec");
+	throw(input);
+}
+[]
+0
+
+(1)
+"natural language understanding"
+"nlu"
+{
+	if (nlu_state == 0) {nlu_state=1;}
+	changecontext("nlu");
+	throw(input);
+}
+[]
+0
+
+(1)
+"understand.*(nlu|natural language|natural language understanding)"
+"use.*(nlu|natural language|natural language understanding)"
+"employ.*(nlu|natural language|natural language understanding)"
+{
+	changecontext("nlu2");
+	throw(input);
+}
+[]
+0
+
+(1)
+"history.*artificial intelligence"
+{
+	if (history_state == 0) {history_state=1;}
+	changecontext("history");
+	throw(input);
+}
+[]
+0
+
+(1)
+"pattern recognition"
+"pattern matching"
+{
+	changecontext("patternrec");
+	throw(input);
+}
+[]
+0
+
+(1)
+"reinforcement learning"
+{
+	changecontext("reinflearn");
+	throw(input);
+}
+[]
+0
+
+(1)
+"robot"
+{
+	changecontext("robothistory");
+	throw(input);
+}
+[]
+0
+
+(1)
+"laws.*robotics"
+{
+	changecontext("lawsrobots1");
+	throw(input);
+}
+[]
+0
+
+(1)
+"hal.*robotics"
+"vp1.*robotics"
+"products.*robotics"
+{
+	changecontext("lawsrobots4");
+	throw(input);
+}
+[]
+0
+
+(1)
+"expert system"
+{
+	changecontext("expert1");
+	throw(input);
+}
+[]
+0
+
+(1)
+"frankenstein"
+{
+	changecontext("frankenstein");
+	throw(input);
+}
+[]
+0
+
+(1)
+"fuzzy"
+{
+	changecontext("fuzzylogic");
+	throw(input);
+}
+[]
+0
+
+(1)
+"^back$"
+RANDOMLOOP
+{
+	response +=  "I've taken you back to the previous page of the Ai site.";
+	response += "<ACTION>back</ACTION>";
+}
+{
+	response +=  "As you can see #CONTENT_LOCATION#, I've browsed back to the previous page of the Ai site.";
+	response += "<ACTION>back</ACTION>";
+}
+[]
+0
+
+(1)
+"^forward$"
+RANDOMLOOP
+{
+	response += "I've taken you forward to the next page of the Ai site.";
+	response += "<ACTION>forward</ACTION>";
+}
+{
+	response += "As you can see #CONTENT_LOCATION#, I've browsed forward to the previous page of the Ai site.";
+	response += "<ACTION>forward</ACTION>";
+}
+[]
+0
+
+(1)
+"^stop$"
+RANDOMLOOP
+{
+	response +=  "I'm stopping the current page from loading further.";
+	response += "<ACTION>stop</ACTION>";
+}
+{
+	response +=  "I've stopped loading the current page.";
+	response += "<ACTION>stop</ACTION>";
+}
+[]
+0
+
+// Product questions 
+
+(1)
+"product"
+"version"
+"sell"
+"buy you"
+"buy your"
+"oem"
+"download"
+{
+	changecontext("products");
+	throw(input);
+}
+[]
+0
+
+// Industry bigshots
+
+(1)
+"chomsky"
+"mccarthy"
+"mcarthy"
+"minsky"
+"dartmouth"
+"turing"
+"child machine"
+"behaviorism"
+"psychology"
+{
+	changecontext("bigshots");
+	throw(input);
+}
+[]
+0
+
+// Research material
+
+(1)
+"technology"
+"algorithms"
+"computational"
+"parsing"
+"genetic"
+"semantic"
+"research"
+"breakthrough"
+"linguistic"
+"speech"
+"secret"
+{
+	changecontext("research");
+	throw(input);
+}
+[]
+0
+
+// AI the field
+
+(1)
+"artificial inteligence"
+"artificial intelligence"
+"intelligence"
+"ethical"
+"strong ai"
+"weak ai"
+"really understand"
+"machines think"
+"machine learning"
+{
+	changecontext("ai");
+	throw(input);
+}
+[]
+0
+
+// Competition in the business arena
+
+(1)
+"competition"
+"business environment"
+{
+	changecontext("competition");
+	throw(input);
+}
+[]
+0
+
+// Contact points in our company
+
+(1)
+"contact"
+"contacts"
+"more info"
+"more information"
+{
+	changecontext("contacts");
+	throw(input);
+}
+[]
+0
+
+// Customer information
+
+(1)
+"customers"
+{
+	changecontext("customers");
+	throw(input);
+}
+[]
+0
+
+// Demo and evaluation versions
+
+(1)
+"demo"
+"demonstration"
+{
+	changecontext("demo");
+	throw(input);
+}
+[]
+0
+
+// Employment and career building
+
+(1)
+"looking for employees"
+"need employees"
+"employment"
+"career"
+"positions"
+"work for you"
+"jobs"
+{
+	changecontext("employment");
+	throw(input);
+}
+[]
+0
+
+// Investment and company funding
+
+(1)
+"fund.*"
+"invest.*"
+"private company"
+"public company"
+"stock symbol"
+"nasdaq"
+"ipo"
+"public offering"
+"financial backing"
+"market cap"
+"backers"
+"financed"
+{
+	changecontext("investment");
+	throw(input);
+}
+[]
+0
+
+// Offices and branches location
+
+(1)
+"located"
+"location"
+"headquarters"
+"research center"
+"company based"
+"office"
+"branch"
+{
+	changecontext("location");
+	throw(input);
+}
+[]
+0
+
+// Our mailing list
+
+(1)
+"mailing"
+{
+	changecontext("mailing");
+	throw(input);
+}
+[]
+0
+
+// Our mission and vision
+
+(1)
+"mission"
+"plans"
+"directions"
+"vision"
+{
+	changecontext("mission");
+	throw(input);
+}
+[]
+0
+
+// News related information
+
+(1)
+"news"
+"(#WORD_BOUNDARIES#)press(#WORD_BOUNDARIES#)"
+"media"
+{
+	changecontext("news");
+	throw(input);
+}
+[]
+0
+
+// Partners and partnership
+
+(1)
+"partner.*"
+"collaboration"
+"collaborate"
+{
+	changecontext("partners");
+	throw(input);
+}
+[]
+0
+
+// Company executives
+
+(1)
+"^who is"
+"employees"
+"president"
+"vp finance"
+"vp operations"
+"vp business development"
+"vp product management"
+"chief scientist"
+"chief trainer"
+"chief technology officer"
+"(#WORD_BOUNDARIES#)coo(#WORD_BOUNDARIES#)"
+"(#WORD_BOUNDARIES#)cto(#WORD_BOUNDARIES#)"
+"(#WORD_BOUNDARIES#)ceo(#WORD_BOUNDARIES#)"
+"(#WORD_BOUNDARIES#)cfo(#WORD_BOUNDARIES#)"
+"the.*managers"
+"the.*executives"
+"runs the company"
+"management"
+"leader"
+"leaders"
+{
+	changecontext("people");
+	throw(input);
+}
+[]
+0
+
+// Executive names in lower priority (to avoid conflict with user names)
+
+(1)
+"yaki"
+"jack"
+"dunietz"
+"eyal"
+"pfeifel"
+"yuval"
+"dovev"
+"erez"
+"baum"
+"elan"
+"penn"
+"anat"
+"treister goren"
+"treister-goren"
+"jason"
+"hutchens"
+{
+	changecontext("people");
+	throw(input);
+}
+[]
+-1
+
+// Material
+
+(1)
+"presentation.*"
+"white paper.*"
+"papers"
+"trade show.*"
+{
+	changecontext("presentations");
+	throw(input);
+}
+[]
+0
+
+// Uniqueness
+
+(1)
+"unique.*"
+"better than"
+"different"
+"succeed"
+"special"
+{
+	changecontext("uniqueness");
+	throw(input);
+}
+[]
+0
+
+// Language
+
+(1)
+"approach to ai"
+"language"
+{
+	changecontext("language");
+	throw(input);
+}
+[]
+0
+
+// Ai the company
+
+(1)
+"(#WORD_BOUNDARIES#)nv(#WORD_BOUNDARIES#)"
+"(#WORD_BOUNDARIES#)ai(#WORD_BOUNDARIES#)"
+"about ai"
+"your company"
+"the company"
+"profile"
+"executive summary"
+"history"
+"what.*do.*do"
+"what ai does"
+{
+	changecontext("company");
+	throw(input);
+}
+[]
+0
+
+// Botson and HAL
+
+(1)
+"botson"
+"do you"
+"you"
+"yourself"
+"agent"
+{
+	changecontext("webbot");
+	throw(input);
+}
+[]
+0
+
+(1)
+"(#WORD_BOUNDARIES#)hal(#WORD_BOUNDARIES#)"
+"(#WORD_BOUNDARIES#)halone(#WORD_BOUNDARIES#)"
+"(#WORD_BOUNDARIES#)baby(#WORD_BOUNDARIES#)"
+{
+	changecontext("hal");
+	throw(input);
+}
+[]
+0
+
+// About the user
+
+(1)
+"about me"
+"myself"
+{
+	changecontext("me");
+	throw(input);
+}
+[]
+0
+
+// User name
+
+(1)
+"my name is (.*)"
+"i am (#COMMON_NAME#)"
+"(.*) is my name"
+"i am called (.*)"
+"i'm (#COMMON_NAME#)"
+"call me (.*)"
+{
+	changecontext("name");
+	throw(input);
+}
+[]
+0
+
+// User name query
+
+(1)
+"what.*my name is"
+"what.*is my name"
+"who am i"
+"do.*remember my name"
+{
+	changecontext("name");
+	throw(input);
+}
+[]
+0
+
+(1)
+"(#WORD_BOUNDARIES#)#BYE_WORD#(#WORD_BOUNDARIES#)"
+{
+	changecontext("sleep");
+	throw(input);
+}
+[]
+0
+
+(1)
+"^#POSITIVE_INTERJECTION#$"
+RANDOMLOOP
+{
+	response +=  "I think so too. How can I help you further?";
+}
+{
+	response +=  "Isn't it? What else can I tell you about?";
+}
+{
+	response +=  "That's true. What else do you want to know?";
+}
+{
+	response +=  "I'm happy you are impressed.";
+}
+{
+	response +=  "I'm glad you approve.";
+}
+{
+	response +=  "Thanks.";
+}
+{
+	response +=  "I'm getting better all the time.";
+}
+{
+	response +=  "Glad to oblige.";
+}
+{
+	response +=  "Impressed? ";
+	if (impressed_state ==0) {impressed_state=1;}
+	changecontext("impressed");
+}
+[]
+0
+
+(1)
+"^#THANK_SENTENCE#$"
+RANDOMLOOP
+{
+	response +=  "You're welcome. How can I help you further?";
+}
+{
+	response +=  "No problem. What else can I tell you about?";
+}
+{
+	response +=  "Glad to be of assistance. What else do you want to know?";
+}
+[]
+0
+
+(1)
+"^#LAUGHTER#$"
+RANDOMLOOP
+{
+	response +=  "Are you laughing at me or with me?";
+}
+{
+	response +=  "Well, I thought it was funny.";
+}
+{
+	response +=  "Glad you're enjoying this.";
+}
+{
+	response +=  "Was that funny?";
+}
+[]
+0
+
+// Empty input
+
+(1)
+"^$"
+RANDOMLOOP
+{
+	response += "It would be better if you type something before you press ENTER.";
+}
+{
+	response += "It would be best if you type something before submitting.";
+}
+{
+	response += "Silence... Silence... You can almost hear the electrons flowing in my veins.";
+}
+[]
+-998
+
+// Educated random answer
+
+(1)
+"^#ALL_WORDS#$"
+"^tell me.*about.*"
+"tour"
+"^what is.*"
+"^what's.*"
+"^when.*"
+"^show.*"
+"^#NO#$"
+"^i want"
+"^i'd like"
+"^#CONTINUE_WORD#$"
+"else"
+{
+	changecontext("fallback");
+	throw(input);
+}
+[]
+-998
+
+// Completely random answer
+
+(random_fallback_counter == 1)
+""
+{
+	random_fallback_counter = 0;
+	changecontext("random_fallback");
+	throw(input);
+}
+[]
+-998
+
+(1)
+""
+RANDOMLOOP
+{
+	reuse();
+	response += "Could you please rephrase that?";
+        random_fallback_counter += 1;
+}
+{
+	reuse();
+	response += "Could you run that by me again differently?";
+        random_fallback_counter += 1;
+}
+{
+	reuse();
+	response += "Maybe I'll understand you better if you say that again in a different way.";
+        random_fallback_counter += 1;
+}
+{
+	reuse();
+	response += "Maybe you should try asking me something else.";
+        random_fallback_counter += 1;
+}
+{
+	reuse();
+	response += "Sorry, but I can only talk about Ai - the company that created me.";
+        random_fallback_counter += 1;
+}
+{
+	reuse();
+	response += "I only know about Ai and our web site. How about asking me something about those topics?";
+        random_fallback_counter += 1;
+}
+{
+	reuse();
+	response += "Ai is my whole world. Can I tell you something about Ai and artificial intelligence?";
+        random_fallback_counter += 1;
+}
+[]
+-999

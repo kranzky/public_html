@@ -1,0 +1,343 @@
+<? Include("Verify.html"); ?>
+<? Include("Functions.html"); ?>
+<? $title = "Smoothing Experiment"; ?>
+<? Include("Header.html"); ?>
+
+<?
+Function Increment()
+{
+        Global $s_user, $smooth, $num_smooth;
+
+        $smooth+=1;
+        $result=mysql_query("UPDATE user_info SET smooth=$smooth WHERE user=$s_user");
+        if($smooth==$num_smooth) {
+         $result=mysql_query("SELECT eligible FROM user_info WHERE user = $s_user");
+         $eligible=mysql_result($result, 0, "eligible");
+         $eligible+=1;
+        $result=mysql_query("UPDATE user_info SET eligible=$eligible WHERE user=$s_user");
+		  }
+}
+
+Function Finish_Experiment()
+{
+     GLOBAL $smooth;
+
+     echo "<H2>Experiment Finished!</H2>";
+     echo "You have completed this smoothing experiment.  Thank-you ";
+     echo "very much for taking the time to do so.  To continue with ";
+     echo "the experiments, please return to the ";
+     echo "<A HREF=\"Experiment_List.html\">experiment list</A>.";
+?><H2>Feedback</H2>I would appreciate it if you took the time to comment on this
+experiment.
+In particular, I would like to know the following:
+<UL>
+<LI>What do you think of your performance?</LI>
+<LI>How did you make the guesses?  What was going on in your mind?</LI>
+<LI>How could this experiment be improved?</LI>
+</UL>
+Feedback of any kind is valued.  Comments, critiscisms and suggestions on
+how this experiment may be improved are welcome.  Please note that you
+<B>ARE NOT REQUIRED</B> to fill out this section.  Only give me feedback if
+you have something meaningfull to contribute.  You will still be eligible for
+the prize if you don't give me any feedback, ever.
+<P>
+<FORM METHOD=POST ACTION="Comment.html">
+<CENTER><TABLE BORDER=0 CELLSPACING=0 CELLPADDING=4 WIDTH="90%"><TR><TD BGCOLOR= "EEEEBB" ALIGN="MIDDLE"><TEXTAREA NAME=message ROWS=10 COLS=40></TEXTAREA></TD></TR></TABLE><INPUT TYPE=submit value="Register Comment">
+<INPUT TYPE=hidden NAME=e_title VALUE="Feedback for Smoothing Experiment <? echo $smooth; ?>">
+</CENTER>
+</FORM>
+<?
+     Include("Footer.html");
+     Exit;
+}
+?>
+
+<?
+	mysql_connect("localhost","hutch","wally37");
+	mysql_select_db("experiments");
+
+	if($guess=="") { $guess=$guess2; }
+
+	$result=mysql_query("SELECT smooth FROM user_info WHERE user = $s_user");
+	$smooth=mysql_result($result, 0, "smooth");
+
+	if($surprise!="") {
+		echo "<P>Thanks for letting me know your level of surprise!</P>";
+		$surprise=intval($surprise);
+		$result=mysql_query("UPDATE smooth SET surprise=$surprise WHERE user=$s_user AND experiment=$lastexp");
+		Finish_Experiment();
+	}
+
+	/*
+	 *		Get the number of experiments
+	 */
+	$result=mysql_query("SELECT val FROM global WHERE name='num_smooth'");
+	$num_smooth=mysql_result($result, 0, "val");
+	if($smooth>=$num_smooth) {
+		echo "<H2>Smoothing experiments completed</H2>";
+		echo "You have completed all of the smoothing experiments.  ";
+		echo "Thank-you very much!";
+		Include("Footer.html");
+		Exit;
+	}
+
+  /*
+    *    Get the number of words in the experiment
+    */
+   $result=mysql_query("SELECT dictionary,alphabet,before,after FROM smooth_data WHERE experiment=$smooth");
+   $num = mysql_num_rows($result);
+   if($num!=1) {
+      Error("Smoothing experiment $smooth may not exist", "");
+	}
+   $dictionary=strtoupper(mysql_result($result, 0, "dictionary"));
+   $alphabet=mysql_result($result, 0, "alphabet");
+   $before=mysql_result($result, 0, "before");
+   $after=mysql_result($result, 0, "after");
+
+   if($alphabet==1) {
+      $dictionary="ABCDEFGHIJKLMNOPQRSTUVWXYZ_";
+	}
+
+	/*
+	 *		If they've submitted a guess clean it up and make sure it's not null
+	 */
+	if(($guess!="")&&($alphabet==0)) {
+
+		$guess=Clean_Word($guess);
+		if($guess=="") {
+			echo "<H2>Empty Word</H2>";
+			echo "The word you entered for your guess was empty.  Please ";
+			echo "try again.";
+		} else {
+			$guess=strtoupper($guess);
+			$guess=Filter_Word($guess);
+			if($guess=="") {
+				echo "<H2>Multiple Word</H2>";
+				echo "You entered more than one word.  Please try again.";
+			}
+		}
+
+	}
+
+	/*
+	 *		If we're on the letter level, make sure it's valid
+	 */
+	if(($guess!="")&&($alphabet==1)) {
+		$guess=strtoupper($guess);
+		if(strlen($guess)!=1) {
+			echo "<H2>Word is too long</H2>";
+			echo "In this experiment, use characters only.";
+			$guess="";
+		} else {
+			$a=substr($guess, 0, 1);
+			if(strchr($dictionary, $a)=="") {
+				echo "<H2>Word is not in the dictionary</H2>";
+				$guess="";
+			}
+		}
+	}
+
+	/*
+	 *		If we've got our own dictionary, make sure its valid
+	 */
+	if(($guess!="")&&($alphabet==2)) {
+		$guess=strtoupper($guess);
+		if(strchr($dictionary, $guess)=="") {
+?>
+<H2>Invalid symbol</H2>
+In this experiment, you may only enter one of these symbols:
+<B><? echo $dictionary; ?></B>.  Please try again.
+<?
+		$guess="";
+		}
+	}
+
+	/*
+	 *		If it's not empty, see whether they've guessed it before.
+	 */
+	if($guess!="") {
+
+		$result=mysql_query("SELECT guess FROM smooth_info WHERE user=$s_user AND experiment=$smooth AND word='$guess'");
+		$num=mysql_num_rows($result);
+		if($num!=0) {
+			echo "<H2>Same Guess</H2>";
+			echo "You have already guessed that.  Please try again.";
+			$guess="";
+		}
+	}
+
+	/*
+	 *		Find out how many guesses they've had
+	 */
+	$result=mysql_query("SELECT guesses FROM smooth WHERE user=$s_user AND experiment=$smooth");
+	$num=mysql_num_rows($result);
+	if($num==0) {
+		$result=mysql_query("INSERT INTO smooth VALUES ($s_user, $smooth, 0, 0, 0)");
+		$guesses=0;
+	} else {
+		$guesses=mysql_result($result, 0, "guesses");
+	}
+
+	/*
+	 *		If they haven't, find out the number of guesses they've had,
+	 *		insert their guess, and see whether it was correct
+	 */
+	if($guess!="") {
+		$result=mysql_query("INSERT INTO smooth_info VALUES ($s_user, $smooth, $guesses, '$guess')");
+		$guesses+=1;
+		$result=mysql_query("UPDATE smooth SET guesses=$guesses WHERE user=$s_user AND experiment=$smooth");
+
+		$result=mysql_query("SELECT word FROM smooth_data WHERE experiment=$smooth");
+		$word=mysql_result($result, 0, "word");
+		$original=$word;
+		$word=Clean_Word($word);
+		$word=strtoupper($word);
+		if($alphabet==0) {
+			$word=Filter_Word($word);
+		}
+		if($guess==$word) {
+			echo "<H2>You guessed correctly!</H2>";
+			echo "Well done, you guessed correctly in only ";
+			echo "$guesses attempt(s)!";
+
+			Increment();
+			Finish_Experiment();
+		} else {
+			echo "<H2>No, that's not it...</H2>";
+			echo "Your guess is not correct.  Please try again.";
+		}
+	}
+
+	if(($giveup=="Y")&&($guesses>=10)&&($alphabet==0)) {
+		echo "<H2>You gave up!</H2><P>";
+		$lastexp=$smooth;
+		$result=mysql_query("UPDATE smooth SET giveup=1 WHERE user=$s_user AND experiment=$smooth");
+		$result=mysql_query("SELECT word FROM smooth_data WHERE experiment=$smooth");
+		$word=mysql_result($result, 0, "word");
+		echo "The word was \"<B>$word</B>\"!<P>";
+		echo "The sequence therefore reads <I>$before</I> <B>$word</B> <I>$after</I> ";
+		echo "Make a selection from the menu below which best describes your ";
+		echo "surprise at finding this out:";
+		Increment();
+?>
+<P>
+<CENTER>
+<TABLE WIDTH="90%" CELLPADDING=0 CELLSPACING=0>
+<TR><TD>
+<FORM METHOD=POST ACTION="Smoothing.html">
+<SELECT NAME=surprise>
+<OPTION VALUE="1">I'm not surprised at all</OPTION>
+<OPTION VALUE="2">I should have guessed it sooner</OPTION>
+<OPTION VALUE="3">It's a difficult word to guess</OPTION>
+<OPTION VALUE="4">That word was quite unexpected</OPTION>
+<OPTION VALUE="5">I wouldn't have guessed it in a million years</OPTION>
+</SELECT>
+<INPUT TYPE=hidden NAME=lastexp VALUE="<? echo $lastexp; ?>">
+<INPUT TYPE=submit VALUE="Submit">
+</FORM>
+</TD></TR>
+</TABLE>
+</CENTER>
+<?
+		Include("Footer.html");
+		Exit;
+	}
+
+	/*
+	 *		Finally, we're ready to ask for the guess!
+	 */
+?>
+
+<H2>Smoothing experiment <? echo 1+$smooth; ?> of <? echo $num_smooth; ?></H2>
+
+Here is the sentence:
+
+<P>
+<CENTER>
+<TABLE WIDTH="90%" CELLPADDING=0 CELLSPACING=0>
+<TR><TD>
+<FORM METHOD=POST ACTION="Smoothing.html">
+<BIG><? echo $before; ?></BIG>
+<?
+if($alphabet!=0) {
+	echo "<INPUT SIZE=1 NAME=guess>";
+} else {
+	echo "<INPUT SIZE=15 NAME=guess>";
+}
+?>
+<BIG><? echo $after; ?></BIG>
+</FORM>
+</TD></TR>
+</TABLE>
+</CENTER>
+
+<P>
+After reading this sequence, please enter your guess at the missing
+<?
+if($alphabet!=0) {
+	echo "letter";
+} else {
+	echo "word";
+}
+?>
+into
+the text box above.
+<?
+if($alphabet==2) {
+	echo "You may enter any of these symbols: <B>$dictionary</B>.";
+} else if($alphabet==1) {
+	echo "You may enter the alphabetic letters A-Z, along with the underscore ";
+	echo "character '_', which is used to represent a space.";
+} else {
+	echo "Once you have had at least ten guesses, you will be given the option ";
+	echo "of giving up, and finding out what the word actually is.";
+}
+echo "<P>";
+if($alphabet!=0) {
+	$i=0;
+	echo "<P>Alternatively, you may make a selection from the menu shown below, which only ";
+	echo "shows the valid guesses you may make.  If you make a selection ";
+	echo "from this menu, please press the \"Submit\" button to register ";
+	echo "your guess.";
+	echo "<FORM METHOD=POST ACTION=\"Smoothing.html\"><SELECT NAME=guess2>";
+	while($i<strlen($dictionary)) {
+		$a=substr($dictionary, $i, 1);
+		$result=mysql_query("SELECT word FROM smooth_info WHERE user=$s_user AND experiment=$smooth AND word='$a'");
+		if(mysql_num_rows($result)==0) {
+		echo "<OPTION VALUE='$a'>$a</OPTION>";
+		}
+		$i+=1;
+	}
+	echo "</SELECT>";
+	echo "<INPUT TYPE=submit value=\"Submit\"></FORM>";
+}
+?>
+
+<?
+	if(($guesses>=10)&&($alphabet==0)) {
+?>
+<P>
+<FORM METHOD=POST ACTION="Smoothing.html">
+<INPUT TYPE=hidden NAME=giveup VALUE="Y">
+<INPUT TYPE=submit VALUE="I give up!  Tell me the symbol!">
+</FORM>
+<?
+	}
+?>
+
+<?
+	if($guesses>0) {
+		echo "<P>For your reference, these are the guesses you've had so far:";
+		echo "<OL>";
+		$i=0;
+		$result=mysql_query("SELECT word FROM smooth_info WHERE user=$s_user AND experiment=$smooth");
+		while($i<$guesses) {
+			$word=mysql_result($result, $i, "word");
+			echo "<LI>$word</LI>";
+			$i+=1;
+		}
+		echo "</OL>";
+	}
+?>
+
+<? Include("Footer.html"); ?>

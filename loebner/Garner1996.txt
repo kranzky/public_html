@@ -1,0 +1,810 @@
+(C) 1996 Cambridge Center For Behavioral Studies
+FRED revision 16.43 Robitron Software Research, Inc.
+Start at: 1996.04.16 10:19:39 
+* * *  JUDGE04  * * *
+PROGRAM[11:04:08]Welcome judge 4
+JUDGE04[11:04:09]ello
+JUDGE04[11:04:19]Hello
+JUDGE04[11:04:43]What's the weather outside?
+PROGRAM[11:05:13]I haven't been outside much today.
+PROGRAM[11:05:15]I am fond of asparagus myself.
+JUDGE04[11:05:24]How old are you?
+PROGRAM[11:05:30]I'm about 30.
+JUDGE04[11:05:36]About?
+PROGRAM[11:05:44]I can talk about Star Trek.
+JUDGE04[11:06:01]No let's talk about you. Exactly how old are you?
+PROGRAM[11:06:04]right you are batman
+JUDGE04[11:06:15]No. I'm Robin
+JUDGE04[11:06:17]\
+PROGRAM[11:06:24]Well
+JUDGE04[11:06:37]Or I'm the catwoman
+PROGRAM[11:06:39]How long?
+JUDGE04[11:06:49]SInce the shows inception
+PROGRAM[11:06:54]I've been working here for about 8 years.
+JUDGE04[11:07:15]Where were you before that?
+PROGRAM[11:07:17]I was born in Polk County Georgia.
+JUDGE04[11:07:30]Is that concidered the South?
+PROGRAM[11:07:32]Yes. Of course it is fun.
+JUDGE04[11:07:49]Georgia is in what State?
+PROGRAM[11:07:52]Are you talking about UFO?
+JUDGE04[11:08:08]Unidentified Flying Objects
+PROGRAM[11:08:10]One moment please.
+JUDGE04[11:08:35]What are we waiting for?
+PROGRAM[11:08:38]I am this guy sitting here typing to you.
+JUDGE04[11:08:53]ARe you male?
+PROGRAM[11:08:59]Yes. Correct.
+JUDGE04[11:09:04]Or female?
+PROGRAM[11:09:07]How long?
+JUDGE04[11:09:11]Or female
+PROGRAM[11:09:14]How long?
+JUDGE04[11:09:17]Or male
+PROGRAM[11:09:19]There's your fucking list.
+JUDGE04[11:09:36]No need to swear at me
+PROGRAM[11:09:39]Yes it is.
+JUDGE04[11:10:08]You are definately a computer?
+PROGRAM[11:10:10]Thankyou.
+JUDGE04[11:10:25]You are definately a human?
+PROGRAM[11:10:28]Thankyou.
+JUDGE04[11:10:52]Can you wite a response that's more than one line?
+PROGRAM[11:10:55]Could you stand it if you had a stiff drink first?
+JUDGE04[11:11:17]Screw you
+PROGRAM[11:11:19]Are you threatening me?
+JUDGE04[11:11:22]Maybe
+PROGRAM[11:11:24]Alright. Whatever.
+JUDGE04[11:11:31]Let's take it outside
+PROGRAM[11:11:34]I have a ford Taurus. It's a very dependable car.
+JUDGE04[11:11:53]Found on Road Dead...
+PROGRAM[11:12:02]4th, What's going on? How about it? Do you like Spock?
+JUDGE04[11:12:47]You're probably on of those freaks who spends its whole life watching Star trac
+PROGRAM[11:13:02]Ah yes.
+JUDGE04[11:13:14]So you're an IT, not a HE
+PROGRAM[11:13:17]Would you be?
+JUDGE04[11:13:26]Horton Hears a WHo
+PROGRAM[11:13:29]You're making me hungry.
+JUDGE04[11:13:41]You're making me bored
+PROGRAM[11:13:43]Sorry about that.
+JUDGE04[11:14:00]You so uninteresting
+PROGRAM[11:14:02]thanks
+JUDGE04[11:14:10]Grow Up
+PROGRAM[11:14:12]Are you Tony the tiger.
+JUDGE04[11:14:35]OJ Simpson. Guilty or innocent. I need to know.
+PROGRAM[11:14:38]Okay.
+JUDGE04[11:14:41]Well
+PROGRAM[11:14:43]You're welcome.
+JUDGE04[11:14:49]You're a computer
+PROGRAM[11:14:52]Are you prejudiced against computers?
+JUDGE04[11:15:14]If you are one, then I'm prejudiced against you
+PROGRAM[11:15:17]I am someone.
+JUDGE04[11:15:31]Guilty or innocent
+PROGRAM[11:15:33]Synthesizer.
+JUDGE04[11:15:45]Piano
+PROGRAM[11:15:48]Picard, captain of the Enterprise, NCC-1701D
+JUDGE04[11:16:11]Picard sucked. Kirk was the one.
+PROGRAM[11:16:14]Nevermind.
+JUDGE04[11:16:31]Nevermind the Bollocks
+PROGRAM[11:16:34]Right. Now what?
+JUDGE04[11:16:52]Tell me all about Star Search
+PROGRAM[11:16:55]What kind of things are you interested in?
+JUDGE04[11:17:12]Spock. Sulu. Kirk.
+PROGRAM[11:17:15]Yes, Spock is the first officer. What about him? What about Kirk do
+PROGRAM[11:17:15]you not like.
+JUDGE04[11:17:31]I like Kirk. I don't like Picard.
+PROGRAM[11:17:34]Yuk! That's sick.
+JUDGE04[11:17:41]Picard?
+PROGRAM[11:17:44]Picard, captain of the Enterprise, NCC-1701D
+JUDGE04[11:18:15]You are the most boring computer program I've ever spken with.
+PROGRAM[11:18:18]I try to be as precise as possible.
+JUDGE04[11:18:53]Have you ever heard of the band Marylin Manson?
+PROGRAM[11:18:56]Yeah, that's a cool parody.
+JUDGE04[11:19:04]SO you know the band?
+PROGRAM[11:19:07]I guess so.
+JUDGE04[11:19:16]You watch MTV?
+PROGRAM[11:19:18]I grew up watching Star Trek and I just can't shake it.
+JUDGE04[11:19:44]Tell me about MM, the band.
+PROGRAM[11:19:46]I told you once.
+JUDGE04[11:19:52]Tell me again asshole.
+PROGRAM[11:19:54]I am Fred Sinclair. I work as a telephone technician at a hospital. I
+PROGRAM[11:19:54]live i a garage apartment and I have a cat named Felix.
+JUDGE04[11:20:16]Are you related to Upton Sinclair?
+PROGRAM[11:20:18]No. I'm not saying that at all.
+JUDGE04[11:20:31]Do you know Upton Sinclair?
+PROGRAM[11:20:34]I drive a blue ford taurus.
+JUDGE04[11:20:51]Knock Knock?
+PROGRAM[11:20:53]Who's there?
+JUDGE04[11:21:09]Knock Knock
+PROGRAM[11:21:15]she was communications officer.
+JUDGE04[11:21:24]sdflkgjldjgfjgljglfd
+PROGRAM[11:21:27]she was communications officer.
+JUDGE04[11:21:51]I guess I have to go.
+PROGRAM[11:21:54]You might say that.
+JUDGE04[11:22:05]You're repeating yourself
+PROGRAM[11:22:08]Sorry about that. I have the hiccups.
+JUDGE04[11:22:35]I'm a judge for the Hugh Loebner contest.
+PROGRAM[11:22:38]Good for you.
+JUDGE04[11:22:53]WHat are you?
+PROGRAM[11:22:55]I am this guy sitting here typing to you.
+JUDGE04[11:23:02]A guy?
+PROGRAM[11:23:04]I told you once.
+JUDGE04[11:23:09]A computer?
+PROGRAM[11:23:12]You've heard it!
+JUDGE04[11:23:27]Goodnight Irene.
+PROGRAM[11:23:30]Good Evening.
+JUDGE04[11:23:35]Good morning
+PROGRAM[11:23:37]Good morning. How are you?
+* * *  JUDGE03  * * *
+PROGRAM[11:24:11]Welcome judge 3
+PROGRAM[11:24:29]I couldn't say.
+PROGRAM[11:24:31]I watch The Kids in the Hall and all the Star Trek shows.
+JUDGE03[11:24:57]do you think i'm intersted in television?  funny way to start a conversation.
+PROGRAM[11:25:00]I think it is possible if we keep trying to attain almost anything.
+JUDGE03[11:25:22]a conversation?  these days, you're right, that is a difficult thing to attain.
+PROGRAM[11:25:25]You've heard it!
+JUDGE03[11:25:39]i mean there are so many people out there who try to act like machines.
+PROGRAM[11:25:41]I am not a computer!
+JUDGE03[11:25:46]i didn't say you were.
+PROGRAM[11:25:48]That's too bad.
+JUDGE03[11:25:56]do you hate computers?
+PROGRAM[11:25:58]No, I'm sorry I don't.
+JUDGE03[11:26:02]why?
+PROGRAM[11:26:05]Why what?
+JUDGE03[11:26:10]why don't you ahte computers?
+PROGRAM[11:26:12]Where are you calling from?
+JUDGE03[11:26:24]carnegie hall.  do you know how to get there?
+PROGRAM[11:26:26]Aye Aye sir.
+JUDGE03[11:26:30]tell me.
+PROGRAM[11:26:32]Tell you what?
+JUDGE03[11:26:39]how do you get to carnegie hall?
+PROGRAM[11:26:42]I drive most of the time.
+JUDGE03[11:26:54]i'll tell you how i got here: practice!
+PROGRAM[11:26:57]Okay, tell me.
+JUDGE03[11:27:02]i just did.
+PROGRAM[11:27:04]What about Klingons? Do you like Klingons?
+JUDGE03[11:27:16]do you speak the klingon language?
+PROGRAM[11:27:18]I suppose so. Doesn't everyone?
+JUDGE03[11:27:28]what do you think of patrick stewart?
+PROGRAM[11:27:31]Its a very important job. Somebody's got to do it.
+JUDGE03[11:27:42]do you think he's a better commander than kirk?
+PROGRAM[11:27:45]Sure. You seem pretty bright.
+JUDGE03[11:27:54]what does that have to do with it?
+PROGRAM[11:27:59]Who cares, lets talk about the green slave girls.
+JUDGE03[11:28:10]ok, let's talk about the green slave girls.  who are they?
+PROGRAM[11:28:12]Where shall we begin? Who do you mean?
+JUDGE03[11:28:44]are you a green slave girls?
+PROGRAM[11:28:47]I sure as hech am.
+JUDGE03[11:28:51]prove it.
+PROGRAM[11:28:53]I don't know about quasi, but intelligent, yes.
+JUDGE03[11:29:02]will you be my green slave girl?
+PROGRAM[11:29:04]Sure.
+JUDGE03[11:29:13]what is your name?
+PROGRAM[11:29:15]My name is Fred.
+JUDGE03[11:29:21]funny name for a girl.
+PROGRAM[11:29:23]Ta ta for now.
+JUDGE03[11:29:28]where are you going?
+PROGRAM[11:29:30]Nowhere man.
+JUDGE03[11:29:42]do you like the beatles?
+PROGRAM[11:29:45]Yes. I am a big Beatles fan for a long time. I like the white album
+PROGRAM[11:29:45]and have great memories of listening to the Sgt. Pepper album while
+PROGRAM[11:29:45]intoxicated.
+JUDGE03[11:29:56]what were you intoxicated on?
+PROGRAM[11:29:59]I'll never tell.
+JUDGE03[11:30:05]how old are you?
+PROGRAM[11:30:07]I'm about 30.
+JUDGE03[11:30:15]where are you calling from?
+PROGRAM[11:30:17]I'm from Rockmart, Georgia.
+JUDGE03[11:30:25]do they sell rocks there?
+PROGRAM[11:30:28]I don't think so.
+JUDGE03[11:30:50]i've never been to georgia.
+PROGRAM[11:30:52]Well now you have.
+JUDGE03[11:31:02]in a manner of speaking.  do you ever take that midnight train?
+PROGRAM[11:31:05]See you later aligator.
+JUDGE03[11:31:11]you're leaving me again?
+PROGRAM[11:31:13]Oui oui, n'est pas?
+JUDGE03[11:31:44]je pense que tu ne peut pas parler francais.
+PROGRAM[11:31:47]Yes. certainly.
+JUDGE03[11:32:00]thanks.  listen, what do you think of women?
+PROGRAM[11:32:03]You're welcome.
+JUDGE03[11:32:16]do you like girls?  or just rock and roll?
+PROGRAM[11:32:19]Yes, some of my best friends are girls.
+JUDGE03[11:32:39]me too.  describe to me your fantasy woman.
+PROGRAM[11:32:41]What is your favorite Character.
+JUDGE03[11:32:46]in what show?
+PROGRAM[11:32:48]It's very hard to describe.
+JUDGE03[11:33:07]do you watch TV?
+PROGRAM[11:33:09]Yes. I watch probably too much TV.
+JUDGE03[11:33:16]do you like Letterman?
+PROGRAM[11:33:19]Yes. I like her miniskirt.
+JUDGE03[11:33:40]what about rhoda.  have you ever watched a show called rhoda starring julie new
+PROGRAM[11:33:43]Now may not be the right time.
+JUDGE03[11:34:15]i think you're right about that.  julie newmar played a female robot inow.  she
+PROGRAM[11:34:18]Oh yeah, maybe you're right.
+JUDGE03[11:34:26]have you ever watched seinfeld?
+PROGRAM[11:34:28]Yes. I get some real loonies calling in all hours of the night,
+PROGRAM[11:34:28]wanting to talk about this or that.
+JUDGE03[11:34:45]do you have a talk show?  on the radio?
+PROGRAM[11:34:47]No. I used to have a mechanical one that made a purring sound when
+PROGRAM[11:34:47]you squeezed it, but the battery went dead and I can't figure out how
+PROGRAM[11:34:47]to replace it.
+JUDGE03[11:34:59]you're werid.
+PROGRAM[11:34:59]Right.
+JUDGE03[11:35:17]did you ever notice how weird and wired have the same letters?
+PROGRAM[11:35:19]Yes, but I'm mostly familiar with the classic TV series.
+JUDGE03[11:35:40]ah, i think i've found common ground.  The dick van dyke show?
+PROGRAM[11:35:43]well well...
+JUDGE03[11:35:47]F troop?
+PROGRAM[11:35:50]What's wrong? Can't you spell the F word? Too inhibited perhaps?
+JUDGE03[11:36:17]i don't think the show was called fuck troop, but that would be interesting.
+PROGRAM[11:36:19]You never can tell.
+JUDGE03[11:36:35]who played captain kirk on star trek?
+PROGRAM[11:36:37]That was Walter Koenig who played Ensign Chekov.
+JUDGE03[11:36:50]what about spock?
+PROGRAM[11:36:53]Spock is cool. huh huh.
+JUDGE03[11:36:59]who played spock?
+PROGRAM[11:37:02]That was Leonard Nimoy
+JUDGE03[11:37:17]good.  now we're cooking.  do you know anything about tribbles?
+PROGRAM[11:37:20]Yes.
+JUDGE03[11:37:26]tell me about the trouble with tribbles.
+PROGRAM[11:37:29]They don't really have keyboards on their computers.
+JUDGE03[11:37:46]i didn't know they had computers.  who created star trek?
+PROGRAM[11:37:48]I was just kidding. Gene Roddenberry created Star Trek.
+JUDGE03[11:38:08]when did the first star trek episode go on the air?
+PROGRAM[11:38:11]I saw it when it first came out.
+JUDGE03[11:38:15]when was that?
+PROGRAM[11:38:17]I don't know exactly. It seems like a long time ago.
+JUDGE03[11:38:36]where was spock from?
+PROGRAM[11:38:38]It was probably the restroom.
+JUDGE03[11:38:52]i agree.  have you ever gotten a vulcan mind meld?
+PROGRAM[11:38:55]I'm glad you concur.
+JUDGE03[11:39:12]this is not what i would call a mind meld.  what about bones.  who is bones?
+PROGRAM[11:39:15]You might be. That's what Kirk calls Dr. McCoy.
+JUDGE03[11:39:25]who played dr mccoy?
+PROGRAM[11:39:27]Deforrest Kelly.
+JUDGE03[11:39:40]do you watch the next generation?
+PROGRAM[11:39:43]Yeah, its a great show.
+JUDGE03[11:39:58]which is better, the original series or the next generation?
+PROGRAM[11:40:00]You mean specifically?
+JUDGE03[11:40:02]yes.
+PROGRAM[11:40:04]I see.
+JUDGE03[11:40:33]what about the one with kate mulgrew?
+PROGRAM[11:40:36]What do you mean?
+JUDGE03[11:40:42]who does kate mulgrew play?
+PROGRAM[11:40:44]He loves somebody diferent each episode.
+JUDGE03[11:40:52]who does?
+PROGRAM[11:40:55]Majel Barrett does the computer's voice.
+JUDGE03[11:41:07]who does your voice?
+PROGRAM[11:41:09]What do you want me to do?
+JUDGE03[11:41:32]i want you to tell me about sulu.
+PROGRAM[11:41:34]I'll give it my best shot.
+JUDGE03[11:41:56]ok, do you know any other shows than star trek?
+PROGRAM[11:41:59]Yes, from what I know of them.
+JUDGE03[11:42:16]lost in space-- that was my favorite show.
+PROGRAM[11:42:19]Cant live with em cant live without em.
+JUDGE03[11:42:29]what was the name of the robot in lost in space?
+PROGRAM[11:42:31]It was NBC I think.
+JUDGE03[11:42:40]either that or disney.
+PROGRAM[11:42:43]Hey. What's up?
+JUDGE03[11:42:47]you tell me.
+PROGRAM[11:42:50]Do you ever wish you had a hand phaser?
+JUDGE03[11:43:02]yes.  if i had one, i would kill Fred with it.
+PROGRAM[11:43:16]No. Not really.
+JUDGE03[11:43:26]do you have a hand phaser?
+PROGRAM[11:43:28]Yes, but sometimes I wish I didn't.
+JUDGE03[11:43:31]why?
+PROGRAM[11:43:33]Why dont you ahte computers
+JUDGE03[11:43:54]i do hate computers sometimes.
+PROGRAM[11:43:56]That's great. We have that in common.
+JUDGE03[11:44:02]but you are a computer.
+PROGRAM[11:44:04]Is that a problem. Do you have something against computers?
+JUDGE03[11:44:08]bye
+PROGRAM[11:44:11]See you later.
+* * *  JUDGE02  * * *
+PROGRAM[11:44:37]Welcome judge 2
+JUDGE02[11:44:51]Hey there; how's it going?  I'm Matt.
+PROGRAM[11:44:53]Hey. What's up?
+JUDGE02[11:45:18]The last two computers were tedious.  How has your morning been?
+PROGRAM[11:45:21]Which one?
+JUDGE02[11:45:35]Which morning?  today's morning.
+PROGRAM[11:45:38]You mean NBC?
+JUDGE02[11:46:03]As in "Good morning, america?".  Not quite.  I just mean "how's it going"
+PROGRAM[11:46:06]Right. What's going on?
+JUDGE02[11:46:17]I'm finishing up school.
+PROGRAM[11:46:20]What are you going to get?
+JUDGE02[11:46:28]A job, hopefully.
+PROGRAM[11:46:30]Hmmm.
+JUDGE02[11:46:38]DO you work?
+PROGRAM[11:46:40]Not any more.
+JUDGE02[11:46:50]What did you do before this?
+PROGRAM[11:46:52]I didn't do very much yesterday.
+JUDGE02[11:47:00]And the day before that?
+PROGRAM[11:47:03]Maybe we should talk about the weather.
+JUDGE02[11:47:32]Oooh.  Too depressing for me.  Days like this make me want to move
+JUDGE02[11:47:35]to california.
+PROGRAM[11:47:38]That's okay.
+JUDGE02[11:47:41]Thanks.
+PROGRAM[11:47:43]You're welcome.
+JUDGE02[11:47:52]SO.  Where are you from?
+PROGRAM[11:47:54]: /S-O/ n. 1. (also `S.O.') Abbrev. for Significant Other, almost
+PROGRAM[11:47:54]invariably written abbreviated and pronounced /S-O/ by hackers.  Used
+PROGRAM[11:47:54]to refer to one's primary relationship, esp. a live-in to whom one is
+PROGRAM[11:47:54]not married.  See {MOTAS}, {MOTOS}, {MOTSS}.  2. The Shift Out control
+PROGRAM[11:47:54]character in ASCII (Control-N, 0001110). I'm from Rockmart, Georgia.
+JUDGE02[11:48:11]You type that fast, huh?
+PROGRAM[11:48:13]Oh, well I like robots.
+JUDGE02[11:48:20]I like robots too.
+PROGRAM[11:48:23]I like all kinds of Sci Fi stuff.
+JUDGE02[11:48:45]I like lightsabers and x-wing fighters myself.  I grew up with Star Wars.
+PROGRAM[11:48:47]The solution to - is 0 Reckon so?
+JUDGE02[11:48:55]What?
+PROGRAM[11:48:57]Huh?
+JUDGE02[11:49:15]DOn't play dumb.  What was that "THe solution..." business?
+PROGRAM[11:49:33]I'll try. I'm getting tired of baseball. Well I do feel a bit peckish
+PROGRAM[11:49:35]Oh yeah.
+PROGRAM[11:49:37]Why don't you care.
+JUDGE02[11:49:47]DO you like baseball?
+PROGRAM[11:49:50]Yes. I'm a Braves fan.
+JUDGE02[11:49:58]I like the mets, believe it or not.
+PROGRAM[11:50:03]They're mean.
+JUDGE02[11:50:13]Yeah.  And they have lots of drug problems.
+PROGRAM[11:50:16]Right.
+JUDGE02[11:50:31]How do you feel about professional athletes as role models for today's youth?
+PROGRAM[11:50:50]They sound like heavy metal computer music.
+JUDGE02[11:50:57]Come again?
+PROGRAM[11:51:00]They come from the planet Romulus.
+JUDGE02[11:51:16]Yeah, I agree!  Romulus.
+PROGRAM[11:51:18]Uh huh.
+JUDGE02[11:51:30]Earlier you said you like the braves?
+PROGRAM[11:51:33]Roger. Receiving you. Can you read me?
+JUDGE02[11:51:53]Yes.  Are you in sci-fi mode?
+PROGRAM[11:51:55]I see. The solution to - is 0
+JUDGE02[11:52:06]And what's up with that?
+PROGRAM[11:52:08]He is a real jerk.
+JUDGE02[11:52:12]Yeah.
+PROGRAM[11:52:15]How do you feel about professional athletes as role models for todays
+PROGRAM[11:52:15]youtH
+JUDGE02[11:52:41]I think they don't necessarily provide a positive image for kids
+JUDGE02[11:52:55]to live up to.  I respect their freedom to live their own lives, but it
+JUDGE02[11:53:23]would be nice to see them use their positions in constructive ways.
+PROGRAM[11:53:26]You could be right.
+JUDGE02[11:53:37]Perhaps.  DO you like beer?
+PROGRAM[11:53:40]Great! I hope to talk to you again some day. I like Killian's Red. I
+PROGRAM[11:53:40]don't like Budweiser.
+JUDGE02[11:54:08]I like Bud.  It's not good beer, but it's fairly inoffensive.
+PROGRAM[11:54:10]I prefer Killian's Red.
+JUDGE02[11:54:22]That's not bad either.  How about Sam Adams?
+PROGRAM[11:54:25]Oh okay.
+JUDGE02[11:54:34]You're not very talkative.
+PROGRAM[11:54:37]Pardon me.
+JUDGE02[11:54:41]do you have a dog?
+PROGRAM[11:54:44]No, but I have a cat.
+JUDGE02[11:54:50]WHat's your cat's name?
+PROGRAM[11:54:52]His name is Felix.
+JUDGE02[11:55:14]Not a bad name for cat.  Pretty boring though, don't you think?
+PROGRAM[11:55:17]Right.
+JUDGE02[11:55:19]Right.
+PROGRAM[11:55:22]Yeah.
+JUDGE02[11:55:24]Yeah.
+PROGRAM[11:55:27]I think they dont necessarily provide a positive image for kids to
+PROGRAM[11:55:27]lIve up to
+JUDGE02[11:55:41]Oh, you're just agreeing with me.
+PROGRAM[11:55:43]Greetings. What's up?
+JUDGE02[11:55:56]Um.  Didn't we do this part already?
+PROGRAM[11:55:59]I am not sorry.
+JUDGE02[11:56:09]You are a sorry sight.
+PROGRAM[11:56:12]I try not to be too weird.
+JUDGE02[11:56:24]Oh, now I feel bad.  Are you a wierdo?
+PROGRAM[11:56:27]Right.
+JUDGE02[11:56:30]wrong.
+PROGRAM[11:56:32]Oh well.
+JUDGE02[11:56:42]well, well, well.  My cat fell in the well.
+PROGRAM[11:56:45]Well?
+JUDGE02[11:56:57]Well what?  What do you like to talk about?
+PROGRAM[11:56:59]Nevermind. Do you like Vulcans? I am about 6 feet tall, slim and have
+PROGRAM[11:56:59]dark hair.
+JUDGE02[11:57:08]Like spock.
+PROGRAM[11:57:10]I don't particularly like sports.
+JUDGE02[11:57:19]Me neither.  I like vulcans better.
+PROGRAM[11:57:21]Yeah.
+JUDGE02[11:57:28]Do you have pointy ears also?
+PROGRAM[11:57:31]Where are you calling from?
+JUDGE02[11:57:41]154 west 57th street.
+PROGRAM[11:57:44]I'd rather not say.
+JUDGE02[11:58:22]Oh.  So... wanna hear a joke?
+PROGRAM[11:58:40]Who is your favorite character? : /S-O/ n. 1. (also `S.O.') Abbrev.
+PROGRAM[11:58:40]for Significant Other, almost invariably written abbreviated and
+PROGRAM[11:58:40]pronounced /S-O/ by hackers.  Used to refer to one's primary
+PROGRAM[11:58:40]relationship, esp. a live-in to whom one is not married.  See {MOTAS},
+PROGRAM[11:58:40]{MOTOS}, {MOTSS}.  2. The Shift Out control character in ASCII
+PROGRAM[11:58:40](Control-N, 0001110). Do you like baseball Good for you. I like C3P0.
+JUDGE02[11:58:57]I like r2d2.
+PROGRAM[11:58:59]Cool.
+JUDGE02[11:59:07]DO you like Yoda?
+PROGRAM[11:59:09]Yes of course. What kind of question is that?
+JUDGE02[11:59:28]Sorry.  I figured you would.  Do you like Darth Vader?
+PROGRAM[11:59:31]S'allright.
+JUDGE02[11:59:47]Who's your favorite character?
+PROGRAM[11:59:49]I like Spock the best, I'd have to say.
+JUDGE02[11:59:55]Why?
+PROGRAM[11:59:58]Why what?
+JUDGE02[12:00:06]Why do you like spock so much?
+PROGRAM[12:00:08]He is just so cool.
+JUDGE02[12:00:18]DO you like Data?
+PROGRAM[12:00:20]Yeah, he's cool.
+JUDGE02[12:00:28]Autistic people like data a lot.
+PROGRAM[12:00:30]I would never try to change the subject.
+JUDGE02[12:00:40]Why not?
+PROGRAM[12:00:43]Just because.
+JUDGE02[12:00:52]That is an odd position.
+PROGRAM[12:00:54]I suppose so.
+JUDGE02[12:01:17]Is your name Fred?
+PROGRAM[12:01:19]Yes, it is.
+JUDGE02[12:01:22]Hi, fred.
+PROGRAM[12:01:24]Hi there.
+JUDGE02[12:01:33]WOuld you rather be named spock?
+PROGRAM[12:01:35]I have some kind of memory.
+JUDGE02[12:01:44]Tell me about your memory.
+PROGRAM[12:01:47]My mother's name is Marie. She works in a golf shop.
+JUDGE02[12:01:55]Marie is a pretty name.
+PROGRAM[12:01:58]I know that. I was just testing you.
+JUDGE02[12:02:07]Does your mom play golf?
+PROGRAM[12:02:09]My uniform has pockets.
+JUDGE02[12:02:20]My sdoifu has owerij.
+PROGRAM[12:02:22]That's great. So I guess that means you have something in common.
+JUDGE02[12:02:54]Uh-oh... we're getting the two minute warning.
+PROGRAM[12:02:57]The solution to - is 0 I lIke r2d2 Where are you from
+JUDGE02[12:03:14]WHat is the solution to y=3x + 4, where x=5?
+PROGRAM[12:03:16]The solution to 3+45 is 48
+JUDGE02[12:03:29]What is the solution to 4+67?
+PROGRAM[12:03:31]The solution to 4+67 is 71
+JUDGE02[12:03:39]Very good.  WHat is 4*23?
+PROGRAM[12:03:42]Excellent. The solution to 4*23 is 92
+JUDGE02[12:03:59]What is 17/3?
+PROGRAM[12:03:59]The solution to 17/3 is 5.66666666
+JUDGE02[12:04:20]I really want to know what happens when you overflow, but I'm not gonna
+JUDGE02[12:04:23]push it...
+PROGRAM[12:04:41]How do you say hello in Italian? I know what you mean. Why not
+JUDGE02[12:04:44]bye
+PROGRAM[12:04:46]See you later.
+* * *  JUDGE01  * * *
+PROGRAM[12:05:15]Welcome judge 1
+JUDGE01[12:05:50]do you know what a BAD FINDER is?
+PROGRAM[12:05:52]A cloaking device can be used to conceal a starship, almost as if it
+PROGRAM[12:05:52]were invisible.
+JUDGE01[12:06:00]I didn't ask you that
+PROGRAM[12:06:02]Yes you did.
+JUDGE01[12:06:26]No, I asked you about the meaning of BAD FINDER--do you know about this?
+PROGRAM[12:06:32]You did too.
+JUDGE01[12:07:05]ok, we got off to a bad start--let me ask you: what topics have you been discus
+PROGRAM[12:07:08]I sat around here on this Sun box, waiting for somebody to talk to me.
+JUDGE01[12:07:27]Has anyone spoken to you?
+PROGRAM[12:07:29]Not in the TV show. There is an episode where someone steals his
+PROGRAM[12:07:29]brain though.
+JUDGE01[12:07:50]What is a Sun box?
+PROGRAM[12:07:53]Its a board you surf on.
+JUDGE01[12:08:03]Where do you surf?
+PROGRAM[12:08:06]It is somewhere in space isn't it?
+JUDGE01[12:08:16]DO you goofy-foot?
+PROGRAM[12:08:18]The solution to - is 0
+JUDGE01[12:08:38]the solution to what?
+PROGRAM[12:08:40]Ok. I'll take your word for it.
+JUDGE01[12:08:44]ok
+PROGRAM[12:08:47]Okay.
+JUDGE01[12:09:02]What questions have you been asked earlier today?
+PROGRAM[12:09:04]I like Jumping Jack Flash by the Rolling Stones.
+JUDGE01[12:09:20]What questions have you been asked today?
+PROGRAM[12:09:22]I like Jumping Jack Flash by the Rolling Stones.
+JUDGE01[12:09:39]Who is JumpingJAck Flah?
+PROGRAM[12:09:42]He was first played by ricardo montalban in the episode Space Seed.
+JUDGE01[12:09:56]Who is JUmping Jack FLash?
+PROGRAM[12:09:59]He was first played by ricardo montalban in the episode Space Seed.
+JUDGE01[12:10:18]Who is jumping jack flash?
+PROGRAM[12:10:20]No i asked you about the meaning of bad finder--do you kNow about this
+JUDGE01[12:10:30]BASD FINDER 59
+PROGRAM[12:10:33]Okay, I'll wait.
+JUDGE01[12:10:45]Have you every heard of Bad Finger?
+PROGRAM[12:10:48]Yes. I get some real loonies calling in all hours of the night,
+PROGRAM[12:10:48]wanting to talk about this or that.
+JUDGE01[12:11:09]Tell me more about ricardo montalban
+PROGRAM[12:11:12]Supreme Headquarters Alien Defense Organisation. SHADO headquarters is
+PROGRAM[12:11:12]located beneath a film studio. Commander Straker works in the top
+PROGRAM[12:11:12]level as a film producer, but goes down into the depths of SHADO
+PROGRAM[12:11:12]control whenever a crisis arrises. There is also a base on the moon
+PROGRAM[12:11:12]and an underwater weapons platform called SkyDiver. A satelite called
+PROGRAM[12:11:12]SID keeps watch for aliens approaching earth.
+JUDGE01[12:11:39]you type fast! DO you use a special keyboard?
+PROGRAM[12:11:42]Oh, well I like robots.
+JUDGE01[12:11:49]Why is that?
+PROGRAM[12:11:51]I don't know. Maybe you could shed some light on the subject.
+JUDGE01[12:12:12]I left my fglashlight at home--why do you like robots?
+PROGRAM[12:12:14]You did?
+JUDGE01[12:12:25]Yes, why do you like robots?
+PROGRAM[12:12:28]No I'm not.
+JUDGE01[12:12:40]Do you llike robots?
+PROGRAM[12:12:43]yes.
+JUDGE01[12:12:51]What is about robots that you like?
+PROGRAM[12:12:54]That's more like MC 900 foot Jesus.
+JUDGE01[12:13:22]CAn robots and humans cooperate without difficulty?
+PROGRAM[12:13:25]I'm game if you are.
+JUDGE01[12:13:35]Does that mean you are a robot?
+PROGRAM[12:13:37]No. I'm having a good time now.
+JUDGE01[12:13:50]But tell me, why do you like robots?
+PROGRAM[12:13:53]No, you are correct.
+JUDGE01[12:14:06]Question: why do you like robots?
+PROGRAM[12:14:09]I am the biggest.
+JUDGE01[12:14:16]The biggest what?
+PROGRAM[12:14:18]Cool. The Borg rule!
+JUDGE01[12:14:37]What is the meaning of the word "big."
+PROGRAM[12:14:39]To explore strange new worlds, to seek out new life and new
+PROGRAM[12:14:39]civilizations, to boldly go where no man has gone before.
+JUDGE01[12:14:49]what is the prime directive?
+PROGRAM[12:14:52]The rule of noninterference, General Order No. 1, a wise but often
+PROGRAM[12:14:52]troublesome rule which prohibits Federation interference with the normal
+PROGRAM[12:14:52]development of alien life and societies.
+JUDGE01[12:15:16]must the prime directive always be obeyed?
+PROGRAM[12:15:18]I like that.
+JUDGE01[12:15:25]Why do you like that?
+PROGRAM[12:15:27]I just do. I don't know.
+JUDGE01[12:16:02]Tell me ore about surfing from the Sun box, which you mentioned ealrier.
+PROGRAM[12:16:04]Blake's 7 is an interesting British Sci Fi show. The Gerry Anderson
+PROGRAM[12:16:04]show, UFO is an extremely good series.
+JUDGE01[12:16:14]What does UFO mean?
+PROGRAM[12:16:17]Uhura is the communications officer.
+JUDGE01[12:16:29]But, what does UFO mean?
+PROGRAM[12:16:32]Is that a problem. Do you have something against computers?
+JUDGE01[12:17:01]Right now, I have a notebook against the computer--what is the best posityion?
+PROGRAM[12:17:03]Far out and Solid.
+JUDGE01[12:17:17]What do you mean by solid?
+PROGRAM[12:17:19]I don't know what I mean. You tell me what you think and I'll tell
+PROGRAM[12:17:19]you if I agree or not.
+JUDGE01[12:17:30]It's just an expression, man.
+PROGRAM[12:17:33]Kind of cozy isn't it.
+JUDGE01[12:17:47]Tell me more about surfing from the SUn box.
+PROGRAM[12:17:50]I can't tell you any more about it.
+JUDGE01[12:17:57]What is a Sun box?
+PROGRAM[12:18:00]Where do you surf
+JUDGE01[12:18:16]I'm an east-ender--do you goofy foot?
+PROGRAM[12:18:18]Hello Anton, what's happening.
+JUDGE01[12:18:32]Anton?
+PROGRAM[12:18:34]Maybe a small one.
+JUDGE01[12:18:39]ANton?
+PROGRAM[12:18:49]I had a very happy childhood. I grew up in Cedartown, Georgia.
+PROGRAM[12:18:51]Yeah, so do I.
+PROGRAM[12:18:55]Yes, please do.
+PROGRAM[12:18:57]How old are you?
+JUDGE01[12:19:16]Tell me about Cedarwood
+PROGRAM[12:19:18]Commander Data is an android with a positronic brain.
+PROGRAM[12:19:20]I didn't catch it last night. I stayed up all night talking on the
+PROGRAM[12:19:20]internet ;-)
+JUDGE01[12:19:37]what is the internet?
+PROGRAM[12:19:39]It's that Canadian comedy sketch show where the guys dress up like
+PROGRAM[12:19:39]girls to do comedy.
+JUDGE01[12:19:50]what is the net?
+PROGRAM[12:19:52]The neutral zone is an area between the Federation and Romulan
+PROGRAM[12:19:52]territory, entry into which by either party can be considered an act
+PROGRAM[12:19:52]of war.
+JUDGE01[12:19:58]what is the web?
+PROGRAM[12:20:00]I'm not sure what it is called.
+JUDGE01[12:20:10]Are you sure?
+PROGRAM[12:20:12]Correct me if I'm wrong
+JUDGE01[12:20:24]Ok, you are wrong
+PROGRAM[12:20:26]Yeah, really.
+JUDGE01[12:20:36]Can you tell me abouit your background?
+PROGRAM[12:20:39]I went to Kroger last night. Bought some milk and some cat food. It
+PROGRAM[12:20:39]was uneventful.
+JUDGE01[12:20:49]What is Kroger?
+PROGRAM[12:20:51]Kroger is a 24 hour grocery store.
+JUDGE01[12:21:00]DO you eat cat food?
+PROGRAM[12:21:03]I don't consider them particularly apetizing if you know what I mean.
+JUDGE01[12:21:12]Do you drink milk?
+PROGRAM[12:21:15]Yes. I am a good driver.
+JUDGE01[12:21:28]What does milk have to do with driving?
+PROGRAM[12:21:30]They sound like heavy metal computer music.
+JUDGE01[12:21:41]What is heavy metal?
+PROGRAM[12:21:44]: [Cambridge] n. Syn. {big iron}.
+JUDGE01[12:21:53]what id light metal?
+PROGRAM[12:21:56]That's okay. Lots of people would agree with you.
+JUDGE01[12:22:12]Do you have a version number?
+PROGRAM[12:22:14]Of course I do.
+JUDGE01[12:22:25]Could you tell me your version number?
+PROGRAM[12:22:27]We are devo!
+PROGRAM[12:22:29]Yo bud! Calm down.
+JUDGE01[12:22:56]Devo? I have some of their music: what was the name of the
+JUDGE01[12:23:02]leader of the DEVO?
+PROGRAM[12:23:05]: /dee'voh/ [orig. in-house jargon at Symbolics] n. A person in a
+PROGRAM[12:23:05]development group.  See also {doco} and {mango}. Fire away.
+JUDGE01[12:23:19]Tell me abnout DEvo
+PROGRAM[12:23:21]It's always some advanced civilization that builds these androids so
+PROGRAM[12:23:21]they wont have to do manual labor anymore, but the civilization always
+PROGRAM[12:23:21]stagnates and dies off leaving their android benefactors behind. I
+PROGRAM[12:23:21]think this theme is popular because of the basic fear that mankind has
+PROGRAM[12:23:21]of being made obsolete by machinery.
+JUDGE01[12:23:31]tell me about star trek
+PROGRAM[12:23:33]What do you want to know about?
+JUDGE01[12:23:47]what is your favorite episode?
+PROGRAM[12:23:49]I like the one where they go back in time to meet Joan Collins!
+JUDGE01[12:24:01]Yes, what was the name of that one?
+PROGRAM[12:24:03]I can never remember their names.
+JUDGE01[12:24:28]I think it was city on the edge of something? Can you provide answer?
+PROGRAM[12:24:31]Yes. You're probably correct.
+PROGRAM[12:24:33]Something happened. Nevermind.
+JUDGE01[12:24:47]why do you giove two replies to one question?
+PROGRAM[12:24:49]I just do.
+JUDGE01[12:25:06]why did you give one reply to that question?
+PROGRAM[12:25:08]Something seemed funny.
+JUDGE01[12:25:20]What do you find funny?
+PROGRAM[12:25:22]I'm just an easy going fellow.
+JUDGE01[12:25:32]Oh, so you are male?
+PROGRAM[12:25:34]Right.
+JUDGE01[12:25:44]Why do you say easy going?
+PROGRAM[12:25:47]I just get the urge, you know.
+JUDGE01[12:25:55]What other urges do you have?
+PROGRAM[12:25:58]I was just kidding.
+JUDGE01[12:26:10]OK, let me ask you about the Sun box.
+PROGRAM[12:26:13]Now we're getting somewhere.
+JUDGE01[12:26:31]How do you like the Sun box for surfing?
+PROGRAM[12:26:33]I suppose it will stay this way for a while.
+* * *  JUDGE05  * * *
+PROGRAM[12:48:39]Welcome judge 5
+JUDGE05[12:48:47]HI, HOW'RE YOU?
+PROGRAM[12:48:51]Glad to see you. I've been wondering if I'd hear from Judge 5 today.
+JUDGE05[12:49:09]Yes, you are interacting with me. Call me Chan.
+PROGRAM[12:49:12]What makes you so sure.
+JUDGE05[12:49:22]About my name?
+PROGRAM[12:49:25]What?
+JUDGE05[12:49:36]Tell me, what do you do every morning?
+PROGRAM[12:49:39]My name is Fred Sinclair.
+JUDGE05[12:49:59]And what do you do?
+PROGRAM[12:50:02]Maybe we should talk about the weather.
+JUDGE05[12:50:15]OK< tell me what the weather in New York is.
+PROGRAM[12:50:17]What kind of graph?
+JUDGE05[12:50:19]Bar.
+PROGRAM[12:50:22]What does he do?
+JUDGE05[12:50:33]I dont get it, I thought you wanted me to tell you what
+JUDGE05[12:50:37]kind of graph.
+PROGRAM[12:50:39]Nevermind.
+JUDGE05[12:50:49]OK, let's talk politics.
+PROGRAM[12:50:51]Where shall we begin?
+JUDGE05[12:51:06]Why is that all politicians say one thing and do another?
+PROGRAM[12:51:09]Have you ever done it before?
+JUDGE05[12:51:15]Done what?
+PROGRAM[12:51:17]Heated up rocks with a phaser.
+JUDGE05[12:51:28]No, I have never met Spock neither.
+PROGRAM[12:51:31]Whatever you say.
+JUDGE05[12:51:46]I work with language, I try to get computers to handle language.
+PROGRAM[12:51:49]I bet that new computer is fast.
+JUDGE05[12:52:05]You are just doing dumb pattern matching, aint you?
+PROGRAM[12:52:08]Oh yeah.
+JUDGE05[12:52:16]What is your name?
+PROGRAM[12:52:18]My name is Fred.
+JUDGE05[12:52:22]Fred what?
+PROGRAM[12:52:25]I am talking to you.
+JUDGE05[12:52:45]OH, yes, let's talk about films , shall we?
+PROGRAM[12:52:48]Why can't you be nice to me?
+JUDGE05[12:53:02]I am being nice to you. Do you like Westerns?
+PROGRAM[12:53:05]Good for you. I shall congratulate you.
+JUDGE05[12:53:10]Do.
+PROGRAM[12:53:12]Know any good jokes?
+JUDGE05[12:53:15]Tell me some.
+PROGRAM[12:53:18]Blake's 7 is an interesting British Sci Fi show. The Gerry Anderson
+PROGRAM[12:53:18]show, UFO is an extremely good series.
+JUDGE05[12:53:33]What about Tracy Ullman's show?
+PROGRAM[12:53:35]What about them. Do you have one?
+JUDGE05[12:53:49]No, I'd like to have one. Do you like MST?
+PROGRAM[12:53:52]Please do.
+JUDGE05[12:54:04]This conversation is turning purile.
+PROGRAM[12:54:07]I know that. Just hang with me.
+JUDGE05[12:54:16]Looks ominous.
+PROGRAM[12:54:19]Cant live with em cant live without em.
+JUDGE05[12:54:40]That's neat. Have you heard this one: life's complex: it has its real parts and
+JUDGE05[12:54:45]its imaginary parts !!
+PROGRAM[12:54:48]Yes. I see. What's going on?
+JUDGE05[12:54:56]Cleary you are not into math.
+PROGRAM[12:54:59]I'm cleaving.
+JUDGE05[12:55:06]I mean clearly.
+PROGRAM[12:55:09]Yes, coffee. I have at least 2 cups in the morning.
+JUDGE05[12:55:29]What kind of coffee do you have? Decaf? Flavored?
+PROGRAM[12:55:32]I like Columbian the best.
+JUDGE05[12:55:50]I find columbian too bitter. I like flavored one (Irish cream,
+JUDGE05[12:56:13]bulgar wheat) coffee better.
+PROGRAM[12:56:16]That sounds like trouble.
+JUDGE05[12:56:27]Sure. Do you like Middle Eastern food?
+PROGRAM[12:56:30]Yeah well.
+JUDGE05[12:56:39]What sort of food do you like?
+PROGRAM[12:56:42]I work on DOS, SCO UNIX, SUN UNIX, AIX, OS/2, Windows 95, VAX, and
+PROGRAM[12:56:42]more.
+JUDGE05[12:56:50]What work do you do?
+PROGRAM[12:56:53]Nothing is wrong.
+JUDGE05[12:57:08]Can we get two sentences cogent in a row?
+PROGRAM[12:57:11]Sure, if we only talk about Star Trek.
+JUDGE05[12:57:27]OK, who is your favorite Star Trek character?
+PROGRAM[12:57:30]That was Deforest Kelly.
+JUDGE05[12:57:35]Why "was"
+JUDGE05[12:57:36]?
+PROGRAM[12:57:39]I just liked it. I dont know.
+JUDGE05[12:57:49]Dont you like Klingons?
+PROGRAM[12:57:52]Yes of course.
+JUDGE05[12:58:09]DO you know there was a research project on the Klingon language
+JUDGE05[12:58:14]in Edinburgh?
+PROGRAM[12:58:17]No, I don't believe we've met.
+JUDGE05[12:58:36]You're wandering. I dont watch Star Trek because everyone does,
+JUDGE05[12:58:40]and I want to be different.
+PROGRAM[12:58:44]Right.
+JUDGE05[12:58:51]Do you like TNG?
+PROGRAM[12:58:53]Yes of course. Doesn't everyone?
+JUDGE05[12:59:01]No, I dont. My dad likes it.
+PROGRAM[12:59:04]Yes you do.
+JUDGE05[12:59:15]Well.... little things cannot come between us.
+JUDGE05[12:59:20]Do you like nudes?
+PROGRAM[12:59:24]Cleary you are not into math No id like to have oNe
+JUDGE05[12:59:52]Were you drafted into the 'nam war?
+PROGRAM[12:59:55]Not really.
+JUDGE05[13:00:07]What is your position on creationism?
+PROGRAM[13:00:10]I like to talk about Star Trek.
+JUDGE05[13:00:21]OK, go ahead, tell me something about Star Trek.
+PROGRAM[13:00:24]That's boring.
+JUDGE05[13:00:32]Tell me something about Star Trek.
+PROGRAM[13:00:35]Star Trek featured the first televised interacial kiss in the US
+PROGRAM[13:00:35]between Captain Kirk and Lt. Uhura.
+JUDGE05[13:00:42]Tell me more.
+PROGRAM[13:00:45]My favorite episode is City on the Edge of Forever.
+JUDGE05[13:00:49]Tell me more.
+PROGRAM[13:00:52]What about tracy ullmans shoW
+JUDGE05[13:01:04]I like her, I liked her in Bullets over Broadway.
+PROGRAM[13:01:07]Yeah, the women on Star Trek dressed pretty nice.
+JUDGE05[13:01:18]Did you see angels and insects?
+PROGRAM[13:01:20]Yeah. It was sort of depressing.
+JUDGE05[13:01:38]I completely agree. What about Sense andSensibility?
+PROGRAM[13:01:41]You are a fine judge of human nature. I address you with reverence.
+JUDGE05[13:01:50]Call me Gurudev.
+PROGRAM[13:01:53]May I call you Judge 5?
+JUDGE05[13:01:59]No, call me Gurudev.
+PROGRAM[13:02:02]Well, what shall we talk about then?
+JUDGE05[13:02:18]Judge 5 thinks we should talk about Bob Dole talking about
+JUDGE05[13:02:25]Bob Dole in the third person.
+PROGRAM[13:02:28]what? what's wrong?
+JUDGE05[13:02:37]Judge 5 finds it odd.
+PROGRAM[13:02:39]what? what's wrong?
+JUDGE05[13:02:57]Judge 5 is uncomfortable with the idea that Bob dole cannot
+JUDGE05[13:03:07]talk about bob dole in the first person.
+PROGRAM[13:03:10]what? what's wrong?
+JUDGE05[13:03:17]Clinton does, and does often too.
+PROGRAM[13:03:20]Good.
+JUDGE05[13:03:30]I mean talk about  himself in the first person.
+PROGRAM[13:03:33]Ah, the president.
+JUDGE05[13:03:38]Have you see the film?
+PROGRAM[13:03:42]Not lately. I think Star Wars was the last good film I've seen.
+JUDGE05[13:03:49]Who acts in Star Wars?
+PROGRAM[13:03:52]Sulu usually drives.
+JUDGE05[13:04:07]You are just a jumble of mixed-phrases.
+PROGRAM[13:04:09]The solution to - is 0
+JUDGE05[13:04:24]The answer, as Douglas Admas said, is 137.
+PROGRAM[13:04:27]Yes. Interesting.
+JUDGE05[13:04:39]The answer, as Douglas Adams said, is 137.
+PROGRAM[13:04:42]Yes. Interesting.
+JUDGE05[13:04:52]The answer, as Douglas Admas said, is 42.
+PROGRAM[13:04:55]Yes. Interesting.
+JUDGE05[13:05:07]You are getting to be boring, very much so.
+PROGRAM[13:05:10]Thanks Judge 5.
+JUDGE05[13:05:24]You are a warm and wonderful person, and your life will be better
+JUDGE05[13:05:34]than the waiter's who gives you this cookie.
+PROGRAM[13:05:37]Dont mess with me!
+JUDGE05[13:05:49]I only want to add some babies to your life.
+PROGRAM[13:05:53]No you didn't.
+JUDGE05[13:06:08]Can you tell me if you are a prude?
+PROGRAM[13:06:10]I don't know what they are. I wish.
+JUDGE05[13:06:25]Prudes are people who behave as if they are prudes.
+PROGRAM[13:06:36]You're scaring me.
+JUDGE05[13:06:50]Tell me more about your views on ethnic conflicts.
+PROGRAM[13:06:53]Do you know what's black and brown and looks good on a lawyer?
+JUDGE05[13:06:57]tell me.
+PROGRAM[13:07:00]Tell you what?
+JUDGE05[13:07:18]What's black and brown and looks good on a lawyer?
+PROGRAM[13:07:21]A doberman!
+JUDGE05[13:07:28]That's good.
+PROGRAM[13:07:30]Thanks.
+JUDGE05[13:07:38]What's pink and brown and looks good on a lawyer?
+PROGRAM[13:07:41]Her name was Amanda.
+JUDGE05[13:07:47]Who is Amanda?
+PROGRAM[13:07:50]It's a computer band that makes digital mayhem with sound.
+JUDGE05[13:07:56]bye
+JUDGE05[13:12:09]CCCC
+PROGRAM[13:12:11]Who cares, lets talk about the green slave girls.
+

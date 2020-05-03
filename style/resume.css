@@ -1,0 +1,14 @@
+/*============================================================================*/
+
+BODY {
+	background-color: white;
+	color: black;
+	font-family: sans-serif;
+}
+A {
+	color: blue;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+/*============================================================================*/

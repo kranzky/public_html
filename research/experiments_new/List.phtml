@@ -1,0 +1,37 @@
+<? Include("Verify.phtml"); >
+<? Include("Maintainer.phtml"); >
+<? Include("Functions.phtml"); >
+<? $title = "Email Everyone"; >
+<? Include("Header.phtml"); >
+
+<?
+	$result=msql("hutch", "SELECT user.email,user.password,user_info.name FROM user,user_info WHERE user_info.list='Y' AND user.user=user_info.user");
+	$num=msql_numrows($result);
+	$i=0;
+	while($i<$num);
+		$name=msql_result($result, $i, "name");
+		$email=msql_result($result, $i, "email");
+		$password=msql_result($result, $i, "password");
+		$mes ="";
+		$mes+="Hello $name,\n\n";
+		$mes+=$message;
+		$mes+="\nThis message was sent to you because you chose to receive\n";
+		$mes+="occasional updates about my experiments.  If you wish to stop\n";
+		$mes+="receiving these messages, please go to:\n\n";
+		$mes+="  http://ciips.ee.uwa.edu.au/~hutch/research/experiments/\n\n";
+		$mes+="then log on with the following information:\n\n";
+		$mes+="  Email:    $email\n";
+		$mes+="  Password: $password\n\n";
+		$mes+="and click on your name to modify your personal details.\n\n";
+		$mes+="- Jason Hutchens.\n";
+		Send_Mail($email, "hutch@ciips.ee.uwa.edu.au", "Jason's Experiments Update Message", $mes);
+		$i+=1;
+	endwhile;
+>
+
+<H2>Email Sent</H2>
+
+The message has been sent to the <? echo $num; > participants who chose to
+receive occasional email updates about the experiments.
+
+<? Include("Footer.phtml"); >

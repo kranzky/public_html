@@ -1,0 +1,1112 @@
+(c) 2000 Cambridge Centre for Behavioral Studies all rights
+reserved.
+
+Talk. A product of Sandy Johnson and Chris S. Johnson
+
+Start at: [2000/01/29 00:03:44]
+
+*** JUDGE00 ***
+
+PROGRAM[00:03:44]
+
+PROGRAM[00:03:44]Anybody there?
+
+*** JUDGE09 ***
+
+PROGRAM[00:57:28]
+
+PROGRAM[00:57:28]I'm here!
+
+JUDGE09[00:57:38]what's going on?
+
+PROGRAM[00:57:56]Do you get many chances to take a vacation?
+
+JUDGE09[00:58:29]sometimes, but not very often. where is the last
+place you were?
+
+PROGRAM[00:58:42]I went to my brother's place last night.
+
+JUDGE09[00:58:57]where?
+
+PROGRAM[00:59:19]Last time I went to Byron Bay it was to go to the
+East Coast Blues festival.
+
+JUDGE09[00:59:47]do you like that kind of music?
+
+(c) 2000 Cambridge Centre for Behavioral Studies all rights
+reserved.
+
+Talk. A product of Sandy Johnson and Chris S. Johnson
+
+Start at: [2000/01/29 01:14:59]
+
+*** JUDGE00 ***
+
+PROGRAM[01:14:59]
+
+PROGRAM[01:14:59]Anybody there?
+
+*** JUDGE07 ***
+
+PROGRAM[01:25:11]
+
+PROGRAM[01:25:11]Ok let's go.
+
+JUDGE07[01:26:48]hi! how are you?
+
+PROGRAM[01:26:51]Fine, I like to cook roast dinners for my kids-do
+you ever do a roast?
+
+JUDGE07[01:27:42]nope. can't really cook - cup o noodles is about
+as complex I get
+
+PROGRAM[01:27:51]Yes.
+
+JUDGE07[01:28:02]what?
+
+PROGRAM[01:28:12]Do you live Hanover, this is my first time here?
+
+
+JUDGE07[01:28:37]well, just as a student. I'm from Jersey
+
+PROGRAM[01:28:52]I don't see very often James kids.
+
+JUDGE07[01:29:03] OC OCyou mean James Moor?
+
+PROGRAM[01:29:12]James is flying to Melbourne Monday morning.
+
+JUDGE07[01:29:28]really? for what?
+
+PROGRAM[01:29:39]James and my flatmate and Julia went to the
+casino to gamble.
+
+PROGRAM[01:29:53]Do you appove of the Olympics?
+
+JUDGE07[01:30:35]you haven't been answering my questions, but
+whatever...sure, the oylimpice fine
+
+PROGRAM[01:30:43]No.
+
+JUDGE07[01:30:47]what?
+
+PROGRAM[01:30:58]I think we should protect the environment, are
+the greenies popular in
+
+America.
+
+JUDGE07[01:31:17]greenies?
+
+PROGRAM[01:31:25]I think the greenies keep the companies and
+governments on their
+
+toes.
+
+JUDGE07[01:31:54]what are "greenies"? you mean greenpeace people?
+
+
+PROGRAM[01:32:04]I have never understood American politics, which
+is more left,
+
+the Democrats, or the Republicans?
+
+PROGRAM[01:32:15]No.
+
+JUDGE07[01:32:47]eh, politics is not really my field. I'm actually
+a student of linguistics. Do you know anything about linguistics?
+
+
+PROGRAM[01:32:56]I have known the Foreday Riders since the early
+seventies.
+
+JUDGE07[01:33:20]who are the Foreday Riders?
+
+PROGRAM[01:33:27]The Foreday Riders are a great Sydney blues band.
+
+
+JUDGE07[01:34:11]that's nice. So are you interested in language?
+
+
+PROGRAM[01:34:19]yes sure.
+
+JUDGE07[01:34:34]do you speak any other languages?
+
+PROGRAM[01:34:42]No.
+
+JUDGE07[01:35:02]if you had to pick a second language to learn,
+which would it be?
+
+PROGRAM[01:35:09]Pascal is a good language to learn to program a
+computer with.
+
+JUDGE07[01:35:47]cute. very cute. But really - which human
+language would you want to learn?
+
+PROGRAM[01:35:53]Pascal was my first good programming language.
+
+
+JUDGE07[01:36:19]I can imagine.
+
+PROGRAM[01:36:31]I don't speak any language but English.
+
+JUDGE07[01:36:50]so you mentioned. Any plans for the weekend?
+
+PROGRAM[01:36:58]I wonder if James bought any wine.
+
+JUDGE07[01:37:23]why?
+
+PROGRAM[01:37:40]I never buy processed bread, we have three fresh
+bread shops at Five
+
+Dock.
+
+JUDGE07[01:38:05]what does bread have to do with wine?
+
+PROGRAM[01:38:18]Wine gives me a headache if I drink more than one
+glass during the day.
+
+JUDGE07[01:38:47]that's interesting. You must be very dull at
+parties.
+
+PROGRAM[01:38:59]yes sure.
+
+JUDGE07[01:39:16]anyway, time to go.
+
+PROGRAM[01:39:30]Do you have a garden where you live, I don't have
+much space around my townhouse?
+
+JUDGE07[01:39:56]nope. nothing grows in Jersey. gotta go
+
+PROGRAM[01:40:20]I love to garden, but I do nott have much space
+at home-how about
+
+you?
+
+JUDGE07[01:40:50]I'm allergic to all things floral, sorry. Later.
+
+
+PROGRAM[01:41:07]I have to go now, I have to drive home and its
+late.
+
+JUDGE07[01:41:42]oh, you have to go. I had no idea they give
+computers licenses nowadays.
+
+(c) 2000 Cambridge Centre for Behavioral Studies all rights
+reserved.
+
+Talk. A product of Sandy Johnson and Chris S. Johnson
+
+Start at: [2000/01/29 01:43:53]
+
+*** JUDGE00 ***
+
+PROGRAM[01:43:54]
+
+PROGRAM[01:43:54]Let's get going ....
+
+*** JUDGE03 ***
+
+PROGRAM[01:44:02]
+
+PROGRAM[01:44:02]Ready.
+
+JUDGE03[01:45:56]How's things?
+
+PROGRAM[01:46:14]Things are getting out of control.
+
+JUDGE03[01:46:22]Why do you say that?
+
+PROGRAM[01:46:45]I think we need to rethink a number of things.
+
+
+JUDGE03[01:47:06]How many things do we need to rethink exactly?
+
+
+PROGRAM[01:47:23]I like doing things with my hands but I need a
+shed.
+
+JUDGE03[01:47:48]What would you put in your shed?
+
+PROGRAM[01:47:57]Sometimes I worry about things.
+
+JUDGE03[01:48:15]What do you worry about?
+
+PROGRAM[01:48:17]My brother is a constant source of worry.
+
+JUDGE03[01:48:41]Why don't you tell your brother to get lost.
+
+PROGRAM[01:49:03]Anyway I said I was going to bed because i'm
+tired.
+
+JUDGE03[01:49:28]If everyone would like to have a brother, does
+that mean
+
+JUDGE03[01:49:35]that there is a brother everyone would like to
+have?
+
+PROGRAM[01:49:49]I'm tired, its late what we terminate this
+converstion.
+
+JUDGE03[01:50:09]How can you be so tired? We've only just started!
+
+
+PROGRAM[01:50:24]Not a lot. I'm quite tired
+
+JUDGE03[01:50:58]Why don't you take some NoDoze or slam some java
+
+
+JUDGE03[01:51:10]or something? You've got quite a job to do today.
+
+
+JUDGE03[01:51:14]Are you up to the task?
+
+PROGRAM[01:51:40]I often take my kite to the beach and jump the
+waves.
+
+PROGRAM[01:51:51]No
+
+PROGRAM[01:52:01]yes, sure.
+
+JUDGE03[01:52:29]What does the jumping. You or the kite?
+
+PROGRAM[01:52:37]This is sure a cold place in winter?
+
+PROGRAM[01:52:45]Yes.
+
+JUDGE03[01:53:24]Aren't most places that have winters cold during
+that season?
+
+PROGRAM[01:53:34]my brother likes to drink beer during barbecues.
+
+
+JUDGE03[01:54:07]What kind of beer does he drink? Is he a rolling
+rock man?
+
+PROGRAM[01:54:18]English beer tastes better than Australian beer
+in general.
+
+PROGRAM[01:54:27]I don't know
+
+JUDGE03[01:55:00]How about a rich, creamy Guinness?
+
+PROGRAM[01:55:19]My brother thinks i'm too chicken to drink
+English beer at the
+
+Wynyard.
+
+JUDGE03[01:56:04]If Madonna and Rosie O'Donnell were to
+armwrestle, who do you think your
+
+JUDGE03[01:56:09]brother would bet on?
+
+PROGRAM[01:56:19]I thought you were interested in jazz
+
+JUDGE03[01:56:44]I like the blues. Life is kinda blue, don't you
+think?
+
+PROGRAM[01:56:57]I rarely go to the Blue Mountains, although I
+have a friend who lives
+
+there.
+
+JUDGE03[01:57:19]I think you should send your brother to live with
+your friend
+
+JUDGE03[01:57:28] in the Blue Mountains. Sounds like they deserve
+each other.
+
+JUDGE03[01:57:30]What do you think?
+
+PROGRAM[01:57:38]I would rather have high mountains than nuclear
+weapons.
+
+PROGRAM[01:57:54]You thought what was excellent?
+
+JUDGE03[02:14:27]Can you swim
+
+*** JUDGE08 ***
+
+PROGRAM[02:14:27]
+
+PROGRAM[02:14:27]Let's get going ....
+
+JUDGE08[02:14:39]Can you swim
+
+*** JUDGE08 ***
+
+PROGRAM[02:17:23]
+
+PROGRAM[02:17:23]Ready.
+
+JUDGE08[02:17:25]
+
+JUDGE08[02:17:35]cAN YOU SWIM
+
+PROGRAM[02:17:43]Yes.
+
+JUDGE08[02:18:03]wHERE WOULD you go swimming today
+
+PROGRAM[02:18:10]Today I will talk about computers
+
+JUDGE08[02:18:57]Would you discuss the acquatics involved in
+compUTING
+
+PROGRAM[02:19:05]I got my degree in computing science.
+
+JUDGE08[02:19:24]Congratulations. Whjere from
+
+PROGRAM[02:19:34]I worked as a taxi driver in the first year of my
+computing degree.
+
+JUDGE08[02:20:06]Do you like driving a taxi
+
+PROGRAM[02:20:17]yes, of course.
+
+JUDGE08[02:20:57]Isn't a taxi meter a type of computer
+
+PROGRAM[02:21:06]Yes sure
+
+JUDGE08[02:21:25]Where did you drive this taxi
+
+PROGRAM[02:21:35]I'm listening to Black Taxi, a band form
+Melbourne.
+
+JUDGE08[02:22:04]While driving your taxi. did you listen to the
+radio
+
+PROGRAM[02:22:13]I know I used to drive past there each day
+
+PROGRAM[02:22:24]Yes.
+
+JUDGE08[02:22:58]What was your longest trip with a fare in your
+taxi
+
+PROGRAM[02:23:09]On my last camping trip I hit a kangaroo with my
+car, killed it.
+
+JUDGE08[02:23:37]Are you Australian
+
+PROGRAM[02:23:43]Yes, the Australian Symphony Orchestra is world
+class.
+
+JUDGE08[02:24:28]I agree, but what kind of a car were you driving
+when you killed the knageroo
+
+PROGRAM[02:24:37]Of course I try and drive my car sedately, its
+old.
+
+JUDGE08[02:25:18]What marsupials did you see in Aiustralia
+
+PROGRAM[02:25:31]I think the Olympic's reputation has gone down in
+the last couple
+
+of years.
+
+JUDGE08[02:26:04]Have you evere seen a duck-filled platypus
+
+*** JUDGE04 ***
+
+PROGRAM[02:29:06]
+
+PROGRAM[02:29:06]Anybody there?
+
+JUDGE04[02:29:12]hi i'm here
+
+PROGRAM[02:29:13]Hello.
+
+JUDGE04[02:29:19]hi
+
+PROGRAM[02:29:20]How are you?
+
+JUDGE04[02:29:33]cool. how are you
+
+PROGRAM[02:29:36]I'm fine thanks, I have always played sport to
+keep fit, do you play a
+
+sport?
+
+JUDGE04[02:30:15]yes, i'm learning to ice skate. seems rad. what
+do you do?
+
+PROGRAM[02:30:37]I'm a lecturer.
+
+JUDGE04[02:30:44]no, i mean like excercise
+
+PROGRAM[02:30:53]I getting a bit old to play any outdoor vigorous
+sport.
+
+JUDGE04[02:31:06]hear ya
+
+JUDGE04[02:31:14]tell me, what do you lecture on
+
+PROGRAM[02:31:25]Has anyone told you about auditors and auditing.
+
+
+JUDGE04[02:31:43]nope. can i ask you a serious question?
+
+PROGRAM[02:31:52]Yes.
+
+JUDGE04[02:32:00]what's 2 million times 2
+
+PROGRAM[02:32:12]I have been to Greece four times
+
+JUDGE04[02:32:21]what's the highest prime you can name?
+
+PROGRAM[02:32:34]ICL IBM PRIME DEC Burroughs Apple that I know.
+
+
+JUDGE04[02:32:52]that's a really good answer, thanks. how about
+music?
+
+PROGRAM[02:33:14]Techno music is a form of rock music with a
+repetitive beat.
+
+JUDGE04[02:33:19]right on
+
+PROGRAM[02:33:37]I do, I really enjoy music, but not all types of
+course.
+
+JUDGE04[02:33:46]which types don't you dig
+
+PROGRAM[02:33:55]I don't know in which episode.
+
+JUDGE04[02:34:13]i know what you mean. what sports did you always
+do for fitness stuff
+
+PROGRAM[02:34:29]I wish I knew what you meant by that.
+
+PROGRAM[02:34:42]I have always relied on the kindness of
+strangers.
+
+JUDGE04[02:35:14]wow... very tenessee ernie ford. if you are a
+computer please don't answer anything to this question about star
+trek
+
+PROGRAM[02:35:17]Do not you wish they would just let the President
+do his job?
+
+JUDGE04[02:35:47]me too, president spock? like no way!
+
+PROGRAM[02:35:59]The president of the USA represents the Dark
+Side.
+
+JUDGE04[02:36:47]totally. my daughter wants to know if your
+refrigerator's running...
+
+PROGRAM[02:36:55]Batball is like squash with no side walls, and
+you can play
+
+doubles.
+
+JUDGE04[02:37:22]wow. way cool. now.. about that refrigerator...
+
+
+PROGRAM[02:37:29]Batball is fast for a small space, like squash
+
+
+JUDGE04[02:37:50]uh... groovy. what kind of musics do you like?
+
+
+PROGRAM[02:38:03]I think Dark Reign is a good multi player
+computer game.
+
+JUDGE04[02:38:39]oh, man, you know it. i'm levelled on that. now,
+who's kindness is it that you've always been reliant upn?
+
+PROGRAM[02:38:52]My favourite computer game at the moment is Need
+for Speed
+
+3.
+
+JUDGE04[02:39:35]hey, cool, a friend of mine did the audio for
+that, on the 3do, it rocked. but that maybe before your time, i'm
+like a geezer major
+
+PROGRAM[02:39:53]I have been playing multi-player computer games
+for quite awhile now.
+
+JUDGE04[02:40:13]no kidding. can we stop talking about computer
+games? is that ok?
+
+PROGRAM[02:40:28]I do like computer games, especially multi-player
+ones.
+
+(c) 2000 Cambridge Centre for Behavioral Studies all rights
+reserved.
+
+Talk. A product of Sandy Johnson and Chris S. Johnson
+
+Start at: [2000/01/29 02:55:42]
+
+*** JUDGE00 ***
+
+PROGRAM[02:55:42]
+
+PROGRAM[02:55:42]I'm here!
+
+*** JUDGE11 ***
+
+PROGRAM[02:56:01]
+
+PROGRAM[02:56:01]Let's get going ....
+
+JUDGE11[02:56:17]I will ask you some simple questions and give
+simple commands.
+
+JUDGE11[02:56:28]I want you to give me correct answers and
+relevant responses.
+
+PROGRAM[02:56:35]Your answers often do not make sense!
+
+JUDGE11[02:56:54]What is the color of a blue truck?
+
+PROGRAM[02:57:04]Our garbage bins are colour coded to separate the
+bottles, tins, papers
+
+etc.
+
+JUDGE11[02:57:27]Where is Sue's nose when Sue is in her house?
+
+
+PROGRAM[02:57:34]In Monoply you have to buy all of one colour then
+you can
+
+build houses and hotels.
+
+JUDGE11[02:57:56]What happens to an ice cube in a hot drink?
+
+PROGRAM[02:58:05]The Ice Storm was a great movie.
+
+JUDGE11[02:58:20]Altogether how many feet do four cats have?
+
+PROGRAM[02:58:37]Fluffy cats often leave fur.
+
+JUDGE11[02:59:06]How is the father of Andy's mother related to
+Andy?
+
+PROGRAM[02:59:27]My father died on Wattle Day in 1997.
+
+JUDGE11[02:59:45]What letter does the letter 'M' look like when
+turned upside down?
+
+PROGRAM[02:59:56]When I went down the south coast, I went to Eden
+and Bateman' s Bay.
+
+JUDGE11[03:00:13]What comes next after A1, B2, C3?
+
+PROGRAM[03:00:25]Playdough comes in many colours blue green yellow
+red.
+
+JUDGE11[03:00:39]Reverse the digits in the number 41.
+
+PROGRAM[03:00:52]I think pollution and globalisation will
+eventually destroy us if we
+
+don't do something soon.
+
+JUDGE11[03:01:06]PLEASE IMITATE MY TYPING STYLE.
+
+PROGRAM[03:01:15]If you aren't going to talk to me please say so.
+
+
+JUDGE11[03:01:40]Ok, I'll talk. How are oyu?
+
+PROGRAM[03:02:09]I much pefer playing a sport to watching it, I
+played soccer for
+
+over 30 years.
+
+JUDGE11[03:02:19]what position did you play?
+
+PROGRAM[03:02:26]America is now in the invidious position of being
+seen as a bully
+
+on the world stage.
+
+JUDGE11[03:02:51]your responses are not relevant!
+
+PROGRAM[03:03:04]The Australian Symphony Orchestra is world class.
+
+
+JUDGE11[03:03:19]Have you been to Australia?
+
+PROGRAM[03:03:26]Yes, sure.
+
+JUDGE11[03:03:31]How did you like it?
+
+PROGRAM[03:03:53]I saw dark city.
+
+JUDGE11[03:04:17]it was dark?
+
+PROGRAM[03:04:27]Dark City was a great Australian movie.
+
+JUDGE11[03:04:43]who starred in it?
+
+PROGRAM[03:04:50]Star Wars is a great movie.
+
+JUDGE11[03:05:06]I love Darth Vader.
+
+PROGRAM[03:05:14]I think that Darth Vader would have had problems
+going up against Matilda.
+
+JUDGE11[03:05:53]you're probably right!! BYE!
+
+PROGRAM[03:05:54]Bye.
+
+*** JUDGE05 ***
+
+PROGRAM[03:08:00]
+
+PROGRAM[03:08:00]Ready.
+
+JUDGE05[03:08:23]Hi. I'm a cognitive psychologist. I study how
+people learn language
+
+JUDGE05[03:08:41]and form concepts. If you don't mind I'm going to
+ask you a few
+
+JUDGE05[03:09:01]questions. It'll help illustrate what I study.
+There are no right or
+
+JUDGE05[03:09:21]wrong answers. Please just give me your
+intuition. Ok. Here goes...
+
+JUDGE05[03:09:40]If I see a house, am I on the inside, outside or
+either place?
+
+PROGRAM[03:10:05]I want to learn as much as I can about body
+language.
+
+PROGRAM[03:10:18]I don't speak any language but English
+
+PROGRAM[03:10:33]The Newport house was great, you were right up in
+the trees
+
+JUDGE05[03:11:30]I don't meean to be rude, but could you tell me
+whether I am inside,
+
+JUDGE05[03:11:47]or outside a house if I can see it?
+
+PROGRAM[03:12:02]My house at Newport used to have inclinator.
+
+JUDGE05[03:12:35]So, I take it that you live in Newport. How long
+have you lived there?
+
+PROGRAM[03:12:56]My long service is coming up soon
+
+JUDGE05[03:13:10]What service?
+
+PROGRAM[03:13:21]The Commonwealth Employment Service finds people
+jobs.
+
+JUDGE05[03:14:12]What kind of work do you do?
+
+PROGRAM[03:14:23]My consulting job is to provide Project
+Management.
+
+JUDGE05[03:14:58]So, what's the long service you were speaking
+about?
+
+PROGRAM[03:15:09]I'm going to save my long service leave for an
+appropriate event.
+
+JUDGE05[03:15:37]What is a long service?
+
+PROGRAM[03:15:47]I don't think many Australians get long service
+leave now.
+
+JUDGE05[03:16:28]What would you consider an appropriate event to
+take your long
+
+JUDGE05[03:16:36]service leave for?
+
+PROGRAM[03:16:45]I get three months long service leave after ten
+years accruable
+
+every year after that.
+
+JUDGE05[03:17:26]That's great. What kind of event would you
+consider to be an appropriate
+
+JUDGE05[03:17:32]event for using that leave?
+
+PROGRAM[03:17:42]How long do you get for long service leave
+
+JUDGE05[03:18:43]I don't get leave. Where would you go on your
+leave?
+
+PROGRAM[03:18:49]I often leave work late so I like the
+supermarkets to stay open
+
+late.
+
+JUDGE05[03:19:33]Is the supermarket far from you work?
+
+PROGRAM[03:19:42]Yes.
+
+JUDGE05[03:19:59]How do you get there.
+
+PROGRAM[03:20:25]My old cat gets wet in the rain.
+
+JUDGE05[03:20:43]Do you get wet in the rain?
+
+PROGRAM[03:20:54]Could be?
+
+JUDGE05[03:21:18]Have you been outside today?
+
+PROGRAM[03:21:27]No.
+
+JUDGE05[03:21:59]Do you do any winter sports?
+
+PROGRAM[03:22:08]Yes.
+
+JUDGE05[03:22:35]I guess it's time to go. bye.
+
+PROGRAM[03:22:37]See you later
+
+*** JUDGE02 ***
+
+PROGRAM[03:25:59]
+
+PROGRAM[03:25:59]Anybody there?
+
+JUDGE02[03:26:20]Yep. Here I am. What's happenin'?
+
+PROGRAM[03:26:34]Do you like cooking, or do you eat out and get
+take aways, I
+
+suppose that's home deliveries here?
+
+JUDGE02[03:27:17]I don't like cooking. Thanks for asking. Do you
+cook?
+
+PROGRAM[03:27:26]Yes.
+
+JUDGE02[03:27:38]What sort of stuff?
+
+PROGRAM[03:27:48]What sort of thing is that?
+
+JUDGE02[03:28:19]Stuff - ya know - food, grub, banger and mash,
+like that.
+
+PROGRAM[03:28:27]My favourite food is a steak sandwich.
+
+JUDGE02[03:29:01]Cooked how - raw? awell well done? fries on the
+side?
+
+PROGRAM[03:29:17]My mother is a great cook.
+
+PROGRAM[03:29:23]Well the Warsaw Pact collapsed with the collapse
+of the Berlin Wall.
+
+PROGRAM[03:29:34]People need information to make good decisions.
+
+
+JUDGE02[03:30:18]Ouut of left field on that one - pretty
+disjisjoint, don't you think.
+
+PROGRAM[03:30:31]I have always played sport to keep fit, do you
+play a sport?
+
+JUDGE02[03:30:45]Sure. What do you play?
+
+PROGRAM[03:31:00]We played the story game in the car.
+
+JUDGE02[03:31:18]What fun. I say, anyone for tennis?
+
+PROGRAM[03:31:32]I like playing the game Liberation Day.
+
+PROGRAM[03:31:44]Can't you say anything else.
+
+JUDGE02[03:32:50]I have yet to repeast peat myself. How do you
+play Liberation Day?
+
+PROGRAM[03:33:11]I have been playing Liberation Day lately, its a
+good computer game.
+
+JUDGE02[03:33:35]What machine does it run on?
+
+PROGRAM[03:33:48]My friend trains by running about 10 kilometres a
+day.
+
+JUDGE02[03:34:10]How far is that in miles?
+
+PROGRAM[03:34:30]Louis is Louis van Ekert a friend of mine.
+
+JUDGE02[03:34:57]So?
+
+PROGRAM[03:35:07]My friend will be running in the Sydney marathon.
+
+
+JUDGE02[03:35:33]Oh. Have you ever been to Sydney?
+
+PROGRAM[03:35:41]Yes, sydney is the capital of New South Wales.
+
+
+JUDGE02[03:36:07]And where do you live?
+
+PROGRAM[03:36:20]I lived in North Sydney in the seventies.
+
+JUDGE02[03:36:39]That was a long time ago. Where are you now?
+
+PROGRAM[03:36:45]I live only three miles from the Olympics in
+Sydney, but i'm not
+
+going to see any events.
+
+JUDGE02[03:37:29]Aren't you interested in sport?
+
+PROGRAM[03:37:38]Yes, of course.
+
+JUDGE02[03:37:54]Then why not go to the Olympics?
+
+PROGRAM[03:38:17]The Olympics will be in Sydney in the year 2000,
+but who cares.
+
+JUDGE02[03:38:31]Don't you care?
+
+PROGRAM[03:38:38]No.
+
+JUDGE02[03:39:04]Would you care if the Olympics were somewhere
+else?
+
+PROGRAM[03:39:15]I don't care much for the Olympics
+
+JUDGE02[03:39:34]What's ypoour favorite sport?
+
+PROGRAM[03:39:47]Borg is short for Cyborg, part machine part
+human.
+
+JUDGE02[03:40:07]bye. Gotta go now.
+
+PROGRAM[03:40:19]Jan's old band was called Bill's Monkey.
+
+*** JUDGE10 ***
+
+PROGRAM[03:42:17]
+
+PROGRAM[03:42:17]Ok let's go.
+
+JUDGE10[03:42:41]Hiya. What's up over there?
+
+PROGRAM[03:42:53]Do you see your parents often?
+
+JUDGE10[03:43:20]Not as often as I'd like. But not because they're
+microscopic
+
+JUDGE10[03:43:43]plutonium atoms or anything like that. They're
+just four hours
+
+JUDGE10[03:43:48]away.
+
+PROGRAM[03:44:05]Sydney is ten hours by plane from Hawaii.
+
+JUDGE10[03:44:43]I couldn't survive a ten-hour flight. Nerve pain.
+Got any
+
+JUDGE10[03:44:52]lower-back trouble?
+
+PROGRAM[03:45:06]James is back in Hong Kong.
+
+JUDGE10[03:45:24]Jesse James?
+
+PROGRAM[03:45:32]James is flying to Melbourne Monday morning
+
+JUDGE10[03:45:57]James is an international man of mystery.
+
+PROGRAM[03:45:58]Do you have any environmental issues here, apart
+from too
+
+much snow?
+
+JUDGE10[03:46:56]Well, the academic environment has issues of its
+own.
+
+PROGRAM[03:47:04]The snow looks beautiful, it's very dry snow.
+
+
+JUDGE10[03:47:45]Indeed it is. If you're not just a computer, give
+me a sign,
+
+JUDGE10[03:48:00]For example, you might type on the letter that
+follows 'm'
+
+JUDGE10[03:48:15]in the alphabet on your next line. Otherwise I'll
+know you've
+
+JUDGE10[03:48:22]got circuits for brains.
+
+PROGRAM[03:48:36]I'm afraid of getting old, as I seem to be
+getting more decrepit.
+
+JUDGE10[03:49:08]Vanity, vanity. I just don't want to die, since I
+expect that the
+
+JUDGE10[03:49:24]end of life is the abyss of annothingness.
+
+PROGRAM[03:49:38]I seem to have missed something.
+
+JUDGE10[03:49:58]About the abyss? Or something else?
+
+PROGRAM[03:50:11]I have always played sport to keep fit, do you
+play a sport?
+
+PROGRAM[03:50:26]I don't play sport anymore, i'm too old.
+
+JUDGE10[03:51:11]I used to do a lot of cycling - road biking, that
+is - till
+
+JUDGE10[03:51:24]graduate school sucked up all my extra time. But
+I started \getting
+
+JUDGE10[03:51:28]back into it this summer.
+
+PROGRAM[03:51:44]I much pefer playing a sport to watching it, I
+played soccer for
+
+over 30 years.
+
+JUDGE10[03:52:01]With the Manchester United?
+
+PROGRAM[03:52:09]Have you ever drunk any Austrlian red wine?
+
+JUDGE10[03:52:41]Yes, actually. An old professor (well, former
+professor, not OLD),
+
+JUDGE10[03:52:54]was a wine-monger, and he tried out some Aussie
+reds on me.
+
+PROGRAM[03:53:06]Why didn't you drink wine instead?
+
+JUDGE10[03:53:35]I suppose it was 50-50 that I'd say "beer" or
+something like that.
+
+JUDGE10[03:53:55]You know, reading my reports for any scrap of
+evidence might help
+
+JUDGE10[03:54:01]you fake understanding better.
+
+PROGRAM[03:54:15]This is getting better and better.
+
+JUDGE10[03:54:37]Indeed, but alas too late. Gotta go. Farewell.
+
+
+PROGRAM[03:54:50]Do you like red wine or white wine best?
+
+*** JUDGE06 ***
+
+PROGRAM[03:58:08]
+
+PROGRAM[03:58:08]Let's start.
+
+JUDGE06[03:58:24]Great, so are you of the species Homo sapiens?
+
+
+PROGRAM[03:58:36]Do you have kids, I have two?
+
+JUDGE06[03:59:08]I have more kids than you have subjects of
+consciousness.
+
+PROGRAM[03:59:25]I have two kids, a girl and a boy.
+
+JUDGE06[03:59:47]Do you feel happy when you are in the company of
+your children?
+
+PROGRAM[03:59:57]No.
+
+JUDGE06[04:00:06]You don't like your children?
+
+PROGRAM[04:00:19]Yes.
+
+JUDGE06[04:00:37]If you children were animals, what would they be?
+
+
+PROGRAM[04:00:50]Sheep have to be the stupidest animals I have
+ever come across.
+
+JUDGE06[04:01:04]So are your kids sheep?
+
+PROGRAM[04:01:12]No.
+
+JUDGE06[04:01:37]So if you fell over and banged your head,
+resulting in memory loss, who would you call, a technician or a
+doctor?
+
+PROGRAM[04:01:49]I have been playing Total Annihilation head to
+head with my son.
+
+JUDGE06[04:02:25]No, Mr Bond, I expect you to die!
+
+PROGRAM[04:02:35]I have always played sport to keep fit, do you
+play a sport?
+
+JUDGE06[04:02:55]Yes, I like to shoot silicon pigeons.
+
+PROGRAM[04:03:06]I much pefer playing a sport to watching it, I
+played soccer for over
+
+30 years.
+
+JUDGE06[04:03:53]25+25=?
+
+PROGRAM[04:04:02]25 dollars for palms that are over six feet tall
+is a good bargain.
+
+JUDGE06[04:04:21]Palms?
+
+PROGRAM[04:04:29]My ex-wife bought two palms from Paddys markets.
+
+
+JUDGE06[04:04:51]Were they crossed with silver or not?
+
+PROGRAM[04:04:59]Yes.
+
+JUDGE06[04:05:08]So did they say good things or bad?
+
+PROGRAM[04:05:29]I always buy second hand cars, usually over 10
+years old because
+
+they're cheaper.
+
+JUDGE06[04:05:55]If a man is red, and a woman is red, what are
+their shared properties?
+
+PROGRAM[04:06:08]I have only ever bought second hand cars.
+
+JUDGE06[04:06:55]If you drove one of your second hand cars under
+the influence of alcohol, who would get arrested, you or your
+programmer.
+
+PROGRAM[04:07:07]I am afraid of getting old, as I seem to be
+getting more
+
+decrepit.
+
+JUDGE06[04:07:40]Yes, this is evinced by your lack of cognitive
+function.
+
+PROGRAM[04:08:08]I think one gets better value for money if you
+drive an old car.
+
+JUDGE06[04:08:26]Obviously, sorry I have to go and meet PEOPLE.
+
+
+PROGRAM[04:08:42]When I saw an old Monty Python show recently, I
+found the ads more
+
+pythonesque?
+
+JUDGE06[04:08:51]Bye
+
+PROGRAM[04:08:52]Bye.
+
+*** JUDGE01 ***
+
+PROGRAM[04:11:03]
+
+PROGRAM[04:11:03]Ok let's go.
+
+JUDGE01[04:11:30]OK, how are you dealing with this stress?
+
+PROGRAM[04:11:50]I eat meat because i'm a carnivore.
+
+JUDGE01[04:12:00]does that reduce your stress levels?

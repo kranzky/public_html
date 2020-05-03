@@ -1,0 +1,12 @@
+TABLE user (
+	user int,
+	show int
+)
+
+TABLE data (
+	user int,
+	number int,
+	word char(64),
+)
+
+select data.word from user,data where user.show=1 and user.user = data.user

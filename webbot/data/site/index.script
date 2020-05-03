@@ -1,0 +1,103 @@
+(1)
+"about"
+{
+	goto_page = "#ABOUT_PAGE#";
+	changecontext("movetopage");
+	throw(input);
+}
+[]
+
+(1)
+"mission"
+{
+	goto_page = "#MISSION_PAGE#";
+	changecontext("movetopage");
+	throw(input);
+}
+[]
+
+(1)
+"team"
+"people"
+{
+	goto_page = "#PEOPLE_PAGE#";
+	changecontext("movetopage");
+	throw(input);
+}
+[]
+
+(1)
+"contact"
+{
+	goto_page = "#CONTACT_PAGE#";
+	changecontext("movetopage");
+	throw(input);
+}
+[]
+
+(1)
+"career"
+{
+	goto_page = "#CAREER_PAGE#";
+	changecontext("movetopage");
+	throw(input);
+}
+[]
+
+(1)
+"research"
+{
+	goto_page = "#RESEARCH_PAGE#";
+	changecontext("movetopage");
+	throw(input);
+}
+[]
+
+(1)
+"commercial"
+{
+	goto_page = "#COMMERCIAL_PAGE#";
+	changecontext("movetopage");
+	throw(input);
+}
+[]
+
+(1)
+".*(#WORD_BOUNDARIES#)home(#WORD_BOUNDARIES#)"
+"home page"
+RANDOMLOOP
+{
+	response += "I've taken you to Ai's Home Page.";
+	response += "<ACTION>url:#HOME_PAGE#</ACTION>";
+	changecontext("default");
+}
+{
+	response += "As you can see #CONTENT_LOCATION#, I've browsed to Ai's Home Page.";
+	response += "<ACTION>url:#HOME_PAGE#</ACTION>";
+	changecontext("default");
+}
+[]
+
+(1)
+""
+{
+	response += "Sorry. I am not familiar with that page. Please try another page.";
+	changecontext("default");
+}
+[]
+
+(1)
+""
+{
+	changecontext("default");
+	throw(input);
+}
+[]
+
+(1)
+""
+{
+	changecontext("default");
+	throw(input);
+}
+[]

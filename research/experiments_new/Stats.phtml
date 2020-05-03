@@ -1,0 +1,28 @@
+<? Include("Verify.phtml"); >
+<? Include("Maintainer.phtml"); >
+<? Include("Functions.phtml"); >
+<? $title = "Experimental Results"; >
+<? Include("Header.phtml"); >
+
+<?
+	msql_connect("localhost");
+	$result=msql("hutch", "SELECT gender,age,nationality,english FROM user_info");
+	$num = msql_NumRows($result);
+	if($num<=0);
+		Error("Unable to find users", "");
+	endif;
+
+	$i=0;
+	Echo "<PRE>\n";
+	while($i<$num);
+		$gender = msql_result($result, $i, "gender");
+		$age = msql_result($result, $i, "age");
+		$nationality = msql_result($result, $i, "nationality");
+		$english = msql_result($result, $i, "english");
+		Echo "$gender:$english:$age:$nationality\n";
+		$i+=1;
+	endwhile;
+	Echo "</PRE>\n";
+>
+
+<? Include("Footer.phtml"); >

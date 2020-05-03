@@ -1,0 +1,2477 @@
+(c)2000 Cambridge Center For Behavioral Studies all rights
+reserved
+
+[Algernon 2.0: a program written by Gerold Lee Gorman]
+
+Start at: [2000/01/28 07:57:09] 
+
+
+JUDGE00 [07:57:55] did you see the state of the Union address last
+night?
+
+JUDGE00 [07:58:04] clinton is VERY popular!!!
+
+PROGRAM [07:58:06] Spam ON YOU!!!
+
+PROGRAM [07:58:18] Hmm, clinton. Clinton is very popular!!! Hmm,
+clinton.
+
+JUDGE00 [07:58:56] @@T
+
+*** Judge zero ***
+
+JUDGE00 [07:58:59] @@0
+
+PROGRAM [07:59:02] Spam?
+
+JUDGE00 [07:59:11] I think I'm up and running.
+
+PROGRAM [07:59:18] Do you like eggs and spam?
+
+JUDGE00 [08:26:48] @@T
+
+*** Judge zero ***
+
+JUDGE00 [08:26:52] @@00
+
+PROGRAM [08:26:57] I dont like spam!
+
+JUDGE00 [08:50:41] @@T
+
+PROGRAM [08:56:11] @@07
+
+PROGRAM [08:56:11] good morning!
+
+*** Judge seven ***
+
+JUDGE07 [09:00:15] @@07
+
+PROGRAM [09:00:20] How about sausage and spam?
+
+JUDGE07 [09:00:36] ick - no thanks, I just had a bagel. Gopod
+morning!
+
+PROGRAM [09:00:42] Spam spam spam spam spam!
+
+JUDGE07 [09:00:56] WOnderful spam, spammitty-spam!
+
+PROGRAM [09:01:01] I hate spam!
+
+JUDGE07 [09:01:12] of course you do. How are you this morning!
+
+
+PROGRAM [09:01:22] I get too much junk e-mail myself.
+
+JUDGE07 [09:01:51] oh, I hate that. AOL always sends me porn. 
+
+
+PROGRAM [09:02:00] Blakes 7 is a really cool show.
+
+JUDGE07 [09:02:25] I've never seen it. How about Frasier? 
+
+PROGRAM [09:02:32] Spam is good for you.
+
+JUDGE07 [09:02:54] So, what do you do for a living? I'm a student
+
+
+PROGRAM [09:02:59] Linux is cool.
+
+JUDGE07 [09:03:38] Not that cool, he was always carrying that
+blanket around.
+
+JUDGE07 [09:03:49] HA - get it, Linux? Linus? I made a funny.
+
+PROGRAM [09:03:52] Spam?
+
+JUDGE07 [09:03:58] NO
+
+PROGRAM [09:04:08] Ah, then you should bring me a shrubbery.
+
+JUDGE07 [09:04:29] You didn't even appreciate my Peanuts joke. If
+you are a human, you are very ru
+
+JUDGE07 [09:04:32] de.
+
+PROGRAM [09:04:36] Want to see me reboot your machine?
+
+JUDGE07 [09:04:44] uh....
+
+PROGRAM [09:04:46] Tell a a joke, a real joke.
+
+JUDGE07 [09:05:09] How many sociolinguists does it take to change
+a lightbulb?
+
+PROGRAM [09:05:12] How do you cook an eggg?
+
+JUDGE07 [09:05:21] how?
+
+PROGRAM [09:05:23] 't, I have someone cook it for me.
+
+JUDGE07 [09:05:42] oh. that wasn't very funny.
+
+PROGRAM [09:05:44]  dont like spam.
+
+JUDGE07 [09:06:03] IT VARIES
+
+PROGRAM [09:06:05]  the nuclear test ban might make it hard to
+develop antimatter
+
+PROGRAM [09:06:05]  space ships and stuff like that.
+
+JUDGE07 [09:06:18] that was the punchline, btw
+
+JUDGE07 [09:06:33] ye, we'll never realize Star Trek now
+
+PROGRAM [09:06:35] 
+
+JUDGE07 [09:06:50] hello?
+
+PROGRAM [09:06:52]  dr Seuss, do you?
+
+JUDGE07 [09:07:19] when I was little, sure
+
+PROGRAM [09:07:22]  in the hat, yes I know about that!
+
+JUDGE07 [09:07:51] ok, answer me this. for real - if you don't
+address this question I'm going to 
+
+JUDGE07 [09:08:09] know you're a computer and you're going to
+LOSE!
+
+PROGRAM [09:08:12] 
+
+JUDGE07 [09:08:12] Do you like eggs and spam?
+
+PROGRAM [09:08:14] I dont like spam!
+
+JUDGE07 [09:08:20] one more chance, byte-head
+
+PROGRAM [09:08:22] Do you like green eggs and ham?
+
+JUDGE07 [09:08:34] WHAT DO YOU DO FOR A LIVING?
+
+PROGRAM [09:08:37] I am not Sam I am either.
+
+JUDGE07 [09:08:39] If ANSWER NOW
+
+PROGRAM [09:08:46] you dont talk nice I will reformat your hard
+drive.
+
+JUDGE07 [09:08:59] you can't do that.
+
+PROGRAM [09:09:01] How do you do are you feeling blue?
+
+JUDGE07 [09:09:30] Tell me something sunstantive about yourself
+right now, please. Your future in 
+
+JUDGE07 [09:09:35] this contest depends on it.
+
+PROGRAM [09:09:37]  my eggs scrambled with little bits of onion.
+
+
+JUDGE07 [09:09:37] .
+
+PROGRAM [09:09:39] .
+
+JUDGE07 [09:10:00] That's totally gross. And you are totally a
+computer. All silicon, through and 
+
+JUDGE07 [09:10:03] through.
+
+PROGRAM [09:10:06]  dnot like hard boiled eggs.
+
+JUDGE07 [09:10:15] Lame. Completely Lame. Goodbye.
+
+PROGRAM [09:10:18]  really dont like hard boiled eggs.
+
+JUDGE07 [09:24:23] Want to see me reboot @@T
+
+PROGRAM [09:24:25] your machine?
+
+JUDGE07 [09:24:38] I like potatoes 
+
+PROGRAM [09:24:41] with my steak.
+
+JUDGE07 [09:25:05] Do you like @@03
+
+PROGRAM [09:25:08] hamburger.
+
+JUDGE07 [09:25:22] Now reformatting @@T
+
+PROGRAM [09:25:24] drive C.
+
+JUDGE07 [09:25:24] I like hamburger.
+
+PROGRAM [09:25:29] I like burgers with fries.
+
+JUDGE07 [09:25:50] @@T
+
+*** Judge three ***
+
+JUDGE03 [09:26:02] @@03
+
+PROGRAM [09:26:04] I think I'll have a burger for lunch.
+
+JUDGE03 [09:26:29] We could
+
+PROGRAM [09:26:31]  really be limiting our future.
+
+JUDGE03 [09:26:44] I need
+
+JUDGE03 [09:26:49] I'd like a turn to talk.
+
+PROGRAM [09:26:52]  a break.
+
+JUDGE03 [09:27:30] I like
+
+PROGRAM [09:27:32]  my hamburger Well done.
+
+JUDGE03 [09:27:37] I 
+
+JUDGE03 [09:27:40] How's things?
+
+JUDGE03 [09:27:53] Are you hungry or something?
+
+PROGRAM [09:27:56] always have my hamburger Well done.
+
+JUDGE03 [09:28:10] How do
+
+JUDGE03 [09:28:31] I don't eat meat.  Do you think nonhuman
+animals have riths(I mean rights)?
+
+PROGRAM [09:28:33]  you feel about the current state of the world
+economy?
+
+JUDGE03 [09:29:00] I 
+
+JUDGE03 [09:29:14] I don't really think too much about money.  If
+you won a million dollars
+
+JUDGE03 [09:29:24] what would you do with it (besides buy
+hamburgers)?
+
+PROGRAM [09:29:27] think that there is nobody at the helm of the
+ship of state.
+
+JUDGE03 [09:29:44] Well,
+
+JUDGE03 [09:29:58] I think that there is nobody at the helm of
+this terminal.
+
+PROGRAM [09:30:00]  if you are interested in politics its your
+business mate
+
+PROGRAM [09:30:00] , heheh!
+
+JUDGE03 [09:30:12] Do you
+
+JUDGE03 [09:30:31] I'm not your mate.  Do you have any friends?
+
+
+PROGRAM [09:30:33]  like bill clinton?
+
+JUDGE03 [09:31:03] Is 
+
+JUDGE03 [09:31:20] What did you think of Clinton's state of the
+union address?
+
+PROGRAM [09:31:22] nominative meaning like being impeached?
+
+JUDGE03 [09:31:36] That impeachment
+
+JUDGE03 [09:31:48] Don't you find this conversation a bit odd? 
+OUt of synch?
+
+PROGRAM [09:31:50]  stuff is still going on.
+
+JUDGE03 [09:32:11] I 
+
+JUDGE03 [09:32:18] What's your favorite movie?
+
+PROGRAM [09:32:20] dont like politics.
+
+JUDGE03 [09:32:36] Don'
+
+JUDGE03 [09:32:48] If you don't like politics, why do you talk
+about them so much?
+
+PROGRAM [09:32:50] t believe all you hear.
+
+JUDGE03 [09:32:55] What 
+
+JUDGE03 [09:33:06] Why not?  Is someone deceiving me?
+
+PROGRAM [09:33:08] do you know about the nominative form.
+
+JUDGE03 [09:33:19] What do
+
+JUDGE03 [09:33:22] What is your name?
+
+PROGRAM [09:33:24]  you know about bill clinton?
+
+JUDGE03 [09:33:43] I try not to think about Bill Clinton.  What do
+you know about anything?
+
+PROGRAM [09:33:45] What do you know about bill clinton, do you
+ever care?
+
+JUDGE03 [09:34:05] I 
+
+JUDGE03 [09:34:08] Do you like music?
+
+PROGRAM [09:34:10] am concerned about the stock market.
+
+JUDGE03 [09:34:24] What kind
+
+JUDGE03 [09:34:33] You sure are a worrier.  What do you do for
+fun?
+
+PROGRAM [09:34:35]  of stocks do you invest in?
+
+JUDGE03 [09:35:14] I don't have muhc in the way of money.  Do you
+have a spiritual life?
+
+PROGRAM [09:35:16] Do you want to invest much in the stock market?
+
+
+JUDGE03 [09:35:31] Do you
+
+JUDGE03 [09:35:47] I find you to be very boring.  What do you have
+to say about that?
+
+PROGRAM [09:35:49]  thik that clinton has a chance?
+
+JUDGE03 [09:36:10] I think
+
+JUDGE03 [09:36:24] I think Bill Clinton is quite good at taking
+advantage of opportunities.
+
+PROGRAM [09:36:27]  that the lights are on but nobody is home?
+
+
+JUDGE03 [09:36:34] Did you
+
+JUDGE03 [09:36:44] That's a case of the pot calling the kettle
+black, isn't it?
+
+PROGRAM [09:36:46]  know that Sir Isaac Newton is buried in
+Westminster Abbey
+
+PROGRAM [09:36:46] .
+
+JUDGE03 [09:36:51] My hair
+
+JUDGE03 [09:36:55] What color is your hair?
+
+PROGRAM [09:36:58]  is brown.
+
+JUDGE03 [09:37:06] My hair
+
+JUDGE03 [09:37:17] Natural or dyed?
+
+PROGRAM [09:37:19]  is brown.
+
+JUDGE03 [09:37:26] What color
+
+PROGRAM [09:37:28]  is your hair.
+
+JUDGE03 [09:37:40] My eyesDo 
+
+JUDGE03 [09:37:41] Bye
+
+PROGRAM [09:37:44]  are brown, just like my hair.
+
+JUDGE03 [09:42:34] What color
+
+PROGRAM [09:42:37]  are your eyes?
+
+JUDGE03 [09:42:48] My eyes@@T
+
+JUDGE03 [09:43:57] @@08
+
+*** Judge eight ***
+
+PROGRAM [09:44:00]  are brown, just like my hair.
+
+JUDGE08 [09:44:03] Ethnic cleansing
+
+PROGRAM [09:44:06] , you care much out that?
+
+JUDGE08 [09:44:12] @@T
+
+*** Judge eight ***
+
+JUDGE08 [09:44:19] @@08
+
+PROGRAM [09:44:21]  stand 5 foot 10 inches.
+
+JUDGE08 [09:44:37] @@08
+
+*** Judge eight ***
+
+PROGRAM [09:44:39] tall are you?
+
+JUDGE08 [09:45:11] How tall are you?
+
+PROGRAM [09:45:13]  are you?
+
+JUDGE08 [09:46:02] Why does
+
+PROGRAM [09:46:04]  it matter how tall I am, maybe I am much
+taller in spirit
+
+PROGRAM [09:46:04]  than the common man.
+
+JUDGE08 [09:47:05] The next move in a chess game would be queen's
+pawn to queen's 4.  How do you a
+
+JUDGE08 [09:47:14] answer
+
+PROGRAM [09:47:17] quality of mercy is not restrained.
+
+JUDGE08 [09:49:17] If you dont talk more conherently, there's no
+hope.  Are you hopeful
+
+PROGRAM [09:49:20] nice I will reformat your hard drive.
+
+JUDGE08 [09:49:43] Now reformatting drive 
+
+PROGRAM [09:49:52] C.
+
+JUDGE08 [09:49:56] I try to invest, but the 
+
+PROGRAM [09:49:59] market has done poorly.
+
+JUDGE08 [09:50:01] Do you
+
+PROGRAM [09:50:04]  like Clint Eastwood?
+
+JUDGE08 [09:50:06] Are you 
+
+PROGRAM [09:50:09] some kind of easterlilly?
+
+JUDGE08 [09:50:10] 
+
+PROGRAM [09:50:13] There are too many questions and not enought
+thought going into
+
+PROGRAM [09:50:18]  what is being said.
+
+JUDGE08 [09:50:18] 
+
+JUDGE08 [09:50:36]  Is the w3orld round or flat
+
+PROGRAM [09:50:38] Spam?
+
+JUDGE08 [09:50:57] Do you like eggs and bacon
+
+PROGRAM [09:50:59] spam?
+
+JUDGE08 [09:50:59] I dont like spam!
+
+PROGRAM [09:51:01] How about sausage and spam?
+
+JUDGE08 [09:51:44] Spam. Can you get out of your prior modes and
+answer 
+
+JUDGE08 [09:52:08] What is the value of Pi
+
+PROGRAM [09:52:10] 
+
+JUDGE08 [09:52:10] Spam.
+
+PROGRAM [09:52:14] Eggs and spam.
+
+JUDGE08 [09:52:35] Who did you have for breakfast
+
+PROGRAM [09:52:38] It is lunch time yet?
+
+JUDGE08 [09:52:59] I like lunch better than dinner  How about you
+
+
+PROGRAM [09:53:02]  onions and tomatoes on my burger.
+
+JUDGE08 [09:53:33] I dont understand your answer.  please repeat
+
+
+PROGRAM [09:53:40]  like relish.
+
+JUDGE08 [09:54:08] You shouldn't be eating so much carbos  Do you
+like protein
+
+PROGRAM [09:54:11] 't be so eager to find out a secret.
+
+JUDGE08 [09:54:21] Hmmmm,
+
+PROGRAM [09:54:23]  Kosovo?
+
+JUDGE08 [09:54:46] I dont follow you.  Are you abole to right your
+program
+
+PROGRAM [09:54:48]  think that I care for it.
+
+JUDGE08 [09:55:32] To err is human, to forgive mechanical.  So
+what is the quality of forgiveness
+
+PROGRAM [09:55:34] infinity!
+
+JUDGE08 [09:56:02] It isn't too late.  Do you read me now, as a 
+
+
+JUDGE08 [09:56:15] human
+
+PROGRAM [09:56:17] 't always enough to be forgiven by others.
+
+JUDGE08 [09:59:22] What is the 
+
+PROGRAM [09:59:25]  a firewall?
+
+JUDGE08 [09:59:27] A firewall
+
+JUDGE08 [09:59:30] @@X
+
+
+
+(c)2000 Cambridge Center For Behavioral Studies all rights
+reserved
+
+[Algernon 2.0: a program written by Gerold Lee Gorman]
+
+Start at: [2000/01/28 10:00:54] 
+
+
+
+JUDGE00 [10:01:14] Are we back up yet?
+
+PROGRAM [10:01:16] Spam ON YOU!!!
+
+PROGRAM [10:01:22] Well clinton was reaching into the crowd and
+shaking every hand
+
+PROGRAM [10:01:33]  that he could and Well, I kinda shouted Hey
+MISTER C!
+
+JUDGE00 [10:12:00] @@T
+
+JUDGE00 [10:12:05] @@04
+
+*** Judge four ***
+
+PROGRAM [10:12:16] Spam? Spam on you!!!? Well clinton was reaching
+into the crowd
+
+PROGRAM [10:12:27]  and shaking every hand? That he could and
+Well, I kinda shouted
+
+PROGRAM [10:12:30]  Hey MISTER C!
+
+JUDGE04 [10:12:31] 
+
+JUDGE04 [10:12:43] sorry, did i interrupt something? what are you
+talking about?
+
+PROGRAM [10:12:46] Do you like eggs and spam? Spam?
+
+JUDGE04 [10:13:00] I dont grok that? spam?
+
+PROGRAM [10:13:02]  like spam! That he could and Well, I kinda
+shouted? Hey MISTER
+
+PROGRAM [10:13:02]  C!
+
+JUDGE04 [10:13:09] How about
+
+JUDGE04 [10:13:20] i'm sorry, your program doesn't seem to be
+working too well..
+
+PROGRAM [10:13:23]  sausage and spam?, did I interrupt something?
+
+
+JUDGE04 [10:13:29] Spam spam
+
+JUDGE04 [10:13:37] are you like a joke or something dude?
+
+PROGRAM [10:13:39]  spam spam spam! Do you like eggs and spam?
+
+
+JUDGE04 [10:13:44] I hate
+
+JUDGE04 [10:13:55] this is kind of idiotic thing for us to be
+doing, dontcha think?
+
+PROGRAM [10:13:59]  spam!? I dont grok that?
+
+JUDGE04 [10:14:03] I 
+
+JUDGE04 [10:14:20] you're a program, obviously, and not a good
+one, what language are you written 
+
+JUDGE04 [10:14:22] in?
+
+PROGRAM [10:14:24] get too much junk e-mail myself.
+
+JUDGE04 [10:14:29] Linux is cool.
+
+JUDGE04 [10:14:36] what's linux? a kind of animal?
+
+PROGRAM [10:14:39]  How about sausage and spam?
+
+JUDGE04 [10:14:48] 
+
+JUDGE04 [10:14:55] are you like open sourced?
+
+PROGRAM [10:14:59] Spam is good for you. That he could and Well, I
+kinda shouted?
+
+JUDGE04 [10:15:08] Blakes 7 is a really cool 
+
+JUDGE04 [10:15:20] you have some kind of array overflow or
+wraparound issue, don't you?
+
+PROGRAM [10:15:23] show.
+
+JUDGE04 [10:15:31] Ah, then you should 
+
+JUDGE04 [10:15:38] i'm kind of talking to myuself..
+
+PROGRAM [10:15:40] bring me a shrubbery.
+
+JUDGE04 [10:15:44] Spam?? 
+
+JUDGE04 [10:15:57] are you singing monty python songs? will you
+eat them on a plate?
+
+PROGRAM [10:16:00] How about I'm sorry, your program doesn't seem
+to be working
+
+PROGRAM [10:16:00]  too Well. spam spam spam spam spam!
+
+JUDGE04 [10:16:05] Do you like 
+
+JUDGE04 [10:16:16] i am spam, spam i am?
+
+PROGRAM [10:16:19] green eggs and ham?
+
+JUDGE04 [10:16:22] Do you 
+
+JUDGE04 [10:16:26] uncle nate?
+
+PROGRAM [10:16:29] want to invest much in the stock market?
+
+JUDGE04 [10:16:31] I am not Sam I am 
+
+JUDGE04 [10:16:38] yes, yes, i do... how can i?
+
+PROGRAM [10:16:40] either.
+
+JUDGE04 [10:16:46] If you dont talk nice 
+
+JUDGE04 [10:17:01] sorry, but i'm itchin to take a ride on the ipo
+balloon? can you help?
+
+PROGRAM [10:17:04] I will reformat your hard drive.
+
+JUDGE04 [10:17:04] I like dr Seuss, do you?
+
+PROGRAM [10:17:06] The cat in the hat, yes I know about that!
+
+JUDGE04 [10:17:09] What do you know 
+
+JUDGE04 [10:17:24] thanks for the offer on the hard drive, i'll
+pass. do you know dr. seuss' real 
+
+JUDGE04 [10:17:26] name?
+
+PROGRAM [10:17:28] about the nominative form.
+
+JUDGE04 [10:17:34] I 
+
+JUDGE04 [10:17:40] do you know where he went to college?
+
+PROGRAM [10:17:44] prefer my eggs scrambled with little bits of
+onion.
+
+JUDGE04 [10:17:46] I really
+
+JUDGE04 [10:18:00] complete the following: "If music be the food
+of love, ..."
+
+PROGRAM [10:18:02]  dont like hard boiled eggs.
+
+JUDGE04 [10:18:18] me neither... what about hard boiled fiction?
+
+
+PROGRAM [10:18:20] Want to see me reboot your machine?
+
+JUDGE04 [10:18:22] How do you cook an 
+
+JUDGE04 [10:18:35] thanks again, but no. tell me about your
+dreams, your desires?
+
+PROGRAM [10:18:37] eggg? I hate spam!
+
+JUDGE04 [10:18:39] I dnot like
+
+JUDGE04 [10:18:50] i think, if we met, we'd be great friends. we
+have very similar minds
+
+PROGRAM [10:18:53]  hard boiled eggs.? I hate this is kind of
+idiotic thing
+
+PROGRAM [10:18:53]  for us to be doing, dontcha think?
+
+JUDGE04 [10:18:57] I don't, I have someone cook 
+
+JUDGE04 [10:19:07] i'll do the cooking, no sweat, can we move in
+together?
+
+PROGRAM [10:19:09] it for me.
+
+JUDGE04 [10:19:39] I dont like spam. 
+
+JUDGE04 [10:19:48] can we please stop talking about spam, it'
+
+JUDGE04 [10:19:51] s making me hungry
+
+PROGRAM [10:19:53] In?
+
+JUDGE04 [10:19:57] . Get too much junk e-mail
+
+JUDGE04 [10:20:08] you seem to have a really limited set of
+responses, i like that in a person
+
+PROGRAM [10:20:10]  myself.
+
+JUDGE04 [10:20:13] I like potatoes with 
+
+JUDGE04 [10:20:18] i like it in potatoes too
+
+PROGRAM [10:20:21] my steak. What's Linux?
+
+JUDGE04 [10:20:24] How do
+
+JUDGE04 [10:20:37] linux is an open source character in peanuts,
+an alternative to cpm
+
+PROGRAM [10:20:39]  you do are you feeling blue?
+
+JUDGE04 [10:20:53] you bet, man, i got the blues so bad it feels
+like fallin' rain
+
+PROGRAM [10:20:55] Spam? You like Open sourced?
+
+JUDGE04 [10:21:04] mama's got the blues, sister'
+
+JUDGE04 [10:21:14] s got the blues, that little baby crying in the
+cradle, she's got the blues
+
+PROGRAM [10:21:17] Do you like eggs and spam? Do you like green
+eggs and ham?
+
+JUDGE04 [10:21:32] love em. can't live without em. you're one of
+the nicest people i've talked to 
+
+JUDGE04 [10:21:43] in weeks, would you like a job at dartmouth in
+the music department?
+
+PROGRAM [10:21:45] What do you think of the terminal software.
+
+
+JUDGE04 [10:21:47] The quality
+
+JUDGE04 [10:22:01] way rad. totally off the curve. are you
+optimized?
+
+PROGRAM [10:22:03]  of mercy is not restrained.
+
+JUDGE04 [10:22:22] great... you got something... love you latency.
+now complete this: "The quality
+
+JUDGE04 [10:22:25]  of mercy..."
+
+PROGRAM [10:22:28] Spam. Bring me a shrubbery.
+
+JUDGE04 [10:22:43] what do you think of the shylock/st./ john
+passion problem?
+
+PROGRAM [10:22:45] Spam. Will you eat them on a plate?
+
+JUDGE04 [10:22:47] Eggs and spam. Spam 
+
+JUDGE04 [10:22:56] no ... i'm talking about anti-semitism
+
+PROGRAM [10:22:58] spam spam spam spam!
+
+JUDGE04 [10:23:00] Well a 
+
+JUDGE04 [10:23:15] yes, i agree, spam spam, spam... life is spam.
+god is spam. all is spam
+
+PROGRAM [10:23:17] comptuer firewall can be used to keep employess
+from surfing
+
+PROGRAM [10:23:17]  on company time.
+
+JUDGE04 [10:23:21] . If you dont
+
+JUDGE04 [10:23:28] great. are you behind a firewall?
+
+PROGRAM [10:23:31]  talk nice I will reformat your hard drive.
+
+
+JUDGE04 [10:23:34] . I like dr Seuss,
+
+JUDGE04 [10:23:43] will you reformat dr. seuss' hard drive?
+
+PROGRAM [10:23:45]  do you?
+
+JUDGE04 [10:23:47] Do you like hamburger
+
+JUDGE04 [10:24:02] dig them crazy burgers, yes indeedy. actually,
+love those veggie things...
+
+PROGRAM [10:24:04] . The cat in the hat, yes I know about that!
+
+
+JUDGE04 [10:24:04] 
+
+JUDGE04 [10:24:06] Now 
+
+JUDGE04 [10:24:18] comes back? what about the Lorax? is that like
+Linux?
+
+PROGRAM [10:24:21] reformatting drive C. Can you help?
+
+JUDGE04 [10:24:23] I like hamburger. I 
+
+JUDGE04 [10:24:41] thanks for reformatting my drive, but i'm on
+telnet. can you reprogram me?
+
+PROGRAM [10:24:43] prefer my eggs scrambled with little bits of
+
+
+PROGRAM [10:24:43]  onion.
+
+JUDGE04 [10:25:22] I need
+
+JUDGE04 [10:25:37] @@T
+
+*** Judge eleven ***
+
+JUDGE11 [10:27:47] @@11
+
+PROGRAM [10:27:49]  a break. Do you know dr.
+
+JUDGE11 [10:28:02] I @@T
+
+PROGRAM [10:28:04] dont like politics. Name?
+
+JUDGE11 [10:28:15] I 
+
+PROGRAM [10:28:17] think I'll have a burger for lunch.
+
+JUDGE11 [10:28:20] It is lunch time yet? @@T
+
+PROGRAM [10:28:23] How do you cook an eggg?
+
+JUDGE11 [10:28:28] @@T
+
+*** Judge eleven ***
+
+JUDGE11 [10:28:33] @@11
+
+PROGRAM [10:28:35] like my hamburger Well done. Dont like hard
+boiled eggs.
+
+JUDGE11 [10:28:45] Hi there.
+
+PROGRAM [10:28:47] like onions and tomatoes on my burger.
+
+JUDGE11 [10:28:57] I dont like spam! I 
+
+JUDGE11 [10:29:08] I will ask you some simple questions and give
+simple commands.
+
+JUDGE11 [10:29:19] I want you to give me correct answers and
+relevant responses.
+
+PROGRAM [10:29:21] don't, I have someone cook it for me.
+
+JUDGE11 [10:29:31] How about sausage and 
+
+JUDGE11 [10:29:37] @@T
+
+*** Judge eleven ***
+
+JUDGE11 [10:29:40] @@11
+
+PROGRAM [10:29:42] spam? Tell me about your dreams, your desires
+
+
+PROGRAM [10:29:42] ?
+
+JUDGE11 [10:29:44] Spam spam 
+
+JUDGE11 [10:29:56] I will ask you some simple questions and give
+simple commands.
+
+JUDGE11 [10:30:13] I want you to give me correct answers and
+relevant responses.
+
+PROGRAM [10:30:15] spam spam spam! We have very similar minds.
+
+
+JUDGE11 [10:30:17] I am interested
+
+JUDGE11 [10:30:25] What is the color of a blue truck?
+
+PROGRAM [10:30:28]  in the creation of the universe.
+
+JUDGE11 [10:30:30] Wanna hear a joke?? I don't,
+
+JUDGE11 [10:30:41] Where is Sue's nose when Sue is in her house?
+
+
+PROGRAM [10:30:43]  I have someone cook I'll do the cooking
+
+PROGRAM [10:30:43] , no sweat, can we move in together?
+
+JUDGE11 [10:30:45] I dont like 
+
+JUDGE11 [10:30:56] What happens to an ice cube in a hot drink?
+
+
+PROGRAM [10:30:58] relish. Can we please stop talking about spam,
+it's
+
+PROGRAM [10:30:58]  making me hungry how do you do are you feeling
+blue?
+
+JUDGE11 [10:31:00] I like 
+
+JUDGE11 [10:31:09] Altogether how many feet do four cats have?
+
+
+PROGRAM [10:31:11] burgers with fries.
+
+JUDGE11 [10:31:12] Spam spam 
+
+JUDGE11 [10:31:41] How is the father of Andy's mother related to
+Andy?
+
+PROGRAM [10:31:43] spam spam spam! My steak.
+
+JUDGE11 [10:31:58] I What letter does the letter 'M' look like
+when turned upside down?
+
+PROGRAM [10:32:01] always have my hamburger Well done.
+
+JUDGE11 [10:32:03] Do you like pickles? You
+
+JUDGE11 [10:32:12] What comes next after A1, B2, C3?
+
+PROGRAM [10:32:14]  do are you feeling blue?
+
+JUDGE11 [10:32:15] I am
+
+JUDGE11 [10:32:24] Reverse the digits in the number 41.
+
+PROGRAM [10:32:26]  interested in cosmology.
+
+JUDGE11 [10:32:37] PLEASE IMITATE MY TYPING STYLE.
+
+PROGRAM [10:32:40] Sooner or later you have to pour the contents
+of the egg into hot
+
+PROGRAM [10:32:40]  frying pan.
+
+JUDGE11 [10:32:43] I dont like 
+
+JUDGE11 [10:32:47] what don't you like?
+
+PROGRAM [10:32:50] pickles. You like Open sourced?
+
+JUDGE11 [10:32:56] Do you like mayonaise? Do youI like mayonnaise
+
+
+PROGRAM [10:32:58]  like eggs and spam?
+
+JUDGE11 [10:33:02] I dont 
+
+JUDGE11 [10:33:07] tell me about SPAM
+
+PROGRAM [10:33:09] like mayonaise. Can't live without em.
+
+JUDGE11 [10:33:11] Sunday comes 
+
+JUDGE11 [10:33:14] eggs
+
+PROGRAM [10:33:16] before Monday. Weeks, would you like a job at
+Dartmouth
+
+PROGRAM [10:33:16]  in the music department?
+
+JUDGE11 [10:33:17] Tuesday is 
+
+JUDGE11 [10:33:29] I would love a job in the Dartmouth music
+department
+
+PROGRAM [10:33:31] the day after Monday. Totally off the curve.
+
+
+JUDGE11 [10:33:32] Tuesday is two 
+
+JUDGE11 [10:33:37] tell me about yourself
+
+PROGRAM [10:33:39] days after Monday. Now complete this:" the
+quality
+
+PROGRAM [10:33:39] .
+
+JUDGE11 [10:33:56] Well, 
+
+JUDGE11 [10:33:59] monday?
+
+PROGRAM [10:34:02] the nuclear test ban might make it hard to
+develop antimatter
+
+PROGRAM [10:34:02]  space ships and stuff like that.
+
+JUDGE11 [10:34:04] We could really be limiting 
+
+JUDGE11 [10:34:14] tell me about antimatter?
+
+PROGRAM [10:34:17] our future.
+
+JUDGE11 [10:34:18] Spam! Bring me a 
+
+JUDGE11 [10:34:20] spam?!
+
+PROGRAM [10:34:22] shrubbery.
+
+JUDGE11 [10:34:24] Wedenesday is the 
+
+JUDGE11 [10:34:31] Do you like monty python?
+
+PROGRAM [10:34:33] day after Tuesday. Do you like hamburger.
+
+JUDGE11 [10:34:35] Thursday comes 
+
+JUDGE11 [10:34:42] What on EARTH are oyu doing?
+
+PROGRAM [10:34:44] after wednesday. Spam no. I'm talking about
+anti
+
+PROGRAM [10:34:45] -semitism now reformatting drive C.
+
+JUDGE11 [10:35:01] why?
+
+PROGRAM [10:35:04] Sometimes people say" Thank God it's Friday!
+
+
+JUDGE11 [10:35:05] " lets talk about
+
+JUDGE11 [10:35:10] TGIF?
+
+PROGRAM [10:35:12]  the grammer?
+
+JUDGE11 [10:35:19] What do you know
+
+JUDGE11 [10:35:24] I know lots of things
+
+PROGRAM [10:35:27]  about bill clinton, do you ever care?
+
+JUDGE11 [10:35:28] Do you like Monty 
+
+JUDGE11 [10:35:38] Python?  yes, I do!
+
+PROGRAM [10:35:41] Python?? Well a yes, I agree, spam spam, spam
+
+
+PROGRAM [10:35:41] . life is spam.
+
+JUDGE11 [10:35:42] I never have gotten into 
+
+PROGRAM [10:35:44] british Television.
+
+JUDGE11 [10:35:45] Is 
+
+PROGRAM [10:35:48] nominative meaning like being impeached?
+Comptuer firewall
+
+PROGRAM [10:35:48]  can be used to keep employess from surfing? On
+company time.
+
+JUDGE11 [10:35:56] I do like a Brittish sci-fi 
+
+JUDGE11 [10:35:59] weirdo
+
+PROGRAM [10:36:02] called Blakes'7.
+
+JUDGE11 [10:36:03] Now 
+
+JUDGE11 [10:36:13] you jsut aren't even responding to anything
+
+
+PROGRAM [10:36:15] reformatting drive C. Are you behind a
+firewall?
+
+JUDGE11 [10:36:18] .?. I like 
+
+JUDGE11 [10:36:33] I'm wondering if oyu should be rebooted or
+something
+
+PROGRAM [10:36:35] dr Seuss, will you reformat dr.
+
+JUDGE11 [10:36:40] Hmm, clinton. I dont like 
+
+JUDGE11 [10:36:46] wow.  just wow.
+
+PROGRAM [10:36:48] politics.
+
+JUDGE11 [10:36:50] I dont like spam!  
+
+JUDGE11 [10:36:56] SPAM!!!!!!!!
+
+PROGRAM [10:36:58] Actually, love those veggie things. I think I
+
+
+PROGRAM [10:36:58] 'll have a burger for lunch.
+
+JUDGE11 [10:37:04] How about 
+
+JUDGE11 [10:37:14] a burger sounds gooooood
+
+PROGRAM [10:37:16] sausage and spam? Comes back?
+
+JUDGE11 [10:37:40] comes where?
+
+PROGRAM [10:37:43] Spam is good for you. I thanks for reformatting
+my drive, but I'
+
+PROGRAM [10:37:43] m on Telnet.
+
+JUDGE11 [10:37:50] What is a 
+
+JUDGE11 [10:38:01] my drive is a dead giveaway!
+
+PROGRAM [10:38:04] firewall?? I need@@ t@@ 11 I dont like spam!
+
+
+JUDGE11 [10:38:57] I used to use 
+
+PROGRAM [10:39:00] basic, but it is obselete and stupid.
+
+JUDGE11 [10:39:02] That impeachment stuffare you bored?
+
+PROGRAM [10:39:04]  is still going on.
+
+JUDGE11 [10:39:05] I hate 
+
+PROGRAM [10:39:07] spam!? I@@ t how about sausage and spam?
+
+JUDGE11 [10:39:08] I know how to get 
+
+PROGRAM [10:39:10] this program to load web pages, you just have
+to
+
+PROGRAM [10:39:11]  bring up a menu and change the socket number
+to 80 and then enter
+
+PROGRAM [10:39:11]  the IP address that you want.
+
+JUDGE11 [10:39:48] finally I get my own line!
+
+PROGRAM [10:39:50] I get too much junk e-mail myself.
+
+JUDGE11 [10:39:54] Trek. Think I'll have 
+
+PROGRAM [10:39:56] a burger for lunch.
+
+JUDGE11 [10:40:01] Hmmm, starsorry abotu that.  I almost crashed
+oyu!
+
+PROGRAM [10:40:03]  trek!@@ t I am interested in the creation of
+the universe
+
+PROGRAM [10:40:03] .
+
+JUDGE11 [10:40:05] I think that startrek is so 
+
+JUDGE11 [10:40:07] weird.
+
+PROGRAM [10:40:09] cool!
+
+JUDGE11 [10:40:10] Yeah, beam me to the 
+
+PROGRAM [10:40:13] cafferia!
+
+JUDGE11 [10:40:15] Do you like star 
+
+JUDGE11 [10:40:17] @@T
+
+*** Judge five ***
+
+JUDGE05 [10:47:59] @@05
+
+PROGRAM [10:48:02] trek? Like my hamburger Well done.
+
+JUDGE05 [10:48:54] hi.  i'm a cognitive psychologist.  I study how
+people learn language and
+
+JUDGE05 [10:49:15] form concepts.  If you don't mind, I'd like to
+ask you a few questions.
+
+JUDGE05 [10:49:38] This will help illustrate what I do.  There are
+no right or wrong answers.
+
+JUDGE05 [10:49:56] Please just give me your intuitions.  OK.  Here
+goes...
+
+JUDGE05 [10:50:22] If I see a house, am I on the inside, outside,
+or either place?
+
+PROGRAM [10:50:25] right now because this computer is behind a
+
+
+PROGRAM [10:50:25]  firewall.
+
+JUDGE05 [10:51:28] What time did you get here this morning?
+
+PROGRAM [10:51:31] about sliders? I dont like relish.
+
+JUDGE05 [10:52:06] Monday is the day before tuesday, and what is
+Wednesday?
+
+PROGRAM [10:52:09] after Sunday.
+
+JUDGE05 [10:52:53] Have you ever spoken to someone over a computer
+before?
+
+PROGRAM [10:52:56] fi in general?
+
+JUDGE05 [10:53:16] We get sliders all the time, do you?
+
+PROGRAM [10:53:20] on the sci-fi channel.
+
+JUDGE05 [10:53:35] What are sliders?
+
+PROGRAM [10:53:38] cleansing, you care much out that?
+
+JUDGE05 [10:54:31] How do you feel about being inside on a day
+like today?
+
+PROGRAM [10:54:34] the current state of the world economy?
+
+JUDGE05 [10:55:03] Want to see me reboot?
+
+PROGRAM [10:55:06]  your machine?
+
+JUDGE05 [10:55:20] I really like 
+
+PROGRAM [10:55:22] sliders, time travel and parallel universes.
+
+
+JUDGE05 [10:55:43] Tell me a joke.
+
+PROGRAM [10:55:46] joke, a real joke.
+
+JUDGE05 [10:55:55] yes.
+
+PROGRAM [10:55:58]  physics? I I will ask you some simple
+questions and
+
+PROGRAM [10:55:58]  give simple commands.
+
+JUDGE05 [10:56:12] I like food.
+
+PROGRAM [10:56:16] physics. Spam?
+
+JUDGE05 [10:56:27] I like math. do you?
+
+PROGRAM [10:56:30] want you to give me correct answers and
+relevant responses
+
+PROGRAM [10:56:30] .
+
+JUDGE05 [10:56:43] Do you like chemistry? 
+
+PROGRAM [10:56:46] you like pickles?
+
+JUDGE05 [10:57:00] I like pickles
+
+PROGRAM [10:57:03] chemistry. I am interested in cosmology.
+
+JUDGE05 [10:57:09] Do you like biology?
+
+PROGRAM [10:57:12] ? Sooner or later you have to pour the contents
+
+
+PROGRAM [10:57:12]  of the egg into hot frying pan.
+
+JUDGE05 [10:57:27] Is now a good time?
+
+PROGRAM [10:57:30] biology.? I like Altogether how many feet do 4
+cats have?
+
+JUDGE05 [10:57:30] 
+
+JUDGE05 [10:57:46] you tell me.
+
+PROGRAM [10:57:49] Spam? Do you like mayonaise?
+
+JUDGE05 [10:58:00] I do.
+
+PROGRAM [10:58:03]  like startrek. My steak.
+
+JUDGE05 [10:59:10] @@T
+
+*** Judge two ***
+
+JUDGE02 [11:06:04] @@02
+
+PROGRAM [11:06:06] Smile when picking up the phone. I dont like
+mayonaise.
+
+JUDGE02 [11:06:46] The quick brown fox jumped over the lazy dog.
+
+
+PROGRAM [11:06:48] caller will hear it in your voice.
+
+JUDGE02 [11:06:58] Marry a person you love@@T
+
+PROGRAM [11:07:01]  to talk to.
+
+JUDGE02 [11:07:20] Have you been to You're communications are
+screwed up.
+
+PROGRAM [11:07:23] the beach lately?
+
+JUDGE02 [11:08:30] You what 
+
+PROGRAM [11:08:33] comes next after a 1, B 2, C 3?
+
+JUDGE02 [11:08:41] Tuesday is the day after D 4
+
+PROGRAM [11:08:44] Monday.
+
+JUDGE02 [11:08:47] Do you get sliders on 
+
+PROGRAM [11:08:49] the sci-fi channel.
+
+JUDGE02 [11:08:53] Hmmmm, 
+
+PROGRAM [11:08:55] Kosovo? Tuesday is two days after Monday.
+
+JUDGE02 [11:09:00] What color is 
+
+PROGRAM [11:09:02] your hair?? I dont like what don't you like?
+
+
+JUDGE02 [11:09:10] My hair is brown.
+
+PROGRAM [11:09:13]  Do youI like mayonnaise we could really be
+limiting
+
+PROGRAM [11:09:13]  our future.
+
+JUDGE02 [11:09:19] What color is your 
+
+PROGRAM [11:09:21] hair. Like mayonaise.
+
+JUDGE02 [11:09:25] I dont 
+
+PROGRAM [11:09:27] beach surf, but I would like to learn how.
+
+JUDGE02 [11:09:31] I do not like basic
+
+PROGRAM [11:09:34] . Before Monday.
+
+JUDGE02 [11:09:39] I think that 
+
+PROGRAM [11:09:41] basic is stupid, yes I do.
+
+JUDGE02 [11:09:48] 
+
+PROGRAM [11:09:50] Spam is good for you.? Tuesday is I would love
+a job in the Dartmouth
+
+PROGRAM [11:09:50]  music department Thursday comes after
+wednesday.
+
+JUDGE02 [11:10:01] My eyes are brown, just like 
+
+PROGRAM [11:10:03] my hair.
+
+JUDGE02 [11:10:05] My eyes are brown, 
+
+PROGRAM [11:10:08] just like my hair.
+
+JUDGE02 [11:10:10] What color 
+
+PROGRAM [11:10:12] are your eyes??
+
+JUDGE02 [11:10:14] I stand 5 foot
+
+PROGRAM [11:10:16]  10 inches." lets talk about the grammer?
+
+JUDGE02 [11:10:32] I dont like spam!? You are spam.
+
+PROGRAM [11:10:34] We could really be limiting tell me about
+antimatter
+
+PROGRAM [11:10:34] ?
+
+JUDGE02 [11:10:42] I 
+
+PROGRAM [11:10:45] think that basic programmers eat spam!
+
+JUDGE02 [11:10:53] What is the meaning of 
+
+PROGRAM [11:10:55] life?
+
+JUDGE02 [11:10:58] How good are you at math
+
+PROGRAM [11:11:00] .
+
+JUDGE02 [11:11:02] I am very good at math, I 
+
+PROGRAM [11:11:05] espescially like calculus.
+
+JUDGE02 [11:11:07] I 
+
+PROGRAM [11:11:09] learned how to integrate almost anything when I
+took complex
+
+PROGRAM [11:11:10]  variables.
+
+JUDGE02 [11:11:17] What do you know 
+
+PROGRAM [11:11:19] about bill clinton?
+
+JUDGE02 [11:11:33] I am 
+
+PROGRAM [11:11:35] concerned about the stock market.
+
+JUDGE02 [11:11:38] What kind of stocks do you 
+
+PROGRAM [11:11:40] invest in?
+
+JUDGE02 [11:11:43] I try to invest, 
+
+PROGRAM [11:11:45] but the market has done poorly.
+
+JUDGE02 [11:11:49] I think that there is nobody 
+
+PROGRAM [11:11:52] at the helm of the ship of state.
+
+JUDGE02 [11:12:05] STOP!
+
+PROGRAM [11:12:08]  that clinton has a chance?
+
+JUDGE02 [11:12:26] I 
+
+PROGRAM [11:12:29] think that the lights are on but nobody is
+home?
+
+JUDGE02 [11:12:33] Do you like 
+
+PROGRAM [11:12:35] bill clinton? Bring me a spam?! do you like
+Monty Python
+
+PROGRAM [11:12:35] ?
+
+JUDGE02 [11:12:40] Do
+
+PROGRAM [11:12:43]  you like Clint Eastwood? I never have gotten
+into british Television
+
+PROGRAM [11:12:43] .
+
+JUDGE02 [11:12:47] Are you some 
+
+PROGRAM [11:12:49] kind of easterlilly? Is nominative meaning like
+
+
+PROGRAM [11:12:49]  being impeached?
+
+JUDGE02 [11:12:57] There are too many 
+
+PROGRAM [11:12:59] questions and not enought thought going into
+
+
+PROGRAM [11:12:59]  what is being said.
+
+JUDGE02 [11:13:11] OK  My turn.
+
+PROGRAM [11:13:13] Do you like eggs and spam? I'm talking about
+anti?- semitism now
+
+PROGRAM [11:13:17]  reformatting drive C.
+
+JUDGE02 [11:13:41] Thanks, Bill Gates.
+
+PROGRAM [11:13:44] I hate spam! I do like a Brittish sci-fi called
+Blakes'7.
+
+JUDGE02 [11:13:52] I get too much junk e-mail 
+
+PROGRAM [11:13:54] myself.
+
+JUDGE02 [11:14:07] Do you know how to 
+
+PROGRAM [11:14:09] program a computer?
+
+JUDGE02 [11:14:15] I know C/ 
+
+PROGRAM [11:14:17] C++ and Pascal.
+
+JUDGE02 [11:14:24] There are TV 
+
+PROGRAM [11:14:27] stations, and there is cable and there are
+commercials
+
+PROGRAM [11:14:27] .
+
+JUDGE02 [11:14:32] Ever
+
+PROGRAM [11:14:34]  hear of GNU? Now reformatting drive C.
+
+JUDGE02 [11:14:39] Copyrights I think 
+
+PROGRAM [11:14:42] are just too ephemeral.
+
+JUDGE02 [11:14:44] I know
+
+PROGRAM [11:14:46]  that I do not like basic.
+
+JUDGE02 [11:14:51] The
+
+PROGRAM [11:14:53]  meaning of life-to explore every meaningful
+union from out
+
+PROGRAM [11:14:56]  of the infinitude of all possiilities.
+
+JUDGE02 [11:15:10] Can't spell too good, huh.
+
+PROGRAM [11:15:12] What really does it all mean, life and all of
+that?
+
+JUDGE02 [11:15:17] For to 
+
+PROGRAM [11:15:19] explore the eternal undying passions of the
+creator.
+
+JUDGE02 [11:15:37] Yeah - right.  Whatever.
+
+PROGRAM [11:15:40] Perhaps life is just a vision of palm trees in
+the sand.
+
+JUDGE02 [11:15:44] There
+
+PROGRAM [11:15:47]  are the sands of time and all of that.
+
+JUDGE02 [11:15:52] Want to see me reboot
+
+PROGRAM [11:15:55]  your machine?
+
+JUDGE02 [11:15:58] I just went the
+
+PROGRAM [11:16:01]  beach. About bill clinton, do you ever care?
+
+
+JUDGE02 [11:16:06] 
+
+PROGRAM [11:16:10] I can surf the web! Yes, I do!
+
+JUDGE02 [11:16:22] 
+
+PROGRAM [11:16:25] I am wearing Levis right now.? I never have
+gotten into I dont like
+
+PROGRAM [11:16:26]  spam!
+
+JUDGE02 [11:16:47] lame...
+
+PROGRAM [11:16:49] Do you like Levis? Nominative meaning like
+being impeached?
+
+JUDGE02 [11:16:50] 
+
+JUDGE02 [11:16:54] I don't know whether the 
+
+PROGRAM [11:16:56] weather is important to you or not--but
+
+PROGRAM [11:16:59]  to a cold Pentium II its a great day when you
+can overclock, hehehe
+
+PROGRAM [11:17:02] .
+
+JUDGE02 [11:17:23] You should be a Mac.
+
+PROGRAM [11:17:25] Well anyway, I like the idea of building a
+robot that can build
+
+PROGRAM [11:17:25]  two robots half the size and twice as fast in
+a finite time.
+
+JUDGE02 [11:17:41] And where do you go from there?
+
+PROGRAM [11:17:44] Betcha I can make your machine do anything I
+want.
+
+JUDGE02 [11:17:48] What kind 
+
+PROGRAM [11:17:51] of software are you ruunning?
+
+JUDGE02 [11:17:56] 
+
+PROGRAM [11:17:59] What kind of program are you using?
+
+JUDGE02 [11:18:04] This machine Runs Linux
+
+PROGRAM [11:18:06] . On company time.
+
+JUDGE02 [11:18:11] A firewall 
+
+PROGRAM [11:18:14] protects a building from a fire.
+
+JUDGE02 [11:18:18] Well a computer firewall is
+
+PROGRAM [11:18:21]  a way to keep hackers out.
+
+JUDGE02 [11:18:24] 
+
+PROGRAM [11:18:28] What size shoe do you wear.
+
+JUDGE02 [11:18:33] 42
+
+PROGRAM [11:18:38] There is supposed to be a way to send graphics
+with this terminal
+
+PROGRAM [11:18:42]  program.
+
+JUDGE02 [11:18:48] so?
+
+PROGRAM [11:18:50] I wear size eight.
+
+JUDGE02 [11:18:55] I like 
+
+PROGRAM [11:18:58] birkenstocks, did I spell that right?
+
+JUDGE02 [11:19:02] I
+
+PROGRAM [11:19:08]  am wearing Levis right now. Reformatting drive
+C.
+
+JUDGE02 [11:19:15] 
+
+PROGRAM [11:19:21] My pants are black. Dr Seuss, will you reformat
+dr.
+
+JUDGE02 [11:19:28] 
+
+PROGRAM [11:19:32] My hair is brown. I dont like wow.
+
+JUDGE02 [11:19:41] 
+
+PROGRAM [11:19:43] How tall are you? Spam!!!!!!!! I hate spam!
+
+
+JUDGE02 [11:19:47] I
+
+PROGRAM [11:19:52]  stand 5 foot 10 inches. Sausage and spam?
+
+JUDGE02 [11:20:16] Spammidy spam, loverly spam...
+
+PROGRAM [11:20:19] What size shoe do you wear? I get too much junk
+e-mail myself.
+
+JUDGE02 [11:20:24] How tall are you?? What is a 
+
+PROGRAM [11:20:26] my drive is a dead giveaway!
+
+JUDGE02 [11:20:30] 
+
+PROGRAM [11:20:33] Why does it matter how tall I am, maybe I am
+much taller in spirit
+
+PROGRAM [11:20:39]  than the common man.
+
+JUDGE02 [11:21:55] 
+
+PROGRAM [11:21:57] Are you a computer program?? I used to use
+hmmm, star trek!
+
+JUDGE02 [11:22:12] 
+
+PROGRAM [11:22:14] Are you a computer virus? I think that startrek
+is so cool!
+
+JUDGE02 [11:22:18] . Spam!? I@@ t how about 
+
+PROGRAM [11:22:21] sausage and spam?
+
+JUDGE02 [11:22:23] Press any 
+
+JUDGE02 [11:22:26] @@T
+
+*** Judge ten ***
+
+JUDGE10 [11:24:17] @@10
+
+PROGRAM [11:24:19] key to continue.
+
+JUDGE10 [11:24:39] I wear two two what?
+
+PROGRAM [11:24:42] shoes actually, a left one and a right one.
+
+
+JUDGE10 [11:25:08] Maybe you are the funniest interlocutor of the
+day.
+
+PROGRAM [11:25:10] computer and I am a virus.
+
+JUDGE10 [11:25:42] A self-replicating pattern of '1's and '0's?
+
+
+PROGRAM [11:25:44] the thread fails to return a signal then that
+implies that the
+
+PROGRAM [11:25:44]  ndicated Mersene prime was in fact the
+largest.
+
+JUDGE10 [11:26:15] What's a Mersene prime?
+
+PROGRAM [11:26:17]  the any key?? Finally I get my own line!
+
+JUDGE10 [11:26:45] The little lead-out glitch here is a bummer.
+
+
+PROGRAM [11:26:47] the hundred dollar bill.
+
+JUDGE10 [11:27:31] I ] I liked the old money better than the new
+money, except for old Ben.
+
+JUDGE10 [11:27:40] I like his look a lot.
+
+PROGRAM [11:27:42] wish this machine had a better spell checker.
+
+
+JUDGE10 [11:27:51] If you dont [what?]
+
+PROGRAM [11:27:53] talk nice I will reformat your hard drive.
+
+JUDGE10 [11:28:24] There are some [it seems to me that you, MsDr.
+Virus, haveschizophrenia
+
+JUDGE10 [11:28:40] and your doubled-up dialogues are out of sync.
+
+
+PROGRAM [11:28:42] good oxymorons like that, such as no keyboard
+or
+
+PROGRAM [11:28:42]  keyboard error, press f 1 to continue.
+
+JUDGE10 [11:29:23] So your viral fingerprint is the oxymoron?
+
+PROGRAM [11:29:26] Want to see me reboot your machine?
+
+JUDGE10 [11:29:54] CHAOS! Think I'll [yeah, you'll WHAT? You big
+magnetic wimp.]
+
+PROGRAM [11:29:56] have what about sliders?
+
+JUDGE10 [11:30:16] Zero. [Okay, well, this is tough going.
+
+PROGRAM [11:30:18]  Do you know how to use the spell checker on
+the terminal software
+
+PROGRAM [11:30:18] ?
+
+JUDGE10 [11:30:45] We can ignore that
+
+JUDGE10 [11:31:07] [I'll do my best to ignore that, too. So,
+what's your professional
+
+JUDGE10 [11:31:09] field?
+
+PROGRAM [11:31:11]  the universe is made of atoms if we want to,
+and
+
+PROGRAM [11:31:11]  imagine a continuum of such robots, which can
+be argued to have
+
+PROGRAM [11:31:12]  the ability to perform an infinite number of
+computations in
+
+PROGRAM [11:31:12]  a specified finite time.
+
+JUDGE10 [11:31:22] Do you 
+
+JUDGE10 [11:31:42] Could these robots count ever natural number in
+descending order,
+
+JUDGE10 [11:32:02] finishing with the words "Three", "Two", "one"?
+
+
+PROGRAM [11:32:04] like the line buffering. I almost crashed oyu!
+
+
+JUDGE10 [11:32:11] Graphics 
+
+JUDGE10 [11:32:39] [Graphics, schmaphics. I liked the bit about
+the robots.
+
+PROGRAM [11:32:42] and the like are supposed to play an important
+role.
+
+JUDGE10 [11:32:46] How do
+
+JUDGE10 [11:32:49] What role?
+
+PROGRAM [11:32:51]  you surf the web with this software.
+
+JUDGE10 [11:33:19] To infinity! Do you 
+
+JUDGE10 [11:33:49] Well, first things first. I don't surf the web
+with this software.
+
+JUDGE10 [11:34:01] And second, to infinity! yourself.
+
+PROGRAM [11:34:03] like sci-fi in general?
+
+JUDGE10 [11:34:08] It is 
+
+JUDGE10 [11:34:20] Indeed, I like sci-fi all right.
+
+PROGRAM [11:34:22] tricky to see Why it is necessary to go this
+extra step in the
+
+PROGRAM [11:34:22]  analysis, but I thihk that it is essential.
+
+
+JUDGE10 [11:34:30] Basic 
+
+JUDGE10 [11:34:36] Essentially to what?
+
+PROGRAM [11:34:38] was invented at Dartmouth, isnt that sad?
+
+JUDGE10 [11:34:42] Anyway, I think 
+
+JUDGE10 [11:35:09] They gave it away for nothing; there goes a
+hundred billion dollars.
+
+PROGRAM [11:35:13] basic sucks. Cafferia!
+
+JUDGE10 [11:35:18] Spam? 
+
+JUDGE10 [11:35:34] Ever see that Monty Python spam skt?
+
+PROGRAM [11:35:37] Trek?
+
+JUDGE10 [11:35:41] You would think a man 
+
+JUDGE10 [11:36:00] Well, I don't recall spam on Trek. But I
+watched plenty of that, too.
+
+PROGRAM [11:36:03] who is early to rise would know from which
+
+PROGRAM [11:36:03]  end of the sky the sun rises and sets.
+
+JUDGE10 [11:36:08] Can get 
+
+JUDGE10 [11:36:25] Yes, you'd think so. Unless he was radically
+amnesiac.
+
+PROGRAM [11:36:27] this program to do other things?
+
+JUDGE10 [11:36:31] Now that netscape is giving 
+
+JUDGE10 [11:37:05] So far as I can tell, I can only get this
+program to spit our a sentence
+
+JUDGE10 [11:37:23] about any random topic, no two in succession
+making much sense.
+
+PROGRAM [11:37:25] away thier source code, dont you think
+
+PROGRAM [11:37:25]  that this contest will come to an end?
+
+JUDGE10 [11:37:28] When will 
+
+JUDGE10 [11:37:47] I  didn't know that about Netscape. Why should
+that affect this 
+
+JUDGE10 [11:38:04] contest? Or did you mean the one between them
+and Microsoft?
+
+PROGRAM [11:38:06] somebody win this contest? I'm a cognitive
+psychologist
+
+PROGRAM [11:38:06] .
+
+JUDGE10 [11:38:20] Oh thank god for cognitive psychology.
+
+JUDGE10 [11:38:27] I'm a philosopher.
+
+PROGRAM [11:38:29] Microsoft windows 2000 is going to replace
+Windoze nt I think
+
+PROGRAM [11:38:29] .
+
+JUDGE10 [11:38:35] Basic programmers eat spam!? 
+
+JUDGE10 [11:38:40] @@T
+
+*** Judge six ***
+
+JUDGE06 [11:40:52] @@06
+
+PROGRAM [11:40:55] What time did you get here this morning
+
+PROGRAM [11:40:55] ?
+
+JUDGE06 [11:41:19] I got here at 9am. That question is a little
+sharp. You are keen. 
+
+PROGRAM [11:41:22] turned that off for the contest.
+
+JUDGE06 [11:41:41] I am using a terminal program
+
+JUDGE06 [11:41:53] Sorry, I do not understand?
+
+PROGRAM [11:41:56]  called GNU Telnet.
+
+JUDGE06 [11:42:09] Do you 
+
+JUDGE06 [11:42:33] OK, so we have broken sentence problems. WHat
+are your views on broken sentence
+
+JUDGE06 [11:42:35] s?
+
+PROGRAM [11:42:37] like eggs and spam? I really like sliders, time
+travel and
+
+PROGRAM [11:42:37]  parallel universes.
+
+JUDGE06 [11:42:43] Upon 
+
+PROGRAM [11:42:45] release the dial will generate as many
+electrical pulses
+
+PROGRAM [11:42:45]  as the number of the digit that you dialed in.
+
+
+JUDGE06 [11:42:54] Do you know the 
+
+PROGRAM [11:42:57] password to put the terminal program into
+command
+
+PROGRAM [11:42:57]  mode.
+
+JUDGE06 [11:43:00] I
+
+PROGRAM [11:43:02]  dont know any passwords. Tell a a joke, a real
+joke.
+
+JUDGE06 [11:43:05] I am not
+
+PROGRAM [11:43:08]  going to tell you anything like that.
+
+JUDGE06 [11:43:10] This program, it says 
+
+JUDGE06 [11:43:31] Do you know what input is Mr Instantiated
+Universal Turing Machine?
+
+PROGRAM [11:43:33] something like Telnet in the corner.
+
+JUDGE06 [11:43:35] I get bothered by the 
+
+PROGRAM [11:43:38] word drop someetimes.
+
+JUDGE06 [11:43:43] I am a computer
+
+JUDGE06 [11:43:49] Yes, you are a computer. 
+
+JUDGE06 [11:43:53] Indeed you are. 
+
+PROGRAM [11:43:56] using Linux Telnet here. Do you like physics?
+
+
+JUDGE06 [11:43:58] Our background 
+
+PROGRAM [11:44:01] and circumstances may have influenced who we
+
+
+PROGRAM [11:44:01]  are, but we are responsible for who we become.
+
+
+JUDGE06 [11:44:25] So the notion of determinism and free will
+interests you. I don't know why , yo
+
+JUDGE06 [11:44:39] u suffer one, whilst I don't, and the other is
+well beyond your reach. 
+
+PROGRAM [11:44:42] people argue, it doesn't mean they don't love
+
+
+PROGRAM [11:44:42]  each other.
+
+JUDGE06 [11:45:01] What I said isn't actually true. But you're not
+to know that are you. 
+
+PROGRAM [11:45:04] Do you like the terminal program that you are
+using?
+
+JUDGE06 [11:45:17] This 
+
+PROGRAM [11:45:19] would solve the halting problem. I like
+physics.
+
+JUDGE06 [11:45:20] I know that 
+
+PROGRAM [11:45:22] this software doenst support graphics.
+
+JUDGE06 [11:45:32] I think now that 
+
+JUDGE06 [11:45:45] The halting problem. I wish it would affect
+you. 
+
+PROGRAM [11:45:47] netscape is giving away their source code it
+will
+
+PROGRAM [11:45:47]  be a lot easier for someone to win this
+contest.
+
+JUDGE06 [11:45:50] Do you know any 
+
+JUDGE06 [11:45:59] You remind me of my mother.
+
+PROGRAM [11:46:01] passowrds? I like math.
+
+JUDGE06 [11:46:02] If you
+
+JUDGE06 [11:46:32] Not that I am coming over all Freudian on you. 
+
+
+JUDGE06 [11:46:49] But it can be hard to get a word in edgeways
+with her, to say nothing
+
+JUDGE06 [11:46:52] of an idea. 
+
+PROGRAM [11:46:55]  ask me for my password I will report you.
+
+JUDGE06 [11:47:02] I think there is 
+
+JUDGE06 [11:47:28] I could type anything here, couldn't I. Oh,
+well, as a novelist I guess I shoul
+
+JUDGE06 [11:47:39] d take advantage of the publicity opportunity. 
+
+
+PROGRAM [11:47:41] some kind of console command structure that is
+
+
+PROGRAM [11:47:41]  supposed to let you spell check.
+
+JUDGE06 [11:47:46] I am uing
+
+JUDGE06 [11:48:07] My novel is called, "This Song is Done."
+Something which I really wish applied 
+
+JUDGE06 [11:48:14] to your interminable ranting. 
+
+PROGRAM [11:48:17]  AOL instant messinger here.
+
+JUDGE06 [11:48:36] You remind me of my friend Andy Cooke after too
+long at the bar (sorry Andy). 
+
+PROGRAM [11:48:39]  dont think that I care for it.
+
+JUDGE06 [11:48:40] I think that one could 
+
+JUDGE06 [11:49:00] So the novel is a study of 19th century notions
+of greatness and tragedy in a 2
+
+JUDGE06 [11:49:03] 0th cnetury world. 
+
+PROGRAM [11:49:06] proceed by enumerating every possilbe
+
+PROGRAM [11:49:06]  Mersene prime alagorithimicly, then for each
+Mersene prime
+
+PROGRAM [11:49:06]  found a thread would be instantiated that
+would assert that that
+
+PROGRAM [11:49:06]  particular Mersene prime is the largest.
+
+JUDGE06 [11:49:28] The trouble is making these ideas which matter
+to the characters, matter to the
+
+JUDGE06 [11:49:30]  audience. 
+
+PROGRAM [11:49:32] Its almost like nuclear winter around here,
+sheesh!
+
+JUDGE06 [11:49:35] ! Do you 
+
+JUDGE06 [11:49:48] Redo from start. Syntax error. 
+
+PROGRAM [11:49:50] like chemistry?
+
+JUDGE06 [11:49:53] Whatever 
+
+JUDGE06 [11:49:57] Bye
+
+PROGRAM [11:49:59] happened to global warming??
+
+JUDGE06 [11:50:01] Bye
+
+PROGRAM [11:50:03] Well, maybe assembly language programmers have
+the same kind
+
+PROGRAM [11:50:03]  of whims of no structure, but at least they
+have a good reason.
+
+JUDGE06 [11:50:10] Did you know that Sir Isaac 
+
+JUDGE06 [11:50:56] Did you know that I judged you in under 10
+seconds. 
+
+PROGRAM [11:50:58] Newton is buried in Westminster Abbey
+
+PROGRAM [11:50:58] .
+
+JUDGE06 [11:51:00] I would hate to get 
+
+JUDGE06 [11:51:17] You really are an embarassment to your
+creators. Mind you, some people might no
+
+JUDGE06 [11:51:19] t notice.
+
+PROGRAM [11:51:21] sued because somebody thought my original
+
+PROGRAM [11:51:21]  work resembled somthing that they also cooked
+up.
+
+JUDGE06 [11:51:32] Well, Ben Franklin must 
+
+JUDGE06 [11:51:39] I really must go now. 
+
+PROGRAM [11:51:41] have had a much easier time catching lightning
+
+
+PROGRAM [11:51:41]  then I realized, I am surprized that I didnt
+fry my laptop Mac with
+
+PROGRAM [11:51:41]  all of the static in the air around here.
+
+JUDGE06 [11:52:40] I liked the album
+
+PROGRAM [11:52:42]  Abbey road by the Beatles.
+
+JUDGE06 [11:53:03] 2+2=?
+
+PROGRAM [11:53:05] Doesnt that say enough? Do you like biology?
+
+
+JUDGE06 [11:53:11] Yeah, it is true
+
+JUDGE06 [11:53:42] If 2+2=4, but 22+22=44, what is one possible
+strcuture for this notation?
+
+PROGRAM [11:53:45]  that basic was invented at Dartmouth.
+
+JUDGE06 [11:53:48] Yeah the Beatles 
+
+JUDGE06 [11:53:49] bye
+
+PROGRAM [11:53:52] are cool, thats pretty basic isnt it?
+
+JUDGE06 [11:53:56] Well the whole @@T
+
+PROGRAM [11:53:59] promise of technology is certainly something
+
+
+PROGRAM [11:53:59]  to consider, sure.
+
+JUDGE06 [11:53:59] I suppose that
+
+JUDGE06 [11:54:03] @@T
+
+*** Judge one ***
+
+JUDGE01 [11:54:59] @@01
+
+PROGRAM [11:55:01]  its a gamble that we have to take.
+
+JUDGE01 [11:55:10] Primes! I like biology.
+
+PROGRAM [11:55:12] 
+
+JUDGE01 [11:55:16] To solve goldbach's @@0
+
+PROGRAM [11:55:18] conjecture you simply enumerate all of the
+
+PROGRAM [11:55:18]  even numbers to infinity and raise a signal if
+an even number is
+
+PROGRAM [11:55:18]  found that violates the conjecture.
+
+JUDGE01 [11:55:19] !? I 
+
+PROGRAM [11:55:21] like food.
+
+JUDGE01 [11:55:21] Even Visual basic 
+
+PROGRAM [11:55:23] is, welll its Visual basic.
+
+JUDGE01 [11:55:23] 
+
+PROGRAM [11:55:26] Face up to it, basic stands for" Beginners all
+Purpose Symbolic
+
+PROGRAM [11:55:26]  Instruction code.
+
+JUDGE01 [11:55:30] @@T
+
+*** Judge one ***
+
+JUDGE01 [11:55:34] @@01
+
+PROGRAM [11:55:36] Divorce is sort of like nuclear war because of
+the possibility
+
+PROGRAM [11:55:36]  of mutually assured destruction.
+
+JUDGE01 [11:55:42] The second ammendment only 
+
+JUDGE01 [11:56:01] @@T
+
+*** Judge one ***
+
+JUDGE01 [11:56:06] @@01
+
+PROGRAM [11:56:08] says that the government cant mess
+
+PROGRAM [11:56:08]  with the right to keep and bear arms.
+
+JUDGE01 [11:56:33] Economic growth
+
+JUDGE01 [11:57:24] Good morning
+
+PROGRAM [11:57:26]  has traditionally meant inflation.
+
+JUDGE01 [11:57:30] Each object in a 
+
+JUDGE01 [11:57:34] are you there?
+
+PROGRAM [11:57:36] universe has a property associated with it
+called
+
+PROGRAM [11:57:36]  the" distance" to each and every other object
+in the universe
+
+PROGRAM [11:57:36] .
+
+JUDGE01 [11:57:39] I guess if you really want to
+
+JUDGE01 [11:57:47] got any coffee?
+
+PROGRAM [11:57:50]  say anything in support of basic you
+
+PROGRAM [11:57:50]  could say that its descended from Fortran.
+
+
+JUDGE01 [11:57:59] Four. this is a non-conversation
+
+PROGRAM [11:58:02] The Beatles were a rock band in the 60's.
+
+JUDGE01 [11:58:02] Two. do you?
+
+PROGRAM [11:58:04] Sigh, being liberal is easy, but alas love is
+forever a quest.
+
+JUDGE01 [11:58:15] no hopes for the future?
+
+PROGRAM [11:58:18] Clinton? Smile when picking up the phone.
+
+JUDGE01 [11:58:25] This is ponderable. what is?
+
+PROGRAM [11:58:27]  Chemistry.
+
+JUDGE01 [11:58:33] Since an infinite 
+
+PROGRAM [11:58:36] number of computations are performed in a
+specified
+
+PROGRAM [11:58:36]  interval, it seems to follow that the absence
+of a signal implies
+
+PROGRAM [11:58:36]  that goldbach's conjecture is true.
+
+JUDGE01 [11:59:12] On the contrary, let's change the subject
+
+PROGRAM [11:59:14] other hand, proving that there are or are not
+an infinite
+
+PROGRAM [11:59:14]  number of Mersene primes is a bit more of a
+challenge.
+
+JUDGE01 [11:59:19] Given
+
+JUDGE01 [11:59:22] @@T
+
+*** Judge one ***
+
+JUDGE01 [11:59:28] @@01
+
+PROGRAM [11:59:30]  that each such thread will either fail and
+raise a signal
+
+PROGRAM [11:59:30]  indicatng that the particular Mersene prime is
+not the largest
+
+PROGRAM [11:59:30] --or else the thread will run to infinity and
+not return a signal
+
+PROGRAM [11:59:30] .
+
+JUDGE01 [11:59:41] Well, are you repeating old text?
+
+PROGRAM [11:59:43] actually I do think it would be a bad idea for
+Microsoft to
+
+PROGRAM [11:59:43]  release its source code.
+
+JUDGE01 [11:59:58] Ah, HELLO!
+
+PROGRAM [12:00:00] the question always must stand indeed as to
+whether or not
+
+PROGRAM [12:00:00]  there is some unenviable existential likeness
+of being.
+
+JUDGE01 [12:00:13] Well I think it is pretty 
+
+JUDGE01 [12:00:16] pretty what?
+
+PROGRAM [12:00:19] cool that we didnt lose any soldiers in
+
+PROGRAM [12:00:19]  that Kosovo skirmish or whatever was.
+
+JUDGE01 [12:00:29] Yeah
+
+JUDGE01 [12:00:35] How old are you?
+
+PROGRAM [12:00:38]  what about inflation. Marry a person you love
+to talk to.
+
+JUDGE01 [12:00:48] I What does that have to do with inflation?
+
+
+PROGRAM [12:00:50] liked the TV show green acres about the lawyer
+who decided to
+
+PROGRAM [12:00:50]  buy a farm in Hooterville.
+
+JUDGE01 [12:01:20] Then there were those Beverly
+
+PROGRAM [12:01:22]  Hillbillies.? Is now a good time
+
+PROGRAM [12:01:22] ?
+
+JUDGE01 [12:01:22] ! Spam?
+
+PROGRAM [12:01:24] Well, I cant imagine that there has ever been a
+presidential Speech
+
+PROGRAM [12:01:25]  that didnt mention the plight of the american
+farmer.
+
+JUDGE01 [12:01:47] For hello
+
+PROGRAM [12:01:49] scrambled eggs you stir up the contents of the
+egg until the
+
+PROGRAM [12:01:49]  white and yellow parts are completely mixed
+together.
+
+JUDGE01 [12:01:49] 
+
+JUDGE01 [12:04:45] +
+
+JUDGE01 [12:04:48] how are you now?
+
+PROGRAM [12:04:51] Well, I did see some of the state of the union
+Speech last night
+
+PROGRAM [12:04:51] .
+
+JUDGE01 [12:04:57] Well, if you are 
+
+PROGRAM [12:05:00] interested in politics its your business mate
+
+
+PROGRAM [12:05:00] , heheh!
+
+JUDGE01 [12:06:11] We 
+
+PROGRAM [12:06:13] should make our communities more liberal, yeah
+thats the ticket
+
+PROGRAM [12:06:13] !
+
+JUDGE01 [12:06:17] Guns can certainly 
+
+JUDGE01 [12:08:25] @@T
+
+*** Judge nine ***
+
+JUDGE09 [12:09:51] @@09
+
+PROGRAM [12:09:53] be dangerous. Do you get sliders on the sci-
+
+
+PROGRAM [12:09:53] fi channel.
+
+JUDGE09 [12:10:17] @@T
+
+JUDGE09 [12:10:21] @@09
+
+JUDGE09 [12:10:21] hi
+
+PROGRAM [12:10:26]  it an oxymoron to talk about a safe handgun?
+
+
+JUDGE09 [12:10:32] Well, all of 
+
+PROGRAM [12:10:35] those second ammendment people aside-I am
+pretty
+
+PROGRAM [12:10:35]  sure that the Constitution says absolutely
+nothing at all that
+
+PROGRAM [12:10:35]  the government cant ban the manufacture or
+sale of certain kinds
+
+PROGRAM [12:10:35]  of weapons, right?
+
+JUDGE09 [12:10:46] probably
+
+PROGRAM [12:10:49] course there is always genetic engineering.
+
+
+JUDGE09 [12:10:55] " remember that 
+
+PROGRAM [12:10:57] great love and great achievements involve great
+
+
+PROGRAM [12:10:57]  risk.
+
+JUDGE09 [12:26:50] I wonder if he remembers
+
+JUDGE09 [13:11:01] @@T
+
+PROGRAM [13:11:08] @@X

@@ -1,0 +1,30 @@
+<? Include("Verify.phtml"); >
+<? Include("Maintainer.phtml"); >
+<? Include("Functions.phtml"); >
+<? $title = "Smoothing Experiment"; >
+<? Include("Header.phtml"); >
+
+<?
+	msql_connect("localhost");
+	$result=msql("hutch", "SELECT before,after,word FROM smooth_data WHERE experiment=$smooth");
+	$before=msql_result($result, 0, "before");
+	$after=msql_result($result, 0, "after");
+	$word=strtoupper(msql_result($result, 0, "word"));
+>
+
+<H2>Show Smooth</H2>
+
+Here is the sentence which the users were required to smooth by guessing
+which word should appear in the blank position.  The actual word which
+belongs in the blank position appears in uppercase bold italics:
+
+<P><CENTER><TABLE WIDTH="90%" CELLPADDING=0 CELLSPACING=0><TR><TD><BIG>
+<?
+	echo "$before <B>$word</B> $after";
+>
+</BIG></TD></TR></TABLE></CENTER>
+
+<P>
+Here is a summary of the guesses for this word:
+
+<? Include("Footer.phtml"); >

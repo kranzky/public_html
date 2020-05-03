@@ -1,0 +1,296 @@
+#
+#		This file contains SQL statements to create everything needed by the
+#		experiment scripts.  We begin by using the correct database.
+#
+USE experiments\g
+#
+#		We then create a table which is used to contain global values.
+#
+DROP TABLE global\g
+CREATE TABLE global (
+	name char(16) not null,
+	val int
+)\g
+CREATE UNIQUE INDEX id ON global(name)\g
+#
+#		The global values we keep reflect the number of users, the number of
+#		prediction experiments, the number of smoothing experiments and the
+#		number of segmentation experiments.
+#
+INSERT INTO global VALUES ('num_user', 1)\g
+INSERT INTO global VALUES ('num_predict', 3)\g
+INSERT INTO global VALUES ('num_smooth', 3)\g
+INSERT INTO global VALUES ('num_segment', 1)\g
+#
+#		This table contains the basic user details, and forms an association
+#		between a user's email address and their unique ID.
+#
+DROP TABLE user_details\g
+CREATE TABLE user_details (
+	email char(64) not null,
+	password char(8) not null,
+	user int
+)\g
+CREATE UNIQUE INDEX id ON user_details(email)\g
+#
+#		This table contains the rest of the user's information: the stuff
+#		that we don't need to access as often.
+#
+DROP TABLE user_info\g
+CREATE TABLE user_info (
+	user int not null,
+	name char(64),
+	gender char(1),
+	age int,
+	nationality char(32),
+	english char(1),
+	list char(1),
+	retired int,
+	story int,
+	number int,
+	predict int,
+	position int,
+	smooth int,
+	segment int,
+	eligible int,
+	supress int
+)\g
+CREATE UNIQUE INDEX id ON user_info(user)\g
+#
+#		We create the administrator user who is hard-wired to have special
+#		priveliges.
+#
+INSERT INTO user_details VALUES ('admin', 'tsiapoc', 1)\g
+INSERT INTO user_info VALUES (1, 'Administrator', '', 0, '', '', '',  0, 0, 0, 0, 0, 0, 0, 0, 0)\g
+#
+#		The story experiments have a genre, a context of a particular number
+#		of words, an identifier and a length (i.e. the number of words in
+#		them).
+#
+DROP TABLE story\g
+CREATE TABLE story (
+	genre char(16) not null,
+	context int not null,
+	story int,
+	length int
+)\g
+CREATE UNIQUE INDEX id ON story(genre,context)\g
+#
+#		The story information contains all of the individual words added to
+#		stories.  We remember which story the word appears in, its position
+#		within the story and the user who added it.
+#
+DROP TABLE story_info\g
+CREATE TABLE story_info (
+	story int not null,
+	user int,
+	number int not null,
+	word char(64)
+)\g
+CREATE UNIQUE INDEX id ON story_info(story,number)\g
+#
+#		We create 25 stories: 8 in 3 different genres and 1 special bonus
+#		story.
+#
+INSERT INTO story VALUES ( 'Murder', 1, 0, 0)\g
+INSERT INTO story VALUES ( 'Murder', 2, 1, 0)\g
+INSERT INTO story VALUES ( 'Murder', 3, 2, 0)\g
+INSERT INTO story VALUES ( 'Murder', 4, 3, 0)\g
+INSERT INTO story VALUES ( 'Murder', 5, 4, 0)\g
+INSERT INTO story VALUES ( 'Murder', 7, 5, 0)\g
+INSERT INTO story VALUES ( 'Murder', 10, 6, 0)\g
+INSERT INTO story VALUES ( 'Murder', 15, 7, 0)\g
+INSERT INTO story VALUES ( 'Romance', 1, 8, 0)\g
+INSERT INTO story VALUES ( 'Romance', 2, 9, 0)\g
+INSERT INTO story VALUES ( 'Romance', 3, 10, 0)\g
+INSERT INTO story VALUES ( 'Romance', 4, 11, 0)\g
+INSERT INTO story VALUES ( 'Romance', 5, 12, 0)\g
+INSERT INTO story VALUES ( 'Romance', 7, 13, 0)\g
+INSERT INTO story VALUES ( 'Romance', 10, 14, 0)\g
+INSERT INTO story VALUES ( 'Romance', 15, 15, 0)\g
+INSERT INTO story VALUES ( 'Freeform', 1, 16, 0)\g
+INSERT INTO story VALUES ( 'Freeform', 2, 17, 0)\g
+INSERT INTO story VALUES ( 'Freeform', 3, 18, 0)\g
+INSERT INTO story VALUES ( 'Freeform', 4, 19, 0)\g
+INSERT INTO story VALUES ( 'Freeform', 5, 20, 0)\g
+INSERT INTO story VALUES ( 'Freeform', 7, 21, 0)\g
+INSERT INTO story VALUES ( 'Freeform', 10, 22, 0)\g
+INSERT INTO story VALUES ( 'Freeform', 15, 23, 0)\g
+INSERT INTO story VALUES ( 'Reward', 20, 24, 0)\g
+#
+#		Results of the prediction experiment record the experiment ID, the
+#		user ID, the number of the symbol being guessed, the number of guesses
+#		the user took, whether or not they gave up and their surprise level.	
+#
+DROP TABLE predict\g
+CREATE TABLE predict (
+	user int not null,
+	experiment int not null,
+	number int not null,
+	guesses int,
+	giveup int,
+	surprise int
+)\g
+CREATE UNIQUE INDEX id ON predict(user,experiment,number)\g
+#
+#		We also record each word guessed by the users.  We link the user ID,
+#		the experiment ID, the number of the symbol being guessed, the guess
+#		number and the guess itself.
+#
+DROP TABLE predict_info\g
+CREATE TABLE predict_info (
+	user int not null,
+	experiment int not null,
+	number int not null,
+	guess int not null,
+	word char(64)
+)\g
+CREATE UNIQUE INDEX id ON predict_info(user,experiment,number,guess)\g
+#
+#		For a particular prediction experiment we record the number of
+#		symbols in the experiment, a starting context, a dictionary of valid
+#		characters and the alphabet type (0=words, 1=ASCII, 2=dictionary).
+#
+DROP TABLE predict_data\g
+CREATE TABLE predict_data (
+	experiment int not null,
+	length int,
+	start blob,
+	dictionary char(20),
+	alphabet int
+)\g
+CREATE UNIQUE INDEX id ON predict_data(experiment)\g
+#
+#		We then store, for each prediction experiment, each individual
+#		symbol in the sequence which the user is required to predict.
+#
+DROP TABLE predict_data_info\g
+CREATE TABLE predict_data_info (
+	experiment int not null,
+	number int not null,
+	word char(64)
+)\g
+CREATE UNIQUE INDEX id ON predict_data_info(experiment, number)\g
+#
+#		We create three prediction experiments.  The first is the sequence
+#		"The cat sat on the mat".  The alphabet used is words.  The second
+#		is "ABABABA".  The alphabet used is {A,B}.  The third is "I LIKE
+#		TRAFFIC LIGHTS".  The alphabet used is the ASCII character set. 
+#
+INSERT INTO predict_data VALUES ( 0, 5, 'The ', '', 0)\g
+INSERT INTO predict_data_info VALUES ( 0, 0, 'cat ')\g
+INSERT INTO predict_data_info VALUES ( 0, 1, 'sat ')\g
+INSERT INTO predict_data_info VALUES ( 0, 2, 'on ')\g
+INSERT INTO predict_data_info VALUES ( 0, 3, 'the ')\g
+INSERT INTO predict_data_info VALUES ( 0, 4, 'mat ')\g
+INSERT INTO predict_data VALUES ( 1, 5, '', 'AB', 2)\g
+INSERT INTO predict_data_info VALUES ( 1, 0, 'A')\g
+INSERT INTO predict_data_info VALUES ( 1, 1, 'B')\g
+INSERT INTO predict_data_info VALUES ( 1, 2, 'A')\g
+INSERT INTO predict_data_info VALUES ( 1, 3, 'B')\g
+INSERT INTO predict_data_info VALUES ( 1, 4, 'A')\g
+INSERT INTO predict_data VALUES ( 2, 6, 'I LIKE TRAFFIC ', '', 1)\g
+INSERT INTO predict_data_info VALUES ( 2, 0, 'L')\g
+INSERT INTO predict_data_info VALUES ( 2, 1, 'I')\g
+INSERT INTO predict_data_info VALUES ( 2, 2, 'G')\g
+INSERT INTO predict_data_info VALUES ( 2, 3, 'H')\g
+INSERT INTO predict_data_info VALUES ( 2, 4, 'T')\g
+INSERT INTO predict_data_info VALUES ( 2, 5, 'S')\g
+#
+#		The smoothing experiment is similar to the prediction experiment.
+#		We store the user ID, experiment ID, the number of guesses, whether
+#		the user gave up and their surprise level.
+#
+DROP TABLE smooth\g
+CREATE TABLE smooth (
+	user int not null,
+	experiment int not null,
+	guesses int,
+	giveup int,
+	surprise int
+)\g
+CREATE UNIQUE INDEX id ON smooth(user,experiment)\g
+#
+#		For each guess we store the user who made it, the experiment they
+#		made it for, the number of the guess and the guess itself.
+#
+DROP TABLE smooth_info\g
+CREATE TABLE smooth_info (
+	user int not null,
+	experiment int not null,
+	guess int not null,
+	word char(64)
+)\g
+CREATE UNIQUE INDEX id ON smooth_info(user,experiment,guess)\g
+#
+#		The smooth experiment contains an ID, a dictionary of characters, an
+#		alphabet type (the same as the one used for the prediction
+#		experiments), a prior context, a post context and the symbol which
+#		the user is required to supply.
+#
+DROP TABLE smooth_data\g
+CREATE TABLE smooth_data (
+	experiment int not null,
+	dictionary char(20),
+	alphabet int,
+	before char(255),
+	after char(255),
+	word char(64)
+)\g
+CREATE UNIQUE INDEX id ON smooth_data(experiment)\g
+#
+#		We create three smoothing experiments for the three kinds of
+#		alphabet.
+#
+INSERT INTO smooth_data VALUES ( 0, '', 0, 'My', 'has no nose', 'dog')\g
+INSERT INTO smooth_data VALUES ( 1, 'AB', 2, 'AABB', 'BBAA', 'A')\g
+INSERT INTO smooth_data VALUES ( 2, '', 1, 'The colo', 'r purple', 'u')\g
+#
+#		The segmentation experiment requires the user to specify the members
+#		of the alphabet after viewing some data generated from that
+#		alphabet.  For each user and experiment we remember the bitmap
+#		supplied by that user as their guess of which words in the
+#		dictionary are the correct ones.
+#
+DROP TABLE segment\g
+CREATE TABLE segment (
+	user int not null,
+	experiment int not null,
+	bitmap char(64)
+)\g
+CREATE UNIQUE INDEX id ON segment(user,experiment)\g
+#
+#		A particular experiment contains an ID, a blob of text containing
+#		the data sample, a bitmap indicating which words in the dictionary
+#		are the correct ones, and the number of words in the dictionary.
+#
+DROP TABLE segment_data\g
+CREATE TABLE segment_data (
+	experiment int not null,
+	corpus blob,
+	bitmap char(64),
+	size int
+)\g
+CREATE UNIQUE INDEX id ON segment_data(experiment)\g
+#
+#		We also store, for each experiment, a dictionary of possible
+#		symbols.
+#
+DROP TABLE segment_data_info\g
+CREATE TABLE segment_data_info (
+	experiment int not null,
+	number int not null,
+	word char(64)
+)\g
+CREATE UNIQUE INDEX id ON segment_data_info(experiment, number)\g
+#
+#		We create a single segmentation experiment.
+#
+INSERT INTO segment_data VALUES ( 0, 'HINGNOTHINGTHENTHENTHENHENOTHINGHEHETHEN\nTHENHENOTHINGTHENTHENTHENTHENHENOTHINGNO\nTHINGTHENTHENHEHENOTHINGTHENNOTHINGNOTHI\nNGTHENNOTHINGTHENTHENNOTHINGHEHEHENOTHIN\nGNOTHINGNOTHINGNOTHINGTHENHEHEHEHENOTHIN\nGHETHENHEHETHENNOTHINGHEHEHENOTHINGTHENH\nEHETHENHETHENNOTHINGHETHENHETHENTHENNOTH\nINGTHENNOTHINGNOTHINGNOTHINGTHENHEHETHEN\nTHENHEHEHENOTHINGTHENHEHENOTHINGNOTHINGT\nHENNOTHINGHENOTHINGTHENNOTHINGHETHENTHEN\nHENOTHINGHEHENOTHINGNOTHINGNOTHINGTHENNO\nTHINGTHENTHENNOTHINGNOTHINGHETHENHEHETHE\nNTHENNOTHINGTHENTHENNOTHINGNOTHINGNOTHIN\nGNOTHINGHEHEHENOTHINGNOTHINGTHENNOTHINGT\nHENNOTHINGHETHENNOTHINGHETHENHETHENNOTHI', '100110', 6)\g
+INSERT INTO segment_data_info VALUES ( 0, 0, 'THEN')\g
+INSERT INTO segment_data_info VALUES ( 0, 1, 'THING')\g
+INSERT INTO segment_data_info VALUES ( 0, 2, 'THE')\g
+INSERT INTO segment_data_info VALUES ( 0, 3, 'NOTHING')\g
+INSERT INTO segment_data_info VALUES ( 0, 4, 'HE')\g
+INSERT INTO segment_data_info VALUES ( 0, 5, 'NO')\g
+\q

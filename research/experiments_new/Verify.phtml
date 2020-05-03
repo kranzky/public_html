@@ -1,0 +1,20 @@
+<?
+if(IsSet($e_email)&&IsSet($e_password));
+	$e_password=strtoupper($e_password);
+	SetCookie("s_email",$e_email);
+	SetCookie("s_password",$e_password);
+	$s_email=$e_email;
+	$s_password=$e_password;
+endif;
+
+msql_connect("localhost");
+$result=msql("hutch", "SELECT user FROM user WHERE email = '$s_email' AND password = '$s_password'");
+$num = msql_NumRows($result);
+
+if($num!=1);
+	Include("Banned.phtml");
+	Exit;
+endif;
+
+$s_user=msql_result($result, 0, "user");
+>

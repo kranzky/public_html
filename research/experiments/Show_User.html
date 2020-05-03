@@ -1,0 +1,155 @@
+<? Include("Verify.html"); ?>
+<? Include("Maintainer.html"); ?>
+<? Include("Functions.html"); ?>
+<? $title = "Show User"; ?>
+<? Include("Header.html"); ?>
+
+<?
+	mysql_connect("localhost","hutch","wally37");
+	mysql_select_db("experiments");
+	$result=mysql_query("SELECT * FROM user_info WHERE user = $user");
+	$num = mysql_num_rows($result);
+	if($num!=1) {
+		Error("I was unable to find the user you specified!", "");
+	}
+	$name = mysql_result($result, 0, "name");
+	$gender = mysql_result($result, 0, "gender");
+	$age = mysql_result($result, 0, "age");
+	$nationality = mysql_result($result, 0, "nationality");
+	$english = mysql_result($result, 0, "english");
+	$list = mysql_result($result, 0, "list");
+	$retired = mysql_result($result, 0, "retired");
+	$story = mysql_result($result, 0, "story");
+	$predict = mysql_result($result, 0, "predict");
+	$segment = mysql_result($result, 0, "segment");
+	$smooth = mysql_result($result, 0, "smooth");
+	$eligible = mysql_result($result, 0, "eligible");
+	$result=mysql_query("SELECT password,email FROM user_details WHERE user= $user");
+	$password = mysql_result($result, 0, "password");
+	$email = mysql_result($result, 0, "email");
+	echo "<H2>Information for $email</H2>";
+	echo "<CENTER><TABLE CELLPADDING=4 CELLSPACING=0>";
+	echo "<TR><TD><B>Name:</B></TD><TD><A HREF=\"Experiment_List.html?e_email=$email&e_password=$password\">$name</A></TD></TR>";
+	echo "<TR><TD><B>Email:</B></TD><TD><A HREF=\"mailto:$email\">$email</A></TD></TR>";
+	echo "<TR><TD><B>Password:</B></TD><TD>$password</TD></TR>";
+	echo "<TR><TD><B>Gender:</B></TD><TD>$gender</TD></TR>";
+	echo "<TR><TD><B>Age:</B></TD><TD>$age</TD></TR>";
+	echo "<TR><TD><B>Nationality:</B></TD><TD>$nationality</TD></TR>";
+	echo "<TR><TD><B>English:</B></TD><TD>$english</TD></TR>";
+	echo "<TR><TD><B>Retired:</B></TD><TD>$retired</TD></TR>";
+	echo "<TR><TD><B>List:</B></TD><TD>$list</TD></TR>";
+	echo "<TR><TD><B>Story:</B></TD><TD>$story</TD></TR>";
+	echo "<TR><TD><B>Predict:</B></TD><TD>$predict</TD></TR>";
+	echo "<TR><TD><B>Segment:</B></TD><TD>$segment</TD></TR>";
+	echo "<TR><TD><B>Smooth:</B></TD><TD>$smooth</TD></TR>";
+	echo "<TR><TD><B>Eligibility:</B></TD><TD>$eligible</TD></TR>";
+	echo "</TABLE></CENTER>";
+?>
+
+<H2>List of completed stories</H2>
+
+<CENTER>
+<TABLE BORDER=1 CELLPADDING=4 CELLSPACING=0>
+<TR>
+<TD></TD>
+<TD ALIGN="MIDDLE"><B>Murder</B></TD>
+<TD ALIGN="MIDDLE"><B>Romance</B></TD>
+<TD ALIGN="MIDDLE"><B>Freeform</B></TD>
+</TR>
+<?
+$genre[]="Murder";
+$genre[]="Romance";
+$genre[]="Freeform";
+$order[]="1";
+$order[]="2";
+$order[]="3";
+$order[]="4";
+$order[]="5";
+$order[]="7";
+$order[]="10";
+$order[]="15";
+$i=0;
+while($i<Count($order)) {
+   echo "<TR>";
+   echo "<TD><B>Order $order[$i]</B></TD>";
+   $j=0;
+   while($j<Count($genre)) {
+		echo "<TD>";
+      $name=Story_Name("Show Story", $genre[$j], $order[$i], $user);
+		echo "<A HREF=\"Show_Story.html?current_user=$user&genre=$genre[$j]&order=$order[$i]\">$name</A>";
+      echo "</TD>";
+      $j++;
+	}
+   $i++;
+   echo "</TR>";
+}
+?>
+</TABLE>
+</CENTER>
+
+<H2>List of prediction experiments</H2>
+
+Click on this list to see a list of the words in the particular experiment,
+up to what the user has guessed.  Each word has the number of guesses and
+the surprise written next to it.  Click on a word to see the actual guesses
+the user made.
+
+<?
+   $result=mysql_query("SELECT val FROM global WHERE name='num_predict'");
+   $num_predict=mysql_result($result, 0, "val");
+   echo "<UL>";
+   if($num_predict>0) {
+      $i=0;
+      while($i<$num_predict) {
+         echo "<LI><A HREF=\"Show_Predict.html?predict=$i&user=$user\">Prediction experiment ".(1+$i)."</A>.";
+         $i+=1;
+		}
+	} else {
+      echo "<LI>There are no prediction experiments.</LI>";
+	}
+   echo "</UL>";
+?>
+
+<H2>List of segmentation experiments</H2>
+
+Click on this list to see the word and non-words for each experiments.
+The words are in bold if they are valid.  There is an asterisk next to
+a word if the user selected it.
+
+<?
+   $result=mysql_query("SELECT val FROM global WHERE name='num_segment'");
+   $num_segment=mysql_result($result, 0, "val");
+   echo "<UL>";
+   if($num_segment>0) {
+      $i=0;
+      while($i<$num_segment) {
+         echo "<LI><A HREF=\"Show_Segment.html?segment=$i&user=$user\">Segmentation experiment ".(1+$i)."</A>.";
+         $i+=1;
+		}
+	} else {
+      echo "<LI>There are no segmentation experiments.</LI>";
+	}
+   echo "</UL>";
+?>
+
+<H2>List of smoothing experiments</H2>
+
+Click on this list to see the actual guesses the user made.
+
+<?
+   $result=mysql_query("SELECT val FROM global WHERE name='num_smooth'");
+   $num_smooth=mysql_result($result, 0, "val");
+   echo "<UL>";
+   if($num_smooth>0) {
+      $i=0;
+      while($i<$num_smooth) {
+         echo "<LI><A HREF=\"Show_Smooth.html?smooth=$i&user=$user\">Smoothing experiment ".(1+$i)."</A>.";
+         $i+=1;
+		}
+	} else {
+      echo "<LI>There are no smoothing experiments.</LI>";
+	}
+   echo "</UL>";
+?>
+
+<? Include("Footer.html"); ?>

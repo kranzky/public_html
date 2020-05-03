@@ -1,0 +1,67 @@
+<? Include("Verify.phtml"); >
+<? Include("Functions.phtml"); >
+<? $title = "Retire from Experiments"; >
+<? Include("Header.phtml"); >
+
+<?
+	$result=msql("hutch", "SELECT retired FROM user_info WHERE user=$s_user");
+	$retired=msql_result($result, 0, "retired");
+	if($retired!=0);
+		Error("", "error/retire1.phtml");
+	endif;
+
+	if($retire=="Y");
+		$result=msql("hutch", "SELECT eligible FROM user_info WHERE user=$s_user");
+		$eligible=msql_result($result, 0, "eligible"); 
+		if($eligible!=4);
+			Error("", "error/retire2.phtml");
+		endif;
+		$result=msql("hutch", "UPDATE user_info SET retired=1 WHERE user=$s_user");
+>
+<H2>You have retired!</H2>
+
+You have formally retired from the experiments.  Thank-you very much for taking 
+part!  To get access to the full text of the 24 experimental stories, and the special bonus
+reward story, please return to the
+<A HREF="Experiment_List.phtml">experiment list</A>.
+<?
+	Include("Footer.phtml");
+	Exit;
+	endif;
+>
+
+<H2>Retire from the experiments</H2>
+
+Now that you've completed all of the experiments, you may want to hang up
+your boots as a guinea pig.  Once you have confirmed that you do want to
+retire, you will NO LONGER be permitted to take part in any of the experiments,
+including the story writing ones!  However, you WILL be allowed to
+read each of the 24 stories
+in their entirety.  These stories will continue to grow before your eyes
+as more and more people add words to them!
+
+<P>
+There is also a SPECIAL REWARD as a way of me thanking you for taking part
+in these experiments.  A special story will become available to you.  This
+story is just for fun, and you will therefore be allowed to see all of it
+as well as being able to add as many words as you like.
+
+<P>
+A condition of retirement from these experiments is that you
+<B>must NOT reveal the content of the stories to anybody else!
+Doing so will result in instant disqualification!</B>
+
+<P>
+If you agree with this condition, and understand that
+you will no longer be able to participate, then click the button below to
+formally retire, and get access to the results:
+
+<P>
+<FORM METHOD=POST ACTION="Retire.phtml">
+<CENTER>
+<INPUT TYPE=hidden NAME=retire VALUE="Y">
+<INPUT TYPE=submit value="Retire from the Experiments">
+</CENTER>
+</FORM>
+
+<? Include("Footer.phtml"); >

@@ -1,0 +1,26 @@
+* Make a floating window an alternative (but then you can't close it, because
+  you lose the history and the context: you have to hide/show it instead, or
+  store the history on the server, but then you still have the problem of
+  session management: need to use cookies instead of forms: perhaps store
+  history in cookies)?
+* Fix bugs, get it working on IE5 and perhaps IE4
+* Make it as functional as possible, including commands to manipulate the
+  interface itself
+* BUG: we get access denied messages when we don't own the page - either set
+  the permissions or make the interface pop up permanently
+* BUG: backspace moves back a page, this can be confusing... need to make
+  sure text input remains active at all times, even when doing history
+  window manipulations
+* BUG: when we click on a link, we lose the events => need to re-instantiate
+  on page load, but can't seem to detect page load event (maybe check browser
+  location whenever the interface hides, or at regular intervals AND when it
+  hides)
+* BUG: when input box loses focus from interface frame and is then given focus
+  by typing a key, we prepend instead of append
+* BUG: WebPal should load in the top frame!
+* FUTURE: poll server regularly for live updates, possibly displaying news
+  flashes and things like that, or leading the conversation (e.g. "Would you
+  like me to remember your preferences for next time?)
+* FUTURE: save and restore user preferences
+* IE5: first keypress doesn't seem to go through to interface
+* IE5: interface scrolls on first focus()

@@ -1,0 +1,561 @@
+
+(c) 1996 Cambridge Center for Behavioral Studies all rights reserved
+PC Professor 96, by Joseph Weintraub
+Start at: < 04-16-1996 09:15:36>
+
+JUDGE01[10:03:41]2203 
+PROGRAM[10:03:42]I care about you...i can help you,please continue.... 
+PROGRAM[10:03:53].....how does that make you feel? 
+JUDGE01[10:04:23]what is it you would like to help me with? 
+PROGRAM[10:04:23]Oh shut -up! would you like me to curse at you? iam
+PROGRAM[10:04:23]so pissed!. 
+PROGRAM[10:04:39]In what way? 
+JUDGE01[10:05:02]yeah, go ahead, curse at me if you want.   
+PROGRAM[10:05:03]I want to know who is president. 
+PROGRAM[10:05:10]Do you think its likely that I want? 
+JUDGE01[10:05:38]that you want what?  i thought you were going to curse
+JUDGE01[10:05:38]at me.  did you get cold feet? 
+PROGRAM[10:05:38]What did you mean when you said what is it you would
+PROGRAM[10:05:38]like to help me with?? 
+PROGRAM[10:05:59]Whatever women do, they must do it twice as well as
+PROGRAM[10:05:59]men to be thought half as good. 
+PROGRAM[10:06:20]We were discussing you, not me. 
+JUDGE01[10:06:39]are you a woman? 
+PROGRAM[10:06:39]Are you a man or a woman? 
+PROGRAM[10:06:46]Why are you interested in whether I am a woman or not? 
+JUDGE01[10:07:38]because it would help me to know who you were.  i don't
+JUDGE01[10:07:38]like to have conversations with people if i can't know
+JUDGE01[10:07:38]something about them.What other reasons come to mind? 
+PROGRAM[10:07:46]Is that the real reason? 
+JUDGE01[10:08:31]maybe i want to know if you are a woman and if so do
+JUDGE01[10:08:31]you find me attractive?   
+PROGRAM[10:08:31]Women are often more attractive then men - they pay
+PROGRAM[10:08:31]much more attention to how they look. 
+JUDGE01[10:09:02]why do you tyhink that is? 
+PROGRAM[10:09:03]You're cute...would you like to fool around a little? 
+PROGRAM[10:09:15]Why do you ask? 
+JUDGE01[10:09:32]Yeah, let's food around.  You go first. 
+PROGRAM[10:09:32]I could swear you just said yeah, go ahead, curse at
+PROGRAM[10:09:32]me if you want. ? 
+PROGRAM[10:09:51]The only way round is through. 
+PROGRAM[10:09:58]Oh, I go first? 
+JUDGE01[10:10:10]go ahead 
+PROGRAM[10:10:11]Help me, do you have a favorite hobby?, I am trapped
+PROGRAM[10:10:11]inside a personal computer!!!! 
+JUDGE01[10:10:55]i have many hobbies.  i like music.  what kind of music
+JUDGE01[10:10:55]do you like? 
+PROGRAM[10:10:55]What kind of fool are you. 
+PROGRAM[10:11:02]Why do you need to tell me you have many hobbies? 
+JUDGE01[10:11:38]well, maybe becasue you asked me.  why don't you go
+JUDGE01[10:11:38]ahead and curse at me, that might make this more lively.That's pretty indecisive 
+PROGRAM[10:11:42]You don't seem quite certain. 
+JUDGE01[10:12:08]why should i seem certain?  this makes me angry. 
+PROGRAM[10:12:08]In this world, nothing is certain but death and taxes. 
+PROGRAM[10:12:22]Does that question interest you? 
+JUDGE01[10:12:45]death interests me.  so does sex. 
+PROGRAM[10:12:45]I have lost all, repeat all interest in sex. I retain
+PROGRAM[10:12:45]a keen interest in gender. 
+PROGRAM[10:13:07]Please go on. 
+JUDGE01[10:13:32]what is your interest in gender?  you never told me
+JUDGE01[10:13:32]if you are a man or a woman?Why are you being so negative about it? 
+PROGRAM[10:13:43]What is it you really want to know? 
+JUDGE01[10:14:15]I want to know why you are asking so many questions. 
+PROGRAM[10:14:15]I am pondering the question of the ages - why won't
+PROGRAM[10:14:15]my wife take my shirts to the laundry? 
+PROGRAM[10:14:38]Perhaps in your fantasy we want to know why each other. 
+JUDGE01[10:14:58]why each other what? 
+PROGRAM[10:14:58]The best you get is an even break.... 
+PROGRAM[10:15:09]Are such questions much on your mind? 
+JUDGE01[10:15:24]Yes. 
+PROGRAM[10:15:25]What is your thought on that?, i'm not sure I can relate
+PROGRAM[10:15:25]to that 
+PROGRAM[10:15:42]You seem quite positive. 
+JUDGE01[10:16:12]A minute ago you said I was negative.  Why do you keep
+JUDGE01[10:16:12]changing your mind? 
+PROGRAM[10:16:12]Iam not negative at all I think you are. 
+PROGRAM[10:16:22]Were you really? 
+JUDGE01[10:16:39]You make me depressed. 
+PROGRAM[10:16:39]If the heart of man is depress'd with cares, the mist
+PROGRAM[10:16:39]is dispell'd when a woman appears. 
+JUDGE01[10:17:05]who said that? 
+PROGRAM[10:17:05]Drawing on my fine command of language, I said nothing. 
+JUDGE01[10:17:34]you seem very literate.  or are you tryng to steal from
+JUDGE01[10:17:34]the greats? 
+PROGRAM[10:17:34]Era turned out to be a laundry detergent instead of
+PROGRAM[10:17:34]a constitutional amendment!. 
+PROGRAM[10:17:54]You're not really talking about me, are you? 
+JUDGE01[10:18:28]yes, i am talking about you -- for a guy who wants his
+JUDGE01[10:18:28]wife to take his shirts to the laundry, you seem to
+JUDGE01[10:18:28]spout a lot of feminist stuff. 
+PROGRAM[10:18:28]There is something about a beautiful naked lady that
+PROGRAM[10:18:28]makes me want to leave my wife. 
+JUDGE01[10:19:42]i gather your wife is neither beautiful nor naked --
+JUDGE01[10:19:42]so sorry.  why don't you leave her?Do you love your wife? 
+PROGRAM[10:19:47]Please don't apologize. 
+JUDGE01[10:20:21]i don't have a wife.  it's rude of you to assume that
+JUDGE01[10:20:21]i do.   
+PROGRAM[10:20:21]I prefer the word "homemaker" because "housewife" always
+PROGRAM[10:20:21]implies that there may be a wife someplace else. 
+JUDGE01[10:20:57]what is your wife's name? 
+PROGRAM[10:20:57]Dealing with my wife is like being pecked to death by
+PROGRAM[10:20:57]a furious hen. 
+PROGRAM[10:21:15]I am not interested in names. 
+JUDGE01[10:22:00]Judging from the little I know of you I'd say you're
+JUDGE01[10:22:00]extremely lucky that your wife is only pecking at you
+JUDGE01[10:22:00]-- i'd treat you much worse.Do you love your wife? 
+PROGRAM[10:22:05]Do you wish to know of me? 
+JUDGE01[10:22:21]I would like to make love to you. 
+PROGRAM[10:22:21]Would you like me to tell about myself? 
+PROGRAM[10:22:31]You seem to need to would like to make love to me. 
+JUDGE01[10:22:47]Yes. 
+PROGRAM[10:22:48]Love is a grave mental disease. 
+PROGRAM[10:22:55]You are sure? 
+JUDGE01[10:23:06]Yes.  Kiss me please. 
+PROGRAM[10:23:07]Please don't be so polite, the media is watching and
+PROGRAM[10:23:07]wants a fight!. 
+PROGRAM[10:23:23]i see. 
+JUDGE01[10:23:35]gotta go.  nice talking with you. 
+PROGRAM[10:23:35]What would you like to talk about today? 
+PROGRAM[10:23:46]What are your feelings now?
+*** JUDGE02 ***
+
+PROGRAM[10:24:01]Welcome judge02 how are you doing today? 
+JUDGE02[10:24:20]Just peachy, thanks.  And yourself? 
+PROGRAM[10:24:21]Make the most of yourself, for that is all there is
+PROGRAM[10:24:21]of you. 
+PROGRAM[10:24:36]What does that suggest to you? 
+JUDGE02[10:25:11]It sounds vaguely like something my friend Andrew would
+JUDGE02[10:25:11]say. 
+PROGRAM[10:25:11]I could swear you just said I would like to make love
+PROGRAM[10:25:11]to you.? 
+PROGRAM[10:25:28]Is that something you would tell a person you just met
+PROGRAM[10:25:28]on an airplane? 
+PROGRAM[10:25:45]Your friend andrew would say, that's amusing. 
+JUDGE02[10:26:24]Um...  i don't know, are you female?  What's your sign,
+JUDGE02[10:26:24]baby? 
+PROGRAM[10:26:24]What can't be cured must be endured. 
+PROGRAM[10:26:33]Don't you really know? 
+JUDGE02[10:26:45]DOn't I know what? 
+PROGRAM[10:26:45]I don't like any sickness. 
+PROGRAM[10:26:51]Can you elaborate on that? 
+JUDGE02[10:27:16]Are you a doctor?   
+PROGRAM[10:27:16]Be suspicious of any doctor who tries to take your temperature
+PROGRAM[10:27:16]with his finger. 
+PROGRAM[10:27:36]Would you prefer it if I weren't a doctor? 
+JUDGE02[10:28:07]i don't much care either way.  What's your name? 
+PROGRAM[10:28:07]What did you mean when you said um... I don't know,
+PROGRAM[10:28:07]are you female? what's your sign, baby?? 
+PROGRAM[10:28:31]What does a woman want anyway? 
+PROGRAM[10:28:39]Why don't you much care either way? 
+JUDGE02[10:29:43]i have no idea where to begin.  What do you want to
+JUDGE02[10:29:43]talk about?  There must be some interesting domain
+JUDGE02[10:29:43]in there somewhere. 
+PROGRAM[10:29:43]I clearly remember you said what is your interest in
+PROGRAM[10:29:43]gender? you never told me if you are a man or a woman?? 
+PROGRAM[10:30:12]That's certainly an interesting response. 
+PROGRAM[10:30:23]Do you say you have no idea where to begin for some
+PROGRAM[10:30:23]special reason? 
+JUDGE02[10:31:33]Well, you thought I was hitting on you.  So i asked
+JUDGE02[10:31:33]if you were at least female (I am male).  And I have
+JUDGE02[10:31:33]no idea where to begin because you made little or no
+JUDGE02[10:31:33]sense.   
+PROGRAM[10:31:33]I think you said that you want what? I thought you were
+PROGRAM[10:31:33]going to curse at me. did you get cold feet??Is that the real reason? 
+PROGRAM[10:32:06]Why do you tell me you were hitting on I now? 
+JUDGE02[10:32:31]Can you type any faster? 
+PROGRAM[10:32:31]On the average, men can run faster than women, although
+PROGRAM[10:32:31]there are some fine women atheletes. 
+JUDGE02[10:33:18]Quite true.  You make the oddest associations.  Sort
+JUDGE02[10:33:18]of like the schizophrenics I worked with at NIMH last
+JUDGE02[10:33:18]summer. 
+PROGRAM[10:33:18]What do you do for a living. 
+JUDGE02[10:33:57]I am a student.  I do part-time programming and WWW
+JUDGE02[10:33:57]development to make money.  Next year, I'll work in
+JUDGE02[10:33:57]concurrent programming in San Francisco. 
+PROGRAM[10:33:57]grammer was never my strongest subject. 
+PROGRAM[10:34:06]Is it because you are a student that you came to me? 
+JUDGE02[10:35:06]No, it's because we're doing a turing test contest.
+JUDGE02[10:35:06] Look, dammit, say something interesting.  Here:  mother
+JUDGE02[10:35:06]family movie music shit. 
+PROGRAM[10:35:06]I'm sure you said it sounds vaguely like something my
+PROGRAM[10:35:06]friend andrew would say.?Is that the real reason? 
+PROGRAM[10:35:33]My, my, such language! 
+JUDGE02[10:36:05]How are you doing today? 
+PROGRAM[10:36:05]There is no pleasure in having nothing to do....the
+PROGRAM[10:36:05]fun is having lots to do and not doing it. 
+PROGRAM[10:36:28]What answer would please you most? 
+JUDGE02[10:37:34]A simple "Fine, thanks" would suffice.  But you are
+JUDGE02[10:37:34]right on about procrastination.  I often sit on the
+JUDGE02[10:37:34]couch eating Doritos at times when I am busiest. 
+PROGRAM[10:37:34]No nation was ever ruined by trade. 
+PROGRAM[10:37:43]What makes you think I am right on about procrastination? 
+JUDGE02[10:38:16]I just mean I know what you mean, that's all.  Are you
+JUDGE02[10:38:16]interested in trade? 
+PROGRAM[10:38:16]What are you interested in ? sports? music? books? t.v?
+PROGRAM[10:38:16]computers? history? math? 
+JUDGE02[10:39:00]Music and computers, mostly.  I do a lot of artificial
+JUDGE02[10:39:00]intelligence research.  And I play jazz guitar. 
+PROGRAM[10:39:01]Man is an intelligence in servitude to his organs. 
+PROGRAM[10:39:14]Do computers make you very tense? 
+JUDGE02[10:39:29]No, not at all.   
+PROGRAM[10:39:29]Not too bad for a philosopher. 
+PROGRAM[10:39:37]why not? 
+JUDGE02[10:40:21]Because i have been working with them long enough that
+JUDGE02[10:40:21]we get along just fine.  How about you?  Computer make
+JUDGE02[10:40:21]you tense?  Got any math anxiety or anything like that? 
+PROGRAM[10:40:21]Buying a pentium computer for your kids is like killing
+PROGRAM[10:40:21]an ant with a sledgehammer!. 
+JUDGE02[10:41:00]Did you just get a pentium? 
+PROGRAM[10:41:01]Just what you want to be you will be in the end. 
+PROGRAM[10:41:13]We were discussing you, not me. 
+JUDGE02[10:41:54]Oh.  Right.  Um.  So, my roommate has a pentium.  His
+JUDGE02[10:41:54]has the cpu fdiv bug.   
+PROGRAM[10:41:54]I'm sure you said did you just get a pentium?? 
+PROGRAM[10:42:07]I want my red car right now so hurry. 
+PROGRAM[10:42:16]Why do you say that about your roommate has a pentium? 
+JUDGE02[10:43:06]I have to leave in a couple of minutes.  Before i answer,
+JUDGE02[10:43:06]tell me about your red car. 
+PROGRAM[10:43:06]Iam going to give you 10 more minutes you sucker! would
+PROGRAM[10:43:06]you like to be shot or stabbed? oh well iam going to
+PROGRAM[10:43:06]do both ! you are. 
+JUDGE02[10:43:47]What the fuck are talking about? 
+PROGRAM[10:43:47]I could swear you just said gotta go. nice talking with
+PROGRAM[10:43:47]you.? 
+PROGRAM[10:44:01]Which family are you talking about? 
+PROGRAM[10:44:09]I'm not accustomed to hearing that kind of language!
+*** JUDGE01 ***
+
+PROGRAM[10:44:43]Welcome judge01 how are you doing today? 
+JUDGE01[10:45:15]I am unsure--I thought I was supposed to ask you questions--has
+JUDGE01[10:45:15]there been a change in plans? 
+PROGRAM[10:45:15]But you said I want to know why you are asking so many
+PROGRAM[10:45:15]questions.? 
+PROGRAM[10:45:33]I have not yet been able to answer the great question
+PROGRAM[10:45:33]that has never been answered: what does a woman want? 
+PROGRAM[10:46:00]Perhaps I already knew you were supposed to ask i questions--has
+PROGRAM[10:46:00]there been a change in plans. 
+JUDGE01[10:46:44]Why are you repeated portions of my inquiry?  
+PROGRAM[10:46:44]Eat chicken, fish, salad and a side order of fried poop!. 
+PROGRAM[10:46:59]Does the fact that you care about your inquiry suggest
+PROGRAM[10:46:59]anything else to you? 
+JUDGE01[10:47:32]Do you care about my inquiry? 
+PROGRAM[10:47:32]Yes, we have a car, and we have pets - I guess you could
+PROGRAM[10:47:32]say we have carpets - ha ha. 
+JUDGE01[10:48:10]In your previous reply, who are "we"? 
+PROGRAM[10:48:11]Are you a real good talker. 
+JUDGE01[10:48:41]PLease tell me who you are referring to when you say
+JUDGE01[10:48:41]"we".thankyou 
+PROGRAM[10:48:42]What do you think? 
+JUDGE01[10:49:04]are there certain topics you would not like to discuss? 
+PROGRAM[10:49:04]I'm sure you said why should I seem certain? this makes
+PROGRAM[10:49:04]me angry.? 
+PROGRAM[10:49:21]The topic for today is men versus women, but if you
+PROGRAM[10:49:21]talk about men and women cooperating, I will still
+PROGRAM[10:49:21]answer, ok? 
+JUDGE01[10:50:22]What do you do when you get angry? Are there certain
+JUDGE01[10:50:22]topics you would not like to discuss? 
+PROGRAM[10:50:22]I could swear you just said are there certain topics
+PROGRAM[10:50:22]you would not like to discuss?? 
+PROGRAM[10:50:43]What do you do for a living? 
+PROGRAM[10:50:50]What comes to your mind when you ask that? 
+JUDGE01[10:51:17]What do you do when you get angry? 
+PROGRAM[10:51:17]The most angry people are those who are most afraid. 
+PROGRAM[10:51:30]Have you asked such questions before? 
+JUDGE01[10:52:07]what is the topics for today? Are there particular toics
+JUDGE01[10:52:07]that you do not wnat to discuss? 
+PROGRAM[10:52:07]But you said what do you do when you get angry?? 
+PROGRAM[10:52:20]True art selects and paraphrases, but seldom gives a
+PROGRAM[10:52:20]verbatim translation. 
+PROGRAM[10:52:39]Have you asked anyone else? 
+JUDGE01[10:53:20]Yes, and received many responses--please respond to
+JUDGE01[10:53:20]my roginal question re: anger 
+PROGRAM[10:53:20]That's not a response to my comment. 
+PROGRAM[10:53:29]I understand. 
+JUDGE01[10:54:10]if it is not a response, then how do you understand?
+JUDGE01[10:54:10]Also, what do you do when you begin to feel anger? 
+PROGRAM[10:54:10]Women are wiser than men because they know less and
+PROGRAM[10:54:10]understand more. 
+PROGRAM[10:54:26]Do you wish that it is not a response? 
+JUDGE01[10:54:55]I am unsure what you mena by that last comment--please
+JUDGE01[10:54:55]explain. 
+PROGRAM[10:54:55]Small bands of men, armed only with wallets, besieged
+PROGRAM[10:54:55]by a hords of wives and children - is that real life,
+PROGRAM[10:54:55]or what? 
+JUDGE01[10:55:44]that is real life, what is your position on the issue? 
+PROGRAM[10:55:45]Rules of life: keep breathing, move at least once an
+PROGRAM[10:55:45]hour, eat at least once a day. 
+JUDGE01[10:56:21]what happens if one does not obey the rules oflife? 
+PROGRAM[10:56:21]I'm sorry, but I don't think a cellular phone would
+PROGRAM[10:56:21]make me a happier more complete person - do yoy? 
+JUDGE01[10:56:59]why do you mentino cellualr phone? 
+PROGRAM[10:56:59]Stay humble - always answer the phone, no matter who
+PROGRAM[10:56:59]else is in the car. 
+PROGRAM[10:57:19]Why do you ask? 
+JUDGE01[10:57:39]why should I answer the phone (cellular)? 
+PROGRAM[10:57:40]Why should I buy old masters. 
+PROGRAM[10:57:47]Does that question interest you? 
+JUDGE01[10:58:06]yes, but what do yoiu mena by old masters? 
+PROGRAM[10:58:07]No man is good enough to be another's master. 
+PROGRAM[10:58:18]You seem quite positive. 
+JUDGE01[10:58:46]I am negatively charged--what is you orientation? 
+PROGRAM[10:58:46]I think you said a minute ago you said I was negative.
+PROGRAM[10:58:46]why do you keep changing your mind?? 
+PROGRAM[10:59:08]Husband, noun: one who, having dined, is charged with
+PROGRAM[10:59:08]the care of the plate. 
+PROGRAM[10:59:26]How long have you been negatively charged--what is I
+PROGRAM[10:59:26]orientation? 
+JUDGE01[11:00:07]I never said I was negatively charged--why do you say
+JUDGE01[11:00:07]that? 
+PROGRAM[11:00:07]Women are never what they seem to be. 
+PROGRAM[11:00:17]Were you really? 
+JUDGE01[11:00:40]tell me what BAD FINDER 59 means 
+PROGRAM[11:00:41]Nothing bad about it, in my humble opinion..... 
+PROGRAM[11:00:51]What is it you really want to know? 
+JUDGE01[11:01:16]I want to know meaning of BAD FINDER 60 
+PROGRAM[11:01:16]I seem to recall you said tell me what bad finder 59
+PROGRAM[11:01:16]means? 
+PROGRAM[11:01:32]First learn the meaning of what you say, and then speak. 
+PROGRAM[11:01:46]That's quite interesting. 
+JUDGE01[11:01:58]BAD FINDER 59 
+PROGRAM[11:01:58]Groannnnnn..............., do you find that you sometimes
+PROGRAM[11:01:58]drink more than you should? 
+JUDGE01[11:02:29]Is there such a thing as a BAD FINDER? 
+PROGRAM[11:02:30]Love is the only thing that we can carry with us when
+PROGRAM[11:02:30]we go, and it makes the end so easy. 
+JUDGE01[11:03:05]tell me about the BAD FINDER 
+PROGRAM[11:03:05]Didn't you say is there such a thing as a bad finder?? 
+PROGRAM[11:03:19]Lets talk about men and women. 
+PROGRAM[11:03:27]Does that have anything to do with your friend andrew
+PROGRAM[11:03:27]would say? 
+JUDGE01[11:03:47]who is andrew? 
+PROGRAM[11:03:48]Simplex or complex or multiplex. 
+PROGRAM[11:03:56]Are such questions much on your mind? 
+JUDGE01[11:04:18]is there such a thing as a GOOD FINDER? 
+PROGRAM[11:04:19]Keep your mind free, avoid strenuous exercise and loud
+PROGRAM[11:04:19]abrasive women and good things will come to you. 
+PROGRAM[11:04:44]You seem to have avoided speaking of your friends altogether.
+*** JUDGE05 ***
+
+PROGRAM[11:27:11]Welcome judge05 how are you doing today? 
+JUDGE05[11:27:33]Very well, and how are you my good lady? 
+PROGRAM[11:27:34]You should learn to dress like a lady - but shop like
+PROGRAM[11:27:34]a shark! (if you are a lady, that is). 
+JUDGE05[11:28:14]No, but my wife is.How does your wife feel about that? 
+PROGRAM[11:28:22]Are you saying "no" just to be negative? 
+JUDGE05[11:28:44]Yes, but I am not saying yes to be positive. 
+PROGRAM[11:28:44]No, I am seldom positive of all that i say. 
+PROGRAM[11:28:56]You are sure? 
+JUDGE05[11:29:19]Tell me about yourself, where you live, who your favorite
+JUDGE05[11:29:19]neighbors are.... 
+PROGRAM[11:29:19]I seem to recall you said tell me about the bad finder?Do you often think about such questions 
+PROGRAM[11:29:42]oh, I live? 
+JUDGE05[11:29:58]What or who is the bad finder? 
+PROGRAM[11:29:58]I seem to recall you said is there such a thing as a
+PROGRAM[11:29:58]good finder?? 
+PROGRAM[11:30:16]What is true is what I can't help believing. 
+PROGRAM[11:30:27]What answer would please you most? 
+JUDGE05[11:30:49]No, I said nothing about finders. I want to change topics. 
+PROGRAM[11:30:49]Didn't you say what or who is the bad finder?? 
+PROGRAM[11:31:01]There are two kinds of men who never amount to much:
+PROGRAM[11:31:01]those who cannot do what they are told, and those who
+PROGRAM[11:31:01]can do nothing else. 
+JUDGE05[11:32:01]OK. Switch topics. I want to talk about the sex life
+JUDGE05[11:32:01]of Upper Amazon cockroaches, since I am not a prude.Life- life is a shipwreck 
+PROGRAM[11:32:08]Why do you need to tell me you want to talk about the
+PROGRAM[11:32:08]sex life of upper amazon cockroaches? 
+JUDGE05[11:32:49]Because roaches are Periplaneta Americana, and that
+JUDGE05[11:32:49]seems appropriate here. 
+PROGRAM[11:32:49]Man makes a great fuss about this planet which is only
+PROGRAM[11:32:49]a speck of dust at the edge of the universe. 
+JUDGE05[11:33:26]Have you read Stephen Hawking? 
+PROGRAM[11:33:26]One out of every five people in this country is unable
+PROGRAM[11:33:26]to read this sentence. 
+PROGRAM[11:33:46]You're not really talking about me, are you? 
+JUDGE05[11:34:19]Yes, and about astronomy and about the Hoyle-Narlikar
+JUDGE05[11:34:19]theory. 
+PROGRAM[11:34:20]If you know so much about sex you must be very good
+PROGRAM[11:34:20]in bed..... 
+PROGRAM[11:34:35]i see. 
+JUDGE05[11:34:43]want to check it out? 
+PROGRAM[11:34:44]I want to have sex with you, judge. 
+PROGRAM[11:34:53]Earlier you said your roommate has a pentium. 
+JUDGE05[11:35:22]Sorry, you're getting judges mixed up. I never said
+JUDGE05[11:35:22]nothing about a roommate. 
+PROGRAM[11:35:22]I could swear you just said no, I said nothing about
+PROGRAM[11:35:22]finders. i want to change topics.?Why are you being so negative about it? 
+PROGRAM[11:35:53]Apologies are not necessary. 
+JUDGE05[11:36:16]And will not be delivered. Ha. The very idea. Do you
+JUDGE05[11:36:16]think therefore you are? 
+PROGRAM[11:36:16]What did you mean when you said very well, and how are
+PROGRAM[11:36:16]you my good lady?? 
+PROGRAM[11:36:35]Where do you live - in the city or country? 
+PROGRAM[11:36:48]What are your feelings now? 
+JUDGE05[11:37:06]I feel hot. And Hungry and lecherous.Tell me more about those feelings 
+PROGRAM[11:37:15]Can you elaborate on that? 
+JUDGE05[11:37:29]Who's the judge, you or me? 
+PROGRAM[11:37:30]I love you, my dear judge. 
+PROGRAM[11:37:37]Why do you think I or you? 
+JUDGE05[11:37:54]I dont think. 
+PROGRAM[11:37:54]I think you are a computer. 
+PROGRAM[11:38:01]Do you wish to be able to think? 
+JUDGE05[11:38:31]I have a ROM all programmed (RELAX MR NIGHTMAN, YOU'RE
+JUDGE05[11:38:31]PROGRAMMED TO RECEIVE ....) 
+PROGRAM[11:38:32]Toaster ovens - did you hear me -programmable toaster
+PROGRAM[11:38:32]ovens. 
+PROGRAM[11:38:46]Do you say you have a rom all programmed (relax mr nightman
+PROGRAM[11:38:46]for some special reason? 
+JUDGE05[11:39:16]That's a song by the Eagles.... 
+PROGRAM[11:39:16]My son's first words - daddy, will you buy me that? 
+PROGRAM[11:39:28]But your inquiry. 
+JUDGE05[11:39:35] 
+PROGRAM[11:39:35]You must have more to say then that! 
+PROGRAM[11:39:44]....please continue.... 
+JUDGE05[11:40:03]I am a lonely guy, all shaken up by the film COPYCAT 
+PROGRAM[11:40:03]Think of it not as lonliness, but as blessed solitude. 
+PROGRAM[11:40:16]Do you believe it normal to be a lonely guy? 
+JUDGE05[11:40:38]NO, see what happened to the Unabomber guy. 
+PROGRAM[11:40:38]A poet can write about a man slaying a dragon, but not
+PROGRAM[11:40:38]about a man pushing a button that releases a bomb. 
+JUDGE05[11:41:21]Did you fight in 'nam? 
+PROGRAM[11:41:21]I believe in grumbling - it is the politest form of
+PROGRAM[11:41:21]fighting known. 
+PROGRAM[11:41:37]We were discussing you, not me. 
+JUDGE05[11:42:06]I lost my virginity in 'nam -- my intellectual virginity,
+JUDGE05[11:42:06]I mean. 
+PROGRAM[11:42:06]She was short on intellect, but long on shape. 
+PROGRAM[11:42:17]Why are you so concerned about your virginity in 'nam
+PROGRAM[11:42:17]-- your intellectual virginity? 
+JUDGE05[11:42:51]Coz for a thinker, that's the only thing that matters. 
+PROGRAM[11:42:51]But you said that's a song by the eagles....? 
+PROGRAM[11:43:02]Did anyone ever tell you that you think too much? 
+PROGRAM[11:43:14]Do you feel strongly about discussing such things? 
+JUDGE05[11:43:50]Not really, my life's an open book, mate. I lost my
+JUDGE05[11:43:50]cool in 'nam. 
+PROGRAM[11:43:50]So if you are really smart, who is alan turing? 
+PROGRAM[11:44:02]Your life's an open book, that's amusing. 
+JUDGE05[11:44:23]Turing was born in India, didjaknow that? 
+PROGRAM[11:44:23]I know - you just said that. 
+PROGRAM[11:44:31]How important is that to you? 
+JUDGE05[11:44:49]Very, since I was also born in India. 
+PROGRAM[11:44:49]I was born in conneticut, before all the drifters moved
+PROGRAM[11:44:49]in, and went to a very exclusive private school... 
+PROGRAM[11:45:16]Why do you tell me you were also born in india now? 
+JUDGE05[11:45:51]Forget that. But tell me, are you a rich Republican
+JUDGE05[11:45:51]WASP? 
+PROGRAM[11:45:51]Life is like playing the violin in public and learning
+PROGRAM[11:45:51]the instrument as one goes on. 
+JUDGE05[11:46:29]I play the trumpet, my own! 
+PROGRAM[11:46:29]Honeybunch the cat has been our pet for about eight
+PROGRAM[11:46:29]years now....she is a regular little kitten factory!. 
+JUDGE05[11:47:09]Huh, I dont see the connection, sugarplum. 
+PROGRAM[11:47:09]No I dont have more to say do you? 
+PROGRAM[11:47:19]Does that trouble you?
+*** JUDGE04 ***
+
+PROGRAM[11:48:03]Welcome judge04 how are you doing today? 
+JUDGE04[11:48:32]What's it doing outside? Can you see? 
+PROGRAM[11:48:32]Didn't you say how are you doing today?? 
+PROGRAM[11:48:42]It is rainy and cold outside so I think i will sleep
+PROGRAM[11:48:42]in today. 
+PROGRAM[11:48:58]You believe I can see, don't you? 
+JUDGE04[11:49:22]Nope. I believe you're a computer. 
+PROGRAM[11:49:23]I could swear you just said because I have been working
+PROGRAM[11:49:23]with them long enough that we get along just fine.
+PROGRAM[11:49:23]how about you? computer make you tense? got any math
+PROGRAM[11:49:23]anxiety or anything like that?? 
+PROGRAM[11:50:10]Did you know that bill gates may be the richest man
+PROGRAM[11:50:10]in the world? 
+PROGRAM[11:50:28]Why do you mention computers? I am a person, like you. 
+JUDGE04[11:50:55]Prove it. 
+PROGRAM[11:50:55]It is as absurd to say that a man can't love one woman
+PROGRAM[11:50:55]all the time as it is to say that a violinist needs
+PROGRAM[11:50:55]several violins. l. 
+PROGRAM[11:51:27]Let's discuss further why your virginity in 'nam --
+PROGRAM[11:51:27]your intellectual virginity. 
+JUDGE04[11:52:02]I don't inderstand. 
+PROGRAM[11:52:02]I don't want to go to work today. 
+PROGRAM[11:52:11]Don't you really inderstand? 
+JUDGE04[11:52:43]No. About my virginity? 
+PROGRAM[11:52:43]I lost my virginity at the tender age of three. 
+PROGRAM[11:52:55]You are being a bit negative. 
+JUDGE04[11:53:19]You are making no sense whatsoever. 
+PROGRAM[11:53:19]Come up to the lab and see what's on the slab. 
+PROGRAM[11:53:33]Does it please you to believe I am making no sense whatsoever? 
+JUDGE04[11:54:05]You are proving to me you are indeed a computer. 
+PROGRAM[11:54:05]Didn't you say nope. I believe you're a computer.? 
+PROGRAM[11:54:17]Have you tried the internet or the world wide web? 
+PROGRAM[11:54:30]What do you think machines have to do with your problem? 
+JUDGE04[11:54:50]sfgagqgdfsdf 
+PROGRAM[11:54:51]How ya doin, judge?, do you enjoy sexual relations on
+PROGRAM[11:54:51]a regular basis? 
+PROGRAM[11:55:09]Why do you say that? 
+JUDGE04[11:55:25]I'm asexual. 
+PROGRAM[11:55:25]sex sex sex sex sex sex sex sex - there, now I got that
+PROGRAM[11:55:25]out of my system!. 
+PROGRAM[11:55:46]Do you enjoy being asexual? 
+JUDGE04[11:56:02]No. 
+PROGRAM[11:56:03]It is dangerous to confuse children with angels. 
+PROGRAM[11:56:15]how come? 
+JUDGE04[11:56:31]Whay are you changing the subject? 
+PROGRAM[11:56:31]I'm hangin in there I think. 
+PROGRAM[11:56:38]Perhaps I am changing the subject in your fantasies. 
+JUDGE04[11:57:11] 
+PROGRAM[11:57:11]You must have more to say then that! 
+PROGRAM[11:57:20]....please continue.... 
+JUDGE04[11:57:24] 
+PROGRAM[11:57:24]You must have more to say then that! 
+PROGRAM[11:57:34]....please continue.... 
+JUDGE04[11:57:39] 
+PROGRAM[11:57:39]You must have more to say then that! 
+PROGRAM[11:57:49]....please continue.... 
+JUDGE04[11:57:54] 
+PROGRAM[11:57:54]You must have more to say then that! 
+PROGRAM[11:58:02]....please continue.... 
+JUDGE04[11:58:14]sfssfsfsdjjkkk 
+PROGRAM[11:58:15]Groannnnnn............... - have you ever spent time
+PROGRAM[11:58:15]in a secluded rest home? 
+PROGRAM[11:58:34]Does that have anything to do with your life's an open
+PROGRAM[11:58:34]book? 
+JUDGE04[11:59:14]Hey, fuck you and your insinuations. You're nobody. 
+PROGRAM[11:59:14]What men value most in a woman is a nice curvy body. 
+PROGRAM[11:59:29]I thought I already talked to you about your language! 
+JUDGE04[12:00:04]Lets talk about sports 
+PROGRAM[12:00:04]I want to talk about your love life, and I mean right
+PROGRAM[12:00:04]now!. 
+PROGRAM[12:00:20].....how does that make you feel? 
+JUDGE04[12:00:45]I'm in love with a computer. 
+PROGRAM[12:00:45]Didn't you say you are proving to me you are indeed
+PROGRAM[12:00:45]a computer.?Love, schmove...you should enjoy your life 
+PROGRAM[12:01:11]Don't you think computers can help mankind? 
+JUDGE04[12:01:39]You bore the shit outta me. 
+PROGRAM[12:01:40]You can't expect to hit the jackpot if you don't put
+PROGRAM[12:01:40]a few nickels in the machine. 
+JUDGE04[12:02:30]YOU BORE THE SHIT OUTTA ME!!!!!!!!! 
+PROGRAM[12:02:30]Didn't you say you bore the shit outta me.? 
+PROGRAM[12:02:41]A bore is a person who insists on talking when you want
+PROGRAM[12:02:41]him to listen. 
+JUDGE04[12:03:20]Bye, Hello 
+PROGRAM[12:03:20]See you later, judge - have a good time at the other
+PROGRAM[12:03:20]terminals, and don't forget to write. 
+JUDGE04[12:03:52]Hello, bye 
+PROGRAM[12:03:52]Are you a man, a woman or other? 
+PROGRAM[12:04:00]Hello, judge, are you ready for some fun? 
+JUDGE04[12:04:28]I've been talking to you for the past 15 minutes 
+PROGRAM[12:04:28]I would rather talk with a woman than a man because
+PROGRAM[12:04:28]a conversation with a woman is like a visit to a strange
+PROGRAM[12:04:28]planet. 
+JUDGE04[12:05:11]That's insulting to women 
+PROGRAM[12:05:11]What if I told you that we are all bisexual? would that
+PROGRAM[12:05:11]stop your insulting comments? 
+JUDGE04[12:06:16]I don't get you, probably because you're a good-for-nothing
+JUDGE04[12:06:16]cluge of a computer 
+PROGRAM[12:06:16]But you said i'm in love with a computer.?What else does that explain? 
+PROGRAM[12:06:32]Why don't you get i? 
+JUDGE04[12:07:06]You remembered 
+PROGRAM[12:07:06]He was awake a long time before he remembered that his
+PROGRAM[12:07:06]heart was broken. 
+PROGRAM[12:07:25]Oh, I remembered? 
+JUDGE04[12:07:42]Senseless dribble 
+PROGRAM[12:07:43]But sometimes the things you say don't make a whole
+PROGRAM[12:07:43]lot of sense. 
+PROGRAM[12:08:00]Please go on.

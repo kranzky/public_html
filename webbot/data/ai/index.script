@@ -1,0 +1,97 @@
+(1)
+"artificial.*"
+{
+	response =  "Ai has a revolutionary approach to Artificial Intelligence. We believe that to create Artificial Intelligence, it is essential that you emulate natural language capabilities. You can read more about this subject on the page #CONTENT_LOCATION#.";
+	response += "<ACTION>url:#LANGUAGE_PAGE#</ACTION>";
+	changecontext("default");
+}
+[]
+-1
+
+(1)
+"intelligence"
+{
+	response =  "I don't know how to define intelligence. You define intelligence. It's all in your eyes.";
+	response += "<ACTION>url:#LANGUAGE_PAGE#</ACTION>";
+	changecontext("default");
+}
+[]
+-1
+
+(1)
+"ethical"
+{
+	response =  "People were worried about the implications of the steam engine and other technologies which, in the long run, have proven to be extremely useful.";
+	response += "<ACTION>url:#LANGUAGE_PAGE#</ACTION>";
+	changecontext("default");
+}
+[]
+-1
+
+(1)
+"strong ai"
+"weak ai"
+{
+	response =  "We are proponents of what is customarily called 'weak AI'. That means that we are not trying to simulate the human brain but rather to emulate human behavior.";
+	response += "<ACTION>url:#LANGUAGE_PAGE#</ACTION>";
+	changecontext("default");
+}
+[]
+-1
+
+(1)
+"really understand"
+{
+	response =  "If a computer appears to understand and behaves accordingly, then this question is meaningless.";
+	response += "<ACTION>url:#LANGUAGE_PAGE#</ACTION>";
+	changecontext("default");
+}
+[]
+-1
+
+(1)
+"machines think"
+{
+	response =  "Machines can and will think in your lifetime.";
+	response += "<ACTION>url:#LANGUAGE_PAGE#</ACTION>";
+	changecontext("default");
+}
+[]
+-1
+
+(1)
+"agent"
+{
+	response =  "In computer science terms, an agent is a piece of software that does things autonomously on behalf of a user.";
+	changecontext("default");
+}
+[]
+-1
+
+(1)
+"machine learning"
+{
+	if (mach_learn_state ==0) {mach_learn_state=1;}
+	changecontext("machinelearn");
+	throw(input);
+}
+[]
+-1
+
+(1)
+""
+{
+	changecontext("default");
+	throw(input);
+}
+[]
+-999
+
+(1)
+""
+{
+	changecontext("default");
+	throw(input);
+}
+[]
+-999

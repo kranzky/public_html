@@ -1,0 +1,111 @@
+<? Include("Functions.html"); ?>
+<? $title = "Process Registration"; ?>
+<? Include("Header.html"); ?>
+
+<?
+Srand(Date("s"));
+
+$e_email=Clean_Word($e_email);
+if($e_email=="") {
+	Error("", "error/register2.html");
+}
+
+if($e_abide != "Yes") {
+	Error("", "error/register3.html");
+}
+
+	mysql_connect("localhost","hutch","wally37");
+	mysql_select_db("experiments");
+	$result=mysql_query("SELECT email FROM user_details WHERE email = '$e_email'");
+	$num = mysql_num_rows($result);
+	if($num!=0) {
+		Error("", "error/register1.html");
+	}
+
+	$e_id=0;
+	$password0[]="Ob";	
+	$password0[]="It";	
+	$password0[]="Th";	
+	$password0[]="Ch";	
+	$password0[]="Aw";	
+	$password0[]="Um";	
+	$password0[]="Er";	
+	$password0[]="Sh";	
+	$password1[]="ag";	
+	$password1[]="ok";	
+	$password1[]="it";	
+	$password1[]="uz";	
+	$password1[]="ep";	
+	$password1[]="al";	
+	$password1[]="em";	
+	$password1[]="on";	
+	$password2[]="li";	
+	$password2[]="ha";	
+	$password2[]="ru";	
+	$password2[]="fo";	
+	$password2[]="pe";	
+	$password2[]="mu";	
+	$password2[]="ya";	
+	$password2[]="bu";	
+	$password3[]="th";	
+	$password3[]="sh";	
+	$password3[]="ch";	
+	$password3[]="ng";	
+	$password3[]="re";	
+	$password3[]="ny";	
+	$password3[]="ck";	
+	$password3[]="nt";	
+
+	$e_password="";
+	$i=Rand()%4096+Rand()%($e_id+1);
+	$j=0;
+	while($j<4) {
+		$array="password$j";
+		$e_password.=$$array[$i%8];
+		$i=$i/8;
+		$j+=1;
+	}
+
+	if($e_name=="") { $e_name="Anonymous"; }
+	if(($e_gender!="M") && ($e_gender!="F")) { $e_gender="X"; }
+	if($e_age=="") { $e_age=0; }
+	if($e_nationality=="") { $e_nationality="Unspecified"; }
+	if(($e_english!="Y") && ($e_english!="N")) { $e_english="X"; }
+	if($e_list!="Y") { $e_list="N"; }
+
+	$result=mysql_query("SELECT val FROM global WHERE name ='num_user'");
+	$user=mysql_result($result, 0, "val");
+	$user+=1;
+	$result=mysql_query("UPDATE global SET val=$user WHERE name='num_user'"); 
+
+	$u_password=strtoupper($e_password);
+
+	$result=mysql_query("insert into user_details values ('$e_email', '$u_password', $user)");
+	$result=mysql_query("insert into user_info values ($user, '$e_name', '$e_gender', $e_age, '$e_nationality', '$e_english', '$e_list', 0, 0, 0, 0, 0, 0, 0, 0, 0)");
+
+	$message = "";
+	$message .= "Hello $e_name,\n\n";
+	$message .= "Thank-you very much for agreeing to take part in my online\n";
+	$message .= "experiments.  These experiments are now officially finished,\n";
+	$message .= "but you will still be able to participate for a short time.\n";
+	$message .= "To log on, enter your email address and the following\n";
+	$message .= "password:\n\n";
+	$message .= "  $e_password\n\n";
+	$message .= "Thanks once again for participating,\n\n";
+	$message .= "- Jason Hutchens.\n";
+
+	Send_Mail($e_email, "hutch@tmbg.org", "Ai Online Laboratory Registration", $message);
+	Send_Mail("hutch@tmbg.org", "hutch@tmbg.org", "New registration from $e_email", $message);
+?>
+
+<H2>Registration Accepted</H2>
+Your registration has been accepted.  You have been emailed with a
+password.  Please keep this password secret, as it violates the
+rules to reveal it to anyone.  Once you have received the email,
+you may begin to participate in the experiments immediately.  If
+you don't receive the email soon, please notify me.
+<P>
+You may now
+<A HREF="Index.html">return to the main page</A> in order to log on.
+
+<? Include("Footer.html"); ?>

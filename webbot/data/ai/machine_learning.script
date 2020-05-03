@@ -1,0 +1,43 @@
+(mach_learn_state==0)
+""
+{
+	response+="Do you want to learn what Machine Learning is?";
+	mach_learn_state=1;
+}
+[]
+
+(mach_learn_state==1)
+""
+{
+	response+="When you want to predict what is going to happen in the future, you simply reach into a database of all your previous experiences, grab some similar experiences, combine them and use the combination to make your prediction. That’s what Machine Learning is all about.";
+	changecontext("default");
+	mach_learn_state=2;
+}
+[]
+
+(mach_learn_state==1)
+"#BYE_WORD#"
+{
+	mach_learn_state=2;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+(1)
+""
+{
+	changecontext("default");
+	throw(input);
+}
+[]
+-999
+
+(1)
+""
+{
+	changecontext("default");
+	throw(input);
+}
+[]
+-999

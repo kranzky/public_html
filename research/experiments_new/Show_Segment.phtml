@@ -1,0 +1,89 @@
+<? Include("Verify.phtml"); >
+<? Include("Maintainer.phtml"); >
+<? Include("Functions.phtml"); >
+<? $title = "Segment Experiment"; >
+<? Include("Header.phtml"); >
+
+<?
+	msql_connect("localhost");
+	$result=msql("hutch", "SELECT bitmap,size FROM segment_data WHERE experiment=$segment");
+	$solution=msql_result($result, 0, "bitmap");
+	$size=msql_result($result, 0, "size");
+	if(IsSet($user));
+		echo "<H2>Show Segment</H2>";
+		echo "Displayed below is the list of words for this segmentation ";
+		echo "experiment.  Valid words are displayed in bold.  The asterisks ";
+		echo "to the left of the words indicate the ones selected by the user.";
+		$result=msql("hutch", "SELECT bitmap FROM segment WHERE user=$user and experiment=$segment");
+		$bitmap=msql_result($result, 0, "bitmap");
+		$result=msql("hutch", "SELECT word FROM segment_data_info WHERE experiment=$segment");
+		$i=0;
+		echo "<P><CENTER><TABLE CELLSPACING=0 CELLPADDING=2>";
+		while($i<$size);
+			$word=msql_result($result, $i, "word");
+			echo "<TR><TD>";
+			$a=substr($bitmap, $i, 1);
+			$b=substr($solution, $i, 1);
+			if($a=="1");
+				echo "*";
+			endif;
+			echo "</TD><TD BGCOLOR=\"EEEEBB\">";
+			if($b=="1");
+				echo "<B>$word</B>";
+			else;
+				echo "$word";
+			endif;
+			echo "</TD></TR>";
+			$i+=1;
+		endwhile;
+		echo "</TABLE></CENTER>";
+		echo "<P>You can also see <A HREF=\"Show_Segment.phtml?segment=$segment\">statistics averaged over all users</A> for this experiment.";
+	else;
+		echo "<H2>Show Segment</H2>";
+		echo "Displayed below is the list of words for this segmentation ";
+		echo "experiment.  Valid words are displayed in bold.  The numbers ";
+		echo "to the left of the words indicate the proportion of users who";
+		echo "selected them.";
+		$result2=msql("hutch", "SELECT bitmap FROM segment WHERE experiment=$segment");
+		$num=msql_numrows($result2);
+		Echo "<H2>$num users completed this experiment</H2>";
+		$i=0;
+		while($i<$size);
+			$count[$i]=0;
+			$i++;
+		endwhile;
+		$i=0;
+		while($i<$num);
+			$bitmap=msql_result($result2, $i, "bitmap");
+			$j=0;
+			while($j<$size);
+				$a=substr($bitmap, $j, 1);
+				if($a=="1");
+					$count[$j]+=1;
+				endif;
+				$j++;
+			endwhile;
+			$i++;
+		endwhile;
+		$result=msql("hutch", "SELECT word FROM segment_data_info WHERE experiment=$segment");
+		$i=0;
+		echo "<P><CENTER><TABLE CELLSPACING=0 CELLPADDING=2>";
+		while($i<$size);
+			$word=msql_result($result, $i, "word");
+			echo "<TR><TD>";
+			$b=substr($solution, $i, 1);
+			Echo doubleval($count[$i])/doubleval($num);
+			echo "</TD><TD BGCOLOR=\"EEEEBB\">";
+			if($b=="1");
+				echo "<B>$word</B>";
+			else;
+				echo "$word";
+			endif;
+			echo "</TD></TR>";
+			$i+=1;
+		endwhile;
+		echo "</TABLE></CENTER>";
+	endif;
+>
+
+<? Include("Footer.phtml"); >

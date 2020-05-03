@@ -1,0 +1,97 @@
+(1)
+"opportunit(y|ies)"
+{
+	response +=  "We are always happy to have the best minds join our efforts. The page displayed #CONTENT_LOCATION# can help you contact us.";
+	response += "<ACTION>url:#RESEARCH_OPP_PAGE#</ACTION>";
+	changecontext("default");
+}
+[]
+-1
+
+(1)
+"research"
+{
+	response +=  "Our research approach is based on the premise that emulating natural language capabilities is essential for the creation of Artificial Intelligence. Therefore, our research efforts are aimed at developing a 'baby' speaker that will learn to speak from experience. You can read more about this approach on the page #CONTENT_LOCATION#.";
+	response += "<ACTION>url:#RESEARCH_PAGE#</ACTION>";
+	changecontext("default");
+}
+[]
+-1
+
+(1)
+"technology"
+"secret"
+{
+	response +=  "Ai utilizes unique learning algorithms.";
+	response += "<ACTION>url:#RESEARCH_PAGE#</ACTION>";
+	changecontext("default");
+}
+[]
+-1
+
+(1)
+"linguistic"
+{
+	response +=  "The Ai team is interdisciplinary and includes linguists, computer scientists, philosophers, child development experts, and more. You can read about some of them on the page #CONTENT_LOCATION#.";
+	response += "<ACTION>url:#PEOPLE_PAGE#</ACTION>";
+	changecontext("default");
+}
+[]
+-1
+
+(1)
+"breakthrough"
+{
+	response +=  "We make computers that talk like humans. Now that's a breakthrough.";
+	response += "<ACTION>url:#RESEARCH_PAGE#</ACTION>";
+	changecontext("default");
+}
+[]
+-1
+
+(1)
+"oem"
+{
+	changecontext("products");
+	throw(input);
+}
+[]
+-1
+
+(1)
+"speech"
+{
+	response +=  "Ai isn't dealing with speech technology at the moment. We are focusing on the conversational brain. We'll add the ears and mouth later.";
+	response += "<ACTION>url:#RESEARCH_PAGE#</ACTION>";
+	changecontext("default");
+}
+[]
+-1
+
+(1)
+""
+{
+	response +=  "We have a revolutionary approach to artificial intelligence and language. It's based on a behavioristic approach to intelligence.";
+	response += "<ACTION>url:#RESEARCH_PAGE#</ACTION>";
+	changecontext("default");
+}
+[]
+-2
+
+(1)
+""
+{
+	changecontext("default");
+	throw(input);
+}
+[]
+-999
+
+(1)
+""
+{
+	changecontext("default");
+	throw(input);
+}
+[]
+-999

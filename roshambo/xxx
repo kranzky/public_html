@@ -1,0 +1,94 @@
+<!DOCTYPE HTML PUBLIC "-//Netscape Comm. Corp.//DTD HTML//EN">
+<HTML>
+<HEAD>
+<TITLE>MegaHAL</TITLE>
+<LINK REV="made" HREF="mailto:hutch@ciips.ee.uwa.edu.au">
+</HEAD>
+<BODY>
+<H1>MegaHAL</H1>
+<P>MegaHAL, named in honour of
+<A HREF="../../hal/">a conversation simulator of mine</A>, was my entry
+into the
+<A HREF="http://www.cs.ualberta.ca/~darse/rsbpc.html">First International
+RoShamBo Programming Competition</A>, which was conducted by Darse Billings.
+MegaHAL came third in the competition, behind the excellent
+<A HREF="http://ofb.net/~egnor/iocaine.html">Iocaine Powder</A> of Dan
+Egnor, and Phasenbott by Jakob Mandelson.
+This web page is a brief attempt to explain how the MegaHAL
+algorithm works.</P>
+<H2>Source Code</H2>
+<P>Please feel free to download the source code to the MegaHAL algorithm.
+To compile it with Darse's tournament program (available from
+<A HREF="http://www.cs.ualberta.ca/~darse/rsbpc.html">the competition home
+page</A>), I recommend that you modify the tournament program by adding
+an external declaration to the halbot() function, and then linking the
+code as follows:<PRE>gcc -o roshambo roshambo.c megahal.c</PRE></P>
+<P>I have also written a simple program which allows a human being to play
+against a RoShamBo algorithm.  You may compile that as follows:
+<PRE>gcc -o shell shell.c megahallc -lcurses</PRE></P>
+<UL>
+<LI><A HREF="megahal.c">megahal.c</A> (18Kb)</LI>
+<LI><A HREF="shell.c">shell.c</A> (15Kb)</LI>
+</UL>
+<H2>Prediction</H2>
+<P>My opinion, as I have stated on the <TT>comp.ai.games</TT> newsgroup
+often enough, is that Darse's competition provides an ideal test-bed for
+predictive algorithms, or <I>predictors</I>.  I have worked with predictors
+for the last five years, applying them to various syntactic pattern
+recognition problems, speech recognition, text generation and data
+compression.</P>
+<P>A predictor is an algorithm which is able to predict the next symbol in
+a sequence of symbols as a probability distribution over the alphabet of
+symbols.  The only information available to the predictor is the history of
+symbols seen so far.  In order to turn a predictor into a RoShamBo algorithm,
+we need to decide what the history of symbols should be, and how to turn
+a prediction into a RoShamBo move.</P>
+<DL>
+<DT>Determining the history</DT><DD>Because we are trying to predict
+our opponent's next move, and because our opponent may be using our previous
+moves to decide what they're going to do, it seems reasonable to make the
+symbol sequence an interlacing of both our histories:
+x<SUB>1</SUB>,y<SUB>1</SUB>,x<SUB>2</SUB>,y<SUB>2</SUB>,...,
+x<SUB>n-1</SUB>,y<SUB>n-1</SUB>, where x represents our opponent's move,
+y represents our move, and our job is to predict the value of x<SUB>n</SUB>
+in order to determine what y<SUB>n</SUB> should be.</LI></DD>
+<DT>Choosing our move</DT><DD>Once we have a prediction for y<SUB>n</SUB>
+in the form of a probability distribution over
+all possible moves, we need to decide what our move is going to be.  We do
+this by choosing the move which maximises the expected value of our score.
+For example, imagine that the prediction gives P(rock)=0.45, P(paper)=0.15,
+P(scissors)=0.40.  The maximum likelihood move (paper) gives an expected
+score of 1*0.45-1*0.40=0.05, while the defensive move of rock gives an
+expected score of 1*0.40-1*0.15=0.25, and is therefore chosen.</DD>
+</DL>
+<P>With these two modifications, any predictor may play RoShamBo!</P>
+<H2>The MegaHAL Predictor</H2>
+<P>MegaHAL is a very simple "infinite-order" Markov model.  It stores
+frequency information about the moves the opponent has made in the past
+for all possible contexts (from a context of no symbols at all right up
+to a context of the entire history).  In practise, the context is limited
+to forty-two symbols so that the algorithm satisfies the time constraint of
+playing one game every millisecond on average.</P>
+<P>MegaHAL stores this information in a ternary trie.  Each context is
+represented as a node in this trie.  Every time MegaHAL is asked to make
+a move, many of these nodes may activate, and each of them is capable of
+providing us with a prediction about what's coming next.  We need to select
+one of them.  We do this by storing in each node the average score that
+that node would have if it had been used exclusively in the past.  We
+select the node which has the highest average score.  If more than one
+node qualifies, we choose the one which takes the longest context into
+account.</P>
+<P>In some situations, no nodes will be selected.  In this situation,
+we make a move at random.</P>
+<P>MegaHAL also gathers statistics over a sliding window, which means that
+it "forgets" about events which occurred a long time ago.  This process
+allows MegaHAL to adapt more rapidly to changes in its opponents strategy.
+In the competition version, a sliding window of four hundred symbols
+was used (a match consists of two thousand symbols).</P>
+<H2>Conclusion</H2>
+<P>I hope that brief explanation of the MegaHAL strategy has been
+enlightening.  I apologise for any omissions or poor English, and blame
+that on the fact that it was written at 12:45pm on a Saturday night, following
+a night out with friends!</P>
+</BODY>
+</HTML>

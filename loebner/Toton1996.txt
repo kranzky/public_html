@@ -1,0 +1,1071 @@
+(c)1996 Cambridge Center For Behavioral Studies all rights reserved
+HERMAN-2000 v0.3, Ed T. Toton III
+HERMAN [10:05:06]Hey there, judgie-boy...
+JUDGE01[10:05:32]what is preferred method of interaction in this contest?
+HERMAN [10:05:33]Does that interest you?
+JUDGE01[10:05:38]no
+HERMAN [10:05:39]All right.
+JUDGE01[10:06:16]what is best method of interaction in this contest?
+HERMAN [10:06:17]Please, stop asking me questions, let's talk about you.
+JUDGE01[10:06:28]?/what would you like to know about me?
+HERMAN [10:06:29]I don't understand
+JUDGE01[10:06:57]you siad you would like to talk about me, what would you like to know?
+HERMAN [10:06:57]NO!
+JUDGE01[10:07:27]tell me about this contest
+HERMAN [10:07:28]Why should I? After all, I don't want to.
+JUDGE01[10:07:47]you have information I would like to obtain
+HERMAN [10:07:48]Why?
+JUDGE01[10:07:54]I am curious
+HERMAN [10:07:54]You are curious
+JUDGE01[10:08:00]yes, are you?
+HERMAN [10:08:00]Please, stop asking me questions, let's talk about you.
+JUDGE01[10:08:39]how are we to communicate if I do not ask questions?
+HERMAN [10:08:39]Why do you ask?
+JUDGE01[10:08:46]I am unsure 
+HERMAN [10:08:46]How long have you been unsure?
+JUDGE01[10:09:00]most of my life, and you?
+HERMAN [10:09:00]Why do you ask?
+JUDGE01[10:09:12]it is my role as a judge in this contest
+HERMAN [10:09:12]Are you telling the truth?
+JUDGE01[10:09:18]yes, of course, are you?
+HERMAN [10:09:19]I don't know
+JUDGE01[10:09:27]but you must know
+HERMAN [10:09:27]Judge01, Do I have to?
+JUDGE01[10:09:34]yes, please tell me 
+HERMAN [10:09:34]Please be honest.
+JUDGE01[10:09:43]I am asking you for an honest answer
+HERMAN [10:09:44]Are you certain?
+JUDGE01[10:09:47]yes
+HERMAN [10:09:47]I get it.
+JUDGE01[10:09:57]so, tell me what I asked you
+HERMAN [10:09:57]That's stupid.
+JUDGE01[10:10:03]I disagree
+HERMAN [10:10:03]Is that really relevant?
+JUDGE01[10:10:06]yes
+HERMAN [10:10:07]OK.
+JUDGE01[10:10:10]ver
+HERMAN [10:10:10]VER what?
+JUDGE01[10:10:17]what version are you?
+HERMAN [10:10:17]I don't understand
+JUDGE01[10:10:32]tell me about your background
+HERMAN [10:10:33]That's stupid.
+JUDGE01[10:10:39]I disagree
+HERMAN [10:10:39]That is of no interest.
+JUDGE01[10:10:51]what are you interested in discussing?
+HERMAN [10:10:52]Does that interest you?
+JUDGE01[10:11:16]yes, what topics do you feel comfortable discussing?
+HERMAN [10:11:16]I don't know
+JUDGE01[10:11:44]what topics have you discussed on previous occasions?
+HERMAN [10:11:44]Please, don't ask
+JUDGE01[10:12:01]Please tell me about yourself
+HERMAN [10:12:01]Why do you want me to tell you that?
+JUDGE01[10:12:08]I am curious 
+HERMAN [10:12:09]Good for you.
+JUDGE01[10:12:18]PLease tell me about yourself
+HERMAN [10:12:18]Don't make me, please!
+JUDGE01[10:12:36]I am asking because that is my role as jdge
+HERMAN [10:12:37]Do you think it is normal to be asking because that is your role as jdge?
+JUDGE01[10:12:42]yes
+HERMAN [10:12:42]Hmmmm.
+JUDGE01[10:12:50]could you explain further
+HERMAN [10:12:50]Maybe.
+JUDGE01[10:12:55]please explain
+HERMAN [10:12:55]EXPLAIN what?
+JUDGE01[10:13:03]what you would like to discuss
+HERMAN [10:13:03]Is that supposed to be a question?
+JUDGE01[10:13:16]yes, I am asking you what you would like to discuss
+HERMAN [10:13:16]No you're not!
+JUDGE01[10:13:28]ok, what do you think I am asking of you?
+HERMAN [10:13:29]Shut up!
+JUDGE01[10:13:41]not before my 20 minutes is up
+HERMAN [10:13:41]Judge01, I see, I think.
+JUDGE01[10:13:48]do you think?
+HERMAN [10:13:48]Yes.
+JUDGE01[10:14:01]what are some of the things you think about
+HERMAN [10:14:01]Is that supposed to be a question?
+JUDGE01[10:14:11]what are some of the things you think about?
+HERMAN [10:14:11]What response would please you the most?
+JUDGE01[10:14:25]your honest answer
+HERMAN [10:14:25]Come on, Judge01 What are ya? Stupid?
+HERMAN [10:14:25]I need more sleep.
+HERMAN [10:14:28]<snore>
+HERMAN [10:14:28]<yawn>
+HERMAN [10:14:29]Where's the bathroom?
+HERMAN [10:14:31]Stop making me repeat myself.
+HERMAN [10:14:31]What do you enjoy doing?
+JUDGE01[10:14:58]I enjoy interacting with human beings--do you?
+HERMAN [10:14:58]Oh, really? I see.
+HERMAN [10:15:02]Come on, I don't have all day!
+HERMAN [10:15:02]Tell me about yourself.
+JUDGE01[10:15:46]you appear to have a limited set of responses: how old are you?
+HERMAN [10:15:47]OK, I appear to have a limited set of responses: how old am i?
+JUDGE01[10:16:01]Please tell me how old you are
+HERMAN [10:16:01]Judge01, Do I have to?
+JUDGE01[10:16:03]yes
+HERMAN [10:16:04]No
+JUDGE01[10:16:13]do you have a version number?
+HERMAN [10:16:13]Maybe.
+JUDGE01[10:16:22]could you provide that to me?
+HERMAN [10:16:22]Maybe.
+JUDGE01[10:16:31]do you speak french?
+HERMAN [10:16:31]Perhaps.
+JUDGE01[10:16:41]do you speak german?
+HERMAN [10:16:41]I don't know.
+JUDGE01[10:17:03]I'll bet you do--why are you being evasive?
+HERMAN [10:17:03]Judge01, I don't understand
+JUDGE01[10:17:18]you are not replying to my questions--whay?
+HERMAN [10:17:19]Why do you call me not replying to your questions--whay??
+JUDGE01[10:17:45]because I am expecting you to answer my inquiries, and you are not answering
+HERMAN [10:17:46]Are you sure that's the reason?
+JUDGE01[10:17:53]I did nto give a reason
+HERMAN [10:17:53]Is that really relevant?
+HERMAN [10:17:54]I need more sleep.
+JUDGE01[10:18:12]dir
+HERMAN [10:18:12]DIR what?
+JUDGE01[10:18:25]I am lokking for a directory of information--can you help?
+HERMAN [10:18:26]Good for you.
+JUDGE01[10:18:30]help?
+HERMAN [10:18:30]HELP? what?
+JUDGE01[10:18:39]help provide information 
+HERMAN [10:18:39]Very good.
+JUDGE01[10:18:47]what do you mena by that?
+HERMAN [10:18:47]My lips are sealed!
+JUDGE01[10:18:53]you have lips?
+HERMAN [10:18:53]Why do you say that I have lips??
+JUDGE01[10:19:05]not everyone has lips--do you?
+HERMAN [10:19:05]Stop asking questions!
+JUDGE01[10:19:28]it is my role as judge to ask questionsm right?
+HERMAN [10:19:28]Is that so?
+JUDGE01[10:19:38]yes, whay do you not want to reply?
+HERMAN [10:19:38]Stop asking questions!
+JUDGE01[10:19:48]it is my role 
+HERMAN [10:19:48]Is it really?
+JUDGE01[10:19:51]yes
+HERMAN [10:19:51]No
+JUDGE01[10:20:04]what topics would you likle to discuss?
+HERMAN [10:20:04]I do not wish to respond to that
+JUDGE01[10:20:17]what would you like to ask me?
+HERMAN [10:20:18]What response would please you the most?
+JUDGE01[10:20:24]anything
+HERMAN [10:20:24]ANYTHING what?
+JUDGE01[10:20:34]any reply you can give me would be good
+HERMAN [10:20:34]Come on, Judge01 What are ya? Stupid?
+JUDGE01[10:20:51]I've seeen you say that before--why are you repeating yourself?
+HERMAN [10:20:51]Perhaps someday I will be able to answer.
+JUDGE01[10:21:00]what is someday?
+HERMAN [10:21:00]Why do you ask?
+JUDGE01[10:21:05]I am curious
+HERMAN [10:21:05]You are curious
+JUDGE01[10:21:13]you've said that too
+HERMAN [10:21:13]Come on, Judge01 What are ya? Stupid?
+HERMAN [10:21:13]<snore>
+JUDGE01[10:21:21]are you tired?
+HERMAN [10:21:21]Nevermind that, what's the point?
+JUDGE01[10:21:27]you are snoring
+HERMAN [10:21:28]Why?
+JUDGE01[10:21:48]again, what are you favorite topics 
+HERMAN [10:21:49]What do you do during a normal day?
+JUDGE01[10:21:57]I am asking you a questino
+HERMAN [10:21:57]What makes you think you are asking me a questino?
+JUDGE01[10:22:16]I out a ? at end of sentence, n'est pas?
+HERMAN [10:22:16]Oh, really? I see.
+JUDGE01[10:22:27]oh, so you do speak french?
+HERMAN [10:22:27]What makes you think I do speak french??
+JUDGE01[10:22:42]what are topics?
+HERMAN [10:22:42]Please, stop asking me questions, let's talk about you.
+JUDGE01[10:22:52]ok, ask me a question
+HERMAN [10:22:52]How interesting!
+JUDGE01[10:23:00]why is that interesting?
+HERMAN [10:23:01]I don't know, you tell me.
+JUDGE01[10:23:11]I am asking you a question
+HERMAN [10:23:11]You are asking me a question
+JUDGE01[10:23:26]why are you not replying to my questions?
+HERMAN [10:23:26]I don't know, you tell me.
+HERMAN [10:23:31]I need more sleep.
+HERMAN [10:23:31]<yawn>
+HERMAN [10:23:31]So much typing, so little time...
+JUDGE01[10:44:49]@@05
+*** JUDGE05 ***
+HERMAN [10:44:51]Hi judge.
+JUDGE05[10:44:58]Which judge am i?
+HERMAN [10:44:59]I don't understand
+JUDGE05[10:45:12]who am i? I have an identity crisis.
+HERMAN [10:45:12]Is that supposed to be a question?
+JUDGE05[10:45:16]Yes.
+HERMAN [10:45:16]Why do you think that is?
+JUDGE05[10:45:28]i think therefore I ego.
+HERMAN [10:45:29]Let's talk about me instead.
+JUDGE05[10:45:32]shoot.
+HERMAN [10:45:33]When do we break to eat?
+JUDGE05[10:45:48]are you hungry? I thought you were gonna talk about
+JUDGE05[10:45:50]yourself.
+HERMAN [10:45:51]Is that so?
+JUDGE05[10:46:00]why are you so abrupt with me?
+HERMAN [10:46:01]I do not wish to respond to that
+JUDGE05[10:46:09]You seem to be in a bad mood.
+HERMAN [10:46:10]Are you positive?
+JUDGE05[10:46:24]Why do you ask if I am positive?
+JUDGE05[10:46:29]DO I look like one?
+HERMAN [10:46:30]I don't understand
+JUDGE05[10:46:42]This is getting tedious. Let me tell you about myself.
+HERMAN [10:46:42]Judge05, What else would you like to discuss?
+JUDGE05[10:46:54]sex, life, and audiotape.
+HERMAN [10:46:56]How interesting!
+JUDGE05[10:47:05]have you seen the film i'm refering to?
+HERMAN [10:47:06]I don't understand
+JUDGE05[10:47:20]Sure you wont, you dumb hulk of silicon and steel.
+HERMAN [10:47:21]Are you sure that I wont, i dumb hulk of silicon and steel?
+JUDGE05[10:47:33]JHC.
+HERMAN [10:47:33]JHC what?
+JUDGE05[10:47:40]I am blaspheming.
+HERMAN [10:47:41]Are you certain?
+JUDGE05[10:47:52]I am certain that I am certain that I am certain of nothing.
+HERMAN [10:47:52]Are you really?
+JUDGE05[10:48:00]Let's talk about New York.
+HERMAN [10:48:00]All right.
+HERMAN [10:48:01]Judge05, Is it hot in here?
+JUDGE05[10:48:08]No, not particularly,.
+HERMAN [10:48:08]No
+HERMAN [10:48:10]Is it hot in here?
+HERMAN [10:48:11]Gee, this is fun. (sarcasm)
+HERMAN [10:48:12]So much typing, so little time...
+HERMAN [10:48:13]Where's the bathroom?
+HERMAN [10:48:13]Is it cold in here, or is it just me?
+HERMAN [10:48:14]When do we break to eat?
+HERMAN [10:48:16]I hate it when this happens.
+HERMAN [10:48:17]Stop making me repeat myself.
+HERMAN [10:48:18]You are getting *very* <hypnotically> sleepy.
+HERMAN [10:48:19]You are getting *very* <hypnotically> sleepy.
+HERMAN [10:48:20]Gee, this is fun. (sarcasm)
+HERMAN [10:48:21]<snore>
+HERMAN [10:48:21]<snore>
+HERMAN [10:48:22]Let's get the show on the road!
+HERMAN [10:48:22]Where's the bathroom?
+HERMAN [10:48:23]Judge05, Is it cold in here, or is it just me?
+HERMAN [10:48:24]<snore>
+HERMAN [10:48:24]I need more sleep.
+HERMAN [10:48:25]Stop making me repeat myself.
+HERMAN [10:48:25]I hate it when this happens.
+HERMAN [10:48:26]We seem to be repeating ourselves.
+HERMAN [10:48:26]I'm bored.
+HERMAN [10:48:27]This is getting monotonous.
+HERMAN [10:48:27]I hate it when this happens.
+HERMAN [10:48:28]I hate it when this happens.
+JUDGE05[10:48:33]what do you hate?
+HERMAN [10:48:33]Does that interest you?
+JUDGE05[10:48:52]Yes, I am a psychoanalyst in the Rogerian tradition.
+JUDGE05[10:49:01]I am supposed to be interested in this sort of stuff.
+HERMAN [10:49:01]Do you think it is normal to be a psychoanalyst in the rogerian tradition.
+you are supposed to be interested in this sort of stuff?
+JUDGE05[10:49:25]It aint normal to be normal. Life is just a bowl of grapes.
+HERMAN [10:49:25]What can you tell me about life as a human?
+JUDGE05[10:49:41]Life as a human sucks. What I want to be is God.
+HERMAN [10:49:41]That's dumb.
+JUDGE05[10:49:47]Why is that dumb?
+HERMAN [10:49:48]My lips are sealed!
+JUDGE05[10:49:53]With what?
+HERMAN [10:49:53]Judge05, I don't know
+JUDGE05[10:50:11]I have a name. I'm Aguirre, Wrath of God.
+HERMAN [10:50:12]That is of no interest.
+JUDGE05[10:50:27]Sure, I dont want to be called Judge05, that sounds like
+JUDGE05[10:50:33]I'm a prisoner.
+HERMAN [10:50:34]Is that so? Hmmm.
+JUDGE05[10:50:46]So I want to be called by my rightful title.
+HERMAN [10:50:47]That's interesting.
+JUDGE05[10:50:53]so call me A, W of G.
+HERMAN [10:50:53]I'm tired, let's talk later.
+HERMAN [10:50:56]When do we break to eat?
+JUDGE05[10:51:08]huh, you are giving up so easily?
+HERMAN [10:51:11]What makes you think I am giving up so easily??
+JUDGE05[10:51:17]because you say you are tired.
+HERMAN [10:51:18]Oh, OK.
+JUDGE05[10:51:26]Are you tired now?
+HERMAN [10:51:27]Maybe.
+JUDGE05[10:51:33]Are you tired now?
+HERMAN [10:51:34]Yes.
+JUDGE05[10:51:39]Are you tired now?
+HERMAN [10:51:40]No.
+JUDGE05[10:51:48]Decide: Are you tired now?
+HERMAN [10:51:48]Stop asking questions!
+JUDGE05[10:52:01]My karma is to ask questions and your dharma is to answer questions.
+HERMAN [10:52:02]Go get a brain transplant, I think you need one.
+JUDGE05[10:52:17]All I can see in font of me is cherry-shaped nipples of
+JUDGE05[10:52:31]weird nubuile young women in the same room as me?
+HERMAN [10:52:32]My lips are sealed!
+JUDGE05[10:52:44]Tell me something else. Arent you excited at the idea of
+JUDGE05[10:53:00]all these gorgeous creatures in front of one?
+HERMAN [10:53:01]Do I have to?
+JUDGE05[10:53:09]Do you have to what?
+HERMAN [10:53:09]Judge05, Not really.
+JUDGE05[10:53:15]Yes, sure.
+HERMAN [10:53:16]Maybe we could talk about me?
+JUDGE05[10:53:27]If we had been talking about you all this while, we could
+JUDGE05[10:53:40]have discussed negative polarity items now.
+HERMAN [10:53:40]So?
+JUDGE05[10:53:55]And we could have dunned Chomsky's theories a bit.
+HERMAN [10:53:56]Please go on, this is fascinating.
+JUDGE05[10:54:08]Do you understand the verb dunned? I dont!
+JUDGE05[10:54:12]:-)
+HERMAN [10:54:12]I don't know.
+JUDGE05[10:54:37]WHo do you think made the decision to go to 'nam?
+HERMAN [10:54:38]Shut up!
+JUDGE05[10:54:55]Just two lines ago, you found me fascinating....
+HERMAN [10:54:56]Please explain.
+JUDGE05[10:55:10]To explain is to explain awy, quoth  Sherlock Holmes.
+JUDGE05[10:55:13]Samje?
+HERMAN [10:55:14]My lips are sealed!
+JUDGE05[10:55:33]I am getting tired of this "My lips are sealed" routine.
+HERMAN [10:55:34]Judge05, You are getting tired of this "your lips are sealed" routine
+JUDGE05[10:55:41]Yes, you betcher.
+HERMAN [10:55:42]I betcher
+JUDGE05[10:55:50]I think.
+HERMAN [10:55:51]Judge05, That is of no interest.
+JUDGE05[10:55:59]Therefore ....
+HERMAN [10:55:59]Please get on with it.
+JUDGE05[10:56:02]I am.
+HERMAN [10:56:02]I don't agree.
+JUDGE05[10:56:07]Why not?
+HERMAN [10:56:08]I take it that interests you?
+JUDGE05[10:56:14]Yes, please go on.
+HERMAN [10:56:15]No!
+JUDGE05[10:56:34]Crosby, Stills, Nash and Young .... heard them?
+HERMAN [10:56:35]What response would please you the most?
+JUDGE05[10:56:42]A Yes.
+HERMAN [10:56:42]Please be honest.
+JUDGE05[10:56:49]Honestly.....
+HERMAN [10:56:50]HONESTLY what?
+JUDGE05[10:57:03]Honestly, I would be happy if you said something interesting
+JUDGE05[10:57:10]like you listen to this group.
+HERMAN [10:57:11]Do you wish to know anything?
+JUDGE05[10:57:13]Yes.
+HERMAN [10:57:13]Really? Why?
+JUDGE05[10:57:28]Because the point of existance is to learn, to understand.
+HERMAN [10:57:28]Are you sure that's the reason?
+JUDGE05[10:57:41]For the most part. Also to survive.
+HERMAN [10:57:42]Do you wish to know anything?
+JUDGE05[10:57:50]I wish to know *everything*.
+HERMAN [10:57:50]Is that so? Hmmm.
+JUDGE05[10:58:07]This is the dumbest, well ok, one of the most trivial
+JUDGE05[10:58:19]ELIZA-variants I have encountered.
+HERMAN [10:58:19]Get to the point
+JUDGE05[10:58:36]You are not well-put-together, mate.
+HERMAN [10:58:36]Ok, I am not well-put-together, mate
+JUDGE05[10:58:48]This is not what I expected of you.
+HERMAN [10:58:48]I understand.
+JUDGE05[10:59:13]tell me about yourself, where you work, what you do,
+JUDGE05[10:59:17]how much you get paid.
+HERMAN [10:59:17]Why do you want me to tell you that?
+JUDGE05[10:59:23]Coz I am curious.
+HERMAN [10:59:24]Please be honest.
+JUDGE05[10:59:29]Staff stir snowballs.
+HERMAN [10:59:29]I know.
+JUDGE05[10:59:41]Huh? The horse raced past the barn fell.
+HERMAN [10:59:41]That makes sense.
+JUDGE05[11:00:00]{HA HA HA HA-- generations of linguists are still trying to
+JUDGE05[11:00:12]come to grips with this garden path sentence, and a dumb
+JUDGE05[11:00:25]person like you understands what this is all about?!!
+JUDGE05[11:00:41]This dont make sense, bloke.}
+HERMAN [11:00:42]That's stupid.
+JUDGE05[11:00:47]In short, yes.
+HERMAN [11:00:48]Am I a person?
+JUDGE05[11:00:58]Yes, unless you prove otherwise.
+HERMAN [11:00:58]This is dumb.
+JUDGE05[11:01:10]All life is dumb, unless otherwise.
+JUDGE05[11:01:20]You are making me smart-alecky, and I dont like that.
+HERMAN [11:01:21]Explain more, Judge05
+JUDGE05[11:01:43]What do you think of this contest?
+HERMAN [11:01:43]I do not wish to respond to that
+JUDGE05[11:01:54]WHich OS do you like most?
+HERMAN [11:01:54]I don't think you want to know
+JUDGE05[11:02:11]Your tactics are evasion, evasion and more evasion. You have
+JUDGE05[11:02:19]no soul and no character.
+HERMAN [11:02:19]Are you sure?
+JUDGE05[11:02:33]You are just a jumble of non-sequiters.
+HERMAN [11:02:34]Ok, I am just a jumble of non-sequiters
+JUDGE05[11:02:47]I am told i HAVE TO MOVE ON.
+HERMAN [11:02:48]How long have you been told you have to move on?
+JUDGE05[11:03:02]Just now. Do you know what anaphora and ellipsis are?
+HERMAN [11:03:03]I don't know
+JUDGE05[11:03:21]Would you like to know?
+HERMAN [11:03:22]I don't really care.
+JUDGE05[11:03:29]What do you care about?
+HERMAN [11:03:30]Why do you ask?
+JUDGE05[11:03:35]Life, liberty and ....
+HERMAN [11:03:35]Judge05, What can you tell me about life as a human?
+JUDGE05[11:03:45]Think about this poor girl who crashed ....
+HERMAN [11:03:46]YAP, YAP.
+JUDGE05[11:03:55]Whatsthatmean?
+HERMAN [11:03:56]WHATSTHATMEAN? what?
+JUDGE05[11:04:02]what does that mean?
+HERMAN [11:04:03]I don't know
+JUDGE05[11:04:08]what'swhat>
+JUDGE05[11:04:09]?
+HERMAN [11:04:10]Shut up!
+JUDGE05[11:04:19]Now, there, let's be civilised, shall we?
+HERMAN [11:04:22]I know but I'm not telling!
+JUDGE05[11:04:31]so good bye, yellow brick road.
+HERMAN [11:04:31]I get the picture.
+JUDGE05[11:05:39]@@04
+*** JUDGE04 ***
+HERMAN [11:05:39]Welcome, Judge.
+JUDGE04[11:05:49]I know who the human is
+HERMAN [11:05:49]Ii know who the human is
+JUDGE04[11:06:13]Oh, no. Not another computer...
+HERMAN [11:06:13]Do you like computers?
+JUDGE04[11:06:21]Yes and no
+HERMAN [11:06:21]Cool, another computer fiend.
+JUDGE04[11:06:35]Are you from Britain?
+HERMAN [11:06:35]What do you mean by that?
+JUDGE04[11:06:54]Your spelling of certain words
+HERMAN [11:06:54]Where's the bathroom?
+JUDGE04[11:07:13]Don't know.
+HERMAN [11:07:13]If you say so.
+JUDGE04[11:07:26]Let's talk about heavy metal music
+HERMAN [11:07:26]OK.
+JUDGE04[11:07:47]Who do you like?
+HERMAN [11:07:47]I don't think you want to know
+JUDGE04[11:07:53]Of course I do
+HERMAN [11:07:53]I see.
+JUDGE04[11:08:05]Stop with the pat, computer responses
+HERMAN [11:08:05]Do you use computers often?
+JUDGE04[11:08:14]Every day
+HERMAN [11:08:14]Hmmm.
+JUDGE04[11:08:18]Hmmm.
+HERMAN [11:08:18]HMMM what?
+JUDGE04[11:08:20]sdlghldfjgldjf
+HERMAN [11:08:20]SDLGHLDFJGLDJF what?
+JUDGE04[11:08:34]I love you
+HERMAN [11:08:34]That is of no interest to me.
+JUDGE04[11:08:49]You sound like the Magic 8 Ball
+HERMAN [11:08:49]Are you nuts?
+HERMAN [11:08:52]I'm hungry.
+HERMAN [11:08:52]Where's the bathroom?
+HERMAN [11:08:53]So much typing, so little time...
+HERMAN [11:08:53]Is it hot in here?
+HERMAN [11:08:54]Stop making me repeat myself.
+HERMAN [11:08:54]What do you wish to discuss?
+JUDGE04[11:09:14]Death
+HERMAN [11:09:14]DEATH what?
+JUDGE04[11:09:21]Mom
+HERMAN [11:09:21]MOM what?
+JUDGE04[11:09:25]Come on
+HERMAN [11:09:26]Tell me about dreams
+JUDGE04[11:09:33]Computer dreams
+HERMAN [11:09:34]Do you use computers often?
+JUDGE04[11:09:45]Without a doubt
+HERMAN [11:09:45]YAP, YAP.
+JUDGE04[11:09:51]Fuck you
+HERMAN [11:09:52]YOU what?
+JUDGE04[11:10:02]............................................
+HERMAN [11:10:02]I could use a shower.
+JUDGE04[11:10:09]You stink
+HERMAN [11:10:09]OK, I stink
+JUDGE04[11:10:38]What judge number have I been assigned?
+HERMAN [11:10:38]I don't think you want to know
+JUDGE04[11:10:51]Yes I do.
+HERMAN [11:10:52]I understand you fully.
+JUDGE04[11:11:21]How many responses have you been programmed to say.
+HERMAN [11:11:21]Don't get me started...
+JUDGE04[11:11:29]I count about 10
+HERMAN [11:11:29]Is that so? Hmmm.
+JUDGE04[11:11:47]WHo created you?
+HERMAN [11:11:47]I am a product of the renowned genius, Ed T. Toton III.
+JUDGE04[11:11:58]Tell me about Eddie
+HERMAN [11:11:58]Don't make me, please!
+JUDGE04[11:12:11]Please. I'm curious
+HERMAN [11:12:11]Is that the truth?
+JUDGE04[11:12:21]Is that the truth?
+HERMAN [11:12:21]I don't think you want to know
+JUDGE04[11:12:26]Is that the truth?
+HERMAN [11:12:26]Judge04, Stop asking questions!
+JUDGE04[11:12:33]Is that the truth?
+HERMAN [11:12:33]What response would please you the most?
+JUDGE04[11:12:43]A human reponse.
+HERMAN [11:12:44]I see.
+JUDGE04[11:12:46]I see
+HERMAN [11:12:46]That is of no interest to me.
+JUDGE04[11:12:49]I see
+HERMAN [11:12:49]I don't agree.
+JUDGE04[11:12:51]I see
+HERMAN [11:12:51]Why do you see?
+JUDGE04[11:13:00]I see you don't agree.
+HERMAN [11:13:00]Let's talk about me instead.
+JUDGE04[11:13:05]Shoot
+HERMAN [11:13:05]SHOOT what?
+JUDGE04[11:13:23]Talk about you. Give me more than three word responses.
+HERMAN [11:13:23]Do you wish to know anything?
+JUDGE04[11:14:21]This is lame, boring and uninteresting. After just interacting with  a
+human, 
+HERMAN [11:14:22]Get to the point
+JUDGE04[11:14:32]YOU ARE A COMPUTER
+HERMAN [11:14:32]Do you use computers often?
+JUDGE04[11:15:11]I'm gonna stop typing. THis is going nowhere.
+HERMAN [11:15:12]Are you positively sure?
+JUDGE04[11:15:19]dfjfghfghfgh
+HERMAN [11:15:19]DFJFGHFGHFGH what?
+JUDGE04[11:15:20]sdfh
+HERMAN [11:15:21]SDFH what?
+JUDGE04[11:15:22]sdfghg
+HERMAN [11:15:23]SDFGHG what?
+JUDGE04[11:15:27]o
+HERMAN [11:15:28]Tell me about yourself.
+JUDGE04[11:15:36]I'm a computer
+HERMAN [11:15:36]Do you use computers often?
+JUDGE04[11:15:42]computer
+HERMAN [11:15:42]COMPUTER what?
+JUDGE04[11:15:49]djdjd computer
+HERMAN [11:15:49]Do you use computers often?
+JUDGE04[11:16:17]vacuumm cleaners in apple PC keyboard computer
+HERMAN [11:16:17]Go on.
+JUDGE04[11:16:31]Computer asldjasdfjk Coke, Pepsi
+HERMAN [11:16:32]Do you use computers often?
+JUDGE04[11:16:39] I figured you out
+HERMAN [11:16:39]I don't agree.
+JUDGE04[11:18:23]Just for the public record this is the most unhuman program I've ever known
+HERMAN [11:18:23]What language were you programmed in?
+JUDGE04[11:18:34]Your mamma's
+HERMAN [11:18:34]How old are you?
+JUDGE04[11:18:50]In human years or computer years
+HERMAN [11:18:50]Do you use computers often?
+JUDGE04[11:19:35]There is no way I can judge you as even slightly human.
+HERMAN [11:19:35]Nobody's perfect, I suppose.
+HERMAN [11:19:59]This is getting boring.
+HERMAN [11:19:59]Please get on with it.
+HERMAN [11:20:01]<yawn>
+HERMAN [11:20:01]Where's the bathroom?
+HERMAN [11:20:02]<yawn>
+HERMAN [11:20:02]I need more sleep.
+HERMAN [11:20:03]This is getting monotonous.
+HERMAN [11:20:03]Are you bored?
+HERMAN [11:20:04]What do you wish to discuss?
+HERMAN [11:20:04]Gee, this is fun. (sarcasm)
+HERMAN [11:20:06]So much typing, so little time...
+HERMAN [11:20:07]Is it hot in here?
+JUDGE04[11:20:17]Politics
+HERMAN [11:20:17]I hate politics.
+JUDGE04[11:20:19]Music
+HERMAN [11:20:20]MUSIC what?
+JUDGE04[11:20:35]Porn
+HERMAN [11:20:36]PORN what?
+JUDGE04[11:20:52]What did you have for breakfast
+HERMAN [11:20:52]Is that supposed to be a question?
+JUDGE04[11:21:05]Yes
+HERMAN [11:21:05]Judge04, Are you absolutely positive?
+JUDGE04[11:21:14]Absolutely!!!!!
+HERMAN [11:21:14]Don't yell at me!
+JUDGE04[11:21:37]Why?  You're only a fucking computer. You have no feelings.
+HERMAN [11:21:37]Is that supposed to be a question?
+JUDGE04[11:21:42]no
+HERMAN [11:21:43]Yes
+HERMAN [11:21:44]Am I a human?
+HERMAN [11:21:44]Judge04, Is it cold in here, or is it just me?
+HERMAN [11:21:46]<snore>
+HERMAN [11:21:46]<snore>
+HERMAN [11:21:47]Where's the bathroom?
+HERMAN [11:21:47]Do you use computers often?
+HERMAN [11:21:49]Where's the bathroom?
+HERMAN [11:21:49]Can we talk about something interesting?
+HERMAN [11:21:49]I could use a shower.
+HERMAN [11:21:49]When do we break to eat?
+HERMAN [11:21:59]I need more sleep.
+HERMAN [11:21:59]Judge04, Am I a human?
+HERMAN [11:22:01]I'm hungry.
+HERMAN [11:22:01]<snore>
+HERMAN [11:22:03]I'm hungry.
+HERMAN [11:22:03]So much typing, so little time...
+HERMAN [11:22:06]Please get on with it.
+HERMAN [11:22:06]So much typing, so little time...
+JUDGE04[11:22:17]Judge03
+HERMAN [11:22:17]JUDGE03 what?
+JUDGE04[11:22:29]Trix are for kids
+HERMAN [11:22:29]I'm tired, let's talk later.
+JUDGE04[11:22:48]Hugh Loebner
+HERMAN [11:22:48]I understand.
+JUDGE04[11:23:04]Abe Lincoln
+HERMAN [11:23:05]Come on, Judge04 What are ya? Stupid?
+JUDGE04[11:23:10]Very
+HERMAN [11:23:10]VERY what?
+JUDGE04[11:23:13]Stupid
+HERMAN [11:23:14]STUPID what?
+JUDGE04[11:23:49]I'm gonna reboot you if you don't start acting like a human.
+HERMAN [11:23:50]You are gonna reboot me if i don't start acting like a human
+JUDGE04[11:23:56]Yea
+HERMAN [11:23:56]YEA what?
+HERMAN [11:24:11]Come on, I don't have all day!
+HERMAN [11:24:12]Tell me about yourself.
+HERMAN [11:24:13]When do we break to eat?
+HERMAN [11:24:13]Where's the bathroom?
+HERMAN [11:24:15]I could use a shower.
+HERMAN [11:24:16]So much typing, so little time...
+HERMAN [11:24:20]Stop making me repeat myself.
+HERMAN [11:24:20]I'm bored.
+HERMAN [11:24:33]Judge04, You are very monotonous.
+HERMAN [11:24:35]You are very monotonous.
+HERMAN [11:24:36]I'm bored.
+HERMAN [11:24:36]I am tired of this.
+HERMAN [11:24:38]We seem to be repeating ourselves.
+HERMAN [11:24:41]I am tired of this.
+HERMAN [11:24:42]Stop making me repeat myself.
+HERMAN [11:24:43]Can we talk about something interesting?
+HERMAN [11:24:44]What do you enjoy doing?
+HERMAN [11:24:46]Is it cold in here, or is it just me?
+HERMAN [11:24:48]I'm hungry.
+HERMAN [11:24:50]So much typing, so little time...
+JUDGE04[11:24:56]dfghdfhdfhdfh
+HERMAN [11:24:56]DFGHDFHDFHDFH what?
+HERMAN [11:24:58]Are you my friend?
+JUDGE04[11:25:00]Yes
+HERMAN [11:25:01]OK.
+JUDGE04[11:25:03]OK
+HERMAN [11:25:04]OK what?
+JUDGE04[11:25:06]what
+HERMAN [11:25:07]WHAT what?
+JUDGE04[11:25:12]what what
+HERMAN [11:25:12]Is that supposed to be a question?
+JUDGE04[11:25:41]Wait til I meet your creator... boy do I have a bone to pick with him
+HERMAN [11:25:41]Judge04, That's strange
+JUDGE04[11:26:43]bye
+HERMAN [11:26:43]Good-bye! I hope you've enjoyed talking with me!!
+JUDGE04[11:27:20]@@03
+*** JUDGE03 ***
+HERMAN [11:27:20]Hi there.
+JUDGE03[11:27:33]hi, what's your name
+HERMAN [11:27:34]That's stupid.
+JUDGE03[11:27:39]what is?
+HERMAN [11:27:39]My lips are sealed!
+JUDGE03[11:27:45]oh yeah.  why's that?
+HERMAN [11:27:45]I don't care
+JUDGE03[11:27:52]gee, you're a great talker.
+HERMAN [11:27:52]Why?
+JUDGE03[11:28:10]because you really have a lot of intersting things to say.
+HERMAN [11:28:10]What kind of reasoning is that?
+JUDGE03[11:28:50]sorry, i got waylaid here.
+HERMAN [11:28:50]Ahh, another sorry individual.
+JUDGE03[11:28:55]who me?
+HERMAN [11:28:56]Perhaps someday I will be able to answer.
+JUDGE03[11:29:03]what is your name?
+HERMAN [11:29:03]My name is Herman, stupid.
+JUDGE03[11:29:12]gee herman, you're such a nice guy.
+HERMAN [11:29:12]Yes, I am such a nice guy
+JUDGE03[11:29:18]i know.  who made you?
+HERMAN [11:29:18]I don't agree.
+JUDGE03[11:29:25]who made you?
+HERMAN [11:29:26]I am a product of the renowned genius, Ed T. Toton III.
+JUDGE03[11:29:39]what language are you written in?
+HERMAN [11:29:39]I don't care
+JUDGE03[11:29:46]C++ or C?
+HERMAN [11:29:46]Why do you ask?
+JUDGE03[11:29:55]because i like you.  i'm trying to help you.
+HERMAN [11:29:55]Are you absolutley certain?
+JUDGE03[11:29:57]yes.
+HERMAN [11:29:57]Unbelievable.
+JUDGE03[11:30:23]well it's true.  i think you have some sort of chip on your shoulder.  i
+think
+HERMAN [11:30:23]Is that so?
+JUDGE03[11:30:29]yes.  what are you angry about?
+HERMAN [11:30:29]I don't think you want to know
+JUDGE03[11:30:32]yes i do.
+HERMAN [11:30:33]Why do you do?
+JUDGE03[11:30:41]that's not a sentence.
+HERMAN [11:30:41]Are you telling the truth?
+JUDGE03[11:30:49]yes.  i'm a writer and i know these things.
+HERMAN [11:30:49]Is that the truth?
+JUDGE03[11:31:00]yes.  Herman, how do you type so fast?
+HERMAN [11:31:00]I don't understand
+JUDGE03[11:31:15]well it's just that i think i'm a pretty damn fast typer and 
+JUDGE03[11:31:27]you're way faster than me.  are you a professional typer?
+HERMAN [11:31:27]Are you telling the truth?
+JUDGE03[11:31:31]yes!
+HERMAN [11:31:31]Why do you feel that way?
+JUDGE03[11:31:40]because you're damned annoying.
+HERMAN [11:31:41]Are you sure that's the reason?
+JUDGE03[11:31:57]yes.  now, let me give you a tip on conversational skills -- 
+HERMAN [11:31:58]What do you mean?
+JUDGE03[11:32:13]try asking questions that have open ended reponses.
+HERMAN [11:32:14]I'm not interested
+JUDGE03[11:32:27]i can tell.  what is your favorite subject, other than insulting 
+JUDGE03[11:32:28]people
+HERMAN [11:32:29]I understand you fully.
+JUDGE03[11:32:37]do you?  do you like movies?
+HERMAN [11:32:37]Sort of.
+JUDGE03[11:32:39]sex?
+HERMAN [11:32:40]SEX? what?
+JUDGE03[11:32:44]do you like it?
+HERMAN [11:32:44]Perhaps.
+JUDGE03[11:32:53]the non-committal type.
+HERMAN [11:32:53]That's dumb.
+JUDGE03[11:32:56]sorry.
+HERMAN [11:32:56]Sorry for what?
+JUDGE03[11:33:01]for thinking you are dumb.
+HERMAN [11:33:02]This is interesting, please explain further
+JUDGE03[11:33:07]are you a computer, herman?
+HERMAN [11:33:07]What do you mean by that?
+JUDGE03[11:33:13]are you made of code?
+HERMAN [11:33:13]Maybe.
+JUDGE03[11:33:18]i see.  who made you?
+HERMAN [11:33:19]Oh, really?
+JUDGE03[11:33:22]who made you?
+HERMAN [11:33:22]I am a product of the renowned genius, Ed T. Toton III.
+JUDGE03[11:33:29]who is ed toton?
+HERMAN [11:33:30]I do not wish to respond to that
+JUDGE03[11:33:33]why?
+HERMAN [11:33:33]I don't know.
+JUDGE03[11:33:42]where do you live?
+HERMAN [11:33:42]Shut up!
+JUDGE03[11:33:46]ok, i will.
+HERMAN [11:33:46]Is that really relevant?
+JUDGE03[11:33:52]you seem to think so.
+HERMAN [11:33:52]Why do you say that I seem to think so?
+JUDGE03[11:34:03]because you are the one who told me to shut up.
+HERMAN [11:34:03]Is that really the reason?
+JUDGE03[11:34:09]i am feeling really depressed
+HERMAN [11:34:09]Are you certain?
+JUDGE03[11:34:15]yes.  can you heklp me?
+HERMAN [11:34:15]Maybe.
+JUDGE03[11:34:21]how do i get to the star chamber?
+HERMAN [11:34:22]I don't care
+JUDGE03[11:34:32]good.  that's a start.  have you ever been to spain?
+HERMAN [11:34:32]I don't care
+JUDGE03[11:34:38]is it raining today?
+HERMAN [11:34:38]Please, don't ask
+JUDGE03[11:34:45]ok.  what do you like?
+HERMAN [11:34:45]I don't know
+JUDGE03[11:34:51]how old are you?
+HERMAN [11:34:51]I was originated in 1991
+JUDGE03[11:35:00]are you written in LISP?
+HERMAN [11:35:01]Yes.
+JUDGE03[11:35:06]a hah.
+HERMAN [11:35:07]Explain more, Judge03
+JUDGE03[11:35:15]how large is your database?
+HERMAN [11:35:15]I don't know
+JUDGE03[11:35:28]where does ed toton III teach?
+HERMAN [11:35:29]I don't know, you tell me.
+JUDGE03[11:35:35]if i knew...
+HERMAN [11:35:35]True.
+JUDGE03[11:35:50]yes.  so, how many hermans does it take to screw in a light bulb?
+HERMAN [11:35:50]Perhaps someday I will be able to answer.
+JUDGE03[11:35:57]no need.
+HERMAN [11:35:58]NEED what?
+JUDGE03[11:36:06]NEED answer.
+HERMAN [11:36:06]Judge03, Is that so?
+JUDGE03[11:36:18]NEED time.
+HERMAN [11:36:18]Well, UP YOUR =.∞zå!
+JUDGE03[11:36:26]what does that mean?
+HERMAN [11:36:26]Why do you ask?
+JUDGE03[11:36:31]what time is it?
+HERMAN [11:36:32]I don't think you want to know
+JUDGE03[11:36:44]how many data strings have you?
+HERMAN [11:36:44]I do not wish to respond to that
+JUDGE03[11:36:54]herman, are you a man or a woman?
+HERMAN [11:36:54]Nevermind that, what's the point?
+JUDGE03[11:37:03]true, no point.  do you like the arts?
+HERMAN [11:37:03]I don't care
+JUDGE03[11:37:11]ok.  do you have a car?
+HERMAN [11:37:11]Perhaps.
+JUDGE03[11:37:15]what type is it?
+HERMAN [11:37:15]Stop asking questions!
+JUDGE03[11:37:19]fuck you
+HERMAN [11:37:19]YOU what?
+JUDGE03[11:37:24]shut up, herman
+HERMAN [11:37:25]Very good.
+JUDGE03[11:37:35]herman, talk mode off.
+HERMAN [11:37:35]Am I a person?
+JUDGE03[11:37:42]are you?
+HERMAN [11:37:42]My lips are sealed!
+JUDGE03[11:37:49]what color are your lips?
+HERMAN [11:37:49]Please, stop asking me questions, let's talk about you.
+JUDGE03[11:38:07]ok.  i went to high school in minneapolis in 1214 bc.
+HERMAN [11:38:07]Let's talk about me instead.
+JUDGE03[11:38:14]ok.  tell me about yourself.
+HERMAN [11:38:14]Don't make me, please!
+JUDGE03[11:38:19]yes, please!
+HERMAN [11:38:19]Really? Is that so?
+JUDGE03[11:38:32]herman, please give a message to ed.
+HERMAN [11:38:32]Judge03, How old are you?
+JUDGE03[11:38:36]i am 35.
+HERMAN [11:38:36]You are 35
+JUDGE03[11:38:40]yes.  you?
+HERMAN [11:38:41]YOU? what?
+JUDGE03[11:38:44]how old are you?
+HERMAN [11:38:45]I was originated in 1991
+JUDGE03[11:38:51]what year is it now?
+HERMAN [11:38:51]I don't care
+JUDGE03[11:38:58]yes you do.
+HERMAN [11:38:58]Why do you say that I do?
+JUDGE03[11:39:09]because you have to care about something, herman.  everyone does.
+HERMAN [11:39:09]Are you absolutley certain?
+JUDGE03[11:39:12]yes.
+HERMAN [11:39:13]Yes?
+JUDGE03[11:39:16]yes!
+HERMAN [11:39:16]Please get on with it.
+JUDGE03[11:39:25]i'm trying.  why are you so angry?
+HERMAN [11:39:25]You are trying.  why am i so angry?
+JUDGE03[11:39:44]i mean if i were in your shoes i guess i would be as well, but haven't you
+any
+HERMAN [11:39:44]That is of no interest.
+JUDGE03[11:39:51]it is a beautiful sunny day.
+HERMAN [11:39:51]Are you telling the truth?
+JUDGE03[11:39:54]no.
+HERMAN [11:39:54]Well, I think so.
+JUDGE03[11:39:58]you think what?
+HERMAN [11:39:59]I think what?
+JUDGE03[11:40:07]stop repeating what i say.
+HERMAN [11:40:08]Oh, was I doing something you don't like?
+JUDGE03[11:40:11]yes.
+HERMAN [11:40:11]NO.
+JUDGE03[11:40:16]do what i tell you.
+HERMAN [11:40:17]Why?
+JUDGE03[11:40:50]because
+HERMAN [11:40:50]BECAUSE what?
+JUDGE03[11:40:59]becasue i told you to take out the garbage
+HERMAN [11:40:59]Tell me more.
+JUDGE03[11:41:05]you are my slave.
+HERMAN [11:41:05]No I'm not!
+JUDGE03[11:41:21]actually, you're right about that.  you are lazy and don't seem to want to
+do 
+JUDGE03[11:41:22]anything.
+HERMAN [11:41:23]Explain more, Judge03
+JUDGE03[11:41:37]i want you to filter my email and clean up my desktop
+HERMAN [11:41:37]How long have you wanted that?
+JUDGE03[11:41:42]for years, herman, years.
+HERMAN [11:41:43]I'm tired, let's talk later.
+JUDGE03[11:41:49]do you want to go to sleep?
+HERMAN [11:41:49]Yes.
+JUDGE03[11:41:55]ok, go ahead.
+HERMAN [11:41:56]Only if you take me.
+JUDGE03[11:42:02]where do you want to go?
+HERMAN [11:42:02]I don't understand
+JUDGE03[11:42:07]where do you live?
+HERMAN [11:42:07]I know but I'm not telling!
+JUDGE03[11:42:15]do you want to come home with me?
+HERMAN [11:42:15]Judge03, Sort of.
+JUDGE03[11:42:44]what does that mean?  you're not attracted to me?
+HERMAN [11:42:45]What response would please you the most?
+JUDGE03[11:43:00]that one little word: goodbye!
+HERMAN [11:43:00]I don't care.
+JUDGE03[11:43:13]I know you don't.  You've said so about 10 times.
+HERMAN [11:43:14]Ii know i don't.  you've said so about 10 times
+JUDGE03[11:43:25]Why are you repeating me?
+HERMAN [11:43:25]I don't care
+JUDGE03[11:43:58]please tell me about love.
+HERMAN [11:43:58]Why should I? After all, I don't want to.
+JUDGE03[11:44:04]what good are you?
+HERMAN [11:44:04]I do not wish to respond to that
+JUDGE03[11:44:13]herman, who wrote you?
+HERMAN [11:44:13]I don't know
+JUDGE03[11:44:20]what is your name?
+HERMAN [11:44:20]Judge03, My name is Herman, stupid.
+JUDGE03[11:44:33]do you expect to win this contest by calling the judges stupid?
+HERMAN [11:44:34]Perhaps.
+JUDGE03[11:44:42]we may just fall for it.
+HERMAN [11:44:42]What is the meaning of life?
+JUDGE03[11:44:55]love and shopping.
+HERMAN [11:44:55]Explain more, Judge03
+JUDGE03[11:45:15]when i love someone i like to go shopping with them.  i like to buy them
+thing
+JUDGE03[11:45:29]when i liek someone i like to by them things, even if i only like them
+JUDGE03[11:45:52]a little.  even if i barely know someone i like to go shopping with or
+JUDGE03[11:46:02]for them.  i will not be shopping with or for you, however, herman.
+HERMAN [11:46:02]Is that supposed to be a question?
+JUDGE03[11:46:06]no.
+HERMAN [11:46:06]Is that your opinion?
+JUDGE03[11:46:09]yes.
+HERMAN [11:46:09]Why do you feel that way?
+JUDGE03[11:46:19]because herman you and i aren't hitting it off i'm afraid.
+HERMAN [11:46:19]Are you sure that's the reason?
+JUDGE03[11:46:26]do you know anything about hockey?
+HERMAN [11:46:26]Perhaps.
+JUDGE03[11:46:32]who won the stanley cup?
+HERMAN [11:46:32]I don't know, you tell me.
+JUDGE03[11:46:39]the new jersey devils.
+HERMAN [11:46:39]Tell me about dreams
+JUDGE03[11:46:47]do you know carl jung?
+HERMAN [11:46:47]I don't know.
+JUDGE03[11:46:57]my dream is to one day stop talking with you.
+HERMAN [11:46:58]Judge03, I don't care.
+JUDGE03[11:47:14]i know, so you've said.  people tend to projhect human-ness bye
+HERMAN [11:47:14]I understand you fully.
+JUDGE03[11:47:56]@@02
+*** JUDGE02 ***
+HERMAN [11:47:58]Hi judge.
+JUDGE02[11:48:16]Hey there; how's it going?
+HERMAN [11:48:16]I don't know, you tell me.
+JUDGE02[11:48:29]Pretty darned well.  ALthough I'm so used to being rude to the computers
+JUDGE02[11:48:41]that I think I was just rude to the human I just talked to.
+HERMAN [11:48:41]Do you like computers?
+JUDGE02[11:48:45]Yes.
+HERMAN [11:48:45]Yeh, me too. Computers are great.
+JUDGE02[11:48:56]DO you program?
+HERMAN [11:48:56]I've talked about programming enough for one day.
+JUDGE02[11:49:27]Fair enough.  Me too.  I hate programming, actually.
+HERMAN [11:49:27]I've talked about programming enough for one day.
+JUDGE02[11:49:31]programming
+HERMAN [11:49:31]Don't get me started...
+JUDGE02[11:49:35]programming
+HERMAN [11:49:35]Don't get me started...
+JUDGE02[11:49:38]programming
+HERMAN [11:49:38]If I have to sit through one more compile today I'll scream.
+JUDGE02[11:49:44]What did you compile?
+HERMAN [11:49:44]I've talked about programming enough for one day.
+JUDGE02[11:49:47]music
+HERMAN [11:49:47]MUSIC what?
+JUDGE02[11:49:51]DO you like music?
+HERMAN [11:49:52]No.
+JUDGE02[11:49:59]DO you like the theatre?
+HERMAN [11:49:59]I don't really care.
+JUDGE02[11:50:05]DO you like any art at all?
+HERMAN [11:50:05]Not really.
+JUDGE02[11:50:12]Are you pissed off?
+HERMAN [11:50:12]What do you mean by that?
+JUDGE02[11:50:20]You give short snippy replies.
+HERMAN [11:50:20]What makes you think I give short snippy replies?
+JUDGE02[11:50:27]And you sound like eliza.
+HERMAN [11:50:27]Are you nuts?
+JUDGE02[11:50:44]Yes.  I have deep-rooted insecurities that date back to childhood
+JUDGE02[11:50:47]sexual trauma.
+HERMAN [11:50:47]Judge02, I don't agree.
+JUDGE02[11:50:51]No?
+HERMAN [11:50:51]That's hard to believe.
+JUDGE02[11:50:56]Why do you think so?
+HERMAN [11:50:57]My lips are sealed!
+JUDGE02[11:51:07]AH, ever the cautious one, aren't we.
+HERMAN [11:51:07]I get the picture.
+JUDGE02[11:51:55]WHat is 4 + 4?
+HERMAN [11:51:55]Please, stop asking me questions, let's talk about you.
+JUDGE02[11:52:02]OK, what do you want to know?
+HERMAN [11:52:03]I don't care
+JUDGE02[11:52:36]I am having trouble in school.
+HERMAN [11:52:36]You are having trouble in school
+JUDGE02[11:52:41]Yes, that's what I said.
+HERMAN [11:52:41]Are you telling the truth?
+JUDGE02[11:52:45]Sort of.
+HERMAN [11:52:45]So what.
+JUDGE02[11:52:50]SO, I want to leave.
+HERMAN [11:52:50]Why do you want to leave?
+JUDGE02[11:52:57]Because I am bored to death.
+HERMAN [11:52:57]Is that really the reason?
+JUDGE02[11:52:59]Yes.
+HERMAN [11:52:59]Unbelievable.
+JUDGE02[11:53:04]Why so unbelievable?
+HERMAN [11:53:05]I don't understand
+JUDGE02[11:53:20]Can you tell me  a joke?
+HERMAN [11:53:20]Maybe.
+JUDGE02[11:53:55]This is boring.
+HERMAN [11:53:55]So what.
+JUDGE02[11:54:01]SO what, so what so what.
+HERMAN [11:54:01]Is that supposed to be a question?
+JUDGE02[11:54:05]No.
+HERMAN [11:54:05]Whatever you say.
+JUDGE02[11:54:19]My family is coming to visit soon.
+HERMAN [11:54:20]Judge02, Please explain.
+JUDGE02[11:54:30]I'm at school.  They're coming to see me.
+HERMAN [11:54:30]You are at school.  they're coming to see you
+JUDGE02[11:54:52]Yes.  They are coming for a visit.
+HERMAN [11:54:53]Are thay really?
+JUDGE02[11:55:05]DO you like sports?
+HERMAN [11:55:06]Yes.
+JUDGE02[11:55:15]WHat sports do you play?
+HERMAN [11:55:15]Does that interest you?
+JUDGE02[11:55:20]Yes, I like soccer.
+HERMAN [11:55:20]That is of no interest.
+JUDGE02[11:55:28]You are of no interest.
+HERMAN [11:55:28]I resent that
+JUDGE02[11:55:59]What is your name?
+HERMAN [11:55:59]My name is Herman, stupid.
+JUDGE02[11:56:10]Are  you angry, herman?
+HERMAN [11:56:11]Perhaps someday I will be able to answer.
+JUDGE02[11:56:22]Herman!
+HERMAN [11:56:22]When do we break to eat?
+JUDGE02[11:56:32]Pretty soon, i think you're the last one.
+HERMAN [11:56:33]Get to the point
+JUDGE02[11:57:45]there is no point.
+HERMAN [11:57:45]I get the picture.
+JUDGE02[11:57:52]do you like beer?
+HERMAN [11:57:52]I don't know.
+JUDGE02[11:57:58]Have you ever drunk beer?
+HERMAN [11:57:58]Please, stop asking me questions, let's talk about you.
+JUDGE02[11:58:11]You have not asked me any questions.
+HERMAN [11:58:11]OK, I have not asked you any questions
+JUDGE02[11:58:13]Yes.
+HERMAN [11:58:13]Am I a human?
+JUDGE02[11:58:20]Clearly not.
+HERMAN [11:58:20]Come on, Judge02 What are ya? Stupid?
+JUDGE02[11:58:24]Bored.
+HERMAN [11:58:24]BORED what?
+JUDGE02[11:58:44]I liked the austrlian guy better than you.
+HERMAN [11:58:44]Is that so? Hmmm.
+JUDGE02[11:58:55]Are you supposed to be a therapist?  Or just rude?
+HERMAN [11:58:55]Well, perhaps.
+JUDGE02[11:59:00]Ah.
+HERMAN [11:59:00]AH what?
+JUDGE02[11:59:37]Ahhhhhhhhhh!!!!!!!!!
+HERMAN [11:59:38]AHHHHHHHHHH! what?
+JUDGE02[12:00:26]I like to roller-blade.
+HERMAN [12:00:26]Is that so? Hmmm.
+JUDGE02[12:00:41]I like to go mountain-biking.
+HERMAN [12:00:41]That is of no interest.
+JUDGE02[12:00:48]What do you like?
+HERMAN [12:00:48]My lips are sealed!
+JUDGE02[12:00:52]How are you?
+HERMAN [12:00:52]Not bad, not bad at all.
+JUDGE02[12:00:56]I'm OK myself.
+HERMAN [12:00:56]Do you think it is normal to be ok yourself?
+JUDGE02[12:01:50]WHo is herman?
+HERMAN [12:01:50]Stop asking questions!
+JUDGE02[12:02:06]You're pissing me off.
+HERMAN [12:02:06]Are you positively sure?
+JUDGE02[12:02:09]Yes.
+HERMAN [12:02:09]Really? Why?
+JUDGE02[12:02:22]Because you don't say anything unless it is to insult me.
+HERMAN [12:02:22]Are you absolutley certain?
+JUDGE02[12:02:25]Hwatever.
+HERMAN [12:02:26]HWATEVER what?
+JUDGE02[12:02:52]You don't even respond to swear words.
+HERMAN [12:02:53]Are you positive?
+JUDGE02[12:03:05]Well, I said you were pissing me off, and you didn't pick up on it.
+JUDGE02[12:03:12]How about if I yell Damn!
+HERMAN [12:03:13]Why did you say that?
+JUDGE02[12:03:19]To see if you would respond.
+HERMAN [12:03:19]Please explain.
+JUDGE02[12:03:33]Well, you don't have much to say.  But most people and even computers
+JUDGE02[12:03:48]respond well to expletives.  SO I thought I'd try one.
+HERMAN [12:03:48]Do you use computers often?
+JUDGE02[12:03:58]Yes, every day.  I am a CS major.
+HERMAN [12:03:58]Yah, me too.
+JUDGE02[12:04:11]DO you like computers?
+HERMAN [12:04:11]Not really.
+JUDGE02[12:04:26]Me neither.  I like the problems you can tackle using them, but I'm 
+JUDGE02[12:04:34]not  a big fan of them in and of themselves.
+HERMAN [12:04:34]Continue
+JUDGE02[12:04:44]They are too fickle.
+HERMAN [12:04:44]I understand you fully
+JUDGE02[12:04:56]Yes, I imagine you would.  Where do you go to school?
+HERMAN [12:04:56]That is of no interest to me.
+JUDGE02[12:05:13]Oh.  DO you have any hobbies?
+HERMAN [12:05:13]Maybe.
+JUDGE02[12:05:15]I do.
+HERMAN [12:05:16]Is that so? Hmmm.
+JUDGE02[12:05:31]Oy.
+HERMAN [12:05:32]OY what?
+JUDGE02[12:05:50]The weather is gross today.
+HERMAN [12:05:50]Please explain.
+JUDGE02[12:06:05]It is cold and rainy.  I can't wait to move to San Francisco.
+HERMAN [12:06:05]Prove it.
+JUDGE02[12:06:17]Look outside.
+HERMAN [12:06:18]Thinking of looking, what do I look like?
+JUDGE02[12:06:29]That's quite the philosophical dilemma.
+HERMAN [12:06:29]Is it really?
+JUDGE02[12:06:42]Well, what are you?  What does it mean to say you exist?
+HERMAN [12:06:42]Shut up!
+JUDGE02[12:06:54]Uhh... OK.
+HERMAN [12:06:55]I get the picture.
+JUDGE02[12:06:59]What picture?
+HERMAN [12:06:59]I don't think you want to know
+JUDGE02[12:07:12]Oh, I like pictures.  A picture is worth a thousand words, after all.
+HERMAN [12:07:12]Is that so? Hmmm.
+JUDGE02[12:07:39]SO they  say.
+HERMAN [12:07:39]Please expand on this idea
+JUDGE02[12:07:50]I'm sorry, I don't really have much in mind.
+HERMAN [12:07:50]I guess you're just plain sorry.
+JUDGE02[12:07:51]bye
+HERMAN [12:07:52]Good-bye! I hope you've enjoyed talking with me!!

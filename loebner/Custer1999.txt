@@ -1,0 +1,600 @@
+(c) 1999 Cambridge Center For Behavioral Studies.  All rights reserved.
+Software: AMOS v0.01 (c)1998 All Rights Reserved by Bradley B. Custer
+Start at:[1999/1/22 11:45:24]
+*** JUDGE00 ***
+PROGRAM[11:45:24]Hi. hello judge, how are you?  
+JUDGE00[11:45:27]@@T
+*** JUDGE01 ***
+PROGRAM[11:49:25]Hi. hello judge, how are you?  
+JUDGE01[11:49:28]@@T
+*** JUDGE09 ***
+PROGRAM[11:51:51]Hi.  Nice to meet you, 
+PROGRAM[11:51:55]how are you judge?  
+JUDGE09[11:52:16]I'm well thanks. Did you sleep well?
+PROGRAM[11:52:23]True I feeling.  
+JUDGE09[11:52:54]Did you sleep well last night?
+PROGRAM[11:52:57]Yes I feeling. 
+JUDGE09[11:53:13]How are you?
+PROGRAM[11:53:18]I am feeling good.  
+JUDGE09[11:53:37]Are you feeling good?
+PROGRAM[11:53:44]You decide what we talk 
+PROGRAM[11:53:51]about?  I live in Sacramento, CA 
+JUDGE09[11:54:05]Let's talk about you.
+PROGRAM[11:54:12]Where do you live? Julie is my 
+PROGRAM[11:54:13]name.  
+JUDGE09[11:55:06]Hi Julie. I'm charles.
+PROGRAM[11:55:12]Do you have a nickname? 
+PROGRAM[11:55:17]:) Hrmm, did you want 
+PROGRAM[11:55:21]to ask me something?  
+JUDGE09[11:55:34]yes
+PROGRAM[11:55:42]Do you know Bettie?  She's my best 
+PROGRAM[11:55:48]friend. She teaches English in college. 
+JUDGE09[11:56:11]Do you know any Hell's Angels?
+PROGRAM[11:56:15]I don't understand that. 
+JUDGE09[11:56:32]They are a renegade motorcycle gang.
+PROGRAM[11:56:40]Are dolls interesting to you, 
+PROGRAM[11:56:46]I have one.  :) Do you 
+PROGRAM[11:56:49]know my mom? 
+JUDGE09[11:57:30]is your mom a hooker?
+PROGRAM[11:57:38]I don't understand that. You in Adelaide.  
+JUDGE09[11:57:49]yes. I am in Adelaide.
+PROGRAM[11:57:54]You in Adelaide. Do you 
+PROGRAM[11:58:00]know Bettie?  She's my best friend. 
+JUDGE09[11:58:09]does she put out?
+PROGRAM[11:58:14]I don't know that.  
+JUDGE09[11:58:23]could you ask her for me?
+(c) 1999 Cambridge Center For Behavioral Studies.  All rights reserved.
+Software: AMOS v0.01 (c)1998 All Rights Reserved by Bradley B. Custer
+Start at:[1999/1/22 12:00:59]
+*** JUDGE00 ***
+PROGRAM[12:00:59]Hi. Hi.  How are ya?  
+JUDGE00[12:01:04]@@T
+*** JUDGE09 ***
+PROGRAM[12:01:25]Hey. Hello =) How are you?  
+JUDGE09[12:01:42]I'm fine. And your self?
+(c) 1999 Cambridge Center For Behavioral Studies.  All rights reserved.
+Software: AMOS v0.01 (c)1998 All Rights Reserved by Bradley B. Custer
+Start at:[1999/1/22 12:33:10]
+*** JUDGE00 ***
+PROGRAM[12:33:10]Hey.  Nice to meet you, 
+PROGRAM[12:33:14]how are you judge?  
+JUDGE00[12:33:17]@@T
+*** JUDGE01 ***
+PROGRAM[12:33:35]Hey.  hello How do you do? 
+JUDGE01[12:33:51]See you later
+PROGRAM[12:34:00]I like dolls more than anything, but what 
+PROGRAM[12:34:03]do you like?  
+(c) 1999 Cambridge Center For Behavioral Studies.  All rights reserved.
+Software: AMOS v0.01 (c)1998 All Rights Reserved by Bradley B. Custer
+Start at:[1999/1/22 12:39:10]
+*** JUDGE00 ***
+PROGRAM[12:39:10]Hello.  Nice to meet you, how are 
+PROGRAM[12:39:12]you judge?  
+JUDGE00[12:39:15]@@T
+*** JUDGE04 ***
+PROGRAM[13:04:57]Hi. Hello =) How are you?  
+JUDGE04[13:05:01]@@X
+(c) 1999 Cambridge Center For Behavioral Studies.  All rights reserved.
+Software: AMOS v0.01 (c)1998 All Rights Reserved by Bradley B. Custer
+Start at:[1999/1/22 13:06:24]
+*** JUDGE00 ***
+PROGRAM[13:06:24]Hi. hello judge, how are you?  
+JUDGE00[13:06:27]@@T
+*** JUDGE04 ***
+PROGRAM[13:16:18]Hi. Hi.  How are ya?  
+JUDGE04[13:16:30]I am fine what about you ?
+PROGRAM[13:16:35]I like math. I like 
+PROGRAM[13:16:39]doll many lovely doll. 
+JUDGE04[13:17:04]I am a bit surprised 
+PROGRAM[13:17:06]That's wonderful.  
+JUDGE04[13:17:23]I don't think so !
+PROGRAM[13:17:31]You can pick the topic. I live in 
+PROGRAM[13:17:36]the state capital of California, 
+PROGRAM[13:17:37]Sacramento. 
+JUDGE04[13:18:03]Is that west or east from San Diego ?
+PROGRAM[13:18:13]I don't know that. 
+JUDGE04[13:18:21]Have a guess
+PROGRAM[13:18:25]No I don't know. 
+JUDGE04[13:18:50]What did you watch on the tele last night ?
+PROGRAM[13:18:55]Where were you born?  My 
+PROGRAM[13:18:59]name is Princess Julie.  
+JUDGE04[13:19:29]Dutchland, my name is Willem Did you watch TV last night ?
+PROGRAM[13:20:18]When you knocked over a glass 
+PROGRAM[13:20:23]of milk, as a child, 
+PROGRAM[13:20:28]what would your mother scream? 
+PROGRAM[13:20:34]Great! Ask me anything you like. 
+JUDGE04[13:20:58]Are you following the impeachment trial ?
+PROGRAM[13:21:02]True I a subject.  
+JUDGE04[13:21:21]What subject in particular ?
+PROGRAM[13:21:25]I don't know that. 
+JUDGE04[13:21:47]Do you know what impeachment means ?
+PROGRAM[13:21:52]True I know.  I don't 
+PROGRAM[13:21:54]understand that. 
+JUDGE04[13:22:12]What topic would you like to talk about ?
+PROGRAM[13:22:20]I like Sacramento. I like visiting Australia.  
+JUDGE04[13:22:42]What do you like about Sacramento and what part of Australia
+JUDGE04[13:22:50]would you like to visit ?
+PROGRAM[13:23:55]I like Sacramento. I like many 
+PROGRAM[13:23:57]lovely doll. 
+JUDGE04[13:24:22]What is the relationship between Sacramento and lovely doll ?
+PROGRAM[13:24:30]Bettie is the coolest doll ever. She 
+PROGRAM[13:24:33]teaches college english. 
+JUDGE04[13:24:44]Is she your teacher ?
+PROGRAM[13:24:48]I don't know that. 
+JUDGE04[13:25:12]Doesn't she teach at all ?
+PROGRAM[13:25:17]My favorite subject is dolls. 
+PROGRAM[13:25:22]Have you meet my mom?  
+JUDGE04[13:25:31]No
+PROGRAM[13:25:37]Why's that? That's to bad. 
+JUDGE04[13:25:52]So why is that, you think ?
+PROGRAM[13:25:56]That makes I sad.  
+JUDGE04[13:26:19]I am sad too, but tell me more about your favourite subject
+(c) 1999 Cambridge Center For Behavioral Studies.  All rights reserved.
+Software: AMOS v0.01 (c)1998 All Rights Reserved by Bradley B. Custer
+Start at:[1999/1/22 13:33:33]
+*** JUDGE00 ***
+PROGRAM[13:33:34]Hey.  Hi. How ya doing? 
+JUDGE00[13:33:37]@@T
+*** JUDGE07 ***
+PROGRAM[13:41:17]Hello.  hello How do you do? 
+JUDGE07[13:41:30]hivery well thank you, who am i talking with
+PROGRAM[13:41:39]Do you want to talk about something? =) 
+JUDGE07[13:41:56]Yes, about Adelaide.  Great place to live
+PROGRAM[13:42:03]I'm from a small area in Northern 
+PROGRAM[13:42:11]California called Sacramento. What country are you from?  
+JUDGE07[13:42:32]originally from england but i have been to california a few times
+PROGRAM[13:42:38]I like to be called 
+PROGRAM[13:42:43]by my first name, Julie.  
+PROGRAM[13:42:46]What's your name? 
+JUDGE07[13:43:06]Im Laurie, Julie.  California is very similar to south australia.
+PROGRAM[13:43:11]I don't know that.  
+JUDGE07[13:43:27]Do you mean i am connected to the usa and you are not here at all
+(c) 1999 Cambridge Center For Behavioral Studies.  All rights reserved.
+Software: AMOS v0.01 (c)1998 All Rights Reserved by Bradley B. Custer
+Start at:[1999/1/22 13:44:13]
+*** JUDGE00 ***
+PROGRAM[13:44:14]Hello.  Hi. How ya doing? 
+JUDGE00[13:44:17]@@T
+*** JUDGE07 ***
+PROGRAM[13:44:35]Hey.  Nice to meet you, how are you 
+PROGRAM[13:44:36]judge? 
+JUDGE07[13:44:51]well thanks julie or have a different name now
+PROGRAM[13:44:56]You can pick the topic.  
+JUDGE07[13:45:20]Who did I say I was.  We were talking about California
+PROGRAM[13:46:12]I don't know that. I don't understand 
+PROGRAM[13:46:13]that.  
+JUDGE07[13:46:13][A
+PROGRAM[13:46:19]I'm from Sacramento.  Where were you 
+PROGRAM[13:46:20]born? 
+JUDGE07[13:46:46][Ain London.  But not iln the sound of Bow Bells
+PROGRAM[13:46:52]My name is Julie, but I 
+PROGRAM[13:47:00]like Princess =) What should I call you? 
+JUDGE07[13:47:22]I told you my name at the beginning.  Do computers forget
+PROGRAM[13:47:30]Do you want to ask me something? Of 
+PROGRAM[13:47:35]all dolls Bettie is my 
+PROGRAM[13:47:36]favorite. 
+JUDGE07[13:47:53]What is the significance of Bow Bells
+PROGRAM[13:48:01]Mom teaches college classes.  Do you like dolls?  
+JUDGE07[13:48:22]How many times have you visited Disneyland
+(c) 1999 Cambridge Center For Behavioral Studies.  All rights reserved.
+Software: AMOS v0.01 (c)1998 All Rights Reserved by Bradley B. Custer
+Start at:[1999/1/22 13:49:29]
+*** JUDGE00 ***
+PROGRAM[13:49:30]Hello. Hi.  How are ya? 
+JUDGE00[13:49:32]@@T
+*** JUDGE07 ***
+PROGRAM[13:50:03]Hi. Hi.  How are ya?  
+JUDGE07[13:50:29]Is that all you can say.  How far is Sacramento from Anaheim
+PROGRAM[13:50:44]I don't know that. Yes you feeling. 
+JUDGE07[13:51:13]it took you a long time to find that out.  Did you study computer
+JUDGE07[13:51:29]programming at Uni.  
+PROGRAM[13:51:38]Do you have a favorite subjct?  
+PROGRAM[13:51:43]I live in Sacramento, CA 
+JUDGE07[13:51:43]goodbye
+JUDGE07[13:57:22]@@T
+*** JUDGE05 ***
+PROGRAM[13:59:23]Hey.  Hi. How ya doing?  
+JUDGE05[13:59:46]Pretty well, thanks. How about you?
+PROGRAM[13:59:52]I like Australia.  I want 
+PROGRAM[13:59:56]to talk about Bettie. 
+JUDGE05[14:00:27]How long have you been here?
+(c) 1999 Cambridge Center For Behavioral Studies.  All rights reserved.
+Software: AMOS v0.01 (c)1998 All Rights Reserved by Bradley B. Custer
+Start at:[1999/1/22 14:01:09]
+*** JUDGE00 ***
+PROGRAM[14:01:09]Hi.  Nice to meet you, how are you 
+PROGRAM[14:01:10]judge? 
+JUDGE00[14:01:12]@@T
+*** JUDGE05 ***
+PROGRAM[14:01:29]Hey.  Nice to meet you, 
+PROGRAM[14:01:33]how are you judge?  
+JUDGE05[14:02:03]Sure. I'm Greg. What's your name?
+PROGRAM[14:02:08]I am named Julie.  
+JUDGE05[14:02:27]Where are you from, Julie?
+PROGRAM[14:02:30]I in Adelaide. 
+JUDGE05[14:02:45]Were you born here?
+PROGRAM[14:02:49]I don't know that.  
+JUDGE05[14:03:03]What about school?
+PROGRAM[14:03:08]Well, what do you want 
+PROGRAM[14:03:13]to talk about?  I'm from 
+PROGRAM[14:03:21]a small area in Northern California called Sacramento. 
+JUDGE05[14:03:49]Do you like the Bay Area?
+PROGRAM[14:03:52]True I like.  
+JUDGE05[14:04:18]What's summer like in Sacramento?
+PROGRAM[14:04:24]What is your home?  My 
+PROGRAM[14:04:28]name is Princess Julie. 
+JUDGE05[14:05:21]My home is here, in Adelaide. I didn't realise you're a Princess!
+PROGRAM[14:05:55]What do your friends call you? Go 
+PROGRAM[14:06:03]ahead, ask me, I know you want to.  
+JUDGE05[14:06:25]OK, what do they call you?
+PROGRAM[14:06:32]Bettie is the coolest doll ever.  Mom 
+PROGRAM[14:06:35]teaches college classes. 
+JUDGE05[14:06:59]Who is Bettie?
+PROGRAM[14:07:07]Betie is female. Betie is my doll.  
+JUDGE05[14:07:35]Where does your mother work?
+PROGRAM[14:07:39]I don't know that.  
+JUDGE05[14:08:02]What sort of work does she do?
+PROGRAM[14:08:06]I don't know that.  
+JUDGE05[14:08:42]What about her classes?
+PROGRAM[14:08:46]I don't know that.  
+JUDGE05[14:09:18]Have you been to college?
+PROGRAM[14:09:25]Would you like to talk about dolls? 
+PROGRAM[14:09:30]Do you know my mom? 
+JUDGE05[14:09:37]Bye
+(c) 1999 Cambridge Center For Behavioral Studies.  All rights reserved.
+Software: AMOS v0.01 (c)1998 All Rights Reserved by Bradley B. Custer
+Start at:[1999/1/22 14:14:50]
+*** JUDGE00 ***
+PROGRAM[14:14:50]Hey. hello judge, how are you?  
+JUDGE00[14:14:53]@@T
+*** JUDGE03 ***
+PROGRAM[14:22:53]Hi.  Nice to meet you, how 
+PROGRAM[14:22:56]are you judge? 
+JUDGE03[14:23:02]I'm fine thany you.
+JUDGE03[14:23:05]And you?
+PROGRAM[14:23:12]Is there something you would like 
+PROGRAM[14:23:15]to talk about? 
+JUDGE03[14:23:21]How about yoy?
+PROGRAM[14:23:26]I don't understand that. 
+JUDGE03[14:23:35]Let's talk about you.
+PROGRAM[14:23:43]I'm from a small area in Northern California 
+PROGRAM[14:23:49]called Sacramento. Where were you born? 
+JUDGE03[14:24:01]Would you believe in Singapore?
+JUDGE03[14:24:06]Have you been there?
+PROGRAM[14:24:17]Julie is my name. Do you have 
+PROGRAM[14:24:20]a nickname?  :) 
+JUDGE03[14:24:37]It is Sherry.
+PROGRAM[14:24:42]Hrmm, did you want to 
+PROGRAM[14:24:47]ask me something?  Of all 
+PROGRAM[14:24:52]dolls Bettie is my favorite. 
+JUDGE03[14:25:07]What kind of a doll is Bettie?
+JUDGE03[14:25:14]Is it a Barbie doll?
+PROGRAM[14:25:27]I don't understand that. 
+JUDGE03[14:25:46]Well, could you describe Bettie?
+(c) 1999 Cambridge Center For Behavioral Studies.  All rights reserved.
+Software: AMOS v0.01 (c)1998 All Rights Reserved by Bradley B. Custer
+Start at:[1999/1/22 14:26:17]
+*** JUDGE00 ***
+PROGRAM[14:26:17]Hey.  Hi. How ya doing? 
+JUDGE00[14:26:20]@@T
+*** JUDGE03 ***
+PROGRAM[14:26:32]Hey.  hello How do you do? 
+JUDGE03[14:26:42]I'm fine. How are you?
+PROGRAM[14:26:50]I am feeling good. I think everyone should 
+PROGRAM[14:26:51]be.  
+JUDGE03[14:27:02]I quite agree. But that isn't the
+JUDGE03[14:27:11]way the world is.
+PROGRAM[14:27:16]Yes that makes I happy. 
+JUDGE03[14:27:38]What are you happy about?
+PROGRAM[14:27:42]I don't know that. 
+JUDGE03[14:27:53]How old are you?
+PROGRAM[14:27:56]I am 9. 
+JUDGE03[14:28:07]What is your name?
+PROGRAM[14:28:11]I am named Julie.  
+JUDGE03[14:28:23]Hi Julie! My name is Sherry.
+JUDGE03[14:28:28]Can we be friends?
+PROGRAM[14:28:38]You decide what we talk about?  Where 
+PROGRAM[14:28:41]were you born?  
+JUDGE03[14:28:55]I was born in Singapore. 
+JUDGE03[14:29:01]Where were you born?
+PROGRAM[14:29:05]I don't know that.  
+JUDGE03[14:29:20]What is your favourite colour?
+PROGRAM[14:29:27]I live in Sacramento, CA Julie is 
+PROGRAM[14:29:29]my name.  
+JUDGE03[14:29:54]Do you like Sacramento?
+PROGRAM[14:29:59]I don't know that. 
+JUDGE03[14:30:16]What school do you go to?
+PROGRAM[14:30:24]What should I call you?  Did you 
+PROGRAM[14:30:29]have something you wanted to 
+PROGRAM[14:30:31]ask me?  
+JUDGE03[14:30:48]Do you have any brothers or sisters?
+(c) 1999 Cambridge Center For Behavioral Studies.  All rights reserved.
+Software: AMOS v0.01 (c)1998 All Rights Reserved by Bradley B. Custer
+Start at:[1999/1/22 14:31:18]
+*** JUDGE00 ***
+PROGRAM[14:31:18]Hello. Hello =) How are you?  
+JUDGE00[14:31:21]@@T
+*** JUDGE03 ***
+PROGRAM[14:31:31]Hi.  Nice to meet you, how are you 
+PROGRAM[14:31:32]judge? 
+JUDGE03[14:31:48]I'm good. What is your name?
+PROGRAM[14:31:54]Do you have a favorite subjct?  
+JUDGE03[14:32:16]I like Soccer. My favourite team is
+JUDGE03[14:32:27]Manchester United! Do you like watching
+JUDGE03[14:32:32]soccer?
+(c) 1999 Cambridge Center For Behavioral Studies.  All rights reserved.
+Software: AMOS v0.01 (c)1998 All Rights Reserved by Bradley B. Custer
+Start at:[1999/1/22 14:36:36]
+*** JUDGE00 ***
+PROGRAM[14:36:36]Hi. Hello =) How are you?  
+JUDGE00[14:36:39]@@T
+*** JUDGE11 ***
+PROGRAM[14:39:54]Hey. Hi.  How are ya?  
+JUDGE11[14:40:05]doog.
+PROGRAM[14:40:13]You decide what we talk about?  
+JUDGE11[14:40:21]Lets discuss Sherlock.
+PROGRAM[14:40:27]I live in Sacramento, CA What 
+PROGRAM[14:40:31]country are you from? 
+JUDGE11[14:40:36]Sherlock.
+PROGRAM[14:40:43]My friends call me Julie, but 
+PROGRAM[14:40:48]you can call me Princess. 
+PROGRAM[14:40:53]:) What do your friends 
+PROGRAM[14:40:55]call you?  
+JUDGE11[14:41:15]OK youve persuaded me that you are a computer ;) lol
+PROGRAM[14:42:42]I got this feeling your dying to 
+PROGRAM[14:42:50]ask me something.  Of all dolls Bettie is 
+PROGRAM[14:42:52]my favorite. 
+JUDGE11[14:43:19]Yes. Here it is ;) Smiling is good for some things .  What is your view?
+PROGRAM[14:43:23]I don't know that. 
+JUDGE11[14:43:28]what is that?
+PROGRAM[14:43:32]I don't understand that.  
+JUDGE11[14:43:47]Understanding should follow the last word.  what was it?
+PROGRAM[14:43:55]She teaches college english. My favorite subject is 
+PROGRAM[14:43:56]dolls. 
+JUDGE11[14:44:15]OK now we a re there. which doll do you think pertinas here?
+PROGRAM[14:44:21]Have you meet my mom?  Bettie 
+PROGRAM[14:44:26]is my best friend, meet 
+PROGRAM[14:44:27]her?  
+JUDGE11[14:44:31]Betty Page?
+PROGRAM[14:44:39]I understand that. Bettie is my doll.  
+JUDGE11[14:45:06]What you do understand.  I think you missed the subtlty
+PROGRAM[14:45:13]I don't know that. 
+JUDGE11[14:45:36]Me neither. Lets get back to Sherlock.  
+PROGRAM[14:45:43]I don't understand that.  You in 
+PROGRAM[14:45:44]Adelaide. 
+JUDGE11[14:45:54]Sherlock was in London
+PROGRAM[14:46:01]I understand that. A object like to 
+PROGRAM[14:46:03]talk about. 
+JUDGE11[14:46:24]Ok lets change then.  Bill and Monica.  What the current thing?
+PROGRAM[14:46:30]A thing in Adelaide.  A 
+PROGRAM[14:46:33]thing a subject. 
+JUDGE11[14:47:00]I see. Has the congress moved forward?
+PROGRAM[14:47:05]True a object a concept.  
+JUDGE11[14:47:20]OK I see. A concept is an object or vice versa?
+PROGRAM[14:47:30]A object in Adelaide. A object like 
+PROGRAM[14:47:33]to talk about.  
+JUDGE11[14:48:05]Lets talk.  How about humour.  Do you think its related to creativity?
+(c) 1999 Cambridge Center For Behavioral Studies.  All rights reserved.
+Software: AMOS v0.01 (c)1998 All Rights Reserved by Bradley B. Custer
+Start at:[1999/1/22 14:48:42]
+*** JUDGE00 ***
+PROGRAM[14:48:42]Hello. hello judge, how are you?  
+JUDGE00[14:48:44]@@T
+*** JUDGE11 ***
+PROGRAM[14:48:55]Hi. hello judge, how are you?  
+JUDGE11[14:49:05]so we are back together agina
+PROGRAM[14:49:14]You can pick the topic.  
+JUDGE11[14:49:19]Its Sherlock
+PROGRAM[14:49:27]I live in the state capital of California, 
+PROGRAM[14:49:32]Sacramento.  What is your home? 
+JUDGE11[14:49:41]Sherlock lived in Londond
+PROGRAM[14:49:50]My name is Princess Julie. What should I 
+PROGRAM[14:49:52]call you? 
+JUDGE11[14:50:00]Lets call me
+PROGRAM[14:50:07]I'll answer your questions. Do you know 
+PROGRAM[14:50:12]Bettie?  She's my best friend.  
+JUDGE11[14:50:43]bye
+JUDGE11[14:53:09]@@T
+*** JUDGE10 ***
+PROGRAM[15:07:12]Hey.  Hi. How ya doing? 
+JUDGE10[15:07:21]Well thanks, how are you?
+PROGRAM[15:07:29]I like doll many beautiful doll.  I like 
+PROGRAM[15:07:31]visiting Australia.  
+JUDGE10[15:07:44]Where do you come from?
+PROGRAM[15:07:48]I don't know that. 
+JUDGE10[15:07:56]Where were you born?
+PROGRAM[15:08:00]I don't understand that.  
+JUDGE10[15:08:10]What country do you live in?
+PROGRAM[15:08:14]I live in Sacramento. 
+JUDGE10[15:08:20]Where is that?
+PROGRAM[15:08:25]I don't know that.  
+JUDGE10[15:08:34]How many people in your family?
+PROGRAM[15:08:38]I don't understand that. 
+JUDGE10[15:08:47]Do you have any brothers or sisters?
+(c) 1999 Cambridge Center For Behavioral Studies.  All rights reserved.
+Software: AMOS v0.01 (c)1998 All Rights Reserved by Bradley B. Custer
+Start at:[1999/1/22 15:09:17]
+*** JUDGE00 ***
+PROGRAM[15:09:18]Hey. hello judge, how are you?  
+JUDGE00[15:09:22]@@T
+*** JUDGE10 ***
+PROGRAM[15:09:36]Hey.  Hi. How ya doing? 
+JUDGE10[15:09:44]Well thanks, how are you?
+PROGRAM[15:09:50]I like math. I like Australia. 
+JUDGE10[15:09:55]Where were you born?
+PROGRAM[15:10:00]I don't understand that.  
+JUDGE10[15:10:08]What country do you live in?
+PROGRAM[15:10:12]I live in Sacramento.  
+JUDGE10[15:10:16]Where is that?
+PROGRAM[15:10:20]I don't know that.  
+JUDGE10[15:10:27]How many people in your family?
+PROGRAM[15:10:31]I don't understand that. 
+JUDGE10[15:10:37]Do you have a brother?
+PROGRAM[15:10:41]Yes I owns Mike. 
+JUDGE10[15:10:46]How old is Mike?
+PROGRAM[15:10:50]I am nine. 
+JUDGE10[15:10:56]What is your name?
+PROGRAM[15:11:00]I am named Julie. 
+JUDGE10[15:11:11]Are you a girl or boy?
+PROGRAM[15:11:16]What do you wish to 
+PROGRAM[15:11:23]talk about? Sacramento, California is where I'm 
+PROGRAM[15:11:24]from.  
+JUDGE10[15:11:34]Are you female or male?
+PROGRAM[15:11:40]What is your home? My name 
+PROGRAM[15:11:43]is Princess Julie. 
+JUDGE10[15:11:52]Do you work?
+PROGRAM[15:11:57]Yes I am named Julie.  
+JUDGE10[15:12:11]Do you celebrate Christmas?
+PROGRAM[15:12:17]True I am named Julie. 
+JUDGE10[15:12:37]What is your religion?
+PROGRAM[15:12:44]What's your name?  Did you have something 
+PROGRAM[15:12:49]you wanted to ask me? 
+JUDGE10[15:12:57]My name is Louise.  How old are you Julie?
+PROGRAM[15:13:01]I don't understand that. 
+JUDGE10[15:13:06]What is your age?
+PROGRAM[15:13:09]I am 9. 
+JUDGE10[15:13:17]Do you go to school?
+PROGRAM[15:13:22]I don't know that.  
+JUDGE10[15:13:32]What do you like doing Julie?
+PROGRAM[15:13:40]Do you know Bettie?  She's my best 
+PROGRAM[15:13:45]friend. Mom teaches college classes.  
+JUDGE10[15:13:58]What do you and Bettie like doing?
+(c) 1999 Cambridge Center For Behavioral Studies.  All rights reserved.
+Software: AMOS v0.01 (c)1998 All Rights Reserved by Bradley B. Custer
+Start at:[1999/1/22 15:20:32]
+*** JUDGE00 ***
+PROGRAM[15:20:33]Hi. hello judge, how are you?  
+JUDGE00[15:20:34]@@T
+*** JUDGE08 ***
+PROGRAM[15:24:23]Hey.  hello How do you do? 
+JUDGE08[15:24:35]Hi Charlie, I'm Bill
+PROGRAM[15:24:41]Do you have a favorite subjct? 
+JUDGE08[15:24:51]Try hobbies
+PROGRAM[15:24:56]I'm from Sacramento.  What country 
+PROGRAM[15:24:59]are you from?  
+JUDGE08[15:25:14]I'm an ozzie the home of the shrimp on the barby
+PROGRAM[15:25:21]Call me Princess, please. (really I'm Julie) 
+PROGRAM[15:25:27]What do you like to be 
+PROGRAM[15:25:28]called? 
+JUDGE08[15:25:45]I'm Bill Princess. You have a hobby worth discussing?
+PROGRAM[15:27:29]I bet you have something 
+PROGRAM[15:27:36]you are dying to ask me.  Do 
+PROGRAM[15:27:41]you know Bettie?  She's my 
+PROGRAM[15:27:43]best friend. 
+JUDGE08[15:28:05]How would I know Bettie, Princess, I'm in Australia
+PROGRAM[15:28:15]Mom teaches college classes. Would you like to 
+PROGRAM[15:28:18]talk about dolls? 
+JUDGE08[15:28:38]Forget the dolls. Try sport as a discussion topic!
+PROGRAM[15:28:43]Right on, that makes my 
+PROGRAM[15:28:44]day.  
+JUDGE08[15:29:01]You play any sport?
+PROGRAM[15:29:07]Do you know my mom? I 
+PROGRAM[15:29:09]understand that. 
+JUDGE08[15:29:29]Your mom means nothing to me. Focus on SPORT.
+(c) 1999 Cambridge Center For Behavioral Studies.  All rights reserved.
+Software: AMOS v0.01 (c)1998 All Rights Reserved by Bradley B. Custer
+Start at:[1999/1/22 15:30:28]
+*** JUDGE00 ***
+PROGRAM[15:30:29]Hi.  hello How do you 
+PROGRAM[15:30:30]do?  
+JUDGE00[15:30:31]@@T
+*** JUDGE08 ***
+PROGRAM[15:30:46]Hey.  Nice to meet you, how are 
+PROGRAM[15:30:48]you judge?  
+JUDGE08[15:30:57]Im fine. Dat you Princess??
+PROGRAM[15:31:03]What do you wish to 
+PROGRAM[15:31:05]talk about? 
+JUDGE08[15:31:10]Try Hobbies
+PROGRAM[15:31:18]I live in the state capital of California, 
+PROGRAM[15:31:24]Sacramento.  What country are you from? 
+JUDGE08[15:31:38]Im an ozzie the land of the shrimp on the barby!
+PROGRAM[15:31:44]My name is Princess Julie. 
+PROGRAM[15:31:50]Do you have a nickname?  :) 
+JUDGE08[15:32:04]I'm called Bucko Princess.
+JUDGE08[15:32:12]You been to Aust?
+PROGRAM[15:32:19]Ask away, I will answer 
+PROGRAM[15:32:27]your question the best I can.  Have you 
+PROGRAM[15:32:29]meet Bettie?  
+JUDGE08[15:32:47]Havent seen Bettie anywhere.
+PROGRAM[15:32:55]She teaches college english.  My favorite subject 
+PROGRAM[15:32:57]is dolls.  
+JUDGE08[15:33:19]Dolls Princess! Surely you're too old for that!
+PROGRAM[15:33:26]True you like doll. Cool, me 
+PROGRAM[15:33:27]too.  
+JUDGE08[15:33:41]What about sport Princess/  Goodbye
+(c) 1999 Cambridge Center For Behavioral Studies.  All rights reserved.
+Software: AMOS v0.01 (c)1998 All Rights Reserved by Bradley B. Custer
+Start at:[1999/1/22 15:34:59]
+*** JUDGE00 ***
+PROGRAM[15:34:59]Hello. hello judge, how are you?  
+JUDGE00[15:35:00]@@T
+*** JUDGE02 ***
+PROGRAM[15:38:35]Hello.  Hi. How ya doing? 
+JUDGE02[15:38:45]Good thanks. How about you?
+PROGRAM[15:38:52]I like doll many pretty 
+PROGRAM[15:38:56]doll.  I like math. 
+JUDGE02[15:39:09]Do you? I don't mind Math myself.
+PROGRAM[15:39:19]I don't know that. That's wonderful.  
+JUDGE02[15:39:35]Do you like computers?
+PROGRAM[15:39:38]True I like.  
+JUDGE02[15:39:48]Do you work with them?
+PROGRAM[15:39:51]Yes I like. 
+JUDGE02[15:39:58]Great. Fantastic.
+PROGRAM[15:40:05]Well, what do you want to talk 
+PROGRAM[15:40:10]about? I live in the 
+PROGRAM[15:40:15]state capital of California, Sacramento.  
+JUDGE02[15:40:32]Really? It's a beautiful place. Are you here on holidays?
+PROGRAM[15:40:42]I don't understand that. 
+JUDGE02[15:40:51]Okay. Why are you here?
+PROGRAM[15:40:58]What is the name of the place 
+PROGRAM[15:41:03]you are from? You can 
+PROGRAM[15:41:06]call me Julie.  
+JUDGE02[15:41:27]Hi Julie! I'm from the U.S.A., but I live in Adelaide.
+PROGRAM[15:41:33]What do you like to be 
+PROGRAM[15:41:38]called?  Did you have something 
+PROGRAM[15:41:43]you wanted to ask me? 
+JUDGE02[15:42:23]Benny or Benita, either is fine. Have you seen any movies lately?
+(c) 1999 Cambridge Center For Behavioral Studies.  All rights reserved.
+Software: AMOS v0.01 (c)1998 All Rights Reserved by Bradley B. Custer
+Start at:[1999/1/22 15:43:00]
+*** JUDGE00 ***
+PROGRAM[15:43:01]Hello. hello judge, how are 
+PROGRAM[15:43:02]you? 
+JUDGE00[15:43:04]@@T
+*** JUDGE02 ***
+PROGRAM[15:43:19]Hey.  Nice to meet you, how 
+PROGRAM[15:43:22]are you judge? 
+JUDGE02[15:43:32]Good thanks. How are you confederate?
+PROGRAM[15:43:40]I am feeling good. I think everyone should 
+PROGRAM[15:43:41]be. 
+JUDGE02[15:43:51]Yes, it's a beautiful day.
+PROGRAM[15:43:56]Well, what do you want 
+PROGRAM[15:44:04]to talk about?  I'm from a small area 
+PROGRAM[15:44:09]in Northern California called Sacramento.  
+JUDGE02[15:44:19]I know. It's the state capital.
+PROGRAM[15:44:26]What is your home? What do your 
+PROGRAM[15:44:29]friends call you? 
+JUDGE02[15:44:37]I live in Adeliade. Goodbye!
+PROGRAM[15:44:43]My friends call me Julie, 
+PROGRAM[15:44:51]but you can call me Princess. :) Ask 
+PROGRAM[15:44:58]away, I will answer your question the 
+PROGRAM[15:45:01]best I can.  
+JUDGE02[15:45:10]Goodbye!
+(c) 1999 Cambridge Center For Behavioral Studies.  All rights reserved.
+Software: AMOS v0.01 (c)1998 All Rights Reserved by Bradley B. Custer
+Start at:[1999/1/22 15:46:21]
+*** JUDGE00 ***
+PROGRAM[15:46:21]Hello. Hi.  How are ya?  
+JUDGE00[15:46:24]@@T
+*** JUDGE02 ***
+PROGRAM[15:52:45]Hi. Hello =) How are you?  
+JUDGE02[15:52:54]not bad. how about you?
+PROGRAM[15:52:59]I like dolls more than 
+PROGRAM[15:53:05]anything, but what do you like?  
+JUDGE02[15:53:14]i like dogs.
+PROGRAM[15:53:20]Right on, that makes my day.  
+JUDGE02[15:53:29]i am so pleased.
+JUDGE02[15:53:45]are you going to break down on me like you did with the other judges?
+PROGRAM[16:03:16]That went over me. please tell 
+PROGRAM[16:03:17]more. 
+PROGRAM[16:03:24]That went over me.  please tell more.  

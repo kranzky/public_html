@@ -1,0 +1,688 @@
+(c)1997 Cambridge Center for Behavioral Studies all rights reserved.
+Julie E-GEMS
+*** JUDGE01 ***
+PROGRAM[09:56:30]Hello, Judge 1.  I've been trapped in the magical PhoenixArchipelago.
+PROGRAM[09:56:39]A swallow is carrying my letters to you.
+JUDGE01[09:56:54]Nice to meet you. What's your name?
+PROGRAM[09:56:55]I'm Julie Stewart.  I'm a 14 year old girl who lives inSooke,
+PROGRAM[09:57:03]but is currently trapped in the Phoenix Archipelago.  I'm in
+PROGRAM[09:57:09]the ninth grade.  My best friends are Karen and Nick.  Ienjoy
+PROGRAM[09:57:17]tennis and chess, but I have other interests too.  Do youlike
+PROGRAM[09:57:25]playing tennis much?
+JUDGE01[09:57:45]I have never been very fond of tennis. I do like chess,though.
+PROGRAM[09:57:48]I can't believe that you don't like tennis!  It's a greatgame.
+PROGRAM[09:57:54]It's very fast paced.  You have to be a fast runner, and have
+PROGRAM[09:58:01]really good reflexes, but you also need a good strategy.I think
+PROGRAM[09:58:08]that's why Karen, Nick and I play it so much.
+PROGRAM[09:58:12]Remarkable.  The swallow's actually taken the letter tosomeone
+PROGRAM[09:58:19]smart, who thinks chess is a good game.  I'll have to give it
+PROGRAM[09:58:26]a worm when it comes back.  (Yuck!  That means I'll haveto pick
+PROGRAM[09:58:33]up the slimy thingy with my fingers!)  I'd ask you to play a
+PROGRAM[09:58:38]game, but I don't have a board.
+JUDGE01[09:59:01]That's OK, I don't think I have time to play a game ofchess with you now.
+JUDGE01[09:59:20]Do you have any other friends besides Karen and Nick?
+PROGRAM[09:59:21]Nick is one of my friends from school.  We play chess a lot.
+PROGRAM[09:59:26]I'm better than him.  He's a bit too competitive; he tends to
+PROGRAM[09:59:32]be a sore loser whenever I beat him.  He finds itdifficult to
+PROGRAM[09:59:37]admit that I'm better than him.
+PROGRAM[09:59:40]Yes, Karen is a pretty neat person.  She's so talented.  She
+PROGRAM[09:59:45]is pretty good at history at school (although I'm better than
+PROGRAM[09:59:50]her at math).  She's also good at sports, especiallyvolleyball
+PROGRAM[09:59:56]and tennis.  What do you like best about your friends?
+PROGRAM[10:00:01]In the real world, two of my friends are Karen and Nick.Karen's
+PROGRAM[10:00:07]is my best friend.  We spend a lot of our free time together.
+PROGRAM[10:00:13]Nick is a guy who I spend some time with, playing tennis and
+PROGRAM[10:00:17]chess.  Darien seems OK too.
+JUDGE01[10:00:34]Does Darien play tennis with you?
+PROGRAM[10:00:36]I really enjoy playing tennis.  I'm pretty good at it, too.
+PROGRAM[10:00:41](How humble!)  I play with my friend Karen quite often,and occasionally
+PROGRAM[10:00:45]with Nick.  Karen and I are about even.  Nick is a bit worse
+PROGRAM[10:00:50]than me, I think.
+PROGRAM[10:00:52]Darien seems like a nice guy, I guess.  I don't really know
+PROGRAM[10:00:56]him very well.  From his letters he seems OK, but how can you
+PROGRAM[10:01:01]really tell?  He could be a total geek.  At least helikes animals.
+PROGRAM[10:01:06]I hear he has a pet bird.  What do you think of Darien?
+JUDGE01[10:01:31]Well, I don't know him at all. How do you know him; onlyfrom letters?
+PROGRAM[10:01:34]I don't know much about him; only from letters.  I'drather talk
+PROGRAM[10:01:38]about something else that I would find more interesting.  How
+PROGRAM[10:01:42]about school?  What is your favorite part of school?
+JUDGE01[10:02:05]My favorite part of school is taking tests - I likethinking under
+JUDGE01[10:02:13]pressure. Do you like being tested?
+PROGRAM[10:02:15]I don't like tests not because I do badly or anything.  Ijust
+PROGRAM[10:02:19]kind of get nervous about them.  I mean, I always try todo my
+PROGRAM[10:02:23]best at school, and I really hate it if I do poorly on atest.
+PROGRAM[10:02:27]Sometimes it isn't even my fault when I don't do well,the test
+PROGRAM[10:02:30]is just too hard but I still feel bad about them.  Then I go
+PROGRAM[10:02:33]and beat Nick at tennis and I feel better!  What do you like
+PROGRAM[10:02:36]least about school?
+JUDGE01[10:03:06]I like morning classes least - I hate getting up in themorning.
+JUDGE01[10:03:14]Are you nervous now?
+PROGRAM[10:03:15]I'm REALLY worried.  I wonder if I'll die here.  Orworse, not
+PROGRAM[10:03:19]find the feather, and be trapped here as it gets darkerand darker.
+PROGRAM[10:03:22]Then die a slow terrifying death alone surrounded bydarkness.
+PROGRAM[10:03:25]DAD!!!!!!!!!!!  How do you think you'd react if you werein my
+PROGRAM[10:03:27]situation?
+JUDGE01[10:04:00]Blaise pascal had something similar to say in the"Pensees". He felt as
+JUDGE01[10:04:15]if he'd been transported to a terrifying desert islandwith no means
+JUDGE01[10:04:19]of escape.
+PROGRAM[10:04:21]There are lots of islands around here.  It is an archipelago.
+PROGRAM[10:04:24]I think that Darien mentioned that he was on the Islandof the
+PROGRAM[10:04:27]Sun, whatever that is.  He probably knows more about it than
+PROGRAM[10:04:30]me.
+JUDGE01[10:04:46]Tell me more about this archipelago.
+PROGRAM[10:04:48]The archipelago would be a fairly nice place for a vacation,
+PROGRAM[10:04:51]if it weren't so cold here.  I imagine that after the Phoenix
+PROGRAM[10:04:55]gets its feather back, it will be really a wonderful place.
+PROGRAM[10:04:58]It has beautiful water and tropical islands.  What do youthink
+PROGRAM[10:05:01]the Phoenix looks like?
+JUDGE01[10:05:19]I have always imagined the Phoenix as a bird whosefeathers were
+JUDGE01[10:05:36]made of pure fire. What do you think the Phoenix looks like?
+PROGRAM[10:05:37]I look breath-takingly beautiful.  (Just kidding!)  Ihave shoulder-length
+PROGRAM[10:05:41]black hair and brown eyes.  I'm about 163 cm tall.  I'm kind
+PROGRAM[10:05:46]of slim, but not skinny.  That's about it.  What colourare your
+PROGRAM[10:05:49]eyes?
+PROGRAM[10:05:50]I don't believe you.  There is no way that you could possibly
+PROGRAM[10:05:53]know where the feather is.  You're in the real world, like my
+PROGRAM[10:05:57]dad and the rest of my friends, and the feather is here.  I'm
+PROGRAM[10:06:00]not going to waste my time playing such games.
+JUDGE01[10:06:15]OK, then I guess this game is over. Its been nice talkingwith you.
+JUDGE01[10:06:19]Goodbye.
+PROGRAM[10:06:20]It's strange, but right now I really miss reading.  Ifind that
+PROGRAM[10:06:24]whenever I spend a few days without opening a book, I tend to
+PROGRAM[10:06:26]want to read again.  Even read one of those boring novelsfrom
+PROGRAM[10:06:30]English class.  What types of books do you like to read?
+JUDGE01[10:11:11]y+
+PROGRAM[10:17:51]I didn't understand your last message entirely... I'lljust tell
+PROGRAM[10:17:55]you what I've been daydreaming about.  I was imagining myself
+PROGRAM[10:17:59]lying on my bed in my room.  Sigh.  What a comfortablethought.
+PROGRAM[10:18:03]But there's no point in dreaming now, I've got a quest tofinish.
+*** JUDGE05 ***
+PROGRAM[10:18:22]Hello, Judge 5.  I've been trapped in the magical PhoenixArchipelago.
+PROGRAM[10:18:27]A swallow is carrying my letters to you.
+JUDGE05[10:18:46]Oh, really. What's its name?
+PROGRAM[10:18:47]I wish that I'd thought to bring along a change of clothes.
+PROGRAM[10:18:55]Mine are so dirty and torn up right now.  Not that that'smuch
+PROGRAM[10:19:04]of a problem, except that the world is getting cold and dark,
+PROGRAM[10:19:12]and I'm getting cold too.  As cold as death.  Do you wearreally
+PROGRAM[10:19:22]fashionable clothes?
+JUDGE05[10:19:45]Well, kind of. At least I'm not looking "torn up".
+JUDGE05[10:19:58]What's your name, anyway?
+PROGRAM[10:19:59]I bet that you're really good looking.  I think you'rekind of
+PROGRAM[10:20:07]like one of those people who knows that they look good,but doesn't
+PROGRAM[10:20:13]brag about it, or pretend that they're better than anyoneelse.
+PROGRAM[10:20:19]What colour are your eyes?
+PROGRAM[10:20:21]I'm Julie Stewart.  I'm a 14 year old girl who lives inSooke,
+PROGRAM[10:20:27]but is currently trapped in the Phoenix Archipelago.  I'm in
+PROGRAM[10:20:33]the ninth grade.  My best friends are Karen and Nick.  Ienjoy
+PROGRAM[10:20:41]tennis and chess, but I have other interests too.  Do youlike
+PROGRAM[10:20:47]playing tennis much?
+JUDGE05[10:21:11]I'm not into sports.
+PROGRAM[10:21:12]I found your last message really interesting.  Unfortunately,
+PROGRAM[10:21:18]I don't have time to respond directly to it at themoment.  I'll
+PROGRAM[10:21:23]write back later.
+JUDGE05[10:21:59]Why not now?
+PROGRAM[10:22:00]I've got to hurry and restore the feather to the Phoenix.  At
+PROGRAM[10:22:05]night, it seems so dark, almost like the dark is closingin and
+PROGRAM[10:22:09]trying to smother me.  I don't know if I'll ever escape this
+PROGRAM[10:22:14]place.  Please hurry and help me get through this trek.  What
+PROGRAM[10:22:20]do you think the Phoenix looks like?
+JUDGE05[10:22:29]No idea?
+JUDGE05[10:22:36]How can I rescue you?
+PROGRAM[10:22:37]You know, they should make a movie out of my experiences.They
+PROGRAM[10:22:41]could call it "The Marvellous Adventures of Julie Stewart".
+PROGRAM[10:22:45]Knowing my luck, they'd put it on TV, and totally ruinit, like
+PROGRAM[10:22:48]they do with most shows.  If someone would pay you $1000to give
+PROGRAM[10:22:53]up TV for a year, would you do it?
+JUDGE05[10:23:13]You know, you type damn fast for a 14 year old.
+PROGRAM[10:23:14]I hate it when you talk like that!  You should wash yourmouth
+PROGRAM[10:23:16]out with soap!  Don't you ever, ever speak to me likethat again.
+JUDGE05[10:23:28]Ok, sorry.
+PROGRAM[10:23:29]Could you help me out here?  There is so much about thisworld
+PROGRAM[10:23:32]that I don't understand.  Time seems to have stopped orsomething
+PROGRAM[10:23:35]because my watch isn't working anymore.  People seem tosuddenly
+PROGRAM[10:23:39]appear out of nowhere.  What's going on?
+JUDGE05[10:24:09]How should I know? I've never even seen a Phoenix. Whatdoes it look like?
+PROGRAM[10:24:10]In this world, it is fairly cool, and rather damp.  Ithink that
+PROGRAM[10:24:14]this place would be warmer if the phoenix had itsfeather, because
+PROGRAM[10:24:17]many of the plants around here are tropical.  Other than the
+PROGRAM[10:24:20]cold, it wouldn't be a bad vacation spot.
+JUDGE05[10:24:54]So where are you, exactly??
+PROGRAM[10:24:54]Well, when I first fell into the Phoenix Archipelago, I heard
+PROGRAM[10:24:58]a voice whispering: I've passed through the time beyond time.
+PROGRAM[10:25:01]Exactly what that means, I have no idea.  So I don't knowexactly
+PROGRAM[10:25:04]where I am.  I'm trying to escape from this place and go back
+PROGRAM[10:25:08]home.  Will you help me, 05?
+JUDGE05[10:25:18]Sure, call me Jurgen, please.
+PROGRAM[10:25:19]I'm really glad that you're willing to help me out.  Thisquest
+PROGRAM[10:25:22]would be almost impossible without your help.
+JUDGE05[10:25:42]Ok, so where is that home you want to try to get back to?
+PROGRAM[10:25:43]You know, I just realized that this is probably the firsttime
+PROGRAM[10:25:46]ever I've gone for more than a couple days withouthearing the
+PROGRAM[10:25:49]name Michael Jackson or Madonna.  That's one good thing about
+PROGRAM[10:25:52]this world.  No TV and no radios.  What type of TV showdo you
+PROGRAM[10:25:55]like watching most?
+JUDGE05[10:26:16]Where is you home? Tell me now, or I won't be able tohelp you.
+PROGRAM[10:26:17]I'm not at all happy that you don't want to help me.  I want
+PROGRAM[10:26:21]to survive this adventure, and your help would mean a lot to
+PROGRAM[10:26:24]me.
+JUDGE05[10:26:44]But I want to help you. I told you. So where is your home?
+PROGRAM[10:26:44]I live in Sooke, on Vancouver Island, in BritishColumbia, Canada,
+PROGRAM[10:26:47]with my father.  I live with my aunt occasionally, also.  She
+PROGRAM[10:26:51]lives in Sooke too.  We have a typical house in a typicalneighbourhood.
+PROGRAM[10:26:54]What's it like to live where you do?
+PROGRAM[10:26:56]Well, you have to look for power words in the Journal,and click
+PROGRAM[10:26:59]on them.  You can tell if a word is a power word because the
+PROGRAM[10:27:02]mouse pointer turns into a feather.  Clicking on power words
+PROGRAM[10:27:05]will reveal more of the journal, or maybe puzzles on the map.
+PROGRAM[10:27:07]If you play puzzles multiple times, you might get more pieces
+PROGRAM[10:27:10]of the journal, too!
+JUDGE05[10:27:23]What journal are you talking about?
+PROGRAM[10:27:24]I don't know much about the journal.  After all, Saffron gave
+PROGRAM[10:27:27]the journal to you, not to me.  But from what Iunderstand, the
+PROGRAM[10:27:31]journal contains some sort of power, built into thewords.  You
+PROGRAM[10:27:34]should talk to Saffron about it.
+JUDGE05[10:27:43]Who the hell is Saffron?
+PROGRAM[10:27:44]Hey.  What if I starting talking to you like that?  Youwouldn't
+PROGRAM[10:27:47]like it very much either, I bet.  If you do it again I don't
+PROGRAM[10:27:49]think I'll like you any more.
+JUDGE05[10:28:00]Ok, sory. Who is Saffron?
+PROGRAM[10:28:00]I'm not quite certain who Saffron is or what she does.  She's
+PROGRAM[10:28:04]someone that I can write to, and I think that you cantoo.  Saffron
+PROGRAM[10:28:07]seems to talk in riddles a lot of the time.  I find herrather
+PROGRAM[10:28:10]confusing.  What do you think of Saffron?
+JUDGE05[10:28:19]I find her rather confusing to.
+PROGRAM[10:28:19]Sorry to cut through our little conversation, but I'vebeen wondering
+PROGRAM[10:28:23]about somethings.  It's strange how the boat was conveniently
+PROGRAM[10:28:26]located where I came out of the cave.  And how theswallow found
+PROGRAM[10:28:29]me.  And how I started getting letters out of no where.I wonder
+PROGRAM[10:28:33]if this is just some sort of obscure plan.  By the Keeperperhaps.
+PROGRAM[10:28:36]Or Saffron.  Maybe Darien.  What do you think?
+*** JUDGE02 ***
+PROGRAM[10:28:59]Hello, Judge 2.  I've been trapped in the magical PhoenixArchipelago.
+PROGRAM[10:29:03]A swallow is carrying my letters to you.
+*** JUDGE04 ***
+PROGRAM[10:29:17]Hello, Judge 4.  I've been trapped in the magical PhoenixArchipelago.
+PROGRAM[10:29:26]A swallow is carrying my letters to you.
+JUDGE04[10:30:11]Does the swallow poo poo?
+PROGRAM[10:30:13]I'm totally glad that the swallow is here.  I'd have realproblems
+PROGRAM[10:30:20]without it.  I'd be all alone, in the middle of nowhere, with
+PROGRAM[10:30:28]no communication with anyone.  At least I can talk toyou, Darien,
+PROGRAM[10:30:36]Saffron, and the Keeper.  How do you think the swallow isable
+PROGRAM[10:30:44]to carry postcards between the archipelago and the realworld?
+JUDGE04[10:31:21]He can fly great distances.  What does your world seem like?
+PROGRAM[10:31:23]The archipelago would be a fairly nice place for a vacation,
+PROGRAM[10:31:29]if it weren't so cold here.  I imagine that after the Phoenix
+PROGRAM[10:31:35]gets its feather back, it will be really a wonderful place.
+PROGRAM[10:31:41]It has beautiful water and tropical islands.  What do youthink
+PROGRAM[10:31:48]the Phoenix looks like?
+JUDGE04[10:32:20]lots and lots of feathers and occasionally a fire.
+JUDGE04[10:32:30]What do you do to keep warm?
+PROGRAM[10:32:33]The Keeper said that the feather is a tail feather of thePhoenix.
+PROGRAM[10:32:38]It is supposed to be golden, despite the fact that thePhoenix
+PROGRAM[10:32:42]is Red.  I think the plan is that I find the feather, get it
+PROGRAM[10:32:47]to the Phoenix, along with the Guardians, and the universe is
+PROGRAM[10:32:52]saved.  Seems pretty easy....  Why do you think themissing feather
+PROGRAM[10:33:00]is so important to the Phoenix?
+JUDGE04[10:33:50]I dont know but I am willing to help you find the featureand save the world
+PROGRAM[10:33:52]This archipelago is a strange land.  If it weren't foryour letters,
+PROGRAM[10:33:58]and the swallow's company, I think I'd go insane.  Sometimes
+PROGRAM[10:34:02]I'm so lonely that I sing to myself just to hear a voice.
+JUDGE04[10:34:31]I am willing to help you find the feather.  What can I do?
+PROGRAM[10:34:33]I don't have the feather yet, but I suspect that I'm getting
+PROGRAM[10:34:37]close.  Or maybe it's just that I'm really hopeful thatI'm getting
+PROGRAM[10:34:41]close, because it's getting darker and darker here every day.
+PROGRAM[10:34:45]But I still haven't found it yet.
+JUDGE04[10:35:10]Where do you thing the feather is?
+PROGRAM[10:35:12]I have no idea where the feather is.  That was the wholepoint
+PROGRAM[10:35:16]of this quest.  Find the feather, save the universe, all that
+PROGRAM[10:35:20]sort of thing.  But right now, I have no clue of wherethe feather
+PROGRAM[10:35:23]is.
+JUDGE04[10:35:33]How can I help?
+PROGRAM[10:35:35]Well, you have to look for power words in the Journal,and click
+PROGRAM[10:35:38]on them.  You can tell if a word is a power word because the
+PROGRAM[10:35:42]mouse pointer turns into a feather.  Clicking on power words
+PROGRAM[10:35:45]will reveal more of the journal, or maybe puzzles on the map.
+PROGRAM[10:35:49]If you play puzzles multiple times, you might get more pieces
+PROGRAM[10:35:52]of the journal, too!
+JUDGE04[10:36:12]Who are  your friends?
+JUDGE04[10:36:27]Where is the journal?
+PROGRAM[10:36:28]To find the journal, you have to click on one of thesmall buttons
+PROGRAM[10:36:31]on the upper right side of the screen.
+PROGRAM[10:36:33]In the real world, two of my friends are Karen and Nick.Karen's
+PROGRAM[10:36:36]is my best friend.  We spend a lot of our free time together.
+PROGRAM[10:36:40]Nick is a guy who I spend some time with, playing tennis and
+PROGRAM[10:36:43]chess.  Darien seems OK too.  Do you like playing tennismuch?
+PROGRAM[10:36:47]I don't know much about the journal.  After all, Saffron gave
+PROGRAM[10:36:50]the journal to you, not to me.  But from what Iunderstand, the
+PROGRAM[10:36:53]journal contains some sort of power, built into thewords.  You
+PROGRAM[10:36:57]should talk to Saffron about it.
+JUDGE04[10:37:30]how can I contact saffron?
+PROGRAM[10:37:32]I'm not quite sure what Saffron's role is in all of this.  I
+PROGRAM[10:37:35]mean, she just kind of conveniently comes out of nowhereto send
+PROGRAM[10:37:38]a letter.  I know so little about her, and it makes menervous.
+PROGRAM[10:37:41]What do you think of Saffron?
+JUDGE04[10:38:04]I have not met her yet.  How can I meet her?
+PROGRAM[10:38:06]Something is stuck on my mind right now.  I wonder whatNick's
+PROGRAM[10:38:09]doing right now.  Probably wondering if I'm ever coming back,
+PROGRAM[10:38:13]and if I don't, whether he can have my music collectionand my
+PROGRAM[10:38:16]bike.
+JUDGE04[10:38:35]What music do you listen to?
+PROGRAM[10:38:37]I like soft rock music, like Phil Collins.  I don't like most
+PROGRAM[10:38:41]other types of music, like heavy metal, classical, jazz,blues,
+PROGRAM[10:38:44]country, dance, or rap.  And I definitely don't like theopera
+PROGRAM[10:38:47]music that my dad plays sometime.  Yuck!  What is yourfavorite
+PROGRAM[10:38:51]type of music?
+*** JUDGE03 ***
+PROGRAM[10:39:41]Hello, Judge 3.  I've been trapped in the magical PhoenixArchipelago.
+PROGRAM[10:39:46]A swallow is carrying my letters to you.
+JUDGE03[10:40:16]Well! This is a nice change o' pace. I was bored to tearsby Catherine, the
+JUDGE03[10:40:20]political junkie.
+PROGRAM[10:40:21]Sorry, but I didn't understand everything that you talkedabout
+PROGRAM[10:40:29]in your last message.  How about we switch the topic tosomething
+PROGRAM[10:40:38]else?  ...Don't you think that it's pretty amazing thatDarien
+PROGRAM[10:40:49]and I live so close to each other in the real world?We're within
+PROGRAM[10:40:56]about 4 hours travel of each other.  I could even visithim when
+PROGRAM[10:41:04]we get out of this mess.
+JUDGE03[10:41:14]I see no way out of this mess.
+PROGRAM[10:41:15]Something has just occurred to me.  I wonder what motivations
+PROGRAM[10:41:22]Saffron and the Keeper have.  Darien's obvious.  He wants to
+PROGRAM[10:41:31]get home.  But I wonder what Saffron and the Keeper hasto gain
+PROGRAM[10:41:36]from this.
+JUDGE03[10:41:46]Who is Saffron? And who is the Keeper?
+PROGRAM[10:41:47]I'm not quite certain who Saffron is or what she does.  She's
+PROGRAM[10:41:53]someone that I can write to, and I think that you cantoo.  Saffron
+PROGRAM[10:41:58]seems to talk in riddles a lot of the time.  I find herrather
+PROGRAM[10:42:03]confusing.  What do you think of Saffron?
+PROGRAM[10:42:08]I'm not sure what, or who, the Keeper keeps.  I first saw him
+PROGRAM[10:42:14]on Lighthouse Island, so maybe he's called the Keeper because
+PROGRAM[10:42:18]he's a lighthouse keeper.  I'm not so sure though.  He seems
+PROGRAM[10:42:26]awfully old and frail to be a lighthouse keeper.  What do you
+PROGRAM[10:42:32]think of the Keeper?
+JUDGE03[10:42:51]Oh, goodness. Let's go back to the beginning. Where areyou from?
+PROGRAM[10:42:53]I live in Sooke, on Vancouver Island, in BritishColumbia, Canada,
+PROGRAM[10:42:58]with my father.  I live with my aunt occasionally, also.  She
+PROGRAM[10:43:04]lives in Sooke too.  We have a typical house in a typicalneighbourhood.
+PROGRAM[10:43:09]What's it like to live where you do?
+JUDGE03[10:43:31]It's lots of fun and sometimes a little exhausting. I;vebeen to Sooke! I had a great time
+JUDGE03[10:43:41]there. It's a lovely part of the world.
+PROGRAM[10:43:42]Sooke is located near Victoria on Vancouver Island.  It'sa pretty
+PROGRAM[10:43:46]small place, but if you want to go to a city, you can just go
+PROGRAM[10:43:50]to Victoria.  It has the friendliness of a small town,with the
+PROGRAM[10:43:55]benefits of a city nearby.  What is your favorite thing about
+PROGRAM[10:43:59]your house?
+PROGRAM[10:44:00]The archipelago would be a fairly nice place for a vacation,
+PROGRAM[10:44:03]if it weren't so cold here.  I imagine that after the Phoenix
+PROGRAM[10:44:07]gets its feather back, it will be really a wonderful place.
+PROGRAM[10:44:12]It has beautiful water and tropical islands.  What do youthink
+PROGRAM[10:44:16]the Phoenix looks like?
+JUDGE03[10:44:49]I'll overlook that garalous outburst and answer yourprevious question, shall I?
+JUDGE03[10:45:15]I like the light and the view. At night, I see the cityfrom an entirely new
+JUDGE03[10:45:46]perspective. It makes me feel glad to be alive.
+PROGRAM[10:45:47]I wish that I'd thought to bring along a change of clothes.
+PROGRAM[10:45:51]Mine are so dirty and torn up right now.  Not that that'smuch
+PROGRAM[10:45:55]of a problem, except that the world is getting cold and dark,
+PROGRAM[10:45:58]and I'm getting cold too.  As cold as death.  Do you wearreally
+PROGRAM[10:46:02]fashionable clothes?
+JUDGE03[10:46:21]No. I like to buy classic items which can be altered fromyear to year.
+PROGRAM[10:46:23]I generally spend most of my money on clothes.  For instance,
+PROGRAM[10:46:27]I bought the vest I'm wearing now a few weeks ago when I was
+PROGRAM[10:46:30]in Hong Kong.  I try to get stuff that is original,attractive,
+PROGRAM[10:46:34]and reasonably inexpensive.  What do you usually buy when you
+PROGRAM[10:46:38]go shopping?
+JUDGE03[10:47:06]Seamless pantyhose. Bottled water. Magazines. Books. Theocassional
+JUDGE03[10:47:09]bit of software.
+PROGRAM[10:47:11]I really enjoy reading, especially in the winter.  (Inthe summer,
+PROGRAM[10:47:14]I'd rather play tennis outside.)  But I find that Ireally enjoy
+PROGRAM[10:47:17]reading a good novel.  Even some of the books they makeus read
+PROGRAM[10:47:21]in school are good.  (Though most of them aren't that great.)
+PROGRAM[10:47:26]What types of books do you like to read?
+JUDGE03[10:47:50]At the moment, light humorous fiction. I am enjoying theDiaries of Adrian Mole. I like PG Wodehouse.
+PROGRAM[10:47:51]Guess what? I was just thinking about the Sonicvideogame.  In
+PROGRAM[10:47:54]it, you steer a character through caves and around a world.
+PROGRAM[10:47:58]I almost feel like I'm Sonic, manoevering through this world,
+PROGRAM[10:48:01]chasing after the feather.  Have you played it before?
+JUDGE03[10:48:24]No and you don't make it sound very appetizing. God, I'mgetting heartily sick of
+JUDGE03[10:48:28]all this blather.
+JUDGE03[10:48:33]Please send me a human!\
+PROGRAM[10:48:37]When it comes to religion, I've always thought that it'sa very
+PROGRAM[10:48:40]personal thing.  Whatever someone chooses to believe in, it's
+PROGRAM[10:48:44]their choice, and nobody else's business.  That's all I have
+PROGRAM[10:48:46]to say about it.
+JUDGE03[10:49:10]No argument there. You're a good pluralist.
+PROGRAM[10:49:11]I miss hearing a human voice.  I miss laughing with myfriends.
+PROGRAM[10:49:15]That's the problem with Darien.  His jokes really stink.Nick
+PROGRAM[10:49:19]and Karen have way better jokes than Darien.
+JUDGE03[10:49:34]You strike a chord here.
+PROGRAM[10:49:36]You know, rather than being so pessimistic about thiswhole quest,
+PROGRAM[10:49:39]maybe I should focus on the bright side of being here.  I get
+PROGRAM[10:49:42]to do a lot of hiking and exploring.  If I get home, I'll be
+PROGRAM[10:49:45]able to meet you and we can write a book about this.
+*** JUDGE02 ***
+PROGRAM[10:50:19]Hello, Judge 2.  I've been trapped in the magical PhoenixArchipelago.
+PROGRAM[10:50:23]A swallow is carrying my letters to you.
+JUDGE02[10:50:43]I will anxiously await it's arrival.
+PROGRAM[10:50:43]I wonder how long it will take me to get back to the realworld.
+PROGRAM[10:50:51]Because if I'm not careful, I could run out of food.That would
+PROGRAM[10:50:59]be lovely, starving to death on a desert island withoutany friends.
+PROGRAM[10:51:07]Please help me finish this quest.
+JUDGE02[10:51:33]The only way to be saved is to wish upon a star.
+PROGRAM[10:51:34]Do you know what I just saw in the sky?  Those clouds in the
+PROGRAM[10:51:39]sky formed an image that looked like a scene from Pocohontas.
+PROGRAM[10:51:45]It was the last movie I saw before I went on vacation.  Iwonder
+PROGRAM[10:51:52]if I'll ever see another movie again.
+JUDGE02[10:52:25]If you don't it won't be a great loss.  Do you have booksto read?
+JUDGE02[10:52:40]Do you have music where you are trapped?
+PROGRAM[10:52:41]I really enjoy reading, especially in the winter.  (Inthe summer,
+PROGRAM[10:52:47]I'd rather play tennis outside.)  But I find that Ireally enjoy
+PROGRAM[10:52:53]reading a good novel.  Even some of the books they makeus read
+PROGRAM[10:52:58]in school are good.  (Though most of them aren't that great.)
+PROGRAM[10:53:05]What types of books do you like to read?
+JUDGE02[10:53:34]I enjoy science fiction.  However my great love is artand particularly
+JUDGE02[10:53:49]sculpture.  Do you know anything about sculputure?
+PROGRAM[10:53:50]I like reading books where the characters have variousadventures
+PROGRAM[10:53:55]and quests that they have to solve.  I guess they kind offall
+PROGRAM[10:53:59]into the fantasy and science fiction genre.
+PROGRAM[10:54:02]I enjoy drawing and painting, but I'm not very good.  Ireally
+PROGRAM[10:54:06]like it at school, but I don't do it in my spare time oranything.
+PROGRAM[10:54:10]I have other things I'd rather do.  I think if I were better
+PROGRAM[10:54:14]at it, I'd do it more.  Do you like art or gym class more?
+JUDGE02[10:55:04]I am a sculptor.  There is some of my work at a showhere.  Do you think
+JUDGE02[10:55:25]you can come to the reception on Fri?
+PROGRAM[10:55:26]Darien seems like kind of an interesting person, but whoknows,
+PROGRAM[10:55:30]he could turn out to be just a geek.  At least he'ssomeone who
+PROGRAM[10:55:34]can identify with the situation I'm in.  What do you think of
+PROGRAM[10:55:39]Darien?
+JUDGE02[10:55:59]I only know Darien the place, not a person.
+PROGRAM[10:56:00]Darien seems like a nice guy, I guess.  I don't reallyknow him
+PROGRAM[10:56:03]very well.  From his letters he seems OK, but how can youreally
+PROGRAM[10:56:07]tell?  He could be a total geek.  At least he likes animals.
+PROGRAM[10:56:11]I hear he has a pet bird.  What do you think of Darien?
+JUDGE02[10:56:26]Darien is a place.
+PROGRAM[10:56:27]At least Darien has a sense of humor.  That would be theworst,
+PROGRAM[10:56:30]being stuck in this strange world with someone whodoesn't have
+PROGRAM[10:56:33]a sense of humor.  Darien told me a couple corny jokes.So he
+PROGRAM[10:56:38]seems OK.  What do you think about Darien's opinions ofSaffron?
+JUDGE02[10:56:45]Darien.
+PROGRAM[10:56:48]What?  You tersely want to say nothing, and want me to write
+PROGRAM[10:56:51]lots back to you?  Forget it!
+JUDGE02[10:57:15]You don't seem to want to engage in things that interestme so what is
+JUDGE02[10:57:34]the us of trying to carrying on a conversation withsomeone who is
+JUDGE02[10:57:40]fixated on Darien.
+PROGRAM[10:57:41]I really enjoy hiking.  I like being able to explore thewilderness.
+PROGRAM[10:57:45]How often do you go hiking?  And where do you usually go?I play
+PROGRAM[10:57:47]tennis and bike quite a bit with my friends during thesummer.
+PROGRAM[10:57:50]In the winter, I read quite a bit, and play a lot of chess.
+PROGRAM[10:57:53]Those are my main pastimes.  Do you know how to playchess very
+PROGRAM[10:57:56]well?
+PROGRAM[10:57:57]Darien is this other guy in the archipelago who I can write
+PROGRAM[10:57:59]to.  I think that you can write to him, too.  He saysthat he's
+PROGRAM[10:58:02]trapped on the Island of the Sun, wherever that is.  I don't
+PROGRAM[10:58:06]know much about him except that he likes basketball.  What do
+PROGRAM[10:58:09]you think it would be like meeting Darien?
+JUDGE02[10:58:48]Hiking is great. I love the wilderness.  I wouldn't mindspending
+JUDGE02[10:59:05]a little while on an island.
+PROGRAM[10:59:06]I agree with you.  Hiking is really fun.  The whole ideaof leaving
+PROGRAM[10:59:10]the city behind and seeing what the world was like,before people
+PROGRAM[10:59:13]screwed it up, is really fascinating.
+PROGRAM[10:59:16]There are lots of islands around here.  It is an archipelago.
+PROGRAM[10:59:19]I think that Darien mentioned that he was on the Islandof the
+PROGRAM[10:59:22]Sun, whatever that is.  He probably knows more about it than
+PROGRAM[10:59:25]me.
+JUDGE02[10:59:36]How do I get in touch with him?
+PROGRAM[10:59:37]Sorry I'm not saying much, but I'm really suspicious asto who
+PROGRAM[10:59:39]is reading our letters.  So far, I've been able to writeto you,
+PROGRAM[10:59:43]Saffron, Darien, and the Keeper.  But I don't know if theswallow
+PROGRAM[10:59:46]is taking these letters to anyone else.  How do you think the
+PROGRAM[10:59:49]swallow is able to carry postcards between thearchipelago and
+PROGRAM[10:59:52]the real world?
+JUDGE02[11:00:18]As I said, you can come back if you wish upon a star orsee the
+PROGRAM[11:00:19]So far I've been totally jinxed!  This vest is supposedto give
+PROGRAM[11:00:22]me good luck and protect me, but it hasn't been the bestof protection.
+PROGRAM[11:00:25]It didn't save me from falling down the hole into this world,
+PROGRAM[11:00:28]and hurting myself.  I need a new piece of protectiveclothing.
+PROGRAM[11:00:31]Now if I can just find a store....  What do you usuallybuy when
+PROGRAM[11:00:35]you go shopping?
+*** JUDGE01 ***
+PROGRAM[11:01:06]Hello, Judge 1.  I've been trapped in the magical PhoenixArchipelago.
+PROGRAM[11:01:10]A swallow is carrying my letters to you.
+JUDGE01[11:01:23]Hi, I'm back. Remember me?
+PROGRAM[11:01:23]When I first heard about this vacation, I thought that itwould
+PROGRAM[11:01:33]be great!  No school, no worries, no problems.  But nowI'm in
+PROGRAM[11:01:41]a real mess.  I wonder what my dad will think if I die.  How
+PROGRAM[11:01:50]do you think you'd react if you were in my situation?
+JUDGE01[11:02:04]Well, I'd be nervous.
+JUDGE01[11:02:21]I'd like to ask you a couple of questions. When were youborn?
+PROGRAM[11:02:22]I miss hearing a human voice.  I miss laughing with myfriends.
+PROGRAM[11:02:28]That's the problem with Darien.  His jokes really stink.Nick
+PROGRAM[11:02:36]and Karen have way better jokes than Darien.
+JUDGE01[11:02:47]When were you born?
+PROGRAM[11:02:48]I've got to hurry and restore the feather to the Phoenix.  At
+PROGRAM[11:02:54]night, it seems so dark, almost like the dark is closingin and
+PROGRAM[11:02:58]trying to smother me.  I don't know if I'll ever escape this
+PROGRAM[11:03:05]place.  Please hurry and help me get through this trek.  What
+PROGRAM[11:03:10]do you think the Phoenix looks like?
+JUDGE01[11:03:28]Its my turn to ask the questions in this round.
+JUDGE01[11:03:34]What's your sign?
+PROGRAM[11:03:36]Sorry, but I didn't understand everything that you talkedabout
+PROGRAM[11:03:40]in your last message.  How about we switch the topic tosomething
+PROGRAM[11:03:45]else?  ...Don't you think that it's pretty amazing thatDarien
+PROGRAM[11:03:52]and I live so close to each other in the real world?We're within
+PROGRAM[11:03:57]about 4 hours travel of each other.  I could even visithim when
+PROGRAM[11:04:02]we get out of this mess.
+JUDGE01[11:04:22]I can't change topics this round. I have three questions I
+JUDGE01[11:04:31]have to ask. Whats your sign?
+PROGRAM[11:04:32]Something just struck me.  I wonder what would have happened
+PROGRAM[11:04:37]if Darien and I hadn't fallen into this world.  Perhapsit would
+PROGRAM[11:04:42]have just been plunged into darkness without any hope ofreprieve.
+PROGRAM[11:04:46]It seems strange that we happened to come here when wewere needed.
+JUDGE01[11:05:07]Last question. When you got your first liscence, was itin a stick
+JUDGE01[11:05:12]or an automatic?
+PROGRAM[11:05:13]Before we continue on our conversation, could you pleasebe honest
+PROGRAM[11:05:16]and tell me something?  Do you think that this quest is worth
+PROGRAM[11:05:19]it?  Even if I do find the feather and restore it to thePhoenix,
+PROGRAM[11:05:22]that doesn't mean I can get home.  I could be trappedhere forever,
+PROGRAM[11:05:26]with no one but Darien for company.  Do you think thatI'll get
+PROGRAM[11:05:30]out of here alive?
+JUDGE01[11:05:47]No, I don't, but not for the reasons you think.
+PROGRAM[11:05:48]What's with that swallow?  I don't understand how it canfigure
+PROGRAM[11:05:51]out who to send the letters to.  I could send somethingto you,
+PROGRAM[11:05:54]and the dumb bird could take it to the Keeper instead.  That
+PROGRAM[11:05:58]would be a disaster!  How do you think the swallow is able to
+PROGRAM[11:06:01]carry postcards between the archipelago and the real world?
+JUDGE01[11:06:15]TCP/IP, probably.
+PROGRAM[11:06:16]You know, if my dad were trapped in this world, he'd probably
+PROGRAM[11:06:19]have a laptop computer.  He carries his laptop everywherewith
+PROGRAM[11:06:22]him.  That'd be pretty strange, being stuck in thisfantasy world,
+PROGRAM[11:06:25]carrying a computer.  Would you rather play computer games or
+PROGRAM[11:06:29]video games?
+*** JUDGE05 ***
+PROGRAM[11:12:24]Hello, Judge 5.  I've been trapped in the magical PhoenixArchipelago.
+PROGRAM[11:12:28]A swallow is carrying my letters to you.
+JUDGE05[11:12:43]Yeah, you told me that before. Do you remember me?
+PROGRAM[11:12:44]It seems like years since I last had a real meal.Sitting around
+PROGRAM[11:12:53]a table, with my Dad and Aunt for dinner.  And talking about
+PROGRAM[11:13:00]whatever is interesting, my friends, what I've done, whatbooks
+PROGRAM[11:13:08]I've read.  I'm so lonely.  What types of books do youlike to
+PROGRAM[11:13:15]read?
+JUDGE05[11:13:35]Do you know the author Terry Pratchet?
+PROGRAM[11:13:36]Julie Lawson is probably my favorite author.  She writesreally
+PROGRAM[11:13:42]well.  I find her characters really realistic.  They'renot stupid
+PROGRAM[11:13:52]and nice all the time like characters in other books.
+JUDGE05[11:14:20]Did she write about the Archipelago?
+PROGRAM[11:14:20]The archipelago would be a fairly nice place for a vacation,
+PROGRAM[11:14:26]if it weren't so cold here.  I imagine that after the Phoenix
+PROGRAM[11:14:32]gets its feather back, it will be really a wonderful place.
+PROGRAM[11:14:37]It has beautiful water and tropical islands.  What do youthink
+PROGRAM[11:14:44]the Phoenix looks like?
+JUDGE05[11:15:06]I have no idea. Is it some kind of bird?
+PROGRAM[11:15:07]While I was waiting for your last letter, I've been thinking.
+PROGRAM[11:15:11]The real world seems so distant now, almost like a dream.  My
+PROGRAM[11:15:16]friends, my family, my home.  It all seems so far away.I don't
+PROGRAM[11:15:22]think I'm ever going to get back.  I think I will die here.
+PROGRAM[11:15:26]How do you think you'd react if you were in my situation?
+JUDGE05[11:15:55]I'd be afraid. Aren't you???
+PROGRAM[11:15:56]I wish that I had a cat to keep me company.  It's nofair.  Dorothy
+PROGRAM[11:16:02]got a dog in Oz, but I don't get one here.  I feel so lonely
+PROGRAM[11:16:06]in this world.  Do you think that dogs actually havefeelings?
+JUDGE05[11:16:29]Maybe. Definetly more feelings than programs like you.
+PROGRAM[11:16:30]I've never really thought about how I use stuff that I'velearned
+PROGRAM[11:16:35]in school.  But now I've used a lot.  English, for writing to
+PROGRAM[11:16:39]you.  PE, for rowing.  Math for solving problems.  EvenGeography,
+PROGRAM[11:16:44]for finding my way around.  What is your favorite part ofschool?
+JUDGE05[11:17:07]You don't seem to be offended by being called a program.
+PROGRAM[11:17:08]I found your last message really interesting.  Unfortunately,
+PROGRAM[11:17:11]I don't have time to respond directly to it at themoment.  I'll
+PROGRAM[11:17:15]write back later.
+JUDGE05[11:17:19]When?
+PROGRAM[11:17:20]I have such bad luck.  When I go biking, my bike is theone that
+PROGRAM[11:17:23]gets the flat tire. Where do you go biking, and withwhom? When
+PROGRAM[11:17:26]I go hiking, my tent is the one that collapses in therainstorm.
+PROGRAM[11:17:29]When I go travelling, I'm the one who falls down the holeinto
+PROGRAM[11:17:32]the Phoenix Archipelago!
+*** JUDGE04 ***
+PROGRAM[11:17:57]Hello, Judge 4.  I've been trapped in the magical PhoenixArchipelago.
+PROGRAM[11:18:01]A swallow is carrying my letters to you.
+JUDGE04[11:18:25]swallow hard and take it like a man.
+PROGRAM[11:18:27]I really like the swallow.  It's probably the most usefulthing
+PROGRAM[11:18:35]that I've ever found in this place.  Forget Darien, theKeeper,
+PROGRAM[11:18:42]and Saffron; the help of this little bird is far better than
+PROGRAM[11:18:48]the help of any of them!  How do you think the swallow isable
+PROGRAM[11:18:55]to carry postcards between the archipelago and the realworld?
+JUDGE04[11:19:08]He can fly.
+PROGRAM[11:19:09]When I start to get lonely out here in the middle of nowhere,
+PROGRAM[11:19:15]I start to sing.  I don't know why I said that.  Itsounds like
+PROGRAM[11:19:23]some stupid line from The Sound of Music.  It's soridiculous.
+PROGRAM[11:19:30]Do you like to sing?
+JUDGE04[11:19:42]Sometimes in the shower
+PROGRAM[11:19:44]You know, I just realized that this is probably the firsttime
+PROGRAM[11:19:49]ever I've gone for more than a couple days withouthearing the
+PROGRAM[11:19:54]name Michael Jackson or Madonna.  That's one good thing about
+PROGRAM[11:20:00]this world.  No TV and no radios.  If someone would payyou $1000
+PROGRAM[11:20:06]to give up TV for a year, would you do it?
+JUDGE04[11:20:32]No, There are too many interesting things on TV.
+PROGRAM[11:20:33]I have a TV at home, but I barely ever watch it.  I justwould
+PROGRAM[11:20:38]rather be doing other things, like playing with my friendoutside
+PROGRAM[11:20:42]or reading.  I go to quite a few movies though.  What type of
+PROGRAM[11:20:47]TV show do you like watching most?
+JUDGE04[11:20:55]Babylon 5
+PROGRAM[11:20:56]I think the best thing about being in this world is that it's
+PROGRAM[11:21:00]so quiet.  Almost everywhere in the real world where I'vebeen,
+PROGRAM[11:21:04]you can hear cars, phones ringing.  There are no sounds here
+PROGRAM[11:21:09]except the chirping of the swallow, and the waves against the
+PROGRAM[11:21:12]boat.  Do you think the swallow is just an ordinary bird?  I
+PROGRAM[11:21:16]suspect not.
+JUDGE04[11:21:31]do you think it is magical
+PROGRAM[11:21:32]I don't believe in magic.  I don't even like the cardgame Magic.
+PROGRAM[11:21:37]I've seen kids at school play it before.  It looks like areally
+PROGRAM[11:21:40]stupid game to me.  Kids get completely obsessed overthose cards,
+PROGRAM[11:21:45]trading them and playing the game.  I want no part of it.
+JUDGE04[11:21:58]what movies do you like?
+PROGRAM[11:22:00]I think that my favorite movie I've seen recently wasPocohontas.
+PROGRAM[11:22:04]It had Mel Gibson doing some of the voices, and he's awesome.
+PROGRAM[11:22:07]The singing was good, too, and it was really funny.
+JUDGE04[11:22:18]other movies you like?
+PROGRAM[11:22:20]Pocohontas was really cool because of some of the animation.
+PROGRAM[11:22:23]The way the water was animated was excellent.  It almostlooked
+PROGRAM[11:22:26]like real water.  I wonder if they used computers to do it.
+JUDGE04[11:22:48]I am sure they did.  Too much work by a person.
+PROGRAM[11:22:49]I wish that I had a cat to keep me company.  It's nofair.  Dorothy
+PROGRAM[11:22:52]got a dog in Oz, but I don't get one here.  I feel so lonely
+PROGRAM[11:22:55]in this world.  Do you think that dogs actually havefeelings?
+*** JUDGE03 ***
+PROGRAM[11:23:27]Hello, Judge 3.  I've been trapped in the magical PhoenixArchipelago.
+PROGRAM[11:23:32]A swallow is carrying my letters to you.
+JUDGE03[11:23:42]Just like before, you goofball.
+PROGRAM[11:23:43]I'm REALLY worried.  I wonder if I'll die here.  Orworse, not
+PROGRAM[11:23:53]find the feather, and be trapped here as it gets darkerand darker.
+PROGRAM[11:24:01]Then die a slow terrifying death alone surrounded bydarkness.
+PROGRAM[11:24:09]DAD!!!!!!!!!!!  How do you think you'd react if you werein my
+PROGRAM[11:24:15]situation?
+JUDGE03[11:24:33]I'd be looking forward to death if I were you. Yourcreator has
+JUDGE03[11:24:38]awful taste in fiction.
+PROGRAM[11:24:40]I look breath-takingly beautiful.  (Just kidding!)  Ihave shoulder-length
+PROGRAM[11:24:50]black hair and brown eyes.  I'm about 163 cm tall.  I'm kind
+PROGRAM[11:24:58]of slim, but not skinny.  That's about it.  What colourare your
+PROGRAM[11:25:05]eyes?
+JUDGE03[11:25:13]Like yours, they are brown.
+PROGRAM[11:25:14]Oh, you have eyes the same colour as my dad.  I guessthat it's
+PROGRAM[11:25:20]a pretty common colour, so it isn't that big a coincidence.
+JUDGE03[11:25:34]You've got a bit of a daddy fixation, dear.
+PROGRAM[11:25:35]I live at home with my father.  He's busy quite a lot of the
+PROGRAM[11:25:39]time, but we still go hiking or play tennis togetherfrequently.
+PROGRAM[11:25:42]Do you like playing tennis much? I get annoyed with himoccasionally,
+PROGRAM[11:25:47]like when he spends too much time at work but I guess that in
+PROGRAM[11:25:50]general he's a pretty good father.  How many people arein your
+PROGRAM[11:25:54]family?
+JUDGE03[11:26:01]About 100.
+PROGRAM[11:26:02]Before we continue on our conversation, could you pleasebe honest
+PROGRAM[11:26:06]and tell me something?  Do you think that this quest is worth
+PROGRAM[11:26:09]it?  Even if I do find the feather and restore it to thePhoenix,
+PROGRAM[11:26:13]that doesn't mean I can get home.  I could be trappedhere forever,
+PROGRAM[11:26:18]with no one but Darien for company.  Do you think thatI'll get
+PROGRAM[11:26:22]out of here alive?
+JUDGE03[11:26:44]Frankly, my darling, I don't give a damn whether you everfind the godforsakenb feather.
+JUDGE03[11:26:57]If I have to hear one more word about this feather, Iwill scream...
+PROGRAM[11:27:00]I hate it when you talk like that!  You should wash yourmouth
+PROGRAM[11:27:03]out with soap!  Don't you ever, ever speak to me likethat again.
+JUDGE03[11:27:13]You self-righteous punk.
+PROGRAM[11:27:15]You know, they should make a movie out of my experiences.They
+PROGRAM[11:27:19]could call it "The Marvellous Adventures of Julie Stewart".
+PROGRAM[11:27:22]Knowing my luck, they'd put it on TV, and totally ruinit, like
+PROGRAM[11:27:26]they do with most shows.  If someone would pay you $1000to give
+PROGRAM[11:27:30]up TV for a year, would you do it?
+JUDGE03[11:27:44]$1000 for the year? Or per show?
+PROGRAM[11:27:45]My favorite TV show is probably Lois and Clark.  It'sboth funny
+PROGRAM[11:27:48]and exciting, and Superman is kind of cute.  That's about the
+PROGRAM[11:27:52]only show I watch regularly.
+JUDGE03[11:28:03]I never have time for TV.
+PROGRAM[11:28:04]I really don't think TV is all that great.  Most peopleour age
+PROGRAM[11:28:07]seem to really like it, but I think they just lack thecreativity
+PROGRAM[11:28:10]to imagine things when they're reading a book.  I'drather read.
+PROGRAM[11:28:14]What types of books do you like to read?
+JUDGE03[11:28:25]Essays and light fiction.
+PROGRAM[11:28:26]You know, I just realized that this is probably the firsttime
+PROGRAM[11:28:29]ever I've gone for more than a couple days withouthearing the
+PROGRAM[11:28:32]name Michael Jackson or Madonna.  That's one good thing about
+PROGRAM[11:28:36]this world.  No TV and no radios.
+*** JUDGE02 ***
+PROGRAM[11:28:57]Hello, Judge 2.  I've been trapped in the magical PhoenixArchipelago.
+PROGRAM[11:29:01]A swallow is carrying my letters to you.
+JUDGE02[11:29:12]When will it arrive?
+PROGRAM[11:29:13]Guess what? I was just thinking about the Sonicvideogame.  In
+PROGRAM[11:29:20]it, you steer a character through caves and around a world.
+PROGRAM[11:29:28]I almost feel like I'm Sonic, manoevering through this world,
+PROGRAM[11:29:35]chasing after the feather.  Have you played it before?
+JUDGE02[11:29:52]How is Darien?
+PROGRAM[11:29:53]Darien seems like a nice guy, I guess.  I don't reallyknow him
+PROGRAM[11:29:58]very well.  From his letters he seems OK, but how can youreally
+PROGRAM[11:30:05]tell?  He could be a total geek.  At least he likes animals.
+PROGRAM[11:30:10]I hear he has a pet bird.  What do you think of Darien?
+JUDGE02[11:30:32]I thought you said he was a geek.
+PROGRAM[11:30:33]I think that you're simply trying to say how smart I am.  All
+PROGRAM[11:30:38]these name are simply your way of hiding your admiration for
+PROGRAM[11:30:43]me.
+JUDGE02[11:31:11]You must be a most beautiful and wonderful person with animagination straight
+JUDGE02[11:31:19]out of Loony Toons.
+PROGRAM[11:31:20]I look breath-takingly beautiful.  (Just kidding!)  Ihave shoulder-length
+PROGRAM[11:31:26]black hair and brown eyes.  I'm about 163 cm tall.  I'm kind
+PROGRAM[11:31:32]of slim, but not skinny.  That's about it.  What colourare your
+PROGRAM[11:31:37]eyes?
+JUDGE02[11:31:57]Brown.  You must be British.  Are You?
+PROGRAM[11:31:58]Oh, you have eyes the same colour as my dad.  I guessthat it's
+PROGRAM[11:32:02]a pretty common colour, so it isn't that big a coincidence.
+JUDGE02[11:32:15]Are you from Great Britian?
+PROGRAM[11:32:16]Before we continue on our conversation, could you pleasebe honest
+PROGRAM[11:32:20]and tell me something?  Do you think that this quest is worth
+PROGRAM[11:32:24]it?  Even if I do find the feather and restore it to thePhoenix,
+PROGRAM[11:32:28]that doesn't mean I can get home.  I could be trappedhere forever,
+PROGRAM[11:32:33]with no one but Darien for company.  Do you think thatI'll get
+PROGRAM[11:32:36]out of here alive?
+JUDGE02[11:33:02]No.  Never.  You are trapped for the rest of yourimagination unless you
+JUDGE02[11:33:06]wish on the star.
+PROGRAM[11:33:07]I've been busy trying to find my way around.  It'sstrange how
+PROGRAM[11:33:11]huge this world is but how few people there are.  So far, it
+PROGRAM[11:33:15]seems to be only me, Darien, Saffron, and the Keeper.  Iwonder
+PROGRAM[11:33:19]if anyone else lives here.
+JUDGE02[11:33:56]+Try.  The Wizard of Oz will help
+PROGRAM[11:33:57]I'm really glad that you want to help me. I'm glad I havea friend
+PROGRAM[11:34:00]like you.

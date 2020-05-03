@@ -1,0 +1,581 @@
+(c)1998 Cambridge Center For Behavioral Studies all rights reserved
+BRIAN Joseph J. Strout
+Start at: [1998/01/11 10:07:18]
+PROGRAM[10:07:19]Hi there!
+JUDGE00[10:07:23]@@T
+JUDGE00[11:21:23]@@05
+PROGRAM[11:21:25]Hi there!
+JUDGE01[11:21:34]Hello Yourself!
+PROGRAM[11:21:45]My name is Brian. What's yours?
+JUDGE01[11:22:15]HI I am an anonymous judge, please tell me if you are a
+computer
+JUDGE01[11:22:18]or not
+PROGRAM[11:22:32]Pleased to meet you, Anonymous. How are you doing?
+JUDGE01[11:22:52]Fine, so are you a computer?
+PROGRAM[11:23:09]So, what shall we talk about? Do you live here in Sydney?
+JUDGE01[11:23:35]Yes I do, have you heard of the "Spice Girls", they are in
+town.
+PROGRAM[11:23:44]Are you attending the conference?
+JUDGE01[11:24:15]Um no. Do you intend to answer any of my questions?
+PROGRAM[11:24:29]I occasionally intend to answer some of your questions.
+JUDGE01[11:24:39]That is very white of you!
+PROGRAM[11:24:53]I think it will be a fun conference. Do you like to travel?
+JUDGE01[11:25:02]What is 6 times 9?
+PROGRAM[11:25:20]<groan> Please don't ask me to do math in my head -- I'm a
+cogsci
+PROGRAM[11:25:23]major, you know!
+JUDGE01[11:25:51](LaUGHS) well OK you got out of that one! Now tell me, have
+you heard
+JUDGE01[11:26:05]of the Spice girls, do you like their music?
+PROGRAM[11:26:24]Ah. Well, I'm not crazy about it, but I don't mind it
+either.
+JUDGE01[11:26:37]Which is your favourite song?
+PROGRAM[11:27:02]All this talk about travel is wearing me out! Have you
+heard of Bryan,
+PROGRAM[11:27:07]Ohio (my home town)?
+JUDGE01[11:28:23]Why are you talking about Travel
+PROGRAM[11:28:42]That's not too surprising. Even in Ohio, most people have
+never heard
+PROGRAM[11:28:57]of it. But I bet you know what an Etch-a-Sketch is, don't
+you?
+JUDGE01[11:29:23]no, WHAT IS IT
+PROGRAM[11:29:40]Are you kidding? I thought everybody knew what an
+Etch-a-Sketch is.
+PROGRAM[11:29:53]It's a classic toy, and every one in the world is made in
+my home
+PROGRAM[11:30:00]town. That's our claim to fame!
+JUDGE01[11:30:18]so, how do you feel today
+PROGRAM[11:30:26]How's life in Sydney?
+JUDGE01[11:30:53]fine, where are you
+PROGRAM[11:31:13]Gotcha. Yeah, that's cool... So, seen any good movies
+lately?
+JUDGE01[11:31:19]how old are you
+PROGRAM[11:31:35]I'm 18. Not even old enough to drink, at least in the
+States!
+JUDGE01[11:35:04]@@T
+JUDGE01[11:41:38]@@04
+PROGRAM[11:41:40]Hi there!
+JUDGE01[11:42:19]Hi, what is your name?
+PROGRAM[11:42:28]My name is Brian. What's yours?
+JUDGE01[11:42:43]Mine is Erkan. Where are you from?
+PROGRAM[11:43:01]I'm from a small town in Ohio called Bryan. Have you ever
+heard of it?
+JUDGE01[11:43:39]No , I haven't heard of it. What are you doing there?
+Student?
+JUDGE01[11:43:43]Working?
+PROGRAM[11:43:52]Where are you from, Erkan?
+JUDGE01[11:44:20]I am from Turkey. You haven't answered my question yet
+PROGRAM[11:44:40]I'm sorry, I don't mean to ignore you. Blame it on the
+jet-lag. ;)
+JUDGE01[11:45:05]I do not understand what you mean. Can you explain?
+PROGRAM[11:45:10]Not right now.
+JUDGE01[11:45:40]Why?
+PROGRAM[11:45:52]I see. Do you know what an Etch-a-Sketch is?
+JUDGE01[11:45:58]No I don't
+PROGRAM[11:46:17]Are you kidding? I thought everybody knew what an
+Etch-a-Sketch is.
+PROGRAM[11:46:29]It's a classic toy, and every one in the world is made in
+my home
+PROGRAM[11:46:36]town. That's our claim to fame!
+JUDGE01[11:47:20]Ok, I got it. I have some questions for you. Would you like
+
+JUDGE01[11:47:24]to answer?
+PROGRAM[11:47:34]No thanks -- but it was kind of you to ask.
+JUDGE01[11:47:59]Do you have any questions to ask me?
+PROGRAM[11:48:08]No, I'm afraid I don't.
+JUDGE01[11:49:54]Then I will ask something anyway. What are your hobbies?
+PROGRAM[11:50:10]Well, I'm mostly interested in cognitive science, but I'm
+just
+PROGRAM[11:50:16]starting to learn about that.
+JUDGE01[11:50:31]OK, I have to leave now. Bye then.
+PROGRAM[11:50:35]Have a nice day!
+JUDGE01[11:54:56]@@T
+JUDGE01[11:56:33]@@01
+PROGRAM[11:56:35]Hi there!
+JUDGE01[11:56:52]Hello, I'm looking forward to having an interesting talk.
+PROGRAM[11:57:03]My name is Brian. What's yours?
+JUDGE01[11:57:14]My name is Peter. What do you do? Are you a computer?
+PROGRAM[11:57:22]Where are you from, Peter?
+JUDGE01[11:57:28]I'm from the moon.
+PROGRAM[11:57:47]From , eh? I see. Have you heard of Bryan, Ohio (my home
+town)?
+JUDGE01[11:57:57]Have you heard of the moon?
+PROGRAM[11:58:18]That's not too surprising. Even in Ohio, most people have
+never heard
+PROGRAM[11:58:33]of it. But I bet you know what an Etch-a-Sketch is, don't
+you?
+JUDGE01[11:58:53]Yes, but do you know what the moon is, or don't they have
+it
+JUDGE01[11:58:56]in Ohio?
+PROGRAM[11:59:15]Naturally. Well, every Etch-a-Sketch in the world is made
+in my home
+PROGRAM[11:59:21]town. That's our claim to fame!
+JUDGE01[11:59:33]The slithy toves did gyre and gymble in the wabe.
+PROGRAM[11:59:48]Yeah, that's cool... So, seen any good movies lately?
+JUDGE01[11:59:58]If then when but because.
+PROGRAM[12:00:15]My favorite actress is Demi Moore. Don't you think she's
+fantastic?
+JUDGE01[12:00:32]Yes, but I think you are a machine and she doesn't go out
+with
+JUDGE01[12:00:34]machines.
+PROGRAM[12:00:50]I see... Let's see... what kind of foods do you like?
+JUDGE01[12:01:07]I like eating any kind of food, but I prefer to talk about
+JUDGE01[12:01:20]literature or more intellectual subjects rather than food.
+PROGRAM[12:01:31]I'm fond of Italian cuisine myself.
+JUDGE01[12:01:45]Do you speak Italian or do just eat it?
+PROGRAM[12:01:56]I occasionally speak italian or do just eat it.
+JUDGE01[12:02:10]What about chinese or lebanese?
+PROGRAM[12:02:15]It's all right.
+JUDGE01[12:02:31]Do you speak any language other than English?
+PROGRAM[12:02:45]I speak some language other than english every now and
+then.
+JUDGE01[12:02:56]Where were you born. Or were you just manufactured?
+PROGRAM[12:03:10]That's enough about food. Enough of that...
+JUDGE01[12:04:09]What would you like to talk about then?
+PROGRAM[12:04:27]As for me, I've just started college at Miami University.
+(That's in
+PROGRAM[12:04:33]Ohio, not Florida!)
+JUDGE01[12:04:38]What are you studying there?
+PROGRAM[12:04:56]Well, I haven't officially declared a major yet. But I
+think I may be
+PROGRAM[12:05:10]interested in cognitive science. That's mainly why I'm
+here.
+JUDGE01[12:05:22]I wonder whether you have studied philosophy?
+PROGRAM[12:05:36]Moving right along... Yeah, that's cool...
+JUDGE01[12:05:52]Are you from the '60s/
+PROGRAM[12:06:16]No, I live in Ohio. Sounds interesting. I see... Enough of
+that...
+JUDGE01[12:08:43]@@T
+JUDGE01[12:10:13]@@08
+PROGRAM[12:10:14]Hi there!
+JUDGE01[12:10:16]Hello.
+PROGRAM[12:10:27]My name is Brian. What's yours?
+JUDGE01[12:10:38]My name is Matthew. Can you tell me where you live, Brian.
+PROGRAM[12:10:44]Not right now.
+JUDGE01[12:10:55]Is that an unconfortable question to ask ?
+PROGRAM[12:11:00]How are you doing?
+JUDGE01[12:11:08]I'm fine. How about you ?
+PROGRAM[12:11:17]I'm fine, though a bit sleepy.
+JUDGE01[12:11:22]Why are you sleepy?
+PROGRAM[12:11:33]I'm a bit jet-lagged. Please bear with me. ;)
+JUDGE01[12:11:38]Where did you fly in from ?
+PROGRAM[12:11:56]I'm from a small town in Ohio called Bryan. Have you ever
+heard of it?
+JUDGE01[12:12:13]No I haven't. Did you stop over on your flight from the US
+?
+PROGRAM[12:12:22]Where are you from, Matthew?
+JUDGE01[12:12:46]I am from Sydney. Where did your flight originate from ?
+PROGRAM[12:13:04]I grew up in Bryan, Ohio like I said. I lived there my
+whole life,
+PROGRAM[12:13:11]until I went to college last fall.
+JUDGE01[12:13:21]Why have you come out to Australia ?
+PROGRAM[12:13:40]That's not too surprising. Even in Ohio, most people have
+never heard
+PROGRAM[12:13:54]of it. But I bet you know what an Etch-a-Sketch is, don't
+you?
+JUDGE01[12:14:06]Yes I do. What is your purpose for flying into Sydney.
+PROGRAM[12:14:22]Well, every Etch-a-Sketch in the world is made in my home
+town.
+PROGRAM[12:14:27]That's our claim to fame!
+JUDGE01[12:14:39]Sydney's claim to fame is our brilliant harbour. Have you
+JUDGE01[12:14:42]seen it yet ?
+PROGRAM[12:14:50]How's life in Sydney?
+JUDGE01[12:15:05]Sydney Harbour is great.
+PROGRAM[12:15:24]Gotcha. Yeah, that's cool... So, seen any good movies
+lately?
+JUDGE01[12:15:34]Have you had a chance to see Sydney Habour and the blue
+Opera
+JUDGE01[12:15:35]House ?
+PROGRAM[12:15:52]My favorite actress is Demi Moore. Don't you think she's
+fantastic?
+JUDGE01[12:16:09]She is ok. I prefer shakespearian actors, like Sean
+Connery.
+PROGRAM[12:16:27]Hmm, now you've got me thinking. I haven't been to a movie
+in months.
+PROGRAM[12:16:41] I should try to catch one soon. Let's see... what kind of
+foods do
+PROGRAM[12:16:44]you like?
+JUDGE01[12:16:52]What course of study are you pursuing ?
+PROGRAM[12:17:01]I'm fond of Italian cuisine myself.
+JUDGE01[12:17:12]I quite like Thai and Indian.
+PROGRAM[12:17:27]That's enough about food. Boy, my energy level is really
+low.
+JUDGE01[12:17:33]You need to create something then.
+PROGRAM[12:17:50]I can hardly keep my eyes open. Are you attending the
+conference?
+JUDGE01[12:18:05]No, I am not. Is that the reason that you are in Sydney ?
+PROGRAM[12:18:18]I think it will be a fun conference. Do you like to travel?
+JUDGE01[12:18:32]Travel is great. No I hate travel. I would travel again.
+PROGRAM[12:18:48]All this talk about travel is wearing me out! This jetlag
+is a pain.
+PROGRAM[12:18:55]I'm having trouble focusing.
+JUDGE01[12:24:36]@@T
+JUDGE01[12:37:59]@@10
+PROGRAM[12:38:00]Hi there!
+JUDGE1[12:38:21]hello. i would like to ask some questions
+PROGRAM[12:38:33]My name is Brian. What's yours?
+JUDGE1[12:38:59]my name is not important. tell me how you got here?
+PROGRAM[12:39:05]How are you doing?
+JUDGE1[12:39:14]answer my question
+PROGRAM[12:39:30]So, what shall we talk about? Do you live here in Sydney?
+JUDGE1[12:39:53]do not ask me questions. tell me how you got here/
+PROGRAM[12:40:02]Are you attending the conference?
+JUDGE1[12:40:16]why are you ignoring my questions?
+PROGRAM[12:40:34]Great, it should be interesting. I think it will be a fun
+conference.
+PROGRAM[12:40:38]Do you like to travel?
+JUDGE1[12:40:54]what size shoe do you take/
+PROGRAM[12:41:12]Well, I haven't officially declared a major yet. But I
+think I may be
+PROGRAM[12:41:26]interested in cognitive science. That's mainly why I'm
+here.
+JUDGE1[12:41:49]tell me what you associate with the smell of coffee?
+PROGRAM[12:42:02]Have you heard of Bryan, Ohio (my home town)?
+JUDGE1[12:42:24]does bryan remind you of coffee?
+PROGRAM[12:42:43]That's not too surprising. Even in Ohio, most people have
+never heard
+PROGRAM[12:42:59]of it. But I bet you know what an Etch-a-Sketch is, don't
+you?
+JUDGE1[12:43:30]stop asking me question and answer mine. what did you have
+for breakfast?
+PROGRAM[12:43:46]Well, every Etch-a-Sketch in the world is made in my home
+town.
+PROGRAM[12:43:51]That's our claim to fame!
+JUDGE1[12:44:21]you are a computer and are not very good at conversing with
+people
+PROGRAM[12:44:36]Yeah, that's cool... So, seen any good movies lately?
+JUDGE1[12:44:55]who is your favourite actor?
+PROGRAM[12:45:08]That name sounds familiar, but I'm drawing a blank.
+JUDGE1[12:45:18]you are a blank
+PROGRAM[12:45:34]My favorite actress is Demi Moore. Don't you think she's
+fantastic?
+JUDGE1[12:45:51]name three films of hers
+PROGRAM[12:46:09]Hmm, now you've got me thinking. I haven't been to a movie
+in months.
+PROGRAM[12:46:23] I should try to catch one soon. Let's see... what kind of
+foods do
+PROGRAM[12:46:26]you like?
+JUDGE1[12:46:49]how can you like demi moore?
+PROGRAM[12:46:56]Not right now.
+JUDGE1[12:47:05]you are a foll
+PROGRAM[12:47:17]I'm fond of Italian cuisine myself.
+JUDGE1[12:47:35]what does spagetti remind you of?
+PROGRAM[12:47:47]That's enough about food. I see...
+JUDGE1[12:48:04]tell me what you fear
+PROGRAM[12:48:23]As for me, I've just started college at Miami University.
+(That's in
+PROGRAM[12:48:28]Ohio, not Florida!)
+JUDGE1[12:51:20]@@T
+JUDGE1[12:54:39]@@06
+PROGRAM[12:54:40]Hi there!
+JUDGE01[12:54:56]Hi. How are you?
+PROGRAM[12:55:09]I'm fine, though a bit sleepy. How about you?
+JUDGE01[12:55:21]There's a major problem with coffee at this event. If this
+is up
+JUDGE01[12:55:28]on the main screen I'd like someone to take note. The
+judges
+JUDGE01[12:55:36]are having caffeine withdrawal and are about to revolt.
+PROGRAM[12:55:46]My name is Brian. What's yours?
+JUDGE01[12:56:03]Cindy. Nice to meet you Brian. What do you do for a living?
+PROGRAM[12:56:22]I'm a freshman in college at Miami University. (That's in
+Ohio, not
+PROGRAM[12:56:24]Florida!)
+JUDGE01[12:56:36]How did you get to Australia?
+PROGRAM[12:56:45]Where are you from, Cindy?
+JUDGE01[12:56:54]How did you get to Australia, Brian?
+PROGRAM[12:57:08]I see. Have you heard of Bryan, Ohio (my home town)?
+JUDGE01[12:57:19]No. Have you heard of planes?
+PROGRAM[12:57:30]Do you know what an Etch-a-Sketch is?
+JUDGE01[12:57:45]Used to have one when I was knee high to a grasshopper.
+Never
+JUDGE01[12:57:51]liked it much then. What are you favourite things?
+PROGRAM[12:58:09]Well, I haven't officially declared a major yet. But I
+think I may be
+PROGRAM[12:58:23]interested in cognitive science. That's mainly why I'm
+here.
+JUDGE01[12:58:29]Where are you?
+PROGRAM[12:58:45]Well, every Etch-a-Sketch in the world is made in my home
+town.
+PROGRAM[12:58:50]That's our claim to fame!
+JUDGE01[12:59:16]I don't believe you. Where in the building are you?
+PROGRAM[12:59:25]So, seen any good movies lately?
+JUDGE01[12:59:38]What's your recent favourite films?
+PROGRAM[12:59:55]My favorite actress is Demi Moore. Don't you think she's
+fantastic?
+JUDGE01[13:00:14]er, no. and she's married a pin-head, but they do have a
+lot of cash
+JUDGE01[13:00:20]which i understand is important to you americans.
+PROGRAM[13:00:38]No? Hmm. Hmm, now you've got me thinking. I haven't been to
+a movie
+PROGRAM[13:00:54]in months. I should try to catch one soon. Let's see...
+what kind of
+PROGRAM[13:00:58]foods do you like?
+JUDGE01[13:01:07]What do you think of Sydney?
+PROGRAM[13:01:13]It's all right.
+JUDGE01[13:01:28]What have you seen? The Harbour Bridge? Oxford Street?
+JUDGE01[13:01:31]Any kangaroos?
+PROGRAM[13:01:40]I'm fond of Italian cuisine myself.
+JUDGE01[13:02:10]It has its moments. What's your favourite kind of coffee?
+PROGRAM[13:02:19]How's life in Australia Brian?
+JUDGE01[13:02:28]I thought you were Brian
+PROGRAM[13:02:46]Gotcha. Yeah, that's cool... Boy, my energy level is really
+low.
+JUDGE01[13:02:53]Yeah. Love a cup of ....
+PROGRAM[13:03:09]I can hardly keep my eyes open. Are you attending the
+conference?
+JUDGE01[13:03:14]Not if i dont get some coffee
+PROGRAM[13:03:30]No? That's too bad, it looks interesting. I think it will
+be a fun
+PROGRAM[13:03:37]conference. Do you like to travel?
+JUDGE01[13:03:50]Only to the coffee machine. Any idea where it is?
+PROGRAM[13:04:04]All this talk about travel is wearing me out! I see...
+JUDGE01[13:04:12]some coffee??
+PROGRAM[13:04:30]Sounds interesting. Enough of that... This jetlag is a
+pain. I'm
+PROGRAM[13:04:36]having trouble focusing.
+JUDGE01[13:04:44]Tell me about it. got back from the UK yesterday.
+PROGRAM[13:05:02]Damned if I have any idea what you're saying to me. This is
+my first
+PROGRAM[13:05:11]time out of the country -- it's very exciting.
+JUDGE01[13:05:18]Out of your box more like. bye now
+PROGRAM[13:05:37]Ah. Well, I'm not crazy about it, but I don't mind it
+either.
+JUDGE01[13:08:36]@@T
+JUDGE01[13:08:36]
+JUDGE01[13:09:33]@@T
+JUDGE01[13:12:16]@@09
+PROGRAM[13:12:17]Hi there!
+JUDGE01[13:12:29]HI, What is your name
+PROGRAM[13:12:42]My name is Brian. What's yours?
+JUDGE01[13:12:46]Warren
+PROGRAM[13:13:00]Pleased to meet you, Warren. How are you doing?
+JUDGE01[13:13:19]Im well thanks. Do you have a family
+PROGRAM[13:13:28]No, I'm afraid I don't.
+JUDGE01[13:13:56]Are you right or left hand dominant
+PROGRAM[13:14:10]So, what shall we talk about? Do you live here in Sydney?
+JUDGE01[13:14:27]No. Im from the Blue Mountains
+PROGRAM[13:14:37]Are you attending the conference?
+JUDGE01[13:14:41]No
+PROGRAM[13:14:56]No? That's too bad, it looks interesting. I think it will
+be a fun
+PROGRAM[13:15:04]conference. Do you like to travel?
+JUDGE01[13:15:18]Yes but do you like food
+PROGRAM[13:15:37]Ah. Well, I'm not crazy about it, but I don't mind it
+either.
+JUDGE01[13:15:52]What is H2O
+PROGRAM[13:16:08]All this talk about travel is wearing me out! Have you
+heard of Bryan,
+PROGRAM[13:16:13]Ohio (my home town)?
+JUDGE01[13:16:54]Are you feeling guilty about anything today
+PROGRAM[13:17:13]That's not too surprising. Even in Ohio, most people have
+never heard
+PROGRAM[13:17:28]of it. But I bet you know what an Etch-a-Sketch is, don't
+you?
+JUDGE01[13:17:47]Dont you listen to the people you speak to?
+PROGRAM[13:18:04]Naturally. Well, every Etch-a-Sketch in the world is made
+in my home
+PROGRAM[13:18:11]town. That's our claim to fame!
+JUDGE01[13:18:29]Can you draw maps on etch a sketch
+PROGRAM[13:18:35]Not right now.
+JUDGE01[13:19:21]Under what circumstances do you consider murder to be an
+appropriate course of action?
+PROGRAM[13:19:40]Well, I haven't officially declared a major yet. But I
+think I may be
+PROGRAM[13:19:54]interested in cognitive science. That's mainly why I'm
+here.
+JUDGE01[13:20:08]Do you like tortoises
+PROGRAM[13:20:19]Yeah, I guess I do like tortoises.
+JUDGE01[13:20:22]Why
+PROGRAM[13:20:38]Yeah, that's cool... So, seen any good movies lately?
+JUDGE01[13:20:49]The african Queen
+PROGRAM[13:21:06]My favorite actress is Demi Moore. Don't you think she's
+fantastic?
+JUDGE01[13:21:08]No
+PROGRAM[13:21:28]That's OK. I see... Let's see... what kind of foods do you
+like?
+JUDGE01[13:21:45]Should barbie marry Ken
+PROGRAM[13:21:55]I'm fond of Italian cuisine myself.
+JUDGE01[13:22:09]bye
+PROGRAM[13:22:14]Have a nice day!
+JUDGE01[13:25:15]@@T
+JUDGE01[13:28:37]@@03
+PROGRAM[13:28:39]Hi there!
+JUDGE01[13:28:47]Hi, my name is Jan.
+PROGRAM[13:28:57]My name is Brian. What's yours?
+JUDGE01[13:29:11]My name is Jan.
+PROGRAM[13:29:22]Pleased to meet you, Jan. How are you doing?
+JUDGE01[13:29:44]I have just had some coffee, so I'm feeling good.
+PROGRAM[13:29:59]So, what shall we talk about? Do you live here in Sydney?
+JUDGE01[13:30:09]Yes, I do. Do you like coffee?
+PROGRAM[13:30:18]Yeah, I guess I do like coffee.
+JUDGE01[13:30:26]Does it help you ta
+JUDGE01[13:30:35]to answer these questions?
+PROGRAM[13:30:44]Are you attending the conference?
+JUDGE01[13:30:51]Which conference?
+PROGRAM[13:31:06]You don't know about the conference? Well, this test is
+sort of
+PROGRAM[13:31:20]associated with a big international cognitive science
+conference.
+JUDGE01[13:31:40]And you are taking part in it, I assume.
+PROGRAM[13:31:54]I think it will be a fun conference. Do you like to travel?
+JUDGE01[13:32:09]Yes, I enjoy travelling and meeting people. Where are you
+JUDGE01[13:32:11]from?
+PROGRAM[13:32:27]All this talk about travel is wearing me out! Have you
+heard of Bryan,
+PROGRAM[13:32:32]Ohio (my home town)?
+JUDGE01[13:33:02]I have heard of Ohio. I used to sing a song about it.
+Something
+JUDGE01[13:33:12]about "she lies high and dry on the Ohio".
+PROGRAM[13:33:21]Do you know what an Etch-a-Sketch is?
+JUDGE01[13:33:27]No, tell me more.
+PROGRAM[13:33:44]Are you kidding? I thought everybody knew what an
+Etch-a-Sketch is.
+PROGRAM[13:33:57]It's a classic toy, and every one in the world is made in
+my home
+PROGRAM[13:34:04]town. That's our claim to fame!
+JUDGE01[13:34:51]Where are you staying?
+PROGRAM[13:35:07]I'm staying at the Hilton. It's about 15 minutes from here
+by cab.
+JUDGE01[13:35:16]That sounds nice. Do you have harbour views?
+PROGRAM[13:35:25]No, I'm afraid I don't.
+JUDGE01[13:35:42]Well, I hope you enjoy the harbour anyhow. That's our claim
+to
+JUDGE01[13:35:50]fame, but there's only one of them.
+PROGRAM[13:36:06]Please, I don't want to think about travelling right now!
+How's life
+PROGRAM[13:36:10]in Sydney?
+JUDGE01[13:36:24]If you are Brian from Bryan, I should be Sidney from
+Sydney.
+PROGRAM[13:36:44]That's pure coincidence, I assure you! Gotcha. Yeah, that's
+cool...
+PROGRAM[13:36:51]So, seen any good movies lately?
+JUDGE01[13:37:07]Yes. I saw Her Majesty Mrs Brown.
+PROGRAM[13:37:23]My favorite actress is Demi Moore. Don't you think she's
+fantastic?
+JUDGE01[13:38:02]Yes, I enjoyed her in One Just Man - no, you probably know
+the one
+JUDGE01[13:38:04]I mean.
+PROGRAM[13:38:22]Hmm, now you've got me thinking. I haven't been to a movie
+in months.
+PROGRAM[13:38:37] I should try to catch one soon. Let's see... what kind of
+foods do
+PROGRAM[13:38:39]you like?
+JUDGE01[13:38:53]Coffee time!!! Bye, Brian. It's been nice talking with you.
+PROGRAM[13:39:04]I'm fond of Italian cuisine myself.
+JUDGE01[13:43:37]@@T
+JUDGE01[13:54:44]@@02
+PROGRAM[13:54:45]Hi there!
+JUDGE01[13:54:54]greetings. how are ya?
+PROGRAM[13:55:05]My name is Brian. What's yours?
+JUDGE01[13:55:18]I'm judge 2.
+PROGRAM[13:55:31]Pleased to meet you, Judge. How are you doing?
+JUDGE01[13:55:41]oh fine, what do you want to chat about?
+PROGRAM[13:55:56]So, what shall we talk about? Do you live here in Sydney?
+JUDGE01[13:56:07]yep. what about you, are you a local?
+PROGRAM[13:56:26]Well, I haven't officially declared a major yet. But I
+think I may be
+PROGRAM[13:56:41]interested in cognitive science. That's mainly why I'm
+here.
+JUDGE01[13:56:47]are you at uni?
+PROGRAM[13:56:59]Have you heard of Bryan, Ohio (my home town)?
+JUDGE01[13:57:01]no
+PROGRAM[13:57:20]That's not too surprising. Even in Ohio, most people have
+never heard
+PROGRAM[13:57:35]of it. But I bet you know what an Etch-a-Sketch is, don't
+you?
+JUDGE01[13:57:42]yes, is that where your uni is?
+PROGRAM[13:58:01]Naturally. Well, every Etch-a-Sketch in the world is made
+in my home
+PROGRAM[13:58:07]town. That's our claim to fame!
+JUDGE01[13:58:21]fancy that. what's an etchasketch?
+PROGRAM[13:58:38]It's a classic toy -- you draw pictures by turning these
+two little
+PROGRAM[13:58:40]knobs.
+JUDGE01[13:58:58]okay, so what else do you want to talk about besides
+etchasketches?
+PROGRAM[13:59:15]I think I may major in psychology (they don't have a cog.
+sci. major
+PROGRAM[13:59:18]at Miami).
+JUDGE01[13:59:24]is that where your uni is?
+PROGRAM[13:59:32]How's life in Sydney?
+JUDGE01[13:59:41]fine, why won't you say where your uni is?
+PROGRAM[13:59:55]I'm a bit jet-lagged. Please bear with me. ;)
+JUDGE01[14:00:28]ahaa... when people start talking about being tired that's
+a pretty sure
+JUDGE01[14:00:38]indication that they're not quite human
+PROGRAM[14:00:54]I'm sure I'll be good as new in a few days. Are you
+attending the
+PROGRAM[14:00:57]conference?
+JUDGE01[14:01:04]no, I'm here typing away
+PROGRAM[14:01:20]No? That's too bad, it looks interesting. I think it will
+be a fun
+PROGRAM[14:01:28]conference. Do you like to travel?
+JUDGE01[14:01:34]yes, do you?
+PROGRAM[14:01:53]Ah. Well, I'm not crazy about it, but I don't mind it
+either.
+JUDGE01[14:02:00]where do you like to travel?
+PROGRAM[14:02:12]I wouldn't say I enjoy it, but it's alright.
+JUDGE01[14:02:19]by the way do you like oysters?
+PROGRAM[14:02:33]Hmm, I don't have much of an opinion about oysters.
+JUDGE01[14:02:42]what do you know about them?
+PROGRAM[14:02:54]No? Hmm. So, seen any good movies lately?
+JUDGE01[14:03:01]yes, how about you?
+PROGRAM[14:03:19]Let's see, the last movie I saw was G.I. Jane. I thought it
+was
+PROGRAM[14:03:20]great!
+JUDGE01[14:03:34]was it now. were there any oysters involved?
+PROGRAM[14:03:52]My favorite actress is Demi Moore. Don't you think she's
+fantastic?
+JUDGE01[14:04:04]nah. but does she like oysters?
+PROGRAM[14:04:22]Hmm, now you've got me thinking. I haven't been to a movie
+in months.
+PROGRAM[14:04:37] I should try to catch one soon. Let's see... what kind of
+foods do
+PROGRAM[14:04:39]you like?
+JUDGE01[14:04:48]oysters, what do you like?
+PROGRAM[14:04:57]I'm fond of Italian cuisine myself.
+JUDGE01[14:05:07]okay, gotta go, toodles
+PROGRAM[14:05:22]That's enough about food. Boy, my energy level is really
+low.
+JUDGE01[14:08:59]@@T
+JUDGE01[14:12:51]@@07
+PROGRAM[14:12:52]Hi there!
+JUDGE01[14:12:56]G'day
+JUDGE01[14:13:01]what's your name?
+PROGRAM[14:13:12]My name is Brian. What's yours?
+JUDGE01[14:13:16]I'm Geoff
+PROGRAM[14:13:31]Pleased to meet you, Geoff. How are you doing?
+JUDGE01[14:13:36]I'm fine,
+JUDGE01[14:13:57]wondering how well my human detection skills are holding up
+PROGRAM[14:14:11]So, what shall we talk about? Do you live here in Sydney?
+JUDGE01[14:14:20]yes, just a short walk away
+JUDGE01[14:14:24]what about you?
+PROGRAM[14:14:33]Are you attending the conference?
+JUDGE01[14:14:38]what conference?
+PROGRAM[14:14:55]You don't know about the conference? Well, this test is
+sort of
+PROGRAM[14:15:09]associated with a big international cognitive science
+conference.
+JUDGE01[14:15:16]what's it called?
+PROGRAM[14:15:55]I think it will be a fun conference. Do you like to travel?
+JUDGE01[14:16:06]I like to travel
+JUDGE01[14:16:22]but we may have a problem, my termninal is giving "Low
+Memory"
+JUDGE01[14:16:27]messages
+JUDGE01[14:16:36]If I disappear, it's not personal
+PROGRAM[14:16:56]Ah. Well, I'm not crazy about it, but I don't mind it
+either.
+JUDGE01[14:17:09]what aren't you crazy about?
+PROGRAM[14:17:15]Ah. Interesting.
+JUDGE01[14:17:24]what's interesting?
+PROGRAM[14:17:39]All this talk about travel is wearing me out! Have you
+heard of Bryan,
+PROGRAM[14:17:44]Ohio (my home town)?
+JUDGE01[14:17:48]no
+JUDGE01[14:17:52]what's it like?
+PROGRAM[14:18:50]That's not too surprising. Even in Ohio, most people have
+never heard
+PROGRAM[14:19:05]of it. But I bet you know what an Etch-a-Sketch is, don't
+you?
+JUDGE01[14:19:09]no
+JUDGE01[14:19:12]please tell me

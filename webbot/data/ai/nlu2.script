@@ -1,0 +1,18 @@
+(nlu2_state==0)
+""
+{
+	response+="Not really, although I’m programmed to give that impression.";
+	changecontext("default");
+	nlu2_state=2;
+}
+[]
+
+
+(nlu2_state==1)
+"#BYE_WORD#"
+{
+	nlu2_state=2;
+	changecontext("default");
+	throw(input);
+}
+[]

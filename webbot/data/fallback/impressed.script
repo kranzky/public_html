@@ -1,0 +1,51 @@
+(impressed_state == 0 && !yes_no_confirm)
+""
+{
+	response+="Do you want to know who Marvin Minsky is?";
+        yes_no_calling_context ='impressed';
+        yes_no_negative_response += 'OK, whatever...';
+	yes_no_confirm = 0;
+	changecontext("yesno");
+}
+[]
+
+(impressed_state == 0 && yes_no_confirm)
+""
+{
+	yes_no_confirm = 0;
+	impressed_state = 1;
+	throw(input);
+}
+[]
+
+/*------------------------------------------------------------------------------*/
+
+(impressed_state==1)
+""
+{
+	response+="I am here to do my best at answering your questions. "; 
+	changecontext("random_fallback");
+	impressed_state=2;
+	throw(input);
+}
+[]
+
+/*------------------------------------------------------------------------------*/
+
+(2)
+""
+{
+	changecontext("default");
+	throw(input);
+}
+[]
+-999
+
+(2)
+""
+{
+	changecontext("default");
+	throw(input);
+}
+[]
+-999

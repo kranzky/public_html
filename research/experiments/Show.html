@@ -1,0 +1,144 @@
+<? Include("Verify.html"); ?>
+<? Include("Maintainer.html"); ?>
+<? Include("Functions.html"); ?>
+<? $title = "Experimental Results"; ?>
+<? Include("Header.html"); ?>
+
+<?
+	mysql_connect("localhost","hutch","wally37");
+	mysql_select_db("experiments");
+	$result=mysql_query("SELECT email,user FROM user_details");
+	$num = mysql_num_rows($result);
+	if($num<=0) {
+		Error("Unable to find users", "");
+	}
+
+	echo "<H2>List of users</H2>";
+	echo "Click on the name of a user listed below to find out more:";
+	echo "<UL>";
+	$i=0;
+	while($i<$num) {
+		$email = mysql_result($result, $i, "email");
+		$user = mysql_result($result, $i, "user");
+		echo "<LI>$user. <A HREF=\"Show_User.html?user=$user\">$email</A></LI>";
+		$i+=1;
+	}
+	echo "</UL>";
+?>
+<H2>List of completed stories</H2>
+
+<CENTER>
+<TABLE BORDER=1 CELLPADDING=4 CELLSPACING=0>
+<TR>
+<TD></TD>
+<TD ALIGN="MIDDLE"><B>Murder</B></TD>
+<TD ALIGN="MIDDLE"><B>Romance</B></TD>
+<TD ALIGN="MIDDLE"><B>Freeform</B></TD>
+</TR>
+<?
+$genre[]="Murder";
+$genre[]="Romance";
+$genre[]="Freeform";
+$order[]="1";
+$order[]="2";
+$order[]="3";
+$order[]="4";
+$order[]="5";
+$order[]="7";
+$order[]="10";
+$order[]="15";
+$i=0;
+while($i<Count($order)) {
+   echo "<TR>";
+   echo "<TD><B>Order $order[$i]</B></TD>";
+   $j=0;
+   while($j<Count($genre)) {
+      $name=Story_Length($genre[$j], $order[$i]);
+      echo "<TD><A HREF=\"Show_Story.html?genre=$genre[$j]&order=$order[$i]\">$name</A></TD>";
+      $j++;
+	}
+   $i++;
+   echo "</TR>";
+}
+?>
+</TABLE>
+</CENTER>
+
+<H2>List of prediction experiments</H2>
+
+Click on an experiment to see the list of words in that experiment.  Next
+to each word is the average number of guesses taken, and the average surprise.
+Click on a word to see a probability distribution over all guesses for that
+word.
+
+<?
+	$result=mysql_query("SELECT val FROM global WHERE name='num_predict'");
+	$num_predict=mysql_result($result, 0, "val");
+	echo "<UL>";
+	if($num_predict>0) {
+		$i=0;
+		while($i<$num_predict) {
+			echo "<LI><A HREF=\"Show_Predict.html?predict=$i\">Prediction experiment ".(1+$i)."</A>.";
+			$i+=1;
+		}
+	} else {
+		echo "<LI>There are no prediction experiments.</LI>";
+	}
+	echo "</UL>";
+?>
+
+<H2>List of segmentation experiments</H2>
+
+Click on an experiment to see the list of words and non-words.  Valid words
+are in bold.  Next to each word is a number indicating the fraction of
+users who selected it.
+
+<?
+	$result=mysql_query("SELECT val FROM global WHERE name='num_segment'");
+	$num_segment=mysql_result($result, 0, "val");
+	echo "<UL>";
+	if($num_segment>0) {
+		$i=0;
+		while($i<$num_segment) {
+			echo "<LI><A HREF=\"Show_Segment.html?segment=$i\">Segmentation experiment ".(1+$i)."</A>.";
+			$i+=1;
+		}
+	} else {
+		echo "<LI>There are no segmentation experiments.</LI>";
+	}
+	echo "</UL>";
+?>
+
+<H2>List of smoothing experiments</H2>
+
+Click on an experiment to see a probability distribution over all guesses.
+
+<?
+	$result=mysql_query("SELECT val FROM global WHERE name='num_smooth'");
+	$num_smooth=mysql_result($result, 0, "val");
+	echo "<UL>";
+	if($num_smooth>0) {
+		$i=0;
+		while($i<$num_smooth) {
+			echo "<LI><A HREF=\"Show_Smooth.html?smooth=$i\">Smoothing experiment ".(1+$i)."</A>.";
+			$i+=1;
+		}
+	} else {
+		echo "<LI>There are no smoothing experiments.</LI>";
+	}
+	echo "</UL>";
+?>
+
+<H2>Send email to all users</H2>
+
+<FORM METHOD=POST ACTION="List.html">
+<CENTER>
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=4 WIDTH="90%">
+<TR><TD BGCOLOR="EEEEBB" ALIGN="MIDDLE"><TEXTAREA NAME=message ROWS=10 COLS=40></TEXTAREA></TD></TR>
+</TABLE>
+<INPUT TYPE=submit value="Email Everyone">
+</CENTER>
+</FORM>
+
+
+<? Include("Footer.html"); ?>

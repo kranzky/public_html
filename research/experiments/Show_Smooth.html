@@ -1,0 +1,107 @@
+<? Include("Verify.html"); ?>
+<? Include("Maintainer.html"); ?>
+<? Include("Functions.html"); ?>
+<? $title = "Smoothing Experiment"; ?>
+<? Include("Header.html"); ?>
+
+<?
+	mysql_connect("localhost","hutch","wally37");
+	mysql_select_db("experiments");
+	$result=mysql_query("SELECT before,after,word FROM smooth_data WHERE experiment=$smooth");
+	$before=mysql_result($result, 0, "before");
+	$after=mysql_result($result, 0, "after");
+	$word=strtoupper(mysql_result($result, 0, "word"));
+?>
+
+<H2>Show Smooth</H2>
+
+Here is the sentence which the users were required to smooth by guessing
+which word should appear in the blank position.  The actual word which
+belongs in the blank position appears in uppercase bold italics:
+
+<P><CENTER><TABLE WIDTH="90%" CELLPADDING=0 CELLSPACING=0><TR><TD><BIG>
+<?
+	echo "$before <B>$word</B> $after";
+?>
+</BIG></TD></TR></TABLE></CENTER>
+
+<P>
+<?
+if(IsSet($user)) {
+	$result=mysql_query("SELECT guesses,giveup,surprise FROM smooth WHERE user=$user AND experiment=$smooth");
+	$guesses=0;
+	if(mysql_num_rows($result)>0)
+	{
+	$guesses=mysql_result($result, 0, "guesses");
+	$giveup=mysql_result($result, 0, "giveup");
+	$surprise=mysql_result($result, 0, "surprise");
+	}
+	echo "<A HREF=\"Show_User.html?user=$user\">User $user</A> had ";
+	echo "$guesses guesses at the word.  ";
+	if($giveup==1) {
+		echo "The user gave up, and estimated their surprise at $surprise.  ";
+	}
+	echo "The guesses, in order, were:";
+	echo "<OL>";
+	$i=0;
+	$result=mysql_query("SELECT word,guess FROM smooth_info WHERE user=$user AND experiment=$smooth"); 
+	while($i<$guesses) {
+		$word=mysql_result($result, $i, "word");
+		$guess=mysql_result($result, $i, "guess");
+		echo "<LI>$word</LI>";
+		$i+=1;
+	}
+	echo "</OL>";
+	echo "You can also see the ";
+	echo "<A HREF=\"Show_Predict.html?predict=$predict&word=$word\">overall statistics</A>";
+	echo " for this experiment.";
+} else {
+	$result=mysql_query("SELECT guesses,giveup,surprise FROM smooth WHERE experiment=$smooth");
+	$num=mysql_num_rows($result);
+	$i=0;
+	$guesses=0;
+	while($i<$num) {
+		$guesses+=mysql_result($result, $i, "guesses");
+		$i+=1;
+	}
+	if($num>0) { $guesses=$guesses/$num; }
+	echo "$num users have taken an average of $guesses guesses at this word.  ";
+	$av_giveup=0;
+	$av_surprise=0;
+	$i=0;
+	while($i<$num) {
+		$av_giveup+=mysql_result($result, $i, "giveup");
+		$av_surprise+=mysql_result($result, $i, "surprise");
+		$i+=1;
+	}
+	if($av_giveup>0) {
+	echo "Of these, $av_giveup gave up, and registered an average ";
+	echo "surprise of ".doubleval($av_surprise)/doubleval($av_giveup).".  ";
+	}
+	if(IsSet($seq)) {
+	Echo "(NB: Results for $seq guess only)";
+	$result=mysql_query("SELECT word FROM smooth_info WHERE experiment=$smooth AND guess=$seq");
+	} else {
+	$result=mysql_query("SELECT word FROM smooth_info WHERE experiment=$smooth");
+	}
+	$num=mysql_num_rows($result);
+	echo "A total of $num guesses were made.  Here is a list of all the ";
+	echo "words guessed, listed in decreasing order of frequency:";
+	$i=0;
+	while($i<$num) {
+		$guess=mysql_result($result, $i, "word");
+		$count[$guess]+=1;
+		$i+=1;
+	}
+	$size=Count($count);
+	echo "<UL>\n";
+	do
+	{
+		echo "<LI>".key($count)." - ".doubleval(Abs($count[key($count)]))/doubleval($num)."</LI>\n";
+	}
+	while(next($count)!=false);
+	echo "</UL>";
+}
+?>
+
+<? Include("Footer.html"); ?>

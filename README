@@ -1,0 +1,45 @@
+The idea is for everything to be stored in a database.  We therefore need
+to have a nice way of displaying dynamic pages and authoring dynamic
+pages.  Ideally everything would be written in C as an Apache module.
+
+* No explicit HTML.
+* Plain text, Plain image, Plain Audio, Plain Video, Plain PDF, etcetera.
+* Then complex relationships between these building blocks, and tags:
+  - References
+  - Reviews
+  - Hyperlinks
+  - Quotations
+  - Footnotes
+  - Comments
+  - Version
+* Building blocks are laid out into stories.
+* Display is up to the user and the system, not the author.
+* The author is always made explicit.
+* You cannot use a building block without creating a link back to source.
+* Then a decentralised system for maintenance and moderation.
+* Once information is published it cannot be deleted.  The author cannot
+  control their baby.
+* Version control.
+* Co-authoring.
+* Make search engines redundant.
+* Create a real information economy.
+* All links are many-to-many bi-directional.
+* Semantic web shlemantic web.
+* This is not the web.  Ideally a new kind of browser would be written.
+* Begin with text only.
+* Support all languages.
+* Support mathematics.
+* Enable cool brainstorming tools, combining information in unpredictable
+  and creative ways.
+* No "back" button!  No "reload" or "forward" buttons either!  No "home"!
+  No freaking bookmarks or favourites!  Everyone's an author!
+* Proof-reading and editing.
+
+Proof of concept version uses PHP plus a database backend.  It should be
+possible for me to construct my homepage entirely in this system.
+
+The main problem seems to be deciding how to break down a particular item
+of information.
+
+This might be solved by having different views of the same piece of
+information.

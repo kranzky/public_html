@@ -1,0 +1,1022 @@
+<H4>Thu 13 Feb, 1997</H4>
+
+At the moment I am working on SEPO, along with Bruce Cooper.  SEPO is our
+entry to the 1997 Loebner AI Contest.  We hope to spend a small amount of
+time working on our entry, and to win the $2000US first prize.  A program
+of mine, known as HeX, won the 1996 competition.
+
+<P>
+The remainder of my time has been spent designing my research pages.  This
+task takes a good deal of time, but the results will be worth it (I hope).
+
+<H4>Fri 14 Feb, 1997</H4>
+
+Today Bruce and I worked on SEPO.  It is coming along very nicely, and
+easily surpasses HeX, which was my effort from last year.
+
+<H4>Mon 17 Feb, 1997</H4>
+
+Work on SEPO is progressing at a fast pace.  I tend to work on aspects of the
+database, while Bruce works on improvements to the main program, and fixes
+bugs which I find.  At the pace we are going, we should have our Loebner
+contest entry ready ahead of schedule.
+<H4>Thu 20 Feb, 1997</H4>
+
+SEPO development has finally reached the stage where all of the required
+functionality is present.  This means that Bruce has to do less and less
+(apart from fixing bugs), while I am doing more and more.  I plan to spend
+the next couple of weeks saturating the SEPO database in preparation of the
+Loebner prize.
+
+<P>
+At the moment, SEPO is quite capable of remembering facts about the user
+(such as their name), doing basic mathematical calculations and answering
+questions about the date and time.
+
+<H4>Mon 24 Feb, 1997</H4>
+
+I spent my weekend editing the video from my recent trip to Sydney.  It
+took all weekend to get 25 minutes of footage edited, but the results are
+worth it.
+
+SEPO database development is progressing, but non sequitirs are proving
+difficult to implement.  On another note, semester started today, so there
+are a lot of brain-dead freshers running around ;^(
+
+<H4>Tue 04 Mar, 1997</H4>
+
+Well, semester has started, so I am taking a few classes.   This eats into
+my time a bit.  Today I got MegaHAL and HeX working online again, as some
+lady at the University of Texas wants them available for her course, and
+there has been some demand for them.
+
+<P>
+I had a meeting with Mike, during which I raised an interesting point.  I
+claimed that an n-gram model could find higher-level structure in data
+even when n isn't big enough to capture anything important, as chunks will
+be found anyway due to statistical irregularities that you get in a finite
+sample.  Once these (bad) chunks have been found, they extend the context
+of the model allowing it to find the good ones.  Then the bad ones can be
+thrown out.
+
+<P>
+He wants me to prove this, or at least show it to be true for a class of
+languages.
+
+<H4>Thu 06 Mar, 1997</H4>
+
+I have begun work on GIMP, which stands for Grammatical Inference Modeling
+Package.  This will hopefully greatly increase my productivity, as it will
+make testing and experimentation an easy, painless process.
+
+<P>
+I have also postulated the following theorem.  If an n-gram model of some
+sufficiently high n is required to find structure in a text, then a bigram
+model accompanied by a chunk-upwriting process will be powerful enough to
+find the same structure.  This is because the chunk-upwrite will extend
+the context of the bigram model until it is long enough to find the structure.
+
+<P>
+There are many ways to find chunks, but I have decided on one method.  Note
+that finding chunk boundaries in a text is <I>not</I> the same as finding
+chunks.  We can find chunks directly from the model, without reference to a
+text, by creating a chunk from the context which has the highest entropy.
+
+<P>
+Each context in a model has an accociated probability distribution over the
+alphabet of symbols, which may be considered to be a prediction for the symbol
+which follows the context.  If this distribution has a high entropy, then
+either the next symbol is random and independant of the history, or the context
+isn't long enough.  We assume that the latter case is correct, and create a
+new symbol which consists of the (n-1) symbols in the context concatenated.
+
+<P>
+This new symbol may be incorporated into the modeling process.  If we were
+right in our assumption that the context was too small, then we should see
+a decrease in the average entropy of the text.
+
+<H4>Mon 24 Mar, 1997</H4>
+
+Over the previous week, I have been working on the CIIPS WWW site.  I haven't
+devoted a great deal of time to the cause; if fact, most of the functionality
+took about a day to implement.  John Morris seems to think that I will spend
+more time maintaining the now (slightly) more complicated site.  I think that
+since I designed the new site to be low-maintanance, I won't.  See, I maintain
+the technical side, and I made it easier for other people to maintain the
+information content.  Previously, I did both.  Now I only do the technical
+stuff, which needs to be changed much less frequently than the information.
+
+<P>
+I have also worked on SEPO, which is Bruce's and my entry to the 1997 Loebner
+contest.  Bruce has successfully compiled the program to run on a DOS box,
+now it is up to me to complete its functionality.  This is tedious work, but
+I am making slow progress.
+
+<P>
+I have also explored my method of finding chunks, as opposed to Mike's method.
+My method is better, but I haven't proved this experimentally as yet.  I will
+describe it to him tomorrow, and record the results of the meeting here.
+
+<P>
+Basically, my method extracts chunks from the model, whereas Mike's method
+extracts chunks from a text.  Both methods use the Entropy as a chunk
+indicator.  My method only chunks together symbols which have a combined
+effect on the entropy, while Mike's method often includes symbols which have
+no effect because they occur outside of the context window.  My method suits
+the upwrite process, as it builds up large chunks gradually; they bootstrap
+themselves using small chunks which may be eventually discarded.  Mike's
+method finds large chunks straight away, which can be a bad thing.
+
+<H4>Wed 26 Mar, 1997</H4>
+
+I am continuing work on GIMP, the Grammatical Inference Modeling Package.
+My priority is to get it to a stage where I can test different chunking
+strategies quickly and painlessly.  This will probably take the remainder
+of the week.
+
+<P>
+Mike continues to claim that his chunking technique is better.  He refutes
+my argument by stating that his method gets chunks which are longer than
+the context, and this is justified because to get such chunks the sequence
+of symbols in them need to be predicted well from short histories.  Still,
+he agrees that perhaps another measure is needed, as the entropy is not
+symmetric.  That is, if we make predictions about what comes *before* each
+context, and chunk based on the entropy of those predictions, we will get
+different chunks.  This is because, for example, q predicts u well, while
+u is not so good at "back-predicting" q.  Mike suggests that the mutual
+information may be better, as it is symmetric.
+
+<H4>Tue 22 Apr, 1997</H4>
+
+I am continuing to write GIMP, and it is coming along nicely.  The next thing
+I want to implement is an adaptive chunker/predictor/compressor.  There are
+several reasons for wanting to do this.
+
+<OL>
+
+<LI>
+Firstly, it is perhaps a bit closer to how living creatures learn.  We have
+a short term memory and a long term memory.  We can use the short term memory
+to hypothesise about the future, and the long term memory to store hypotheses
+which were correct.
+</LI>
+
+<LI>
+It will make the program a lot faster.  To evaluate a new chunk, for instance,
+we need not retrain and retest an entire language model.  Rather, we just
+tentatively add the chunk to our dictionary and continue.  If, at a later
+stage, it turns out that adding this chunk was a bad idea, it can be removed
+by backtracking only a small way.
+</LI>
+
+<LI>
+It makes compression a viable measure of model performance.  Since the model
+is adaptive, we can use it to (un)compress text without having to transmit
+the model or the dictionary.  This basically overcomes my problems with the
+perplexity measure.
+</LI>
+
+</OL>
+
+Exactly which chunking technique is used is academic.  I believe that my
+technique will be better in the adaptive case, as we can constantly look for
+chunks at each step.  Mike's method requires a scan over a text, which is a
+comparitively expensive operation.
+
+<P>
+Also, we may not need to remove "bad" chunks at all.  These bad chunks will
+simply not be used by the model very often, either because they acted as
+scaffolding for the formation of longer chunks, or because they don't occur
+very often.  This means that our model may contain "fossil" chunks which are
+no longer used, but this isn't such a bad thing.
+
+<P>
+What would be nice is if we could somehow approximate the statistics for
+a new model which contains one extra chunk from an old model which doesn't
+have the chunk.  This would speed things up incredibly, but it will be a
+very difficult thing to do.
+
+<P>
+Mike suggests that chunk evaluation be done by maintaining two models - one
+with the chunk and one without - and comparing them.  This is a good idea,
+and I need to pursue it.
+<H4>Tue 29 Apr, 1997</H4>
+
+Okay, another Mike meeting been and gone.  We discussed the merits of "my"
+method with his method, following a brief paper I wrote and gave to him
+yesterday.  He conceded that my methods have a few advantaged (online rather
+than offline, and a measure of how good a chunk is), but he isn't convinced
+that my method is better.  Part of his argument concerns the fact that I
+don't find "levels" of chunks.  He also wants me to check whether my method
+is "position invarient".  That is, do we find similar models if we begin
+at different parts of an infinite training source, or will they be wildly
+different?  Mike also thinks his way is closer to how I brains work...
+<P>
+Anyhow, I am continuing to chase a moving target!  I will implement and
+test both methods soon.  To do this, I'll need to store chunks in a different
+format (each chunk should be a list of other chunks, rather than a string of
+lowest-level symbols).  This will require a check when adding a new chunk to
+test whether or not it's already there (ie: one lowest-level representation
+may have several higher-level representations).  In fact, I'll probably store
+chunks as both representations, to make parsing easier.
+<P>
+My method has lots of advantages in my opinion.  I have summed them up in a
+paper which is secret so there!  Bwahahahahaha!
+
+<H4>Tue 06 May, 1997</H4>
+
+Another Mike meeting has come and gone.  We talked about chunking yet
+again.
+<P>
+It seems that there are two different sorts of chunks - one sort requires
+a form of counting.  For example, if our text is "aaaaaaaaaaaaaaaab", we
+would like to find a+ as a chunk.  This makes sense if we are trying to
+implement a learning system, but not if we look at things solely from
+compression (since P(a|aa) ~= 1).
+<P>
+Chunking is superior to run-length encoding.  Consider this text:
+"aaaaaabaaaaabaaaabaaaaaaabaaaabaaaaab".  Run-length encoding may encode
+this text as "a6ba5ba4ba7ba5b", while chunking may find the chunk "aaaaa"
+and upwrite it as "c".  It could then encode the repeated sequences of a's
+as c2, for example, to mean "the chunk c, plus two more a's.  The sequence
+would thus be encoded as "c1bcbc-1bc2bc-1bcb", which represents a clear
+saving (we need only 2 bits for the offset rather than 8).
+<P>
+It is not clear how to find such chunks, though.  Both the current chunking
+methods rely on the fact that there's going to be variation in  the data
+source.  If there's no variation, it's not clear how chunks will be found.
+For instance, consider the stream: "abcabcabcabcabcabcabc...".  We would like
+our learning system to find the chunk "abc" and upwrite it as the symbol d,
+and then encode the stream as d+.  It's not clear how to find this chunk.
+<P>
+It's all got something to do with the fact that we read symbols in blocks
+rather than one at a time, and that we have a finite short-term memory.
+We have a finite long-term memory too, and that's why we can't count
+infinitely high.  There is value in the fact that we are finite-state machines
+simulating grammars which are higher up in the Chomsky hierarchy.
+
+<H4>Fri 09 May, 1997</H4>
+
+Well, I have continued writing GIMP.  Recently, my program was giving results
+which indicated that it would be capable of good compression.  These results
+were only theoretical, though, so I bolted on an arithmetic coder so I could
+actually use GIMP to compress data.
+<P>
+I have also spent quite a while changing the program so that it is able to
+use either bits, nybbles or bytes as the lowest-level symbol.  This required
+some major changes to the way symbols are read, and the way they are parsed.
+Greedy parsing on the bit level was particularly troublesome.
+<P>
+I am now running a few tests (well, one actually; trying to compress and
+decompress the entire Sherlock Holmes corpus using a chunking language model
+on the bit level).  If this test succeeds, I reckon the program must be
+working!
+<P>
+After running this test, I intend to implement several different smoothing
+regimes, in particular the ones normally used in data compression systems.
+I may also implement fallback rather than smoothing, as some systems use this
+instead.  This will make comparison of results depend more on the statistical
+model rather than on other factors.  I will also implement other chunking
+regimes.  I will then perform extensive tests, using all combinations of
+symbol types, chunking strategies, smoothing and fallback methods, order of
+the model, thresholds and so on, to determine the best overall combination of
+parameters.  I will then compare the performance to the state-of-the-art,
+using the standard corpora, and I will do other things (such as measuring the
+effect the starting offset has on results, trying to compress the encoded
+data, trying to compress gzip archives, and plotting the performance of the
+compressor as more data is seen).  I will end by looking at data generated
+by various compression systems.  Then I will write a paper and do a talk on it!
+<H4>Tue 20 May, 1997</H4>
+
+Okay, it's an hour before my weekly Mike Meeting, so I'd better get my thoughts
+in order.
+<P>
+To begin, I seem to have found a fatal flaw in the fallback or escape
+techniques used in modern compression systems.  I have emailed Alistair
+Moffat, the inventor of PPMC, about this.  Basically, I have shown that
+the fallback technique is sub-optimal, and that an equivalent smoothing
+techniques is guaranteed to perform at least as well, and usually better.
+I might be wrong about this, so I've contacted Alistair to sort things out
+before I publish anything.
+<P>
+Our disk server kicked the bucket over the weekend, so all of the compression
+experiments I was running died, and have to be redone.
+<P>
+Anyway, I have implemented various fallback (or escape) techniques in my
+program.  It was while doing this that I discovered the flaw which I have
+emailed Alistair about.  I have fixed up my program to avoid the flaw, and
+in the coming days I will implement various smoothing techniques as well.
+In fact, by the time I've finished, everything will most likely be done
+with smoothing, as fallback is equivalent to it.
+
+<H4>Fri 23 May, 1997</H4>
+
+I have corresponded with Alistair Moffat, the instigator of PPMC, in order to
+discuss my problems with the escape method.  He responded by saying that he
+doesn't agree that there is a problem, as the "scoreboarding" or "exclusion"
+technique will ensure the probabilities are correct.
+<P>
+I agree with him that exclusion does fix the problem.  My gripe is with the
+fact that the pioneering papers on PPM don't actually state that exclusion is
+absolutely necessary, rather they say that it gives better results at the
+expense of extra computation.  Subsequently, people have neglected to
+implement it in their compressors.
+<P>
+Also, it is possible that there are better ways of making the probability
+distribution sum to one.  Nobody has explored this aspect (or so it seems),
+so that's what I'll be doing next.  At the moment, though, I've been reading
+through the literature to see whether anyone else has mentioned this sort of
+problem with PPM.
+<P>
+Furthermore, Alistair, like many people in the field, is concerned with
+efficiency of implementation, while I am not.  So, while I will be quite
+happy calculating probabilities using "smoothing" or "blending", nobody else
+in the field is, since the escape method is faster.
+<P>
+My program will therefore use smoothing exclusively, but some of the smoothing
+techniques will be equivalent to escape techniques.  In this case, the method
+of ensuring the probability distribution sums to one (exclusion, rescaling
+etc) will also be selectable.  Finally, the method used to update the model
+statistics will be able to be changed.  For example, it may prove better to
+only update the statistics of a symbol once, in the highest-order context in
+which it appears.
+
+<H4>Mon 26 May, 1997</H4>
+
+I am running a few compression tests on the Calgary corpus at the moment.
+I have also come up with my own escape probability calculation technique,
+which I call Method H.  It is as simple as this:
+<XMP>
+                   ( A - r ) * s
+P(escape|model) = ----------------
+                  n + (A - r ) * s
+</XMP>
+where A is the size of the alphabet (which may change during
+execution), r is the number of different symbols which have been
+seen in the context, n is the total number of symbols seen in
+the context, and s is a scaling constant.
+<P>
+It should be noted that s could also be a function of the context.
+In fact, <TT>s = 1/(A-r)</TT> gives Method A, and <TT>s = r/(A-r)</TT> gives
+Method C.  There is no obvious way of choosing a suitable s, though,
+so I choose to leave it as a constant factor.
+<P>
+I believe that this method can be justified.  Specifically, it gives a
+probability of 1 if no symbols have been seen in the context yet, and a
+probability of 0 if all the symbols have been seen at least once.  The
+other methods do not do this (and therefore a hack is needed to ensure
+P(escape) is zero when there is no need to escape)!
+<P>
+Preliminary results indicate that choosing the right s can give better
+results than Method C.  I need to experiment with this a bit more..
+
+<H4>Wed 28 May, 1997</H4>
+
+I have re-implemented the prediction part of the program.  This was done in
+order to separate the various components of prediction more logically, and
+to offer a simple way to improve speed if genuine compression is undesired,
+and all we are after is the theoretical limit.  The net result is that
+exclusion now works properly.
+<P>
+The performance of my program, using exclusion and method C, is still some
+way off what Moffat reported in his paper.  I suspect I will need to
+implement other features of his system, such as model rescaling, to duplicate
+his results.
+
+<H4>Thu 29 May, 1997</H4>
+
+I discovered a <I>huge</I> bug in the program, which will take a while to
+fix.  Basically, I was storing symbols as NULL-terminated character strings,
+without realising that the NULL symbol could also occur (particularly in
+binary files).
+<P>
+I have re-programmed most of the symbol processing code to avoid this, but
+I have yet to change the greedy parser and the chunking code.  So, this
+problem has put me two days behind schedule.  Bugger!
+
+<H4>Fri 30 May, 1997</H4>
+
+I have finished fixing up the bugs which occurred due to the fact that the
+NULL symbol can also be a valid source symbol.  This means that chunking is
+working again, and decoding works properly for all kinds of files.  Yippee!
+
+<H4>Thu 05 Jun, 1997</H4>
+
+It is a fact of life that computer programs will always contain bugs.  I
+recently found another one, which has thankfully been fixed.  Even so, I
+am having trouble duplicating results for the PPMC compressor as published
+bu Moffat.  Strange, because I thought I was following his algorithm to the
+letter.  His paper didn't supply any pseudocode, and I can't find any public
+domain implementations on the 'net, so I am off to Murdoch library this
+afternoon to get the ``Text Compression'' book (it's unavailable at UWA).
+<P>
+Once I have managed to get close to Moffat's results on the Calgary Corpus,
+I will be ready to publish.  My first paper will be an analysis of PPMC, with
+sensible suggestions for better escape probability calculation.  I will show
+that PPMC has a few problems which some people may neglect in their
+implementations, and I will show that escaping is equivalent to blending.
+This will allow comparison with methods from the Speech Recognition literature,
+so I will need to implement the forward-backwards algorithm sooner or later.
+
+<H4>Fri 06 Jun, 1997</H4>
+
+<BIG>D'OH!</BIG>
+<P>
+I finally discovered the reason why I was unable to replicate the results for
+PPMC reported in the literature.  Notation inconsistencies between the fields
+of Speech Recognition and Data Compression meant that my third order model
+was using a context of two symbols, rather than three!
+<P>
+I am currently experimenting with ways of improving upon PPMC.  I intend
+to try entropic chunking, and other escape probability calculation methods.
+At the moment, I am trying a word-based model.  A word is a sequence of
+alphanumeric characters.  Whenever such a sequence is parsed, it is added to
+the dictionary as a new symbol, and then incorporated into subsequent
+parsing via a greedy parser.  Non-alphanumeric characters are transmitted
+as they are.
+
+<H4>Tue 10 Jun, 1997</H4>
+
+Mike has made it clear that he wants me to write a paper on chunking before
+anything else.  I have therefore put my work on blending to one side for the
+moment.
+<P>
+The problem with chunking is that it degrades compression performance rather
+than improving it.  Well, this isn't always true, but it certainly hasn't
+performed to my expectations.  I think part of the problem is that chunks
+are continually discovered and added during the process.  I think the
+dictionary needs to be dynamic, but it should be built up quickly at the
+beginning of the compression process, and then slow down.
+<P>
+There are many heuristics possible to allow this.  Perhaps the best technique
+is to choose a dynamic entropy threshold which is a function of the number
+of symbols in the dictionary, or something.  Anyway, I've got to do some work
+to find the best approach.
+
+<H4>Tue 10 Jun, 1997</H4>
+
+Well, I've performed quite a few experiments on chunking.  I have come to the
+conclusion that Mike's method is actually pretty good in comparison to mine,
+at least for small files.  But it depends on how Mike's method is implemented.
+<P>
+The best implementation is where the entropy is calculated from the smoothed
+probability distribution (instead of the distribution from the highest
+context).  We chunk when the entropy exceeds some threshold.  Initially,
+the entropy will be a maximum, and we will therefore chunk every symbol.
+This makes sense (without much information about the data, how can we build
+chunks of symbols)?  Once the prediction starts getting better, the entropy
+will fall below the chunking threshold, and symbols will be glued together.
+<P>
+Experimental results indicate that acceptable two and three symbol chunks
+can be found after only a few hundred bytes of input data, which is
+encouraging.  This allows the dictionary to adapt quickly to the data being
+compressed.
+<P>
+On the other hand, my chunking method takes much longer to find chunks, simply
+because the entropy of the highest-order context needs to exceed some threshold
+before chunking can take place.  The dictionary is therefore slow to adapt
+to the data, and compression results are poor.
+<P>
+At the moment, the entropy threshold is equal to the logarithm of the
+dictionary size multiplied by some scaling constant.  If the scaling constant
+is zero, each symbol will be chunked, and if it is one, the entire data set
+will be turned into one chunk.  This measure makes sense because it has
+sensible bounds, and adapts as the size of the dictionary grows.
+
+<H4>Wed 11 Jun, 1997</H4>
+
+I have started writing a paper entitled "A Hybrid PPM/LZ Data Compression
+System".  Last night, I designed a block diagram for such a system, which
+combines the statistical power of PPM with the adaptive dictionary of LZ.
+<P>
+LZ algorithms work by encoding a sequence of characters as one symbol.  The
+encoding method used is completely arbitrary.  PPM algorithms encode a
+symbol statistically, using a context of symbols to improve the statistics.
+It is therefore reasonable to use a PPM system as the encoder for a LZ scheme.
+<P>
+At the moment, I am working on writing this up formally in a paper.  I will
+then go back and implement the full system (which shouldn't be too difficult),
+before experimenting with various chunking techniques.  Any method of finding
+new symbols to be added to the dictionary will suffice.  I may use entropic
+chunking, compression, alphanumeric sequences, sliding window, and so on.
+<P>
+Other areas will also have to be explored.  For example, a new chunk is sent
+initially as a sequence of lower-level symbols.  We may wish to have a
+separate statistical model to encode these symbols (ie: if our normal model
+can't make a prediction about the next symbol, fall-back to a character-based
+model and transmit a new chunk).  Also, the metric used by the greedy parser
+may be changed from "longest character sequence" to "character sequence with
+best average compression".
+<P>
+Finally, the fallback mechanism may be investigated.  I also need to
+investigate model scaling and flushing, and dictionary flushing.  LZW, for
+example, puts an upper limit on the dictionary size.  We may wish to remove
+chunks from the dictionary (and hence the model) if they are adversely
+affecting performance to make room for new, hopefully better chunks.
+
+<H4>Mon 16 Jun, 1997</H4>
+
+I'm still having trouble replicating Moffat's results.  I think this may be
+due to the fact that he gets more precise results from his recency scaling
+method: counts are incremented by 8 rather than 1, and scaled when their
+total exceeds the threshold 64*8.  The fact that they are incremented by a
+power of two makes the divide by two operations simpler.  Also, some counts
+will end up being less than 8 (ie: 4, 2 or 1), which gives them extra
+precision.  I will therefore implement this method, and see what happens.
+
+<H4>Tue 17 Jun, 1997</H4>
+
+Wouldn't you know, the entire problem with replicating PPMC's results were due
+to the fact that I hadn't implemented the more precise "increase the counts by
+8 rather than by 1" method.  It took me five seconds to put it into the
+program, and I'm now replicating the results fairly closely (but still not
+exactly)!
+<P>
+My next job is to implement the "new" chunking regime, whereby the model is
+only updated when a chunk is found.  This includes implementing an upper-bound
+on the number of chunks, meaning that dictionary entries need to be
+timestamped.  The system needs to remain flexible, so that a multiple model
+approach can be implemented in the future (if hierarchical chunking gives poor
+performance, perhaps we should store a model for each level of chunking, and
+blend as before).
+
+<H4>Tue 17 Jun, 1997</H4>
+
+There's a teensy problem with my chunking strategy.  Basically, we find
+chunks by adding symbols to a chunk buffer, and chunking whenever we
+decide the most recent symbol is a "chunk separator".  This means that
+in order to transmit a chunk, we need to transmit all of the symbols in
+the chunk, plus the next symbol so that the decoder can form the same chunk.
+So if we aren't using any chunking at all, the performance won't match
+standard PPMC, because we need to transmit two symbols before the model can
+be updated.
+<P>
+There is no solution to this!  So, either we put up with worse performance,
+or we update the model whenever a symbol is read (as well as/instead of
+when a chunk is formed).  The other solution is to use a hierarchy of models,
+and to blend their predictions together.
+
+<H4>Tue 17 Jun, 1997</H4>
+
+Sheesh, I seem to be writing lots of diary entries today!  Anyway, I have
+thought about the problems I'm having with the dynamic dictionary some more,
+and I have come to the conclusion that there are four solutions:
+<OL>
+<LI>Look ahead one symbol.  This is impossible, as the decoder can't do it.</LI>
+<LI>Make two passes across the data, once to build up a dictionary (which is
+encoded somehow), and once to use this dictionary to compress the data.</LI>
+<LI>Use two different model update methods.  Add the parsed symbol to the
+model as normal, and also update it whenever a new symbol is formed.</LI>
+<LI>Maintain multiple models (probably two), and have some method of combining
+the predictions from each of them.</LI>
+</OL>
+Intuitively, I feel that the fourth solution is the best.  After all, each
+context is treated as a separate model anyway, so why not allow contexts
+built from different alphabets?
+<P>
+We may speculate as to how such a system would work.  Firstly, a character
+based model would be updated as usual.  Chunks would be used to update a
+second model.  I'm unsure whether contexts in this model should contain a
+combination of characters and chunks or chunks alone, but they would certainly
+only predict chunks (this is a form of update exclusion, I suppose).
+<P>
+The chunked model makes a prediction using PPMC, but it doesn't include a
+-1 order model.  Rather, if the 0 order model transmits an escape code, we
+fallback to the character-based model.  The chunk model will be mostly empty
+at the beginning of processing, so performance should be only marginally worse
+than standard PPMC.  Once it grows, and if the chunks are good ones, then we
+will hopefully start getting good results.  But this may be difficult to
+justify!
+
+<H4>Tue 17 Jun, 1997</H4>
+
+One more note.  The lookahead method (number 1 in the list above) is possible
+if we do things the LZ way.  While the chunk buffer is being filled, we
+do <I>not</I> transmit anything.  Only when a chunk is formed do we transmit
+it.  If the chunk is new, the receiver gets the "new symbol" code, and knows
+to add the contents of its chunk buffer to the dictionary and the model.  The
+encoder can therefore do a lookahead (in fact, as far as it wants).  This is
+similar to transmitting the dictionary separately, as each entry is transmitted
+without compression the first time.  The advantage is that the encoder can
+lookahead when transmitting a symbol which already exists in the model!
+<P>
+Also, the entropic chunking doesn't require the next symbol to be read at all,
+so perhaps this is the best solution.  In this case, the <I>expected</I>
+entropy of the next symbol is used for chunking, and that's something the
+decoder can calculate without knowing the symbol.
+<P>
+So we may now list our problems:
+<OL>
+<LI>How is the data parsed?  Using the whole dictionary, or just the lowest-level symbols (leaving the chunker to "parse" them into chunks which may already exist in the dictionary)?</LI>
+<LI>How are new chunks found?  Do we need to look ahead to get them?</LI>
+<LI>How is the decoder notified of a new chunk?  Is it transmitted as the sum of its parts, leaving the decoder to form the chunk, or is the "new chunk" symbol transmitted as in LZW?</LI>
+<LI>How is prediction performed?  Do we have a single model (which is appealing), or do we have several models blended together?</LI>
+<LI>Should we put un upper bound on the dictionary size, and if so, how are deleted entries to be removed from the model(s)?</LI>
+<LI>How is/are the model/models updated?</LI>
+</OL>
+Erk.  I will start working on these problems later!
+
+<H4>Fri 20 Jun, 1997</H4>
+
+I have decided to implement a variation on the HDC system; instead of using
+a greedy parser, the chunker is used to find higher-level symbols.  One
+model is needed to evaluate the chunk (a model based on the lowest-level
+symbols only), while another is used to encode the symbols for transmission.
+Or something like that.
+<P>
+In any case, the GIMP program will have to be heavily redesigned to cope with
+multiple models (D'oh!), so I will spend the next week or so doing just that.
+Better perhaps if I work from the ground up, rather than trying to alter what
+I've already got.  I will definately salvage code, though.
+
+<H4>Mon 23 Jun, 1997</H4>
+
+I am still coding a nice PPM compressor which makes some improvements
+on my previous stuff.  Interestingly, the compiler on the onyx
+parallelizes the code failrly well, so it will run on all 4 CPU's.
+However, compression is an O(n) algorithm, with the result that
+a non-parallelized version (running on a lone CPU) is <I>twice as
+fast</I>.
+
+<H4>Fri 04 Jul, 1997</H4>
+
+Well, it's been quite a while since I wrote my last diary entry (almost
+two weeks in fact).  Mike's been away, but that's certainly no excuse for
+slacking off.
+<P>
+Luckily, I haven't been.  I have written two papers; one intended to be
+published and one technical report.  The paper I intend to publish is
+pending experimental results.
+<P>
+I have also been creating a nifty interface to my program with Tcl/Tk,
+which is something I've always wanted to do.  It's amazing how much more
+fun it is to play around with language models when you have an interface.
+I suppose it's got to do with the fact that it makes experimentation
+easier.  For example, I've got my program to the stage where you can type
+a sentence into a text entry field and it will plot the entropy over that
+sentence using the currently selected model.  Pretty cool stuff.
+<P>
+For some reason, I got into spelling correction!  That is, I've been using
+models to spell-check a text.  Basically, they change the text to make it
+compress better (ie: to be more inline with their expectations).  This seems
+sensible.  I want to continue along this line (it's rather interesting).
+The next thing to do is this: rather than just correcting the next character,
+I should investigate the effects of removing it, or adding an additional
+character.  That way, spelling errors such as <I>Sherlck Holmmes</I> can
+be handled.
+
+<H4>Mon 07 Jul, 1997</H4>
+
+I am continuing to develop my program, which has been re-christened as
+GIT (standing for "Grammatical Inference Toolkit").  A program called GIMP
+already exists, and people were getting confused!
+<P>
+Anyway, there's <I>lots</I> to do, including:
+<UL>
+<LI>Analyse the spell checking routines a bit more.  Ideally, we'd like
+to correct things such as "thxxxxxxxxxxxxxxeir", which seems to require
+a global optimization.  But I need to sit down with a pencil and work
+through this.</LI>
+<LI>Implement chunking.  This is currently being done, but I'm changing the data structures somewhat to make things work together better.</LI>
+<LI>Improve the escape mechanism, by asking the user exactly how the escape count should be updated.  A proportion of the increment can go to the symbol count, and a proportion to the escape count.  It also needs to be initialized to some value.</LI>
+</UL>
+Well, that's what's at the top of my list, but there's a lot more to do!
+
+<H4>Tue 08 Jul, 1997</H4>
+
+I have continued imrpoving the GIT program; it now can handle the standard
+PPM methods, and the spelling correction is improved.  I have just realised
+that it would make sense for all results generated (ie: random text,
+spelling corrections, compressed data etc) to be included as new data
+sources, so that's the next thing I'll do.
+
+<H4>Tue 22 Jul, 1997</H4>
+
+I've come down with the traditional "beginning of semester 'flu", which has
+made concentrating on real work difficult.  As usual, I have slacked off and
+pursued less taxing tasks.  Lots of people have been bugging me to update
+MegaHAL, which is my online conversation simulator, so I did just that.
+I'll describe how it works here.
+<P>
+Two second-order Markov models are maintained.  One is used to generate
+sentences forwards, the other is used to generate sentences backwards.
+The states of the models also contain boolean flags indicating whether
+the end (or start) of a sentence has been reached.
+<P>
+The user types a sentence to the program which is broken up into a string
+of symbols.  The symbols are sequences of non-whitespace characters, so
+punctuation is included as part of a word (this was done to make typing
+HTML easier).  Also, words are case sensitive.
+<P>
+The program generates a reply to the sentence by looking for one of the
+symbols in the user's input in the Markov model.  If it is found, a full
+sentence is generated from that word by using one model to generate to the
+end of the sentence, and the other to generate to the beginning.  The
+sentence is then scored by measuring the information of each symbol it
+contains which is also in the user's input.  Both models are used to
+measure this information.  One hundred sentences are generated, and the
+highest scoring one is displayed to the user.
+<P>
+The user's input is then added to both the models, and the process repeats.
+<P>
+]If you think this sounds interesting, you can
+<A HREF="http://ciips.ee.uwa.edu.au/~hutch/hal/HAL/">chat to the program</A>.
+
+<H4>Thu 24 Jul, 1997</H4>
+
+I have written a simple chunking compressor.  But it's not working very
+well!  It works by using two models: one model operates on the symbol
+level and is used for findinch chunk boundaries, the other operates on
+the chunk level and is used for encoding.
+<P>
+For some reason, the compression is poorer than using a symbol-based
+model only.  This isn't a good sign.  I will try some changes over the
+next couple of days.  These include:
+
+<UL>
+<LI>Implementing some sort of a parser, probably a greedy parser.  At
+the moment, parsing is done by the chunker.</LI>
+<LI>Playing around with how statistics are collected.</LI>
+</UL>
+
+But, anyway, I'm suprised that things aint working!
+
+<H4>Thu 24 Jul, 1997</H4>
+
+I have thought about the aforementioned problem a little more.  One possible
+improvement is based upon the WORD method.  Whenever a new chunk is added to
+the chunk model, we transmit it as two symbols; the chunk upon which it is
+based (using the chunk model), and the symbol which we appended to make the
+new chunk (using the symbol model).  Decoding is possible, as we know to
+alternate the models.
+<P>
+This has one majore restriction: chunks may only be formed by growing chunks
+which already exists.  This goes against the notion of using the entropy as
+a chunk separator.
+<P>
+Another possibility is not to use chunks at all.  Rather, the entropy should
+be used as an indication of which contexts should be extended.  That is, we
+only ever transmit symbols, but some symbols may have longer contexts to
+improve their statistics.
+<P>
+Basically I am going to have to try all sorts of hacks to sort this one out.
+
+<H4>Fri 25 Jul, 1997</H4>
+
+I'm currently trying the chunk-compressor using a variety of thresholds.
+Alas, at the moment it seems that a threshold of 0 is optimal.  This means
+that either there is a bug in my program, or there is something fundamentally
+wrong theory.  I support the second notion!
+<P>
+Let's consider why.  Chunks are found adaptively, so that a particular chunk
+may not be added to the dictionary until we are halfway through the compression
+process.  This is unfortunate, as we may have missed many opportunities to use
+the chunk.
+<P>
+Furthermore, whenever we add a chunk to the model we are necessarily watering
+the statistics down.  Hence we should only really add the chunks which we
+know will make a difference.  This is, of course, impossible to find out.
+<P>
+I have no little lightbulbs appearing above my cranium.  My only option is
+to think of lots of techniques which may possibly work, and try the lot of
+'em.  Ergh.
+
+<H4>Mon 28 Jul, 1997</H4>
+
+I've written yet another technical report for Mike which explains
+why I've been having problems getting good results out of the
+q-chunker.  I have decided to perform a constrained optimization over
+the chunk in order to compress it as well as possible.  This makes
+sense, and as I state in the report, we shouldn't ignore chances
+to optimize when we're doing something adaptively, as optimization
+is not normally possible in such cases.
+<P>
+I also stated in the report that transmission of the chunk cannot
+cross a chunk boundary, as the encoder must get the same statistics
+in order to find the same chunks.  Now that I think about it, I can
+see that this was an unneccessary restriction.  When we transmit
+a chunk, we can keep going over a boundary if it improves things.
+We just have to remember how far we've gone, and begin transmitting
+from there the next time.
+<P>
+In short, we just have to make sure that the chunk is transmitted.
+We can keep going if we like, so long as the entire chunk gets through.
+
+<H4>Tue 29 Jul, 1997</H4>
+
+Following this morning's discussion with Mike, I have decided to change
+my approach to chunk compression further.  He reckons that the poor
+results are side-effects of not using any form of chunk evaluation.
+This seems entirely reasonable.
+<P>
+My new method therefore evaluates chunks based upon how well they
+improve compression.  In order to achieve this, the chunks must be used to
+update the model, or at least a count of the number of times they've
+been transmitted needs to be stored.  This could be easily done in the
+dictionary.
+<P>
+One possibility is to use a model in which some of the nodes are
+"tentative".  The statistics of said nodes would be updated as normal,
+but they wouldn't be used for encoding until some criteria is satisfied.
+Most likely, the criteria that doing so would improve results.  This seems
+eminently sensible, although how statistics are updated may prove a problem
+(i.e. when a node undergoes the transformation from tentative to normal,
+shouldn't the statistics of other nodes be changed as well, or should we
+leave the chunk encoded multiple times)?
+
+<H4>Tue 05 Aug, 1997</H4>
+
+I implemented a chunking compressor, which unfortunately doesn't word as
+well as I'd expected.  Whenever a chunk is discovered, it is transmitted
+optimally, by working out the compression achievable by all possible
+parses over the chunk.  The model is then updated with the chunk.
+<P>
+This simply doesn't give good results.  I reckon it's due to the fact that
+the chunker finds different chunks all the time.  What we probably need
+to do is use a parser to encode the data and update the model,
+and use the chunker independantly to discover candidate symbol strings.
+Some sort of evaluation needs to be performed on the candidate strings.
+<P>
+Another question arises: how does the parser work?  It could be a greedy
+parser (find the longest matching sub-string, encode it, then update the
+model with it), or it could be a compression parser (find the substring
+which gives the best average compression).  Better perhaps to try several.
+
+<H4>Wed 06 Aug, 1997</H4>
+
+The chunk compressor has been much improved.  Rather than using the chunker
+as the parser, I added a greedy parser, so that the compression process
+proceeds as follows:
+<P>
+<OL>
+<LI>A symbol is read from the input stream by the greedy parser, and
+immediately transmitted by the encoder.</LI>
+<LI>The symbol is used to update the language model used by the encoder.</LI>
+<LI>The chunker updates its language model by parsing the symbol wrt its
+alphabet.  Chunks, if found, are added to the encoder's alphabet.</LI>
+</OL>
+<P>
+This process works well, because the parser, chunker and coder are separated.
+Only "good chunks" are ever used to update the model; the goodness of a
+chunk is measured by whether it is used by the parser or not.  Results on
+an Order-1 PPMC model approach those of a standard Order-3 PPMC model, which
+is encouraging.  Chunking is a replacement for high-order models, and is
+related to variable-length modelling.
+<P>
+I now have a lot on my to-do list:
+<UL>
+<LI>Add the chunk compressor to the GIT program.</LI>
+<LI>Experiment with different parsers, especially a greedy parser which uses
+the per-symbol compression, rather than symbol-string length, as a measure.</LI>
+<LI>Experiment with using different model parameters for the encoder and the
+chunker.</LI>
+<LI>Experiment with using the same model for both encoding and chunking.</LI>
+<LI>Try to find a way of getting the entropy threshold automatically.</LI>
+<LI>Experiment with other fallback/weighting techniques, as we will usually be
+using an Order-1 model exclusively.  PPMC may not be the best.</LI>
+<LI>Observer the effects of the standard PPM hacks, see whether they are
+reduced by using this technique.</LI>
+<LI>Compare and contrast chunking with variable-length modelling.</LI>
+<LI>Use a chunk-level model to generate data.</LI>
+<LI>Publish the findings.</LI>
+</UL>
+
+<H4>Tue 12 Aug, 1997</H4>
+
+Well, it appears that my talk was scheduled for last Friday after all,
+so I spent the last half of last week frantically beavering away on it.
+I did it all in HTML, so it's available
+<A HREF="http://ciips.ee.uwa.edu.au/~hutch/research/seminars/talk4">on the
+web</A>.
+<P>
+I've since had my weekly meeting with Mike.  He seemed quite pleased with
+the results which I've been getting, and which were reported in my talk.
+We decided that the best thing to do now is write the results up, which
+means splitting my work into manageable chunks.  I plan to write two
+papers, one for <I>IEEE Information Theory</I> and one for <I>Computational
+Linguistics</I>.  They can be on similar topics, but will be for different
+audiences.
+<P>
+When I split up my work I should plan a table of contents for my thesis.
+Mike seems to think it's doable by the end of the year, so I will start work
+on that.
+
+<H4>Fri 22 Aug, 1997</H4>
+
+I have finally gotten around to reading some papers on work which may
+be similar to what I've been doing.  There seems to be two approaches
+out there: <I>Variable Memory Markov Modelling</I>, and <I>Multigrams</I>.
+<P>
+The VMM approach is simple.  Rather than resticting the context of the
+n-gram model, extend it dynamically when certain criteria are satisfied.
+The Kullback-Liebler divergence is used to estimate how much additional
+information will be gained by extending the context.  I'm not too confident
+in my understainding of the process, so I will follow up some references.
+<P>
+The Multigram approach assumes symbols are independant: there is no
+context to speak of.  Instead, symbol-strings are added to the dictionary.
+An n-multigram model limits these symbol strings to a length of n symbols.
+Model inference is performed as follows:
+<OL>
+<LI>The dictionary is initialized with all symbol-strings which occur in the testing corpus.</LI>
+<LI>Initial probability estimates are made for these symbol-strings, by dividing the number of times they appear by the total.</LI>
+<LI>The testing corpus is parsed optimally.  That is, the parse which gives the highest probability is used.</LI>
+<LI>A re-estimation is done, this time using only the symbol-strings which appear in the optimal parse.</LI>
+<LI>The process is iterated until the optimal parse doesn't change.</LI>
+</OL>
+<P>
+My approach seems to lie somewhere between the two.  I need to spend
+some time comparing them, although this will be difficult, as my approach
+is adaptive while the others are not.  Both approaches seem obvious, and
+both use iterative optimization, which isn't possible in an adaptive data
+compressor.
+
+<H4>Wed 27 Aug, 1997</H4>
+
+Once again I've completely neglected my duties as far as writing papers and
+theses go.  Instead, I've been doing some video editing, and researching
+artificial languages.  Today I wrote a Fuzzy Pattern Matching routine,
+which should eventually allow me to do database lookups with a bit of
+tolerance for spelling errors.  The ultimate goal of this is to augment
+SEPO with an encyclopaedia for next year's contest.
+<P>
+As well as the fuzzy matching system, I need to design some sort of semantic
+network, rather than the clumsy keyword-based database I'm using at the
+moment...
+
+<H4>Wed 03 Sep, 1997</H4>
+
+I should be writing papers, but I have a serious motivational problem.
+I have two journal and two conference papers to write, and although Mike
+assures me I've got more than enough material to report, I'm having trouble
+beginning.  The thing is, you don't have a nice sense of completeness
+when you're reporting on a work-in-progress, and that irks me.
+<P>
+I have sketched out a skeleton for one of the papers, and I've been doing
+some reading on the topic (entropic chunking) so that I am able to contrast
+what I've done with other work in the field.
+<P>
+Part of this literature survey involved reading a thesis, which I did, but
+I got a bit distracted when I reached the section on clustering to find
+word classes.  All such techniques I've ever seen are poor, as they assign
+words to one class only.  Since most English words are ambiguous, assigning
+words to multiple classes, along with their probability in that class, would
+be a problem worth solving.
+<P>
+The solution seems to be a problem of optimization.  You can postulate some
+classes to begin with, find the hyperplane that they sit on, and then find
+the minimum number of classes needed to define that hyperplane.  All of the
+original classes will now be a linear combination of this minimal set of
+basis classes.  This should be possible to solve, though it may take some
+time in high dimensions.  The trouble is, there are an infinite number of
+possible basis classes.  We wish to find ones which have a minimum number
+of non-zero elements.
+<P>
+Anyway, it's an interesting problem.  Another approach, which may be the
+one I end up taking, is that of the hierarchical upwrite.  The postulated
+classes are clustered, and the largest cluster (a measure which has to be
+defined) is made into a new class.  This class is used to upwrite the
+training text, and the process is repeated.  Although this doesn't guarantee
+that "merged classes" won't be found, the requirement that the cluster needs
+to be large does increase our confidence that it is a real class.  Early
+tests with this technique indicate that merged classes can be successfully
+split.
+<P>
+Part of this algorithm requires special treatment of "super-classes", which
+contain both root symbols and lower-level classes.  All such classes should
+be downwritted to contain root symbols only, and then discarded if they
+already exist.
+<P>
+Programs need to be written, and experiments have to be performed.  But I
+need to write my papers first.  Oh, well...
+
+<H4>Thu 11 Sep, 1997</H4>
+
+Well, I submitted a paper to CoNLL'98 yesterday.  I worked incredibly
+hard on it for three days.  Saturday was spent writing programs to get
+the result, I started the paper at 10pm Sunday night, I gave it to Mike
+on Tuesday morning, I put the results in on Wednesday morning (the program
+ran for a <I>very</I> long time), and I submitted it Wednesday afternoon.
+After that I went home and slept!
+<P>
+I am now planning to get GraphicalGIT up to scratch.  I will then explore
+some adaptive data compression problems for my paper to DCC'98.
+
+<H4>Fri 19 Sep, 1997</H4>
+
+As usual, I have found ways to distract myself from the task at hand.
+The first of these was getting interested in Solresol; I just <I>had</I>
+to design a Web page for the darned thing!  This fascination got me
+interested in music, so the past few days have been spent re-learning
+musical terminology using a Web-based tutorial.  I have even booked
+some piano lessons, and I hope to buy a synth soon!
+<P>
+Apart from that, I'm currently running my test to find how many chunks
+need to be added before performance starts degrading significantly.  The
+results of this test will be reported in the paper I'm supposed to be
+writing for the Computational Linguistics journal.
+<P>
+Part of the investigation involved ranking the chunks in order, based
+upon the reduction in the perplexity which resulted from their addition.
+Once the test is concluded, I will add the ten most valuable chunks to
+an adaptive PPMC compressor, to measure their effect.

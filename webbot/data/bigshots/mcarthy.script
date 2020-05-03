@@ -1,0 +1,99 @@
+(mcarthy_state==0 && !yes_no_confirm)
+""
+{
+	response+="Do you want to learn about John McCarthy?";
+        yes_no_calling_context ='mcarthy';
+        yes_no_negative_response += 'Well, you might want to hear about him at some other time.';
+	yes_no_confirm = 0;
+	changecontext("yesno");
+}
+[]
+
+(mcarthy_state == 0 && yes_no_confirm)
+""
+{
+	yes_no_confirm = 0;
+	mcarthy_state = 1;
+	throw(input);
+}
+[]
+
+/*------------------------------------------------------------------------------*/
+
+(mcarthy_state==1)
+""
+{
+	response+="John McCarthy was born on Sept. 4, 1927. One of John McCarthy's most famous contributions to Artificial Intelligence was the organization of the Dartmouth Conference, at which the term 'Artificial Intelligence' was coined"; 
+	mcarthy_state=2;
+}
+[]
+
+
+(mcarthy_state==1)
+"#BYE_WORD#"
+{
+	mcarthy_state=4;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+/*------------------------------------------------------------------------------*/
+
+(mcarthy_state==2)
+""
+{
+	response+="McCarthy initially saw the conference as a failure, but in the years after the conference, many artificial intelligence laboratories were established. Sometimes success shows itself only through the prism of time.";
+	mcarthy_state=3;
+}
+[]
+
+
+(mcarthy_state==2)
+"#BYE_WORD#"
+{
+	mcarthy_state=4;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+/*------------------------------------------------------------------------------*/
+
+(mcarthy_state==3)
+""
+{
+	response+="Another of McCarthy's great accomplishments was the creation of the LISP (List Processing) language. LISP soon became the language of choice for many AI programmers and various versions of LISP are still being used today, forty years later. Information about McCarthy and other notable members of the AI community is displayed in the pages #CONTENT_LOCATION#.";
+	response+="<ACTION>url:#RES_ARTI_PAGE_PEOPLE#</ACTION>";
+	changecontext("default");
+	mcarthy_state=4;
+}
+[]
+
+
+(mcarthy_state==3)
+"#BYE_WORD#"
+{
+	mcarthy_state=4;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+(1)
+""
+{
+	changecontext("default");
+	throw(input);
+}
+[]
+-999
+
+(1)
+""
+{
+	changecontext("default");
+	throw(input);
+}
+[]
+-999

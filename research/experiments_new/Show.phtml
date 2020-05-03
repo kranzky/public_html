@@ -1,0 +1,148 @@
+<? Include("Verify.phtml"); >
+<? Include("Maintainer.phtml"); >
+<? Include("Functions.phtml"); >
+<? $title = "Experimental Results"; >
+<? Include("Header.phtml"); >
+
+<H2>We have a winner!</H2>
+
+<P>Have a look at the <A HREF="Eligible.phtml">users who are eligible
+for the prize</A>.  The guy whose name is blinking has won!
+
+<?
+	msql_connect("localhost");
+	$result=msql("hutch", "SELECT email,user FROM user");
+	$num = msql_NumRows($result);
+	if($num<=0);
+		Error("Unable to find users", "");
+	endif;
+
+	echo "<H2>List of users</H2>";
+	echo "Click on the name of a user listed below to find out more:";
+	echo "<UL>";
+	$i=0;
+	while($i<$num);
+		$email = msql_result($result, $i, "email");
+		$user = msql_result($result, $i, "user");
+		echo "<LI>$user. <A HREF=\"Show_User.phtml?user=$user\">$email</A></LI>";
+		$i+=1;
+	endwhile;
+	echo "</UL>";
+>
+<H2>List of completed stories</H2>
+
+<CENTER>
+<TABLE BORDER=1 CELLPADDING=4 CELLSPACING=0>
+<TR>
+<TD></TD>
+<TD ALIGN="MIDDLE"><B>Murder</B></TD>
+<TD ALIGN="MIDDLE"><B>Romance</B></TD>
+<TD ALIGN="MIDDLE"><B>Freeform</B></TD>
+</TR>
+<?
+$genre[]="Murder";
+$genre[]="Romance";
+$genre[]="Freeform";
+$order[]="1";
+$order[]="2";
+$order[]="3";
+$order[]="4";
+$order[]="5";
+$order[]="7";
+$order[]="10";
+$order[]="15";
+$i=0;
+while($i<Count($order));
+   echo "<TR>";
+   echo "<TD><B>Order $order[$i]</B></TD>";
+   $j=0;
+   while($j<Count($genre));
+      $name=Story_Length($genre[$j], $order[$i]);
+      echo "<TD><A HREF=\"Show_Story.phtml?genre=$genre[$j]&order=$order[$i]\">$name</A></TD>";
+      $j++;
+   endwhile;
+   $i++;
+   echo "</TR>";
+endwhile;
+>
+</TABLE>
+</CENTER>
+
+<H2>List of prediction experiments</H2>
+
+Click on an experiment to see the list of words in that experiment.  Next
+to each word is the average number of guesses taken, and the average surprise.
+Click on a word to see a probability distribution over all guesses for that
+word.
+
+<?
+	$result=msql("hutch", "SELECT val FROM global WHERE name='num_predict'");
+	$num_predict=msql_result($result, 0, "val");
+	echo "<UL>";
+	if($num_predict>0);
+		$i=0;
+		while($i<$num_predict);
+			echo "<LI><A HREF=\"Show_Predict.phtml?predict=$i\">Prediction experiment "+(1+$i)+"</A>.";
+			$i+=1;
+		endwhile;
+	else;
+		echo "<LI>There are no prediction experiments.</LI>";
+	endif;
+	echo "</UL>";
+>
+
+<H2>List of segmentation experiments</H2>
+
+Click on an experiment to see the list of words and non-words.  Valid words
+are in bold.  Next to each word is a number indicating the fraction of
+users who selected it.
+
+<?
+	$result=msql("hutch", "SELECT val FROM global WHERE name='num_segment'");
+	$num_segment=msql_result($result, 0, "val");
+	echo "<UL>";
+	if($num_segment>0);
+		$i=0;
+		while($i<$num_segment);
+			echo "<LI><A HREF=\"Show_Segment.phtml?segment=$i\">Segmentation experiment "+(1+$i)+"</A>.";
+			$i+=1;
+		endwhile;
+	else;
+		echo "<LI>There are no segmentation experiments.</LI>";
+	endif;
+	echo "</UL>";
+>
+
+<H2>List of smoothing experiments</H2>
+
+Click on an experiment to see a probability distribution over all guesses.
+
+<?
+	$result=msql("hutch", "SELECT val FROM global WHERE name='num_smooth'");
+	$num_smooth=msql_result($result, 0, "val");
+	echo "<UL>";
+	if($num_smooth>0);
+		$i=0;
+		while($i<$num_smooth);
+			echo "<LI><A HREF=\"Show_Smooth.phtml?smooth=$i\">Smoothing experiment "+(1+$i)+"</A>.";
+			$i+=1;
+		endwhile;
+	else;
+		echo "<LI>There are no smoothing experiments.</LI>";
+	endif;
+	echo "</UL>";
+>
+
+<H2>Send email to all users</H2>
+
+<FORM METHOD=POST ACTION="List.phtml">
+<CENTER>
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=4 WIDTH="90%">
+<TR><TD BGCOLOR="EEEEBB" ALIGN="MIDDLE"><TEXTAREA NAME=message ROWS=10 COLS=40></TEXTAREA></TD></TR>
+</TABLE>
+<INPUT TYPE=submit value="Email Everyone">
+</CENTER>
+</FORM>
+
+
+<? Include("Footer.phtml"); >

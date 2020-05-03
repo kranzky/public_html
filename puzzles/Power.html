@@ -1,0 +1,41 @@
+<!DOCTYPE HTML PUBLIC "-//Netscape Comm. Corp.//DTD HTML//EN">
+<HTML>
+<HEAD>
+<TITLE>Jason Hutchens: power summation</TITLE>
+<LINK REL="StyleSheet" HREF="style/jason.css" TYPE="text/css" MEDIA="screen">
+<LINK REV="Made" HREF="mailto:hutch@tmbg.org">
+</HEAD>
+<BODY>
+<H1><A HREF="">Jason Hutchens</A>: power summation</H1>
+<P>
+Which numbers satisfy the following property... the sum of the individual
+digits of the number raised to the power of that digit is equal to the
+number itself?  For the purpose of this problem, we define 0^0=0.
+</P>
+<P>
+For example, the number 3435 is known to have this property, since
+3^3 + 4^4 + 3^3 + 5^5 = 3435.
+</P>
+<P>
+This problem proved rather easy to solve.  We know that no numbers above
+10*9^9 (about 4e9) can have this property, simply because the sum will
+always be less than the original number.  Therefore we can solve the
+problem by brute force, using unsigned 32-bit integers.
+</P>
+<P>
+I wrote such a program, and it took a few hours to execute on our SGI
+Onyx computer.  The solution set is { 0, 1, 3435, 438579088 }.
+</P>
+<P>
+If you're interested in this puzzle, please feel free to
+<A HREF="power.c">download the source code</A>.
+One
+<A HREF="http://detroit.freenet.org/staff/conrad/">David Conrad</A>
+optimized my solution to run in under 15 minutes, and
+<A HREF="power_fast.c">his code</A> is also available.  And
+now Geoff Bailey, AKA Fred the Wonder Worm, optimized David's program
+to run about 8 times faster.  You can
+<A HREF="power_ultra.c">download his source code</A>, too.
+</P>
+</BODY>
+</HTML>

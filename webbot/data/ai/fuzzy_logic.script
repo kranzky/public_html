@@ -1,0 +1,78 @@
+(fuz_logic_state==0)
+""
+{
+	response+="Do you want to learn what Fuzzy Logic is?";
+	fuz_logic_state=1;
+}
+[]
+
+
+/*------------------------------------------------------------------------------*/
+
+(fuz_logic_state==1)
+""
+{
+	response+="Fuzzy logic is an approach to computing based on 'degrees of truth' ";
+	response+="rather than the usual 'True or False' (1 or 0) Boolean logic on which the modern computer ";
+	response+="is based.";
+	fuz_logic_state=2;
+}
+[]
+
+
+(fuz_logic_state==1)
+"#BYE_WORD#"
+{
+	fuz_logic_state=4;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+/*------------------------------------------------------------------------------*/
+
+(fuz_logic_state==2)
+""
+{
+	response+="Natural language (like most other activities in life) is not easily translated into ";
+	response+="the absolute terms of 0 and 1. Fuzzy logic includes 0 and 1 as extreme cases of “truth”, ";
+	response+="or “facts”, but also includes the various states of truth in between. ";
+	response+="So, for example, the result of a comparison between two things would be not 'tall' or 'short' but '0.38 of tallness'. ";
+	fuz_logic_state=3;
+}
+[]
+
+
+(fuz_logic_state==2)
+"#BYE_WORD#"
+{
+	fuz_logic_state=4;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+/*------------------------------------------------------------------------------*/
+
+(fuz_logic_state==3)
+""
+{
+	response+="Fuzzy logic seems closer to the way our brains work. We aggregate data and form a number of partial truths, ";
+	response+="which we aggregate further into higher truths, which in turn, when certain thresholds are exceeded, ";
+	response+="cause certain further results. A similar kind of process is used in neural networks and expert systems. ";
+	changecontext("default");
+	fuz_logic_state=4;
+}
+[]
+
+
+(fuz_logic_state==3)
+"#BYE_WORD#"
+{
+	fuz_logic_state=4;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+/*------------------------------------------------------------------------------*/

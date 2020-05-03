@@ -1,0 +1,164 @@
+(1)
+"turing"
+{
+	changecontext("turingover");
+	throw(input);
+}
+[]
+0
+
+(1)
+"turing.*philosoph"
+{
+	changecontext("turinggen");
+	throw(input);
+}
+[]
+0
+
+(1)
+"turing.*approach"
+"turing.*thinking"
+"turing.*intelligence"
+{
+	changecontext("turingthink");
+	throw(input);
+}
+[]
+0
+
+(1)
+"turing.*brain"
+"turing.*baby"
+{
+	changecontext("turingphysical");
+	throw(input);
+}
+[]
+0
+
+(1)
+"turing.*gay"
+"turing.*homo.*"
+"turing.*queer"
+"turing.*faggot"
+{
+	changecontext("turinggay");
+	throw(input);
+}
+[]
+0
+
+(1)
+"turing.*life"
+"turing.*biography"
+"life.*turing.*"
+"biography.*turing.*"
+{
+	if (turing_athlete_state == 0) {turing_athlete_state=1;}
+	changecontext("turingathlete");
+	throw(input);
+}
+[]
+0
+
+(1)
+"behaviorism"
+"turing.*behaviorism"
+"behaviorism.*turing.*"
+{
+	if (turing_behav_state == 0) {turing_behav_state=1;}
+	changecontext("turingbehav");
+	throw(input);
+}
+[]
+0
+
+(1)
+"psychology"
+"turing.*psychology"
+"psychology.*turing.*"
+{
+	changecontext("turingbehav");
+	throw(input);
+}
+[]
+0
+
+(1)
+"turing.*hacker.*"
+"hacker.*turing"
+{
+	changecontext("hacker");
+	throw(input);
+}
+[]
+0
+
+(1)
+"dartmouth"
+{
+	changecontext("dartmouth");
+	throw(input);
+}
+[]
+0
+
+(1)
+"child machine"
+{
+	changecontext("turingchild");
+	throw(input);
+}
+[]
+0
+
+(1)
+"mcarthy"
+"mccarthy"
+{
+	if (mcarthy_state == 0) {mcarthy_state=1;}
+	changecontext("mcarthy");
+	throw(input);
+}
+[]
+0
+
+(1)
+"minsky"
+{
+	if (minsky_state ==0) {minsky_state=1;}
+	changecontext("minsky");
+	throw(input);
+}
+[]
+0
+
+(1)
+""
+{
+	response +=  "Many people have had great ideas about artificial intelligence and language. I enjoy reading about them from time to time.";
+	changecontext("default");
+}
+[]
+-1
+
+(1)
+""
+{
+	response+="We already discussed that issue";
+	changecontext("default");
+	throw(input);
+}
+[]
+-999
+
+(1)
+""
+{
+	response+="We already discussed that issue";
+	changecontext("default");
+	throw(input);
+}
+[]
+-999

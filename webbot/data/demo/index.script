@@ -1,0 +1,24 @@
+(1)
+""
+{
+	response +=  "Currently, we  cannot reveal too much of our technology. But if you join our mailing list, I'll be able to let you know when a demo is ready for public viewing.";
+	response += "<ACTION>url:#CONTACT_PAGE#</ACTION>";
+	changecontext("default");
+}
+[]
+
+(1)
+""
+{
+	changecontext("default");
+	throw(input);
+}
+[]
+
+(1)
+""
+{
+	changecontext("default");
+	throw(input);
+}
+[]

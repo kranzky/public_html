@@ -1,0 +1,70 @@
+BODY
+{
+	background-color: black;
+	color: #55FF55;
+	font-family: sans-serif;
+}
+A
+{
+	color: #8888FF;
+	text-decoration: none;
+	font-weight: bold;
+}
+P,H2
+{
+	color: #55FF55;
+	font-family: sans-serif;
+}
+TABLE
+{
+	background-color: #004400;
+	font-family: sans-serif;
+}
+TH,TD
+{
+	background-color: #004400;
+	font-family: sans-serif;
+	color: #55FF55;
+	vertical-align: top;
+}
+FORM
+{
+	color: black;
+}
+#NavBot
+{
+	layer-background-color: black;
+	layer-color: #55FF55;
+	background-color: black;
+	color: #55FF55;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 400px;
+	height: 100px;
+	clip: rect(0px,400px,100px,0px);
+	visibility: visible;
+	z-index: 1;
+}
+#Input
+{
+	position: absolute;
+	left: 40px;
+	top: 70px;
+	width: 300px;
+	height: 20px;
+	clip: rect(0px,300px,20px,0px);
+	visibility: visible;
+	z-index: 2;
+}
+#Output
+{
+	position: absolute;
+	left: 10px;
+	top: 10px;
+	width: 380px;
+	height: 50px;
+	clip: rect(0px,380px,50px,0px);
+	visibility: visible;
+	z-index: 2;
+}

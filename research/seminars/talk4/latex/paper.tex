@@ -1,0 +1,102 @@
+
+%%=============================================================================
+
+%%
+%%    A LaTeX document for grabbing equation images from
+%%
+%%    Jason L Hutchens
+%%
+
+%%=============================================================================
+
+\documentclass[12pt,a4paper]{article}
+
+%%=============================================================================
+
+\title{Equation Images}
+\author{Jason L. Hutchens}
+
+%%=============================================================================
+
+\begin{document}
+\bibliographystyle{plain}
+\maketitle
+
+%%=============================================================================
+
+\begin{abstract}
+\end{abstract}
+
+%%=============================================================================
+
+\section{Equations}
+
+$w_{1},\ldots,w_{x},\ldots$
+$w_{x}$ are members of a static dictionary $\Sigma$.
+
+%%
+%%
+%%
+\begin{equation}
+\label{ppm1}
+P_{k}(w_{x}) = \left\{ \begin{array}{ll}
+	\frac{1}{|\Sigma|} & \mbox{if $k=-1$} \\
+	\frac{c(w_{x})}{\sum_{w_{i} \in \Sigma}c(w_{i})} & \mbox{if k=0} \\
+	\frac{c(w_{x}|w_{x-k},\ldots,w_{x-1})}{\sum_{w_{i} \in \Sigma}c(w_{i}|w_{x-k},\ldots,w_{x-1})} & \mbox{otherwise} \\
+	\end{array}
+	\right.
+\end{equation}
+%%
+%%
+%%
+
+%%
+%%
+%%
+\begin{equation}
+\label{ppm2}
+P(w_{x}) = \sum_{k=-1}^{n} \lambda_{k}(w_{x-n}, \ldots, w_{x-1})P_{k}(w_{x})
+\end{equation}
+%%
+%%
+%%
+
+%%
+%%
+%%
+\begin{equation}
+\label{ppm3}
+\lambda_{k}(w_{x-n}, \ldots, w_{x-1})=(1-e_{k})\prod_{i=k+1}^{n}e_{i}
+\end{equation}
+%%
+%%
+%%
+
+%%
+%%
+%%
+\begin{equation}
+I(w_{x}) = -\log_{2}P(w_{x})
+\label{information}
+\end{equation}
+%%
+%%
+%%
+
+%%
+%%
+%%
+\begin{equation}
+H = -\sum_{w_{i} \in \Sigma}P(w_{i})\log_{2}P(w_{i})
+\label{entropy}
+\end{equation}
+%%
+%%
+%%
+
+%%=============================================================================
+
+\end{document}
+
+%%=============================================================================
+

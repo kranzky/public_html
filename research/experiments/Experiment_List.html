@@ -1,0 +1,219 @@
+<? Include("Verify.html"); ?>
+<? Include("Functions.html"); ?>
+<? $title = "Experiment List"; ?>
+<? Include("Header.html"); ?>
+
+<?
+	mysql_connect("localhost","hutch","wally37");
+   mysql_select_db("experiments");
+	$result=mysql_query("SELECT val FROM global WHERE name='num_predict'");
+	$num_predict=mysql_result($result, 0, "val");
+	$result=mysql_query("SELECT val FROM global WHERE name='num_segment'");
+	$num_segment=mysql_result($result, 0, "val");
+	$result=mysql_query("SELECT val FROM global WHERE name='num_smooth'");
+	$num_smooth=mysql_result($result, 0, "val");
+	$result=mysql_query("SELECT story,predict,position,smooth,segment,eligible,retired FROM user_info WHERE user=$s_user");
+	$story=mysql_result($result, 0, "story");
+	$predict=mysql_result($result, 0, "predict");
+	$smooth=mysql_result($result, 0, "smooth");
+	$segment=mysql_result($result, 0, "segment");
+	$eligible=mysql_result($result, 0, "eligible");
+	$retired=mysql_result($result, 0, "retired");
+	$position=mysql_result($result, 0, "position");
+	if($predict<$num_predict) {
+		$result=mysql_query("SELECT length FROM predict_data WHERE experiment=$predict");
+		$length=mysql_result($result, 0, "length");
+	}
+?>
+
+<H2>Welcome!</H2>
+
+<? if($s_email=="admin") { ?>
+Greetings, <A HREF="Modify.html">master</A>!  You might want to check out the
+<A HREF="Show.html">progress of the experiments</A>, oh great one!
+<? } else { ?>
+<?
+	$result=mysql_query("SELECT name FROM user_info WHERE user=$s_user");
+	$name=mysql_result($result, 0, "name");
+?>
+Welcome to the online experiments, <A HREF="Modify.html"><? echo $name; ?></A>!
+<? } ?>
+You can <A HREF="Index.html">return to the main page</A> if you need to
+re-read the rules of the experiment once more.  Also, you may find it
+helpful to peruse the
+<A HREF="FAQ.html">FAQ</A>.
+
+<H2>Latest News</H2>
+
+<DL><DT><B>
+Friday July 6, 2001
+</B></DT><DD>
+After almost exactly three years I have resurrected my online experiments
+as a proof-of-concept for Ai's Online Laboratory.
+</DD></DL>
+
+<?
+if($retired!=0) {
+	Include("Retiree.html");
+	Exit;
+}
+?>
+
+<H2>Category #1: Story Writing</H2>
+
+(please read the <A HREF="Story_Information.html">rules and information</A>
+for this experiment <I>before</I> you begin)
+<P>
+These experiments are all to do with collective consciousness.  Your task
+is to participate in writing a story with thousands of other people.  You
+write one word at a time, and you can only see a few of the previous words
+(from 1 through to 15).  There are three genre's of story, which means there
+are twenty-four individual experiments.  To qualify for the prize money, you
+must add at least one word to each of the stories.
+<P>
+<?
+	if($story<24) {
+		echo "<B>You have added at least one word to $story of the 24 stories.</B>";
+	} else {
+		echo "<B>You have added at least one word to each of the 24 stories!</B>";
+	}
+?>
+<P>
+In the list below, the number shown in square brackets indicates the number
+of words you have added to that particular story.  If the "Add Word" isn't
+a hyperlink,
+it means that you can't currently add anything to that story, because your
+previously added word is still visible.
+<P>
+<CENTER>
+<TABLE BORDER=1 CELLPADDING=4 CELLSPACING=0>
+
+<TR>
+<TD></TD>
+<TD ALIGN="MIDDLE"><B>Murder</B></TD>
+<TD ALIGN="MIDDLE"><B>Romance</B></TD>
+<TD ALIGN="MIDDLE"><B>Freeform</B></TD>
+</TR>
+<?
+$genre[]="Murder";
+$genre[]="Romance";
+$genre[]="Freeform";
+$order[]="1";
+$order[]="2";
+$order[]="3";
+$order[]="4";
+$order[]="5";
+$order[]="7";
+$order[]="10";
+$order[]="15";
+$i=0;
+while($i<Count($order)) {
+	echo "<TR>";
+	echo "<TD><B>Order $order[$i]</B></TD>";
+	$j=0;
+	while($j<Count($genre)) {
+		echo "<TD>";
+		$name=Story_Name("Add Word", $genre[$j], $order[$i], $s_user);
+		Story_Link("Story.html", $name, $genre[$j], $order[$i]);
+		echo "</TD>";
+		$j++;
+	}
+	$i++;
+	echo "</TR>";
+}
+?>
+</TABLE>
+</CENTER>
+
+<H2>Category #2: Prediction</H2>
+
+(please read the <A HREF="Prediction_Information.html">rules and
+information</A> for this experiment <I>before</I> you begin)
+<P>
+These experiments are all to do with prediction.  Your task is to predict
+which symbol follows a short sequence of symbols.  The symbols may be either
+English words, or letters from the alphabet.  To qualify for the prize
+money, you must complete each of the <? echo $num_predict; ?> experiments
+in this section.
+
+<UL><LI>
+<?
+	if($predict<$num_predict) {
+		echo "<A HREF=\"Prediction.html\">Prediction experiment #".($predict+1)." of $num_predict (you've done $position of $length symbols)</A>.";
+	} else {
+		echo "<B>You have completed all $num_predict of the prediction experiments!</B>";
+	}
+?>
+</LI></UL>
+
+<H2>Category #3: Segmentation</H2>
+
+(please read the <A HREF="Segmentation_Information.html">rules and
+information</A> for this experiment <I>before</I> you begin)
+<P>
+These experiments are all to do with segmentation.  Your task is to examine
+a page of characters carefully.  The characters on the page are from some
+sort of a language, but all of the spaces between words have been removed.
+Once you have examined the page of characters, you will be asked to choose,
+from a list of possibilities, the valid "words" in the language.
+To qualify for the prize money, you must complete each of the
+<? echo $num_segment; ?> experiments in this section.
+
+<UL><LI>
+<?
+	if($segment<$num_segment) {
+		echo "<A HREF=\"Segmentation.html\">Try the next segmentation experiment (#".($segment+1)." of $num_segment)</A>.";
+	} else {
+		echo "<B>You have completed all $num_segment of the segmentation experiments!</B>";
+	}
+?>
+</LI></UL>
+
+<H2>Category #4: Smoothing</H2>
+
+(please read the <A HREF="Smoothing_Information.html">rules and
+information</A> for this experiment <I>before</I> you begin)
+<P>
+These experiments are all to do with smoothing.  Your task is to guess which
+word should appear in a sentence in order to make it complete.  You will
+be presented with a sentence which has one word blanked out, and you need
+to guess what the missing word is.
+To qualify for the prize money, you must complete each of the
+<? echo $num_smooth; ?> experiments in this section.
+
+<UL><LI>
+<?
+	if($smooth<$num_smooth) {
+		echo "<A HREF=\"Smoothing.html\">Try the next smoothing experiment (#".($smooth+1)." of $num_smooth)</A>.";
+	} else {
+		echo "<B>You have completed all $num_smooth of the smoothing experiments!</B>";
+	}
+?>
+</LI></UL>
+
+<H2>Feedback</H2>
+
+Feedback and constructive comments are more than welcome!  Please take the
+time to fill out the feedback form below whenever you have a comment,
+critiscism, suggestion or whatever.  Thanks!  Please note that you
+<B>ARE NOT REQUIRED</B> to fill out this section.  Only give me feedback if
+you have something meaningfull to contribute.  You will still be eligible for
+the prize if you don't give me any feedback, ever.
+
+<P>
+<FORM METHOD=POST ACTION="Comment.html">
+<CENTER>
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=4 WIDTH="90%">
+<TR><TD BGCOLOR="EEEEBB" ALIGN="MIDDLE"><TEXTAREA NAME=message ROWS=10 COLS=40></TEXTAREA></TD></TR>
+</TABLE>
+<INPUT TYPE=submit value="Register Comment">
+</CENTER>
+</FORM>
+
+<H2>Thankyou!</H2>
+
+I'll end this page by saying a big THANK-YOU to you for participating in these
+experiments.  By doing this, you are helping me to complete my research, and
+I am extremely grateful.
+
+<? Include("Footer.html"); ?>

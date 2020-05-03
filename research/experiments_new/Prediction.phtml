@@ -1,0 +1,377 @@
+<? Include("Verify.phtml"); >
+<? Include("Functions.phtml"); >
+<? $title = "Prediction Experiment"; >
+<? Include("Header.phtml"); >
+
+<?
+	Function Increment_Position
+	(
+		Global $position, $predict, $s_user, $length, $num_predict;
+
+		$position+=1;
+		$result=msql("hutch", "UPDATE user_info SET position=$position WHERE user=$s_user");
+		if($position==$length);
+			$result=msql("hutch", "SELECT eligible,predict FROM user_info WHERE user = $s_user");
+			$predict=msql_result($result, 0, "predict");
+			$eligible=msql_result($result, 0, "eligible");
+			$predict+=1;
+			if($predict==$num_predict);
+				$eligible+=1;
+				$result=msql("hutch", "UPDATE user_info SET eligible=$eligible WHERE user=$s_user");
+			endif;
+			$result=msql("hutch", "UPDATE user_info SET predict=$predict, position=0 WHERE user=$s_user");
+		endif;
+	);
+>
+
+<?
+	msql_connect("localhost");
+
+	if($guess==""); $guess=$guess2; endif;
+
+	$result=msql("hutch", "SELECT predict,position FROM user_info WHERE user = $s_user");
+	$predict=msql_result($result, 0, "predict");
+	$position=msql_result($result, 0, "position");
+
+	if($surprise!="");
+		$surprise=intval($surprise);
+		$result=msql("hutch", "UPDATE predict SET surprise=$surprise WHERE user=$s_user AND experiment=$lastexp AND number=$lastpos");
+	endif;
+
+	/*
+	 *		Get the number of experiments
+	 */
+	$result=msql("hutch", "SELECT val FROM global WHERE name='num_predict'");
+	$num_predict=msql_result($result, 0, "val");
+	if($predict>=$num_predict);
+		if($surprise!="");
+			echo "<H2>Prediction experiments completed</H2>";
+			echo "You have completed all of the prediction experiments.  ";
+			echo "Thank-you very much!";
+			Include("Footer.phtml");
+			Exit;
+		else;
+			Error("There are only $num_predict experiment(s)", "");
+		endif;
+	endif;
+
+	/*
+	 *		Get the number of words in the experiment
+	 */
+	$result=msql("hutch", "SELECT length,start,dictionary,alphabet FROM predict_data WHERE experiment=$predict");
+	$num = msql_NumRows($result);
+	if($num!=1);
+		Error("Prediction experiment $predict may not exist", "");
+	endif;
+	$length=msql_result($result, 0, "length");
+	$dictionary=strtoupper(msql_result($result, 0, "dictionary"));
+	$alphabet=msql_result($result, 0, "alphabet");
+	$start=msql_result($result, 0, "start");
+
+	if($alphabet==1);
+		$dictionary="ABCDEFGHIJKLMNOPQRSTUVWXYZ_";
+	endif;
+
+	/*
+	 *		Get the current position in the experiment
+	 */
+	if($position>=$length);
+		Error("User has already completed this experiment", "");
+	endif;
+
+	/*
+	 *		Construct the context string
+	 */
+	$string=$start;
+	if((strlen($string)>0)&&($alphabet==0));
+		$string+=" ";
+	endif;
+	$i=0;
+	while($i<$position);
+		$result=msql("hutch", "SELECT word FROM predict_data_info WHERE experiment=$predict AND number=$i");
+		$word=msql_result($result, 0, "word");
+		$string+=$word;
+		if(($i<$position-1)&&(($alphabet==0)||($word=="_"))); $string+=" "; endif;
+		$i+=1;
+	endwhile;
+
+	/*
+	 *		If they've submitted a guess clean it up and make sure it's not null
+	 */
+	if(($guess!="")&&($alphabet==0));
+
+		$guess=Clean_Word($guess);
+		if($guess=="");
+			echo "<H2>Empty Word</H2>";
+			echo "The word you entered for your guess was empty.  Please ";
+			echo "try again.";
+		else;
+			$guess=strtoupper($guess);
+			$guess=Filter_Word($guess);
+			if($guess=="");
+				echo "<H2>Multiple Word</H2>";
+				echo "You entered more than one word.  Please try again.";
+			endif;
+		endif;
+
+	endif;	
+
+	/*
+	 *		If we're on the letter level, make sure it's valid
+	 */
+	if(($guess!="")&&($alphabet==1));
+		$guess=strtoupper($guess);
+		if(strlen($guess)!=1);
+			echo "<H2>Word is too long</H2>";
+			echo "In this experiment, use characters only.";
+			$guess="";
+		else;
+			$a=substr($guess, 0, 1);
+			if(strchr($dictionary, $a)=="");
+				echo "<H2>Word is not in the dictionary</H2>";
+				$guess="";
+			endif;
+		endif;
+	endif;
+
+	/*
+	 *		If we've got our own dictionary, make sure its valid
+	 */
+	if(($guess!="")&&($alphabet==2));
+		$guess=strtoupper($guess);
+		if(strchr($dictionary, $guess)=="");
+>
+<H2>Invalid symbol</H2>
+In this experiment, you may only enter one of these symbols:
+<B><? echo $dictionary; ></B>.  Please try again.
+<?
+		$guess="";
+		endif;
+	endif;
+
+	/*
+	 *		If it's not empty, see whether they've guessed it before.
+	 */
+	if($guess!="");
+
+		$result=msql("hutch", "SELECT guess FROM predict_info WHERE user=$s_user AND experiment=$predict AND number=$position AND word='$guess'");
+		$num=msql_numrows($result);
+		if($num!=0);
+			echo "<H2>Same Guess</H2>";
+			echo "You have already guessed that.  Please try again.";
+			$guess="";
+		endif;
+
+	endif;	
+
+	/*
+	 *		Find out how many guesses they've had
+	 */
+	$result=msql("hutch", "SELECT guesses FROM predict WHERE user=$s_user AND experiment=$predict AND number=$position");
+	$num=msql_numrows($result);
+	if($num==0);
+		$result=msql("hutch", "INSERT INTO predict VALUES ($s_user, $predict, $position, 0, 0, 0)");
+		$guesses=0;
+	else;
+		$guesses=msql_result($result, 0, "guesses");
+	endif;
+
+	/*
+	 *		If they haven't, find out the number of guesses they've had,
+	 *		insert their guess, and see whether it was correct
+	 */
+	if($guess!="");
+		$result=msql("hutch", "INSERT INTO predict_info VALUES ($s_user, $predict, $position, $guesses, '$guess')");
+		$guesses+=1;
+		$result=msql("hutch", "UPDATE predict SET guesses=$guesses WHERE user=$s_user AND experiment=$predict AND number=$position");
+
+		$result=msql("hutch", "SELECT word FROM predict_data_info WHERE experiment=$predict AND number=$position");
+		$word=msql_result($result, 0, "word");
+		$original=$word;
+		$word=Clean_Word($word);
+		$word=strtoupper($word);
+		if($alphabet==0);
+			$word=Filter_Word($word);
+		endif;
+		if($guess==$word);
+			echo "<H2>You guessed correctly!</H2>";
+			echo "Well done, you guessed correctly in only ";
+			echo "$guesses attempt(s)!";
+
+			Increment_Position();
+
+			if($position==$length);
+				echo "<H2>Experiment Finished!</H2>";
+				echo "You have completed this prediction experiment.  Thank-you ";
+				echo "very much for taking the time to do so.  To continue with ";
+				echo "the experiments, please return to the ";
+				echo "<A HREF=\"Experiment_List.phtml\">experiment list</A>.";
+>
+<H2>Feedback</H2>
+
+I would appreciate it if you took the time to comment on this experiment.
+In particular, I would like to know the following:
+<UL>
+<LI>What do you think of your performance?</LI>
+<LI>How did you make the guesses?  What was going on in your mind?</LI>
+<LI>How could this experiment be improved?</LI>
+</UL>
+Feedback of any kind is valued.  Comments, critiscisms and suggestions on
+how this experiment may be improved are welcome.  Please note that you
+<B>ARE NOT REQUIRED</B> to fill out this section.  Only give me feedback if
+you have something meaningfull to contribute.  You will still be eligible for
+the prize if you don't give me any feedback, ever.
+<FORM METHOD=POST ACTION="Comment.phtml">
+<CENTER><TABLE BORDER=0 CELLSPACING=0 CELLPADDING=4 WIDTH="90%"><TR><TD BGCOLOR="EEEEBB" ALIGN="MIDDLE"><TEXTAREA NAME=message ROWS=10 COLS=40></TEXTAREA></TD></TR></TABLE><INPUT TYPE=submit value="Register Comment">
+<INPUT TYPE=hidden NAME=e_title VALUE="Feedback for Prediction Experiment <? echo $predict; >">
+</CENTER>
+</FORM>
+<?
+				Include("Footer.phtml");
+				Exit;
+			endif;
+
+			if($alphabet==0);
+				$string+=" "+$original;
+			else;
+				$string+=$original;
+			endif;
+			$guesses=0;
+		else;
+			echo "<H2>No, that's not it...</H2>";
+			echo "Your guess is not correct.  Please try again.";
+		endif;
+
+	endif;
+
+	if(($giveup=="Y")&&($guesses>=10)&&($alphabet==0));
+		echo "<H2>You gave up!</H2><P>";
+		$lastexp=$predict;
+		$lastpos=$position;
+		$result=msql("hutch", "UPDATE predict SET giveup=1 WHERE user=$s_user AND experiment=$predict AND number=$position");
+		$result=msql("hutch", "SELECT word FROM predict_data_info WHERE experiment=$predict AND number=$position");
+		$word=msql_result($result, 0, "word");
+		echo "The word was \"<B>$word</B>\"!<P>";
+		echo "The sequence so far reads <I>$string</I> <B>$word</B> ";
+		echo "Make a selection from the menu below which best describes your ";
+		echo "surprise at finding this out:";
+		Increment_Position();
+>
+<P>
+<CENTER>
+<TABLE WIDTH="90%" CELLPADDING=0 CELLSPACING=0>
+<TR><TD>
+<FORM METHOD=POST ACTION="Prediction.phtml">
+<SELECT NAME=surprise>
+<OPTION VALUE="1">I'm not surprised at all</OPTION>
+<OPTION VALUE="2">I should have guessed it sooner</OPTION>
+<OPTION VALUE="3">It's a difficult word to guess</OPTION>
+<OPTION VALUE="4">That word was quite unexpected</OPTION>
+<OPTION VALUE="5">I wouldn't have guessed it in a million years</OPTION>
+</SELECT>
+<INPUT TYPE=hidden NAME=lastexp VALUE="<? echo $lastexp; >">
+<INPUT TYPE=hidden NAME=lastpos VALUE="<? echo $lastpos; >">
+<INPUT TYPE=submit VALUE="Submit">
+</FORM>
+</TD></TR>
+</TABLE>
+</CENTER>
+<?
+		Include("Footer.phtml");
+		Exit;
+	endif;
+
+	/*
+	 *		Finally, we're ready to ask for the guess!
+	 */
+>
+
+<H2>Experiment <? echo 1+$predict; > (<? echo 1+$position; > of <? echo $length; >)</H2>
+
+Here is the sequence so far:
+
+<P>
+<CENTER>
+<TABLE WIDTH="90%" CELLPADDING=0 CELLSPACING=0>
+<TR><TD>
+<FORM METHOD=POST ACTION="Prediction.phtml">
+<BIG>... <? echo $string; ></BIG>
+<?
+if($alphabet!=0);
+	echo "<INPUT SIZE=1 NAME=guess>";
+else;
+	echo "<INPUT SIZE=15 NAME=guess>";
+endif;
+>
+</FORM>
+</TD></TR>
+</TABLE>
+</CENTER>
+
+After reading this sequence, please enter your guess at the next 
+<?
+if($alphabet!=0);
+	echo "letter";
+else;
+	echo "word";
+endif;
+>
+into
+the text box above.
+<?
+if($alphabet!=0);
+	echo "<P>Alternatively, you may make a selection from the menu shown below, which only ";
+	echo "shows the valid guesses you may make.  If you make a selection ";
+	echo "from this menu, please press the \"Submit\" button to register ";
+	echo "your guess.";
+	$i=0;
+	echo "<FORM METHOD=POST ACTION=\"Prediction.phtml\"><SELECT NAME=guess2>";
+	while($i<strlen($dictionary));
+		$a=substr($dictionary, $i, 1);
+		$result=msql("hutch", "SELECT word FROM predict_info WHERE user=$s_user AND experiment=$predict AND number=$position AND word='$a'");
+		if(msql_numrows($result)==0);
+		echo "<OPTION VALUE='$a'>$a</OPTION>";
+		endif;
+		$i+=1;
+	endwhile;
+	echo "</SELECT>";
+	echo "<INPUT TYPE=submit value=\"Submit\"></FORM>";
+endif;
+if($alphabet==2);
+	echo "You may enter any of these symbols: <B>$dictionary</B>.";
+elseif($alphabet==1);
+	echo "You may enter the alphabetic letters A-Z, along with the underscore ";
+	echo "character '_', which is used to represent a space.";
+else;
+	echo "Once you have had at least ten guesses, you will be given the option ";
+	echo "of giving up, and finding out what the word actually is.";
+endif;
+>
+
+<?
+	if(($guesses>=10)&&($alphabet==0));
+>
+<FORM METHOD=POST ACTION="Prediction.phtml">
+<INPUT TYPE=hidden NAME=giveup VALUE="Y">
+<INPUT TYPE=submit VALUE="I give up!  Tell me the symbol!">
+</FORM>
+<?
+	endif;
+>
+
+<?
+	if($guesses>0);
+		echo "For your reference, these are the guesses you've had so far:";
+		echo "<OL>";
+		$i=0;
+		$result=msql("hutch", "SELECT word FROM predict_info WHERE user=$s_user AND experiment=$predict AND number=$position");
+		while($i<$guesses);
+			$word=msql_result($result, $i, "word");
+			echo "<LI>$word</LI>";
+			$i+=1;
+		endwhile;
+		echo "</OL>";
+	endif;
+>
+
+<? Include("Footer.phtml"); >

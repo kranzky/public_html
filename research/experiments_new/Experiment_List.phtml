@@ -1,0 +1,247 @@
+<? Include("Verify.phtml"); >
+<? Include("Functions.phtml"); >
+<? $title = "Experiment List"; >
+<? Include("Header.phtml"); >
+
+<?
+	msql_connect("localhost");
+	$result=msql("hutch", "SELECT val FROM global WHERE name='num_predict'");
+	$num_predict=msql_result($result, 0, "val");
+	$result=msql("hutch", "SELECT val FROM global WHERE name='num_segment'");
+	$num_segment=msql_result($result, 0, "val");
+	$result=msql("hutch", "SELECT val FROM global WHERE name='num_smooth'");
+	$num_smooth=msql_result($result, 0, "val");
+	$result=msql("hutch", "SELECT story,predict,position,smooth,segment,eligible,retired FROM user_info WHERE user=$s_user");
+	$story=msql_result($result, 0, "story");
+	$predict=msql_result($result, 0, "predict");
+	$smooth=msql_result($result, 0, "smooth");
+	$segment=msql_result($result, 0, "segment");
+	$eligible=msql_result($result, 0, "eligible");
+	$retired=msql_result($result, 0, "retired");
+	$position=msql_result($result, 0, "position");
+	if($predict<$num_predict);
+		$result=msql("hutch", "SELECT length FROM predict_data WHERE experiment=$predict");
+		$length=msql_result($result, 0, "length");
+	endif;
+>
+
+<H2>Welcome!</H2>
+
+<? if(($s_email=="hutch")||($s_email=="hutch1")||($s_email=="hutch2"));>
+Greetings, <A HREF="Modify.phtml">master</A>!  You might want to check out the
+<A HREF="Show.phtml">progress of the experiments</A>, oh great one!
+<? else; >
+<?
+	$result=msql("hutch", "SELECT name FROM user_info WHERE user=$s_user");
+	$name=msql_result($result, 0, "name");
+>
+Welcome to the online experiments, <A HREF="Modify.phtml"><? echo $name; ></A>!
+<? endif; >
+You can <A HREF="Index.phtml">return to the main page</A> if you need to
+re-read the rules of the experiment once more.  Also, you may find it
+helpful to peruse the
+<A HREF="FAQ.phtml">FAQ</A>.
+
+<P>
+<?
+	if($retired==0);
+	if($eligible==4);
+		echo "<B>YOU ARE ELIGIBLE FOR THE \$100 PRIZE!!!</B>";
+		echo "<P>You may now <A HREF=\"Retire.phtml\">retire from the experiment</A>, if you so wish.  If you retire, you will NOT be able to add any more words to the stories, but you WILL be able to view all of the stories in their entirety!  As a special thank-you, you will also get access to a special story for retirees only!";
+	else;
+		echo "<B>You are NOT yet eligible for the $100 prize.</B><P>You still have ";
+		echo "to complete " + (4-$eligible) + " experiment(s).  Once you do this, you will become eligible for the prize, and you will be given the opportunity to retire from the experiments.  Retiring gives you access to a special story, and allows you to view the 24 experimental stories!";
+	endif;
+	endif;
+>
+
+<H2>Latest News</H2>
+
+News about the most recent happenings in the experiment can be found below.
+To read more ancient news, please refer to the
+<A HREF="Archive.phtml">news archive</A>.
+
+<DL><DT><B>
+Wednesday April 14, 1999
+</B></DT><DD>
+Firstly, the Experiment prize has not yet been awarded, due to time
+constraints on my behalf.  I expect to award this prize by the weekend.
+Sorry for the delay, folks!
+<P>
+Secondly, I have currently been developing a website for a local ISP here in
+Perth.  They offer free web pages, and make it easy to put forums, downloads,
+links and content on your free page.  I'd really appreciate some testers, so,
+if you'd like to do me a favour, <A HREF="http://www.netship.net/">head on
+over to NetShip</A>.  Your feedback would be deeply appreciated.  Thanks!
+<P>
+Thirdly, Ill be heading overseas soon... to Hamburg, Dublin and New York
+City.  If you live in any of these places, and you'd like to meet up,
+why not check out
+<A HREF="http://ciips.ee.uwa.edu.au/~hutch/travel/">my itinerary</A>,
+and then email me to let me know where and when to meet you?
+</DD></DL>
+
+<?
+if($retired!=0);
+	Include("Retiree.phtml");
+	Exit;
+endif;
+>
+
+<H2>Category #1: Story Writing</H2>
+
+(please read the <A HREF="Story_Information.phtml">rules and information</A>
+for this experiment <I>before</I> you begin)
+<P>
+These experiments are all to do with collective consciousness.  Your task
+is to participate in writing a story with thousands of other people.  You
+write one word at a time, and you can only see a few of the previous words
+(from 1 through to 15).  There are three genre's of story, which means there
+are twenty-four individual experiments.  To qualify for the prize money, you
+must add at least one word to each of the stories.
+<P>
+<?
+	if($story<24);
+		echo "<B>You have added at least one word to $story of the 24 stories.</B>";
+	else;
+		echo "<B>You have added at least one word to each of the 24 stories!</B>";
+	endif;
+>
+<P>
+In the list below, the number shown in square brackets indicates the number
+of words you have added to that particular story.  If the "Add Word" isn't
+a hyperlink,
+it means that you can't currently add anything to that story, because your
+previously added word is still visible.
+<P>
+<CENTER>
+<TABLE BORDER=1 CELLPADDING=4 CELLSPACING=0>
+
+<TR>
+<TD></TD>
+<TD ALIGN="MIDDLE"><B>Murder</B></TD>
+<TD ALIGN="MIDDLE"><B>Romance</B></TD>
+<TD ALIGN="MIDDLE"><B>Freeform</B></TD>
+</TR>
+<?
+$genre[]="Murder";
+$genre[]="Romance";
+$genre[]="Freeform";
+$order[]="1";
+$order[]="2";
+$order[]="3";
+$order[]="4";
+$order[]="5";
+$order[]="7";
+$order[]="10";
+$order[]="15";
+$i=0;
+while($i<Count($order));
+	echo "<TR>";
+	echo "<TD><B>Order $order[$i]</B></TD>";
+	$j=0;
+	while($j<Count($genre));
+		echo "<TD>";
+		$name=Story_Name("Add Word", $genre[$j], $order[$i], $s_user);
+		Story_Link("Story.phtml", $name, $genre[$j], $order[$i]);
+		echo "</TD>";
+		$j++;
+	endwhile;
+	$i++;
+	echo "</TR>";
+endwhile;
+>
+</TABLE>
+</CENTER>
+
+<H2>Category #2: Prediction</H2>
+
+(please read the <A HREF="Prediction_Information.phtml">rules and
+information</A> for this experiment <I>before</I> you begin)
+<P>
+These experiments are all to do with prediction.  Your task is to predict
+which symbol follows a short sequence of symbols.  The symbols may be either
+English words, or letters from the alphabet.  To qualify for the prize
+money, you must complete each of the <? echo $num_predict; > experiments
+in this section.
+
+<UL><LI>
+<?
+	if($predict<$num_predict);
+		echo "<A HREF=\"Prediction.phtml\">Prediction experiment #"+($predict+1)+" of $num_predict (you've done $position of $length symbols)</A>.";
+	else;
+		echo "<B>You have completed all $num_predict of the prediction experiments!</B>";
+	endif;
+>
+</LI></UL>
+
+<H2>Category #3: Segmentation</H2>
+
+(please read the <A HREF="Segmentation_Information.phtml">rules and
+information</A> for this experiment <I>before</I> you begin)
+<P>
+These experiments are all to do with segmentation.  Your task is to examine
+a page of characters carefully.  The characters on the page are from some
+sort of a language, but all of the spaces between words have been removed.
+Once you have examined the page of characters, you will be asked to choose,
+from a list of possibilities, the valid "words" in the language.
+To qualify for the prize money, you must complete each of the
+<? echo $num_segment; > experiments in this section.
+
+<UL><LI>
+<?
+	if($segment<$num_segment);
+		echo "<A HREF=\"Segmentation.phtml\">Try the next segmentation experiment (#"+($segment+1)+" of $num_segment)</A>.";
+	else;
+		echo "<B>You have completed all $num_segment of the segmentation experiments!</B>";
+	endif;
+>
+</LI></UL>
+
+<H2>Category #4: Smoothing</H2>
+
+(please read the <A HREF="Smoothing_Information.phtml">rules and
+information</A> for this experiment <I>before</I> you begin)
+<P>
+These experiments are all to do with smoothing.  Your task is to guess which
+word should appear in a sentence in order to make it complete.  You will
+be presented with a sentence which has one word blanked out, and you need
+to guess what the missing word is.
+To qualify for the prize money, you must complete each of the
+<? echo $num_smooth; > experiments in this section.
+
+<UL><LI>
+<?
+	if($smooth<$num_smooth);
+		echo "<A HREF=\"Smoothing.phtml\">Try the next smoothing experiment (#"+($smooth+1)+" of $num_smooth)</A>.";
+	else;
+		echo "<B>You have completed all $num_smooth of the smoothing experiments!</B>";
+	endif;
+>
+</LI></UL>
+
+<H2>Feedback</H2>
+
+Feedback and constructive comments are more than welcome!  Please take the
+time to fill out the feedback form below whenever you have a comment,
+critiscism, suggestion or whatever.  Thanks!  Please note that you
+<B>ARE NOT REQUIRED</B> to fill out this section.  Only give me feedback if
+you have something meaningfull to contribute.  You will still be eligible for
+the prize if you don't give me any feedback, ever.
+
+<FORM METHOD=POST ACTION="Comment.phtml">
+<CENTER>
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=4 WIDTH="90%">
+<TR><TD BGCOLOR="EEEEBB" ALIGN="MIDDLE"><TEXTAREA NAME=message ROWS=10 COLS=40></TEXTAREA></TD></TR>
+</TABLE>
+<INPUT TYPE=submit value="Register Comment">
+</CENTER>
+</FORM>
+
+<H2>Thankyou!</H2>
+
+I'll end this page by saying a big THANK-YOU to you for participating in these
+experiments.  By doing this, you are helping me to complete my research, and
+I am extremely grateful.
+
+<? Include("Footer.phtml"); >

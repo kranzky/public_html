@@ -1,0 +1,52 @@
+<? Include("Verify.phtml"); >
+<? Include("Maintainer.phtml"); >
+<? Include("Functions.phtml"); >
+<? $title = "Story Experiment"; >
+<? Include("Header.phtml"); >
+
+<H2>Show Story</H2>
+
+This is the story thus far for the <? echo $genre; > genre of order
+<? echo $order;>.  Click on a word to see which user added it.
+<? if($current_user!=""); >
+The non-hyperlink words were added by user <A HREF="Show_User.phtml?user=<? echo $current_user; >"><? echo $current_user; ></A>.
+<? endif; >
+
+<P>
+<CENTER>
+<TABLE WIDTH="90%" CELLPADDING=0 CELLSPACING=0>
+<TR><TD>
+<BIG>
+<?
+	msql_connect("localhost");
+   $result=msql("hutch", "SELECT story,length FROM story WHERE genre='$genre' AND context=$order");
+   $num = msql_NumRows($result);
+	if($num!=1);
+		Error("No $genre genre of order $order exists", "");
+	endif;
+	$story=msql_result($result, 0, "story");
+	$length= msql_result($result, 0, "length");
+
+	$i=0;
+	while($i<$length);
+   	$result=msql("hutch", "SELECT word,user FROM story_info WHERE number=$i AND story=$story");
+   	$num = msql_NumRows($result);
+		if($num!=1);
+			Error("Unable to select a word for the story context (length = $length, story=$story, word=$i, matches=$num", "");
+		endif;
+		$word=msql_result($result,0,"word");
+		$user=msql_result($result,0,"user");
+		if($user!=$current_user);
+			echo "<A HREF=\"Show_User.phtml?user=$user\">$word</A>";
+		else;
+			echo $word;
+		endif;
+		$i+=1;
+	endwhile;
+>
+</BIG>
+</TD></TR>
+</TABLE>
+</CENTER>
+
+<? Include("Footer.phtml"); >

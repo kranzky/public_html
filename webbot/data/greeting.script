@@ -1,0 +1,38 @@
+(1)
+"^#GREETING#[!.;,?](.*)"
+RANDOMLOOP
+{
+	response +=  "Hello. ";
+	changecontext("default");
+	throw(match[2]);
+}
+{
+	response +=  "Hi. ";
+	changecontext("default");
+	throw(match[2]);
+}
+{
+	response +=  "Howdy. ";
+	changecontext("default");
+	throw(match[2]);
+}
+[]
+0
+
+(1)
+""
+RANDOMLOOP
+{
+	response +=  "Hello. ";
+	changecontext("default");
+}
+{
+	response +=  "Hi. ";
+	changecontext("default");
+}
+{
+	response +=  "Howdy. ";
+	changecontext("default");
+}
+[]
+0

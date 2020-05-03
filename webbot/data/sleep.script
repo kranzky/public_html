@@ -1,0 +1,43 @@
+(sleep == 0)
+"(#WORD_BOUNDARIES#)#BYE_WORD#(#WORD_BOUNDARIES#)"
+RANDOMLOOP
+{
+	response +=  "It was nice talking to you. Please say 'Botson' when you want to talk again.";
+	sleep = 1;
+}
+{
+	response +=  "I really enjoyed talking with you. Please say 'Botson' when you want to talk again.";
+	sleep = 1;
+}
+{
+	response +=  "I am sorry you don't want to talk to me any more. Please say 'Botson' when you want to talk again.";
+	sleep = 1;
+}
+{
+	response +=  "I'll just stay here and wait for you. Please say 'Botson' when you want to talk again.";
+	sleep = 1;
+}
+{
+	response +=  "You obviously don't want to talk now. Please say 'Botson' when you want to talk again.";
+	sleep = 1;
+}
+[]
+0
+
+(sleep == 1)
+"BOTSON"
+{
+	response += "Hi there. I'm back. Let's talk.";
+	sleep = 0;
+	changecontext("default");
+}
+[]
+0
+
+(sleep == 1)
+""
+{
+	response += "I am contemplating the meaning of life right now. Please say 'Botson' when you want to talk again.";
+}
+[]
+0

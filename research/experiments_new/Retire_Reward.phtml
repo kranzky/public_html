@@ -1,0 +1,178 @@
+<? Include("Verify.phtml"); >
+<? Include("Retired.phtml"); >
+<? Include("Functions.phtml"); >
+<? $title = "Super Special Reward Story"; >
+<? Include("Header.phtml"); >
+
+<?
+	msql_connect("localhost");
+	$order=20;
+   $result=msql("hutch", "SELECT story,length FROM story WHERE genre='Reward' AND context=20");
+	$string = "";
+	$first = "";
+	$last = "";
+	$story=msql_result($result, 0, "story");
+
+	if((!IsSet($verify_word))&&(!IsSet($check_word)));
+		$position=msql_result($result, 0, "length");
+		$result=msql("hutch", "UPDATE user_info SET number=$position WHERE user=$s_user");
+	else;
+		$result=msql("hutch", "SELECT number FROM user_info WHERE user=$s_user");
+		$position=msql_result($result, 0, "number");
+	endif;
+
+	$i=$position-$order;
+	if($i<0); $i=0; endif;
+	while($i<$position);
+   	$result=msql("hutch", "SELECT word,user FROM story_info WHERE number=$i AND story=$story");
+   	$num = msql_NumRows($result);
+		if($num!=1);
+			Error("Unable to select a word for the story context (length = $length, story=$story, word=$i, matches=$num", "");
+		endif;
+		$word=msql_result($result,0,"word");
+		$user=msql_result($result,0,"user");
+		if(($user==$s_user)&&($i==$position-1));
+			Error("", "error/reward1.phtml");
+		endif;
+		if($first=="");
+			$first=$word; 
+		else;
+			$string+=$word;
+		endif;
+		$last=$word;
+		$i+=1;
+	endwhile;
+
+if(IsSet($check_word));
+   if(strlen($check_word)>63);
+      Error("", "error/story4.phtml");
+   endif;
+   msql_connect("localhost");
+   $result=msql("hutch", "SELECT number FROM story_info WHERE story=$story AND number=$position");
+   $num=msql_NumRows($result);
+   if($num!=0);
+      Error("", "error/story2.phtml");
+   endif;
+   $result=msql("hutch", "SELECT length FROM story WHERE story=$story");
+   $length=msql_result($result, 0, "length");
+   if($length!=$position);
+      Error("", "error/story2.phtml");
+   endif;
+   $length+=1;
+   $result=msql("hutch", "UPDATE story SET length=$length WHERE story=$story");   $result=msql("hutch", "INSERT INTO story_info VALUES ($story, $s_user, $position, '$check_word')");
+   $result=msql("hutch", "SELECT number FROM story_info WHERE story=$story AND user=$s_user");
+   $num=msql_NumRows($result);
+   if($num==1);
+      $result=msql("hutch", "SELECT story FROM user_info WHERE user=$s_user");
+      $snum=msql_result($result, 0, "story");
+      $snum+=1;
+      $result=msql("hutch", "UPDATE user_info SET story=$snum WHERE user=$s_user");
+      if($snum==24);
+         $result=msql("hutch", "SELECT eligible FROM user_info WHERE user=$s_user");
+         $eligible=msql_result($result, 0, "eligible");
+         $eligible+=1;
+         $result=msql("hutch", "UPDATE user_info SET eligible=$eligible WHERE user=$s_user");
+      endif;
+   endif;
+>
+<H2>Word Added</H2>
+ 
+You have succesfully added the word to the story.  Thank-you!
+Please return to the
+<A HREF="Experiment_List.phtml">experiment list</A> to have a look at the
+experimental results.
+<?
+	Include("Footer.phtml");
+	Exit;
+endif;
+
+if(IsSet($verify_word));
+
+   $verify_word=Clean_Word($verify_word);
+   if($verify_word=="");
+      Error("", "error/story3.phtml");
+   endif;
+   $verify_word=Verify_Word($verify_word);
+   if($verify_word=="");
+      Error("", "error/story5.phtml");
+   endif;
+
+   if(strlen($last)!=0);
+      $a=substr($last, strlen($last)-1, 1);
+      $b=substr($verify_word, 0, 1);
+      if((strchr("ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789",$a)!="")&&(strchr("ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789",$b)!=""));
+         $verify_word=" "+$verify_word;
+      endif;
+		if((strchr(",-;:",$a)!=""));
+         $verify_word=" "+$verify_word;
+		endif;
+		if((strchr(".!?",$a)!=""));
+         $verify_word="  "+$verify_word;
+		endif;
+   endif;
+>
+You have chosen to add the word "<I><? echo $verify_word; ></I>" to the
+super special reward story.  This means that the next retiree
+will be presented with the following sequence of words:
+<?
+if($position<$order);
+	$string=$first+$string;
+endif;
+>
+ 
+<P>
+<CENTER>
+<TABLE WIDTH="90%" CELLPADDING=0 CELLSPACING=0>
+<TR><TD>
+<BIG>... <? echo $string+$verify_word; ></BIG>
+</TD></TR>
+</TABLE>
+</CENTER>
+ 
+<P>
+If you
+are happy with this, please click on "Accept Addition".  Otherwise,
+navigate back to the previous page and make the necessary changes.
+ 
+<CENTER>
+<FORM METHOD=POST ACTION="Retire_Reward.phtml">
+<INPUT TYPE=hidden NAME=check_word VALUE="<? echo $verify_word; >">
+<INPUT TYPE=submit value="Accept Addition">
+</FORM>
+</CENTER>
+<?
+	Include("Footer.phtml");
+	Exit;
+endif;
+>
+
+<H2>Super Special Reward Story</H2>
+
+Here are the most recent <B><? echo $order; ></B> word(s) in the story:
+<?
+if($position<$order);
+	echo "(please note that you can only see the previous "+$position;
+	echo " at the moment because the story is just beginning):";
+endif;
+>
+
+<P>
+<CENTER>
+<TABLE WIDTH="90%" CELLPADDING=0 CELLSPACING=0>
+<TR><TD>
+<FORM METHOD=POST ACTION="Retire_Reward.phtml">
+<BIG>... <? echo $first+$string; ></BIG>
+<INPUT SIZE=15 NAME=verify_word>
+</FORM>
+</TD></TR>
+</TABLE>
+</CENTER>
+
+<B>Once you have entered your word, press the "Enter" key to submit it!</B>
+<P>
+
+After reading this sequence, please enter your word, along with punctuation,
+into the text box above.  Enter whatever you want---there aren't any rules
+for this story whatsoever!
+
+<? Include("Footer.phtml"); >

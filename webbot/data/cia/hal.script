@@ -1,0 +1,88 @@
+(hal_state==0)
+""
+{
+	response+="For now, there is only one non-human employee in our company. ";
+	response+="His name is HALone and he is 18 months old.";
+	hal_state=1;
+}
+[]
+
+/*----------------------------------------------------------------------------*/
+
+(hal_state==1)
+""
+{
+	response+="HALone is being developed by our research team, headed by Jason, our Chief Scientist, and Anat, our Chief Trainer.  ";
+	hal_state=2;
+}
+[]
+
+(hal_state==1)
+"#BYE_WORD#"
+{
+	hal_state=2;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+/*----------------------------------------------------------------------------*/
+
+(hal_state==2)
+""
+{
+	response+="HALtwo is due in April and he will be 21 months old. Can you figure out how long it will take us to reach HAL 9000?";
+	hal_state=3;
+}
+[]
+
+(hal_state==2)
+"#BYE_WORD#"
+{
+	hal_state=4;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+/*----------------------------------------------------------------------------*/
+
+(hal_state==3)
+""
+{
+	response+="My own guess is ten years at most. Just wait and see. ";
+	response+="Enough said about HAL.";
+	changecontext("default");
+	hal_state=4;
+}
+[]
+
+(hal_state==3)
+"#BYE_WORD#"
+{
+	hal_state=4;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+
+(hal_state==4)
+""
+{
+	response+="\"HAL\" is merely an internal codename - a tribute to Arthur C. Clarke.";
+	hal_state=5;
+	changecontext("default");
+}
+[]
+
+/*----------------------------------------------------------------------------*/
+
+(1)
+""
+{
+	changecontext("default");
+	throw(input);
+}
+[]
+

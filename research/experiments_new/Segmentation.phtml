@@ -1,0 +1,154 @@
+<? Include("Verify.phtml"); >
+<? Include("Functions.phtml"); >
+<? $title = "Smoothing Experiment"; >
+<? Include("Header.phtml"); >
+
+<?
+	msql_connect("localhost");
+
+	$result=msql("hutch", "SELECT segment FROM user_info WHERE user = $s_user");
+	$segment=msql_result($result, 0, "segment");
+
+	$result=msql("hutch", "SELECT val FROM global WHERE name='num_segment'");
+	$num_segment=msql_result($result, 0, "val");
+	if($segment>=$num_segment);
+		echo "<H2>Segmentation experiments completed</H2>";
+		echo "You have completed all of the segmentation experiments.  ";
+		echo "Thank-you very much!";
+		Include("Footer.phtml");
+		Exit;
+	endif;
+
+	$result=msql("hutch", "SELECT bitmap FROM segment WHERE user=$s_user AND experiment=$segment");
+	$bitmap=msql_result($result, 0, "bitmap");
+
+	if($status=="words");
+
+		$result=msql("hutch", "SELECT word FROM segment_data_info WHERE experiment=$segment");
+		$num=msql_numrows($result);
+
+		$j=0;
+		$bitmap="";
+		$k=$isword[];
+		while($j<$num);
+			if($k==$j);
+				$bitmap+="1";
+				$k=$isword[];
+			else;
+				$bitmap+="0";
+			endif;
+			$j+=1;
+		endwhile;
+
+		$result=msql("hutch", "UPDATE segment SET bitmap='$bitmap' WHERE user=$s_user AND experiment=$segment");
+		$segment+=1;
+		$result=msql("hutch", "UPDATE user_info SET segment=$segment WHERE user = $s_user");
+		if($segment==$num_segment);
+			$result=msql("hutch", "SELECT eligible FROM user_info WHERE user = $s_user");
+			$eligible=msql_result($result, 0, "eligible");
+			$eligible+=1;
+			$result=msql("hutch", "UPDATE user_info SET eligible=$eligible WHERE user=$s_user");
+			echo "<H2>All experiments completed</H2>";
+			echo "You have completed all of the segmentation experiments.  ";
+			echo "Thank-you very much for taking the time to do so!  To ";
+			echo "continue on other experiments, ";
+		else;
+			echo "<H2>Experiment completed</H2>";
+			echo "You have completed this segmentation experiment.  To continue ";
+			echo "with the other experiments, ";
+		endif;
+		echo "please return to the ";
+		echo "<A HREF=\"Experiment_List.phtml\">experiment list</A>.";
+><H2>Feedback</H2>I would appreciate it if you took the time to comment on this experiment.
+In particular, I would like to know the following:
+<UL>
+<LI>What do you think of your performance?</LI>
+<LI>How did you make the guesses?  What was going on in your mind?</LI>
+<LI>How could this experiment be improved?</LI>
+</UL> 
+Feedback of any kind is valued.  Comments, critiscisms and suggestions on
+how this experiment may be improved are welcome.  Please note that you
+<B>ARE NOT REQUIRED</B> to fill out this section.  Only give me feedback if 
+you have something meaningfull to contribute.  You will still be eligible for
+the prize if you don't give me any feedback, ever.
+<FORM METHOD=POST ACTION="Comment.phtml">
+<CENTER><TABLE BORDER=0 CELLSPACING=0 CELLPADDING=4 WIDTH="90%"><TR><TD BGCOLOR="EEEEBB" ALIGN="MIDDLE"><TEXTAREA NAME=message ROWS=10 COLS=40></TEXTAREA></TD></TR></TABLE><INPUT TYPE=submit value="Register Comment">
+<INPUT TYPE=hidden NAME=e_title VALUE="Feedback for Segmentation Experiment <? echo $segment; >">
+</CENTER>
+</FORM>
+<?
+
+	elseif($status=="guess");
+>
+<H2>Segmentation experiment <? echo 1+$segment; > of <? echo $num_segment; ></H2>
+
+Below is a list of "words".  Some of these are words in the language
+which was used to write the text you've just seen.  Some of them aren't.
+Please select you words which you think ARE in the language by checking
+the box next to each word.  Once you are confident that you've selected
+all of the words, click on the "Submit Words" box.
+<CENTER>
+<FORM METHOD=POST ACTION="Segmentation.phtml">
+<TABLE CELLSPACING=0 CELLPADDING=2>
+
+<?
+	$result=msql("hutch", "SELECT word FROM segment_data_info WHERE experiment=$segment");
+	$num=msql_numrows($result);
+	$i=0;
+	while($i<$num);
+		$word=msql_result($result, $i, "word");
+		echo "<TR><TD BGCOLOR=\"EEEEBB\"><INPUT TYPE=CHECKBOX NAME=isword[] VALUE=$i> $word</INPUT></TD></TR>";
+		$i+=1;
+	endwhile;
+>
+
+</TABLE>
+<P>
+<INPUT TYPE=submit VALUE="Submit Words">
+<INPUT TYPE=HIDDEN NAME=status VALUE="words">
+</FORM>
+</CENTER>
+<?
+	else;
+
+	$result=msql("hutch", "SELECT bitmap FROM segment WHERE user=$s_user AND experiment=$segment");
+	$num=msql_numrows($result);
+	if($num==0);
+		$result=msql("hutch", "INSERT INTO segment VALUES ($s_user, $segment, '')");
+	endif;
+	$result=msql("hutch", "SELECT corpus FROM segment_data WHERE experiment=$segment");
+	$corpus=msql_result($result, 0, "corpus");
+>
+<H2>Segmentation experiment <? echo 1+$segment; > of <? echo $num_segment; ></H2>
+Your task in this experiment is to closely examine the text shown below.
+This text comes from a language of some sort, but all of the spaces between
+words have been removed, so you can't tell where one word ends and the next
+begins.  You will be required to select which words you believe are in this
+language from a list.
+<P>
+PLEASE NOTE that, in the text fragment below, the words don't necessarily
+end at the end of each line.  Instead, a single word may be split across
+multiple lines!
+
+<P>
+<CENTER>
+<TABLE WIDTH="90%" CELLPADDING=4 CELLSPACING=0>
+<TR><TD BGCOLOR="EEEEBB" ALIGN="MIDDLE"><BIG>
+<XMP>
+<? echo $corpus; >
+</XMP>
+</BIG></TD></TR>
+</TABLE>
+<FORM METHOD=POST ACTION="Segmentation.phtml">
+<INPUT TYPE=submit VALUE="Select Words">
+<INPUT TYPE=HIDDEN NAME=status VALUE="guess">
+</FORM>
+</CENTER>
+
+When you are ready to select the words, please click on the "Select Words"
+button above.
+<?
+endif;
+>
+
+<? Include("Footer.phtml"); >

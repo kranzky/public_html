@@ -1,0 +1,30 @@
+<? Include("Verify.html"); ?>
+<? Include("Maintainer.html"); ?>
+<? Include("Functions.html"); ?>
+<? $title = "Experimental Results"; ?>
+<? Include("Header.html"); ?>
+
+<?
+	Srand(Date("s"));
+	mysql_connect("localhost","hutch","wally37");
+   mysql_select_db("experiments");
+	$result=mysql_query("SELECT user,name FROM user_info WHERE eligible=4");
+	$num = mysql_num_rows($result);
+	if($num<=0) {
+		Error("Unable to find users", "");
+	}
+
+	echo "<H2>$num Eligible Users</H2>";
+	echo "Click on the name of a user listed below to find out more:";
+	echo "<UL>";
+	$i=0;
+	while($i<$num) {
+		$user = mysql_result($result, $i, "user");
+		$name = mysql_result($result, $i, "name");
+		echo "<LI>$user. <A HREF=\"Show_User.html?user=$user\">$name</A></LI>";
+		$i+=1;
+	}
+	echo "</UL>";
+?>
+
+<? Include("Footer.html"); ?>

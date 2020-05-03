@@ -1,0 +1,80 @@
+<?
+	$cookie="Ai02";
+	if(!isset($question)) $question="#G";
+	else $question=strtr($question,"[]()|:#","       ");
+	$newuser=0;
+	if(!isset($sessionid)) $newuser=1;
+	if(!isset($sessionid)) $sessionid=0;
+	function chatserv_encode($question,$sessionid)
+	{
+		global $cookie;
+		return sprintf("%s%04d:%s\n",$cookie,$sessionid,$question);
+	}
+	function chatserv_decode($string,&$question,&$sessionid)
+	{
+		global $cookie;
+		if(strcmp(substr($string,0,4),$cookie)!=0) return 0;
+		$sessionid=intval(substr($string,4,4));
+		if($sessionid==0) return 0;
+		$question=substr($string,9);
+		return 1;
+	}
+?>
+<!DOCTYPE HTML PUBLIC "-//Netscape Comm. Corp.//DTD HTML//EN">
+<HTML>
+<HEAD>
+<TITLE>Jason Hutchens: chatbot</TITLE>
+<LINK REL="StyleSheet" HREF="style/ai.css" TYPE="text/css" MEDIA="screen">
+<LINK REV="Made" HREF="mailto:hutch@tmbg.org">
+</HEAD>
+<BODY>
+<H1><A HREF="../">Jason Hutchens</A>: chatbot</H1>
+<?
+	$fp=fsockopen("10.111.112.3",7777,&$errno,&$errstr,10);
+	if(!$fp)
+	{
+		exec("/home/hutch/bin/spawn /home/hutch/bin/brainserv &");
+		echo("<P>(spawned a new server)</P>");
+		sleep(1);
+		$fp=fsockopen("10.111.112.3",7777,&$errno,&$errstr,10);
+	}
+	if(!$fp)
+	{
+?>
+<H2>ChatBot is Asleep</H2>
+<P>Unfortunately the ChatBot server is currently unavailable, which means that
+you're unable to talk to ChatBot at the moment.  Please try again in a few
+moments.  The error given by the server was
+"<?echo "$errstr ($errno)";?>".</P>
+<?
+	}
+	else
+	{
+		$string=chatserv_encode($question,$sessionid);
+		fputs($fp,$string);
+		$string=fgets($fp,1024);
+		fclose($fp);
+		if(!chatserv_decode($string,$answer,$sessionid))
+		{
+?>
+<H2>ChatBot Response Error</H2>
+<P>Unfortunately the response given by ChatBot was not valid.  This is a serious
+error; please send an email to me which contains the following message: An
+invalid response of "<? echo "$string";?>" was sent by the ChatBot server.</P>
+<?
+		}
+		else
+		{
+?>
+<H2><? echo $answer; ?></H2>
+<FORM METHOD="Post" ACTION="Index.html">
+<INPUT SIZE="50" NAME="question">
+<INPUT TYPE="Hidden" NAME="sessionid" VALUE="<? echo $sessionid; ?>">
+<INPUT TYPE="Hidden" NAME="user" VALUE="1">
+</FORM>
+<?
+		}
+	}
+?>
+</BODY>
+</HTML>

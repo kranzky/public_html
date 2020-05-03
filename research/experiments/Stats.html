@@ -1,0 +1,29 @@
+<? Include("Verify.html"); ?>
+<? Include("Maintainer.html"); ?>
+<? Include("Functions.html"); ?>
+<? $title = "Experimental Results"; ?>
+<? Include("Header.html"); ?>
+
+<?
+	mysql_connect("localhost","hutch","wally37");
+	mysql_select_db("experiments");
+	$result=mysql_query("SELECT gender,age,nationality,english FROM user_info");
+	$num = mysql_num_rows($result);
+	if($num<=0) {
+		Error("Unable to find users", "");
+	}
+
+	$i=0;
+	Echo "<PRE>\n";
+	while($i<$num) {
+		$gender = mysql_result($result, $i, "gender");
+		$age = mysql_result($result, $i, "age");
+		$nationality = mysql_result($result, $i, "nationality");
+		$english = mysql_result($result, $i, "english");
+		Echo "$gender:$english:$age:$nationality\n";
+		$i+=1;
+	}
+	Echo "</PRE>\n";
+?>
+
+<? Include("Footer.html"); ?>

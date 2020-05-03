@@ -1,0 +1,71 @@
+(patrn_rec_state==0)
+""
+{
+	response+="Do you want to know what pattern recognition is?";
+	patrn_rec_state=1;
+}
+[]
+
+
+/*------------------------------------------------------------------------------*/
+
+(patrn_rec_state==1)
+""
+{
+	response+="When a program makes observations of some kind, it is often programmed to compare what it sees with a pattern."; 
+	patrn_rec_state=2;
+}
+[]
+
+
+(patrn_rec_state==1)
+"#BYE_WORD#"
+{
+	patrn_rec_state=4;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+/*------------------------------------------------------------------------------*/
+
+(patrn_rec_state==2)
+""
+{
+	response+="For example, a vision program may try to match a pattern of eyes and a forehead in a scene in order to find a face. ";
+	patrn_rec_state=3;
+}
+[]
+
+
+(patrn_rec_state==2)
+"#BYE_WORD#"
+{
+	patrn_rec_state=4;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+/*------------------------------------------------------------------------------*/
+
+(patrn_rec_state==3)
+""
+{
+	response+="More complex patterns, like natural language text or a chess move, can also be studied. They require quite different methods.";
+	changecontext("default");
+	patrn_rec_state=4;
+}
+[]
+
+
+(patrn_rec_state==3)
+"#BYE_WORD#"
+{
+	patrn_rec_state=4;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+/*------------------------------------------------------------------------------*/

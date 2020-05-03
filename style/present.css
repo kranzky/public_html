@@ -1,0 +1,65 @@
+BODY
+{
+	background-color: white;
+	color: black;
+	font-family: sans-serif;
+}
+A
+{
+	color: blue;
+	text-decoration: none;
+}
+H1
+{
+	font-size: 32pt;
+	text-align: center;
+}
+H2
+{
+	font-size: 18pt;
+	text-align: center;
+}
+H3
+{
+	text-align: center;
+	font-size: 24pt;
+}
+TR
+{
+	font-size: 18pt;
+}
+P
+{
+	font-size: 18pt;
+}
+UL
+{
+	font-size: 18pt;
+}
+P.PRE
+{
+	font-family: courier;
+	font-size: 14pt;
+	font-weight: bold;
+	text-align: left;
+}
+TT
+{
+	font-family: courier;
+	font-size: 14pt;
+	font-weight: bold;
+}
+TH
+{
+	background-color: #EEDDFF;
+	font-family: sans-serif;
+	color: black;
+	vertical-align: top;
+	text-align: left;
+	font-weight: normal;
+}
+#CONTENTS
+{
+	font-size: 10pt;
+	text-align: center;
+}

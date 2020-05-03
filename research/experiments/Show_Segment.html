@@ -1,0 +1,90 @@
+<? Include("Verify.html"); ?>
+<? Include("Maintainer.html"); ?>
+<? Include("Functions.html"); ?>
+<? $title = "Segment Experiment"; ?>
+<? Include("Header.html"); ?>
+
+<?
+	mysql_connect("localhost","hutch","wally37");
+	mysql_select_db("experiments");
+	$result=mysql_query("SELECT bitmap,size FROM segment_data WHERE experiment=$segment");
+	$solution=mysql_result($result, 0, "bitmap");
+	$size=mysql_result($result, 0, "size");
+	if(IsSet($user)) {
+		echo "<H2>Show Segment</H2>";
+		echo "Displayed below is the list of words for this segmentation ";
+		echo "experiment.  Valid words are displayed in bold.  The asterisks ";
+		echo "to the left of the words indicate the ones selected by the user.";
+		$result=mysql_query("SELECT bitmap FROM segment WHERE user=$user and experiment=$segment");
+		$bitmap=mysql_result($result, 0, "bitmap");
+		$result=mysql_query("SELECT word FROM segment_data_info WHERE experiment=$segment");
+		$i=0;
+		echo "<P><CENTER><TABLE CELLSPACING=0 CELLPADDING=2>";
+		while($i<$size) {
+			$word=mysql_result($result, $i, "word");
+			echo "<TR><TD>";
+			$a=substr($bitmap, $i, 1);
+			$b=substr($solution, $i, 1);
+			if($a=="1") {
+				echo "*";
+			}
+			echo "</TD><TD BGCOLOR=\"EEEEBB\">";
+			if($b=="1") {
+				echo "<B>$word</B>";
+			} else {
+				echo "$word";
+			}
+			echo "</TD></TR>";
+			$i+=1;
+		}
+		echo "</TABLE></CENTER>";
+		echo "<P>You can also see <A HREF=\"Show_Segment.html?segment=$segment\">statistics averaged over all users</A> for this experiment.";
+	} else {
+		echo "<H2>Show Segment</H2>";
+		echo "Displayed below is the list of words for this segmentation ";
+		echo "experiment.  Valid words are displayed in bold.  The numbers ";
+		echo "to the left of the words indicate the proportion of users who";
+		echo "selected them.";
+		$result2=mysql_query("SELECT bitmap FROM segment WHERE experiment=$segment");
+		$num=mysql_num_rows($result2);
+		Echo "<H2>$num users completed this experiment</H2>";
+		$i=0;
+		while($i<$size) {
+			$count[$i]=0;
+			$i++;
+		}
+		$i=0;
+		while($i<$num) {
+			$bitmap=mysql_result($result2, $i, "bitmap");
+			$j=0;
+			while($j<$size) {
+				$a=substr($bitmap, $j, 1);
+				if($a=="1") {
+					$count[$j]+=1;
+				}
+				$j++;
+			}
+			$i++;
+		}
+		$result=mysql_query("SELECT word FROM segment_data_info WHERE experiment=$segment");
+		$i=0;
+		echo "<P><CENTER><TABLE CELLSPACING=0 CELLPADDING=2>";
+		while($i<$size) {
+			$word=mysql_result($result, $i, "word");
+			echo "<TR><TD>";
+			$b=substr($solution, $i, 1);
+			Echo doubleval($count[$i])/doubleval($num);
+			echo "</TD><TD BGCOLOR=\"EEEEBB\">";
+			if($b=="1") {
+				echo "<B>$word</B>";
+			} else {
+				echo "$word";
+			}
+			echo "</TD></TR>";
+			$i+=1;
+		}
+		echo "</TABLE></CENTER>";
+	}
+?>
+
+<? Include("Footer.html"); ?>

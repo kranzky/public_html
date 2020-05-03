@@ -1,0 +1,65 @@
+(1)
+"product"
+"sell"
+"version"
+"buy"
+RANDOMLOOP
+{
+	response +=  "Ai is primarily a research company, which will soon share its revolutionary technology through a unique product - the VirtualPal";
+	response += "<ACTION>url:#COMMERCIAL_PAGE#</ACTION>";
+	changecontext("default");
+}
+{
+	response +=  "Ai is developing a conversational interface that will soon make its appearance in a unique product - the VirtualPal";
+	response += "<ACTION>url:#COMMERCIAL_PAGE#</ACTION>";
+	changecontext("default");
+}
+[]
+-1
+
+(1)
+"download"
+{
+	response +=  "As we are deep in development now, we don't have a product for you to download yet. Once we have, we will post it on this site.";
+	response += "<ACTION>url:#COMMERCIAL_PAGE#</ACTION>";
+	changecontext("default");
+}
+[]
+-1
+
+(1)
+"use.*product"
+"purpose.*product"
+{
+	response +=  "Wouldn't you like to operate your computer by speaking to it in natural language? In the future, most computerized devices will be operated using our technology. ";
+	changecontext("default");
+}
+[]
+-1
+
+(1)
+"oem"
+{
+	response +=  "Ai currently doesn't sell its technologies. However, you can contact our Business Development people at bizdev@a-i.com to discuss future collaboration.";
+	changecontext("default");
+}
+[]
+-1
+
+(1)
+""
+{
+	changecontext("default");
+	throw(input);
+}
+[]
+-999
+
+(1)
+""
+{
+	changecontext("default");
+	throw(input);
+}
+[]
+-999

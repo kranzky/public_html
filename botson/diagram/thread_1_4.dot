@@ -1,0 +1,13 @@
+digraph thread_1 {
+thread [label="Botson",URL="Index.html?perform=ClassSubView&sub_class=2",shape=diamond];
+thread -> enter;
+enter [label="CIA",URL="Index.html?perform=ScriptSubView&sub_script=1",shape=box];
+rule_1[label="Let me tell you about myself.",color=blue,URL="Index.html?perform=RuleSubView&sub_rule=1"];
+enter -> rule_1 [label="(default)"];
+rule_1 -> rule_2 [label="(default)"];
+rule_1 -> rule_4 [label="No thanks"];
+rule_2[label="I am an early CIA prototype.",color=black,URL="Index.html?perform=RuleSubView&sub_rule=2"];
+rule_2 -> rule_3 [label="(default)"];
+rule_3[label="CIA stands for Conversational Interfa...",color=green,URL="Index.html?perform=RuleSubView&sub_rule=3"];
+rule_4[label="Well sod you then!",color=yellow,style=filled,URL="Index.html?perform=RuleSubView&sub_rule=4"];
+}

@@ -1,0 +1,11 @@
+<?
+mysql_connect("localhost","hutch","wally37");
+mysql_select_db("experiments");
+$result=mysql_query("SELECT email FROM user_details WHERE email = '$s_email' AND password = '$s_password'");
+$num = mysql_num_rows($result);
+
+if(($num!=1)||($s_email!="admin")) {
+	Include("Banned.html");
+	Exit;
+}
+?>

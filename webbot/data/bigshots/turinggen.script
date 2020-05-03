@@ -1,0 +1,68 @@
+(turing_gen_state==0)
+""
+{
+	response+="Alan Turing wasn't just a computer scientist and a mathematician - he was a philosopher too. And a great one, if I may add. ";
+	turing_gen_state=1;
+}
+[]
+
+
+/*------------------------------------------------------------------------------*/
+
+(turing_gen_state==1)
+""
+{
+	response+="Turing never called himself a philosopher, but he dealt with subjects like what it is to be human, mind and body, free will, determinism, consciousness, and more - the stuff philosophy is made of.  "; 
+	turing_gen_state=2;
+}
+[]
+
+
+(turing_gen_state==1)
+"#BYE_WORD#"
+{
+	turing_gen_state=3;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+/*------------------------------------------------------------------------------*/
+
+(turing_gen_state==2)
+""
+{
+	response+="I urge you to read his classic paper, 'Computing Machinery and Intelligence', written in 1950. It's not too long, and it's fun to read. You can find the paper and more about Turing on the page #CONTENT_LOCATION#.";
+	response+="<ACTION>url:#RES_ARTI_PAGE_PEOPLE#</ACTION>";
+	changecontext("default");
+	turing_gen_state=3;
+}
+[]
+
+
+(turing_gen_state==2)
+"#BYE_WORD#"
+{
+	turing_gen_state=3;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+(1)
+""
+{
+	changecontext("default");
+	throw(input);
+}
+[]
+-999
+
+(1)
+""
+{
+	changecontext("default");
+	throw(input);
+}
+[]
+-999

@@ -1,0 +1,37 @@
+<? Include("Verify.html"); ?>
+<? Include("Maintainer.html"); ?>
+<? Include("Functions.html"); ?>
+<? $title = "Email Everyone"; ?>
+<? Include("Header.html"); ?>
+
+<?
+	$result=mysql_query("SELECT user.email,user.password,user_info.name FROM user_details,user_info WHERE user_info.list='Y' AND user_details.user=user_info.user");
+	$num=mysql_num_rows($result);
+	$i=0;
+	while($i<$num) {
+		$name=mysql_result($result, $i, "name");
+		$email=mysql_result($result, $i, "email");
+		$password=mysql_result($result, $i, "password");
+		$mes ="";
+		$mes.="Hello $name,\n\n";
+		$mes.=$message;
+		$mes.="\nThis message was sent to you because you chose to receive\n";
+		$mes.="occasional updates about my experiments.  If you wish to stop\n";
+		$mes.="receiving these messages, please go to:\n\n";
+		$mes.="  http://tool/~hutch/research/experiments/\n\n";
+		$mes.="then log on with the following information:\n\n";
+		$mes.="  Email:    $email\n";
+		$mes.="  Password: $password\n\n";
+		$mes.="and click on your name to modify your personal details.\n\n";
+		$mes.="- Jason Hutchens.\n";
+		Send_Mail($email, "hutch@tmbg.org", "Ai Online Laboratory Update Message", $mes);
+		$i+=1;
+	}
+?>
+
+<H2>Email Sent</H2>
+
+The message has been sent to the <? echo $num; ?> participants who chose to
+receive occasional email updates about the experiments.
+
+<? Include("Footer.html"); ?>

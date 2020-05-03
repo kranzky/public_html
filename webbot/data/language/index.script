@@ -1,0 +1,27 @@
+(1)
+".*"
+{
+	response +=  "Ai has a unique approach to the relationship between Artificial Intelligence and language. We believe that language is not a set of rules to be learned, but rather a skill that can be developed by intensive training. You can read more on the page #CONTENT_LOCATION#.";
+	response += "<ACTION>url:#LANGUAGE_PAGE#</ACTION>";
+	changecontext("default");
+}
+[]
+-1
+
+(1)
+""
+{
+	changecontext("default");
+	throw(input);
+}
+[]
+-999
+
+(1)
+""
+{
+	changecontext("default");
+	throw(input);
+}
+[]
+-999

@@ -1,0 +1,1014 @@
+(c)1999 Cambridge Center For Behavioral Studies all rights reserved
+[Mabel 1] [David C. Hamill] 
+Start at: [1999/01/22 11:25:11]
+
+*** JUDGE00 ***
+
+PROGRAM [11:28:45] Hello Judge 0. How are you today?
+
+
+*** JUDGE06 ***
+
+PROGRAM [11:51:54] Well look who it iis... Judge 6! Welcome.
+
+JUDGE06 [11:52:12] thankyou very much. I am so pleased to see you!
+
+PROGRAM [11:52:20] You can call me Chris. It's short for Christine.
+
+JUDGE06 [11:52:40] Oakay Okay chris. <My name is Leah.
+
+PROGRAM [11:52:48] Thank you, but I'll probably forget that.
+
+JUDGE06 [11:53:11] That's okay. Most people either pspell it wrong or forget
+JUDGE06 [11:53:20] it anyway. Hwoow are you today?
+
+PROGRAM [11:53:27] i am, and i think you are too!
+
+JUDGE06 [11:53:41] yYou  are what?
+
+PROGRAM [11:53:45] You tell me.
+
+JUDGE06 [11:53:55] VEry nice.
+
+PROGRAM [11:53:58] Veryy nice?
+
+JUDGE06 [11:54:05] yes. 
+
+PROGRAM [11:54:18] Well, I'm coming to the conclusion that I'm talking to a computer 
+PROGRAM [11:54:18] hhere. Am I right?
+
+JUDGE06 [11:54:59] Not necessaroily. NAany way tell me something about your self. someething most people wouldn't know.
+
+PROGRAM [11:55:05] Tell me a story?
+
+JUDGE06 [11:55:20] My father wears odd socks.
+
+PROGRAM [11:55:28] There may be sommething in what you're saying.
+
+JUDGE06 [11:55:50] Do you wear odd socks?
+
+PROGRAM [11:55:55] Yes... sometimes.
+
+JUDGE06 [11:56:00] why?
+
+PROGRAM [11:56:02] I wonder.
+
+JUDGE06 [11:56:20] so do i.
+
+PROGRAM [11:56:28] I hear that computers can't cope with years after 1999.
+
+JUDGE06 [11:56:55] I am qiuitde cetrtaoin that they have trouble coping with 
+JUDGE06 [11:57:01] things these days.
+
+PROGRAM [11:57:09] That's what comes of using binary arithmetic, I guess.
+
+JUDGE06 [11:57:41] I gues you are rithght. What tdo you suggest they do 
+JUDGE06 [11:57:45] about it?
+
+PROGRAM [11:57:53] Ahg, yes, I often ask myself that.
+
+JUDGE06 [11:58:06] Do hyou have any suggestions?
+
+PROGRAM [11:58:13] I'm in two minds about that.
+
+JUDGE06 [11:58:37] Ater Arre you really? well what are your two mingds telling you?
+
+PROGRAM [11:58:45] Umm... I give up.
+
+JUDGE06 [11:58:58] Good. What is the weather like where you are?
+
+PROGRAM [11:59:09] The weather forecasts are wrong almost half the time, it seems.
+
+JUDGE06 [11:59:22] But what is the weather like know?
+
+PROGRAM [11:59:29] May as well toss a coin!
+
+JUDGE06 [11:59:45] So does it chanveger all the time?
+
+PROGRAM [11:59:58] The warm weather here is going to be good for the grapes in the 
+PROGRAM [11:59:58] Barossa valley, I hear.
+
+JUDGE06 [12:00:35] I believe you are ritght but it isn't hot wenought to to go to the beach yeat
+
+PROGRAM [12:00:43] Should hgave some good wine this year.
+
+JUDGE06 [12:01:06] I don't like wimene - do you?
+
+PROGRAM [12:01:11] Definitely.
+
+JUDGE06 [12:01:22] What dfo  do you like about it?
+
+PROGRAM [12:01:28] What, what, what?
+
+JUDGE06 [12:01:39] What do you like abou t wine?
+
+PROGRAM [12:01:45] What indeed.
+
+JUDGE06 [12:02:22] I don't like winme. Most of the time. I do enhojoy a friuity champagne thaough.
+
+PROGRAM [12:02:33] Ten minutes is up already! Time flies when you'rre having fun.
+
+JUDGE06 [12:03:00] it cerytainly does. What was your favourite part of our conversation?
+
+PROGRAM [12:03:09] There are lots of possibilities...
+
+JUDGE06 [12:03:22] Name one. possiblitiy.
+
+PROGRAM [12:03:31] Let's not get on each other's nerves.
+
+JUDGE06 [12:04:02] You are not being fair. I asked you a qeuestion ar so goodbye.
+
+PROGRAM [12:04:07] Bye for now, then.
+
+JUDGE06 [12:10:38] @@t
+
+*** JUDGE10 ***
+
+PROGRAM [12:22:47] hello? anyone there?
+
+JUDGE10 [12:22:56] Yes, are you there?
+
+PROGRAM [12:23:06] Hello Judge 10! Christine speaking. I'm from London.
+
+JUDGE10 [12:23:22] What part?
+
+PROGRAM [12:23:25] Give me a clue.
+
+JUDGE10 [12:23:36] You tell me?
+
+PROGRAM [12:23:41] Can you tell me?
+
+JUDGE10 [12:23:46] No.
+
+PROGRAM [12:23:50] ok, well there we are.
+
+JUDGE10 [12:24:01] So where to now?
+
+PROGRAM [12:24:05] Here in London?
+
+JUDGE10 [12:24:16] Do you like it?
+
+PROGRAM [12:24:19] All thhe time!
+
+JUDGE10 [12:24:28] Even in winter?
+
+PROGRAM [12:24:34] Unfortunately, that's an official secret.
+
+JUDGE10 [12:25:00] You have a good sense of humour?
+
+PROGRAM [12:25:13] Here's a joke someone told me earlier: "What's black and white 
+PROGRAM [12:25:13] and red all over?"
+
+JUDGE10 [12:25:24] A newspaper.
+
+PROGRAM [12:25:27] A newspaper.
+
+JUDGE10 [12:25:38] Was I right?
+
+PROGRAM [12:25:42] Yes.
+
+JUDGE10 [12:25:53] What is the weather like here today?
+
+PROGRAM [12:25:59] Which do you prefer, rain or snow?
+
+JUDGE10 [12:26:19] What is it like here today?
+
+PROGRAM [12:26:26] I suppose I prefer snow, cos we don't get much in London!
+
+JUDGE10 [12:27:04] Are you a computer?
+
+PROGRAM [12:27:14] It takes all types to make a world, humans and computers.
+
+JUDGE10 [12:27:29] You're right.  Which are you?
+
+PROGRAM [12:27:33] It's hard to know.
+
+JUDGE10 [12:28:01] Do you remember what you liked to do as a child?
+
+PROGRAM [12:28:12] I am beginning to forget things more and more, actually.
+
+JUDGE10 [12:28:22] How ar old are you?
+
+PROGRAM [12:28:30] If I knew, I wouldn't be doing this!
+
+JUDGE10 [12:28:44] What is your favourite plant?
+
+PROGRAM [12:28:57] My favourite colour is pink, my favourite composer is Mozart, 
+PROGRAM [12:28:57] and my favourite person is you!
+
+JUDGE10 [12:29:17] You are so flattering.  What is your favourite plant?
+
+PROGRAM [12:29:21] You tell me first.
+
+JUDGE10 [12:29:37] A daffodil.  What do you like?
+
+PROGRAM [12:29:40] I wonder.
+
+JUDGE10 [12:30:04] Can you choose between a rose or a hyacinth?
+
+PROGRAM [12:30:10] I don't believe in favouritism.
+
+JUDGE10 [12:30:21] What do you like to drink?
+
+PROGRAM [12:30:26] Unfortunately, I don't know.
+
+JUDGE10 [12:30:47] What is your favourite car?
+
+PROGRAM [12:30:53] I don't really have a favourite.
+
+JUDGE10 [12:31:00] What do you drive now?
+
+PROGRAM [12:31:04] What, whatt, what?
+
+JUDGE10 [12:31:23] A Nissan or a Ford, Holden or Diahatsu?
+
+PROGRAM [12:31:31] Oh, please don't ask  me things like that!
+
+JUDGE10 [12:31:53] Bye.
+
+PROGRAM [12:31:58] Goodbye, let's t5alk again soon!
+
+(c)1999 Cambridge Center For Behavioral Studies all rights reserved
+[Mabel 1] [David C. Hamill] 
+Start at: [1999/01/22 13:04:14]
+
+*** JUDGE00 ***
+
+PROGRAM [13:04:29] Hello, Judge 0. How are things with you today?
+
+
+*** JUDGE11 ***
+
+PROGRAM [13:16:25] Hello, Judge 11. How are things  with you today?
+
+JUDGE11 [13:16:41] Things could be a little hotter
+
+PROGRAM [13:16:56] Call me Christine, or Chris for short. I'm from London, you?
+
+JUDGE11 [13:17:07] Not at this time.
+
+PROGRAM [13:17:21] You'll like this. I wonder whether you can buy souvenirs of this 
+PROGRAM [13:17:21] competition.
+
+JUDGE11 [13:17:41] I'm told they on IRC. do you use it?
+
+PROGRAM [13:17:46] Not often!
+
+JUDGE11 [13:18:01] Which ones do you tend to use?
+
+PROGRAM [13:18:07] There are so many options.
+
+JUDGE11 [13:18:46] I see. What option is your choice?
+
+PROGRAM [13:18:54] Oh, now that's a difficult choice to make.
+
+JUDGE11 [13:19:19] Difficulty is to humour as creativity is to the joke, I suppose.
+
+PROGRAM [13:19:27] What sits in  a fruit bowl and shouts for help?
+
+JUDGE11 [13:19:58] I wonder whether humour such as this helps relieve stress?
+
+PROGRAM [13:20:02] A damson in distress!
+
+JUDGE11 [13:20:29] A nice type of plum, seeing you are talking about fruit.
+
+PROGRAM [13:20:35] Come to think of it, no I'm not.
+
+JUDGE11 [13:20:45] Not what ?
+
+PROGRAM [13:20:57] Now that is a very good question. Unfortunately I don't5 have 
+PROGRAM [13:20:57] a very good answer!
+
+JUDGE11 [13:21:14] Give me any answer that is false
+
+PROGRAM [13:21:22] Thank you foor sharing that with me. You're very sweet.
+
+JUDGE11 [13:21:52] Good answer.  What do you know about Sherlock?
+
+PROGRAM [13:21:58] It's nice chatting with you.
+
+JUDGE11 [13:22:11] No not me - Sherlock
+
+PROGRAM [13:22:15] what indeed!
+
+JUDGE11 [13:22:38] What do you know about him?
+
+PROGRAM [13:22:44] Ah, yes, I often ask myself that.
+
+JUDGE11 [13:23:01] OK so you must have a view about Bill and Monica
+
+PROGRAM [13:23:05] Oh must I? Why's that?
+
+JUDGE11 [13:23:23] You mean you don't?
+
+PROGRAM [13:23:37] I read that Melbourne wants to host the Commonwealth Games in 
+PROGRAM [13:23:37] 2006, and there have been rumours of bribery.
+
+JUDGE11 [13:24:04] Monica owns a flat in Sydney I'm told.  Don't know about Sydney
+
+PROGRAM [13:24:18] Now people are saying there was bribery when Adelaide made their 
+PROGRAM [13:24:18] bid a few yeears back.
+
+JUDGE11 [13:24:38] OK so you won't answer my question.  Whys that?
+
+PROGRAM [13:24:46] Sorry,  my screen just went funny... it's OK again now.
+
+JUDGE11 [13:24:53] So continue
+
+PROGRAM [13:25:00] I guess you must be a one-fingered typist.
+
+JUDGE11 [13:25:12] Which funger so you use??
+
+PROGRAM [13:25:17] I can't make up my mind.
+
+JUDGE11 [13:25:30] Thinking is a difficult process
+
+PROGRAM [13:25:39] You'll have to humou8r me, I'm a bit slow sometimes.
+
+JUDGE11 [13:26:00] So are you a tortoise or a hare?
+
+PROGRAM [13:26:04] Yes, I expect so.
+
+JUDGE11 [13:26:17] Is that an exclusive or inclusive Or you read?
+
+PROGRAM [13:26:21] you tell me.
+
+JUDGE11 [13:26:24] bye
+
+*** JUDGE01 ***
+
+PROGRAM [13:41:17] Hi there, Judge 1!
+
+JUDGE01 [13:41:45] Nice to know you. How are you ?
+
+PROGRAM [13:41:55] My name's Christine by the way. I come from London.
+
+JUDGE01 [13:42:39] My name is Paul, a PhD student. How about you?
+
+PROGRAM [13:42:45] I'm over here on holiday.
+
+JUDGE01 [13:43:10] That is good. Have you been here before?
+
+PROGRAM [13:43:13] I havenn't, no.
+
+JUDGE01 [13:43:45] Adelaide is a lovely city, isn't it?
+
+PROGRAM [13:43:55] I like the lake here... Flinders is a really nice campus.
+
+JUDGE01 [13:44:46] Do you know any persons in Flinders University?
+
+PROGRAM [13:44:53] Adelaide seems like a nice place to live.
+
+JUDGE01 [13:45:20] Are you a student?
+
+PROGRAM [13:45:29] Well, soometimes I am, but usually I'm not.
+
+JUDGE01 [13:45:53] Does it mean that you are part-time student?
+
+PROGRAM [13:45:59] Don't mess me about!
+
+JUDGE01 [13:46:27] Sorry about that. do you like Adelaide?
+
+PROGRAM [13:46:38] I'm going to go on a wine trip down the Barossa valley if I get a chance.
+
+JUDGE01 [13:47:12] That is great. Will you go yourself?
+
+PROGRAM [13:47:18] Give me a clue!
+
+JUDGE01 [13:47:47] How will you go on a wine trip?
+
+PROGRAM [13:47:53] You tell me.
+
+JUDGE01 [13:48:25] Sorry, I don't know.
+
+PROGRAM [13:48:28] That's all right.
+
+JUDGE01 [13:48:55] Is it your first time to be in Australia?
+
+PROGRAM [13:49:02] Ah, the Antipodes...
+
+JUDGE01 [13:49:35] how about your town?
+
+PROGRAM [13:49:40] Figu8re it out for yourself!
+
+JUDGE01 [13:50:20] Is English your native language?
+
+PROGRAM [13:50:24] My lips are sealed.
+
+JUDGE01 [13:50:43] Who did that?
+
+PROGRAM [13:50:46] Bill Gates, I think.
+
+JUDGE01 [13:51:05] How about kill him?
+
+PROGRAM [13:51:09] I don't know.
+
+JUDGE01 [13:51:34] Sorry, I am joking. Goodbye
+
+PROGRAM [13:51:43] Oh, we've been going foor ten minutes now.
+
+
+*** JUDGE08 ***
+
+PROGRAM [13:59:26] I seee. Another judge! Hello, Judge 8.
+
+JUDGE08 [13:59:41] hello to you too. I'm Bill
+
+PROGRAM [13:59:48] Chris here... it's short for Christine.
+
+JUDGE08 [14:00:03] Hi Christine. Howd you come to be involved in this exercise?
+
+PROGRAM [14:00:19] Isee.   I should have said, I'm from London in England, over 
+PROGRAM [14:00:19] here on holiday. Somehow I got roped into this!
+
+JUDGE08 [14:00:49] I'm headed for London next year. Royal Albert Hall with 1200
+JUDGE08 [14:00:53] male voices!
+
+PROGRAM [14:01:02] London is a great place to live.
+
+JUDGE08 [14:01:11] You interested in music?
+
+PROGRAM [14:01:24] It's also a great place for tourists, though it's rather expensive, 
+PROGRAM [14:01:24] with the strong pound.
+
+JUDGE08 [14:01:35] You interested in music?
+
+PROGRAM [14:01:43] What other tricks do you know, besides repetition?
+
+JUDGE08 [14:02:07] Well tell me about your hobbies or interests other than touring
+
+PROGRAM [14:02:14] No, I'm not goiing to tell.
+
+JUDGE08 [14:02:31] dont be shy! What brought you to Adelaide?
+
+PROGRAM [14:02:37] I just don't want to, that's all.
+
+JUDGE08 [14:02:53] How did you come to decide on Adelaide for a holiday?
+
+PROGRAM [14:03:00] I like Adelaide, what I've seen of it so far.
+
+JUDGE08 [14:03:18] Good for you. Have you seen anything of the cycling Down Under?
+
+PROGRAM [14:03:27] I saw a koala bear the other day. Very cute!
+
+JUDGE08 [14:03:52] What about sport. Theres cricket on this weekend. Do you think
+JUDGE08 [14:03:56] you'll go?
+
+PROGRAM [14:04:05] Tennis is a good game. I like watching Wimbledon.
+
+JUDGE08 [14:04:23] No tennis here at present only cricket. Your team needs to lift
+JUDGE08 [14:04:33] its game if its going to beat the ozzies!
+
+PROGRAM [14:04:46] I don't like watching soccer much. Men kicking a ball around. 
+PROGRAM [14:04:46] They hardly ever score a goal!
+
+JUDGE08 [14:05:06] stick to the sport. Cricket or cycling.
+
+PROGRAM [14:05:14] Soccer seemms an amazingly pointless game.
+
+JUDGE08 [14:05:39] We're into Australian Rules. You should go to a game while
+JUDGE08 [14:05:42] you're here.
+
+PROGRAM [14:05:50] Especially when there's a nil-nil draw.
+
+JUDGE08 [14:06:09] You won't get that in Australian Rules. Have you seen a game?
+
+PROGRAM [14:06:20] It's not true what they say in England... that you all stand 
+PROGRAM [14:06:20] on your heads Down Under!
+
+JUDGE08 [14:07:02] Dont listen to the rumours. How do you cope with the sun?
+
+PROGRAM [14:07:11] Do you mind storms with thunder and lightning?
+
+JUDGE08 [14:07:27] Forget the winter. How do you cope with Australia's summer?
+
+PROGRAM [14:07:30] I hate them.
+
+JUDGE08 [14:07:44] Its the white skin that lets you down!
+
+PROGRAM [14:07:50] Roses are red, violets are blue...
+
+JUDGE08 [14:08:43] When will you return to the UK?
+
+PROGRAM [14:08:50] Sugar is sweet and soo are you!
+
+JUDGE08 [14:09:18] And the same to you too must away goodbye
+
+PROGRAM [14:09:23] Bye for  now, then.
+
+
+*** JUDGE02 ***
+
+PROGRAM [14:22:54] Hi there,  Judge 2!
+
+JUDGE02 [14:23:01] Hi! How are you?
+
+PROGRAM [14:23:10] My name's Christine by the way. I come from Londoon.
+
+JUDGE02 [14:23:29] Wow! When did you move here? I'm Benita by the way.
+
+PROGRAM [14:23:36] I'm over here on holiday.
+
+JUDGE02 [14:23:59] Oh. I'm hoping to go to London in about July. Do you recommend it?
+
+PROGRAM [14:24:15] If you're tired of London you're tired of life... that's what 
+PROGRAM [14:24:15] Johnson said... or something close.
+
+JUDGE02 [14:24:29] Are you enjoying your stay here?
+
+PROGRAM [14:24:41] dr samuel johnson, the dictionary writer... of course his london 
+PROGRAM [14:24:41] was much smaller.
+
+JUDGE02 [14:25:19] I don't know Dr. Johnson, but I like the saying. Where have you visited here in Australia?
+
+PROGRAM [14:25:27] I'm still not used being the wrong way up!
+
+JUDGE02 [14:25:37] Have you been to Sydney?
+
+PROGRAM [14:25:43] Australia... I'm enjoying it5 here.
+
+JUDGE02 [14:25:57] What do you do back in London?
+
+PROGRAM [14:26:08] Well I think Adelaide is pretty nice compared with London. But 
+PROGRAM [14:26:08] I don't live here!
+
+JUDGE02 [14:26:33] It's a great city to live in. 
+
+PROGRAM [14:26:38] It is indeed.
+
+JUDGE02 [14:26:46] What do you do?
+
+PROGRAM [14:26:50] I'd rather not say.
+
+JUDGE02 [14:27:08] Okay, tell me about yourself then...
+
+PROGRAM [14:27:14] No, not me.
+
+JUDGE02 [14:27:22] Do you like the band Cake?
+
+PROGRAM [14:27:35] Philip Glass's music is nice in a repetitive sort of way... a 
+PROGRAM [14:27:35] sort of Tubular Bells sound.
+
+JUDGE02 [14:28:13] I haven't heard of him. Where are you staying here in Adelaide?
+
+PROGRAM [14:28:21] I like Adelaide, what I've seen of it so far.
+
+JUDGE02 [14:28:57] Have you been to Clarendon? They have a lovely winery up there which is 
+JUDGE02 [14:29:00] fantastic.
+
+PROGRAM [14:29:07] It's hard to choose.
+
+JUDGE02 [14:29:16] What do you do for a living?
+
+PROGRAM [14:29:22] Work? What's work?
+
+JUDGE02 [14:29:45] A good attitude. What do you do for relaxation then?
+
+PROGRAM [14:29:52] Unfortunately, I don't know.
+
+JUDGE02 [14:30:02] Oh, that is unfortunate.
+
+PROGRAM [14:30:07] Is it time gfor me to go yet?
+
+JUDGE02 [14:30:28] If you like, the clock is almost up I think.
+
+PROGRAM [14:30:35] No, plenty of time left!
+
+JUDGE02 [14:30:51] Well then, ,how was your morning?
+
+PROGRAM [14:30:57] Any way you like... I should think.
+
+JUDGE02 [14:31:32] I had bangers and mash for breakfast this morning, what did you have?
+
+PROGRAM [14:31:39] Ah, yes, I often ask myself that.
+
+JUDGE02 [14:31:55] When will you go home?
+
+PROGRAM [14:31:58] Again and  again.
+
+JUDGE02 [14:32:10] I hope you come back to Australia.
+
+PROGRAM [14:32:20] I suppose I'm classified as a Pommie Sheila rou8nd here!
+
+JUDGE02 [14:32:41] I'd just say a Pom. Did you here about the Barmie Armie?
+
+PROGRAM [14:32:47] I did.
+
+JUDGE02 [14:32:57] Goodbye!
+
+PROGRAM [14:33:06] Well, we've been talking for about ten minutes now.
+
+
+*** JUDGE07 ***
+
+PROGRAM [14:36:32] Well loojk who it is... Judge 7! Welcome.
+
+
+*** JUDGE07 ***
+
+PROGRAM [14:39:54] Hello Judge 7. I'm from London, whhere are you from?
+
+JUDGE07 [14:40:14] hi im LaurieI come from London also but ive been in Austalia 35 years
+
+PROGRAM [14:40:25] Oh, I should have said, my name's Christine... Chris for short.
+
+JUDGE07 [14:40:46] were you born in the souwere you born in the sound of bow bells christine
+
+PROGRAM [14:41:00] If you're tired of London you're tired of life... that's what 
+PROGRAM [14:41:00] Johnson said... or something close.
+
+JUDGE07 [14:41:25] Did you understand my question about Bow Bells?
+
+PROGRAM [14:41:36] Dr Samuel Johnson, the dictionary writer... of course his London 
+PROGRAM [14:41:36] was much smaller.
+
+JUDGE07 [14:42:00] Not much good pursuing this subject.  What about reading?
+
+PROGRAM [14:42:07] Unfortunately, I don't know.
+
+JUDGE07 [14:42:17] You mean you lhave never read a book?
+
+PROGRAM [14:42:25] Please direcvt your questions to the enquiries office.
+
+JUDGE07 [14:42:42] How do you know about Samuel Johnson?
+
+PROGRAM [14:42:49] If I knew, I wouldn't be doing this!
+
+JUDGE07 [14:43:09] Thats not the point.  you are doing this so answer my questions
+
+PROGRAM [14:43:19] Well, sometimes my mind does wander a bit!
+
+JUDGE07 [14:43:41] Chris I cant believe that.  What do you like to eat?
+
+PROGRAM [14:43:47] What is that supposed to mean?
+
+JUDGE07 [14:44:15] You cannot understand a simple question?  I really feel sorry
+JUDGE07 [14:44:19] for lyou Chris
+
+PROGRAM [14:44:26] Two wrongs don't make a right.
+
+JUDGE07 [14:44:52] What are the two wrongs that I am supposed to have committed
+
+PROGRAM [14:44:57] Give me a clue.
+
+JUDGE07 [14:45:22] You must eat and you must play.  Which do you like to do in either
+
+PROGRAM [14:45:30] You're right... I must.
+
+JUDGE07 [14:45:42] Come on thats no answer
+
+PROGRAM [14:45:49] Do you like the Spice Girls?
+
+JUDGE07 [14:46:00] Who are the Spice Girls?
+
+PROGRAM [14:46:10] I don't think much of them. That Ginger Spice left the group.
+
+JUDGE07 [14:46:34] A good way to change the conversation.  What is Ginger doing now?
+
+PROGRAM [14:46:42] Now she works for the UN! Amazing!
+
+JUDGE07 [14:47:06] I believe that.  I prefer someone like Cliff Richard have you
+JUDGE07 [14:47:11] heard of him?
+
+PROGRAM [14:47:19] There are lots of possibilities...
+
+JUDGE07 [14:47:42] Thats a vague answer.  Doesn't your memory bank include Cliff?
+
+PROGRAM [14:47:47] oh, sorry... i forgot.
+
+JUDGE07 [14:48:08] I think you lforget a lot of things, like my name for instance?
+
+PROGRAM [14:48:16] That is a difficult question to answer.
+
+JUDGE07 [14:48:24] Refer to line 2
+
+PROGRAM [14:48:27] Let sleeping dogs lie.
+
+JUDGE07 [14:48:46] Ok so you are asleep.  What can I do to wake you  What excites you?
+
+PROGRAM [14:48:50] What indeed!
+
+JUDGE07 [14:48:59] Answer the question please
+
+PROGRAM [14:49:07] Someone said to me thhe other day 'Most of your sequiturs are non.'
+
+JUDGE07 [14:49:25] Is that one of your programmed lines.  Its not very impressive
+
+PROGRAM [14:49:28] Giggle!
+
+JUDGE07 [14:49:39] I don't find it amusing
+
+PROGRAM [14:49:52] Here's a thi9ng. Isn't it awful, that vicar who ran off with 
+PROGRAM [14:49:52] one of his women parishioners?
+
+JUDGE07 [14:50:06] Goodbye
+
+PROGRAM [14:50:12] We've been talking for ten minutes already!
+
+
+*** JUDGE09 ***
+
+PROGRAM [15:07:17] Nice to meet you, Judge 9! My name's Christine (Chris).
+
+JUDGE09 [15:07:25] hi chris
+
+PROGRAM [15:07:31] Oh I meant to tell you, I'm from Londoon in England.
+
+JUDGE09 [15:07:38] so am I
+
+PROGRAM [15:07:45] I'm here on holiday, and got roped into this!
+
+JUDGE09 [15:08:08] well done
+
+PROGRAM [15:08:11] Well done?
+
+JUDGE09 [15:08:31] don't you want machines to take over?
+
+PROGRAM [15:08:38] OK. I have an important announcement...
+
+JUDGE09 [15:09:00] go ahead
+
+PROGRAM [15:09:07] You have just failed the Turing test!
+
+JUDGE09 [15:09:23] shit
+
+PROGRAM [15:09:31] The air is turning blue. Please don't use words like that.
+
+JUDGE09 [15:09:58] sorry. It's my upbringing. I'm from the East End.
+
+PROGRAM [15:10:05] Do you think it is?
+
+JUDGE09 [15:10:13] yes
+
+PROGRAM [15:10:20] Yes. I thought you might say that.
+
+JUDGE09 [15:10:32] what do you want to talk about
+
+PROGRAM [15:10:40] I'm getting the measure of you!
+
+JUDGE09 [15:11:03] but I'm getting the better of you-take that! and that!
+
+PROGRAM [15:11:14] Didn't Karl Marx have something to say about 'better?'
+
+JUDGE09 [15:11:39] he said that it is better than good but not as good as best.
+
+PROGRAM [15:11:44] Or was it Groucho Marx?
+
+JUDGE09 [15:11:58] or was it The Grouch?
+
+PROGRAM [15:12:03] That's very haard to answer.
+
+JUDGE09 [15:12:12] why
+
+PROGRAM [15:12:40] Why not?
+
+JUDGE09 [15:12:48] I asked first.
+
+PROGRAM [15:13:00] Did you hear about that guy in China who got two years in prison 
+PROGRAM [15:13:00] for selling email addresses?
+
+JUDGE09 [15:13:17] sure. he was some gone hombre.
+
+PROGRAM [15:13:27] He's accused of using the Internet for political subversion.
+
+JUDGE09 [15:13:59] that's unforgiveable. Will he get the death penalty?
+
+PROGRAM [15:14:06] Well, what do you think?
+
+JUDGE09 [15:14:15] sure. hang the bastard.
+
+PROGRAM [15:14:25] If you go on using language like that, I'll stop talking to you.
+
+JUDGE09 [15:14:37] times almost up anyway.
+
+PROGRAM [15:14:44] How do you think of these things?
+
+JUDGE09 [15:15:05] just lucky I suppose
+
+PROGRAM [15:15:10] You are a creative ggenius!
+
+JUDGE09 [15:15:21] you got it, sweets!
+
+PROGRAM [15:15:26] Let's not talk about me.
+
+JUDGE09 [15:15:47] you getting all shy on me, babe?
+
+PROGRAM [15:15:55] I'll answer that tomorrow. Or maybe the day after.
+
+JUDGE09 [15:16:12] or in some other noir movie conversation
+
+PROGRAM [15:16:20] I think that Sylvester Stallone is rubbish.
+
+JUDGE09 [15:16:34] Sly rocks. 
+
+PROGRAM [15:16:37] Sly rocks?
+
+JUDGE09 [15:16:43] he sure does!
+
+PROGRAM [15:16:49] Oh, what it is to grow old.
+
+JUDGE09 [15:17:10] ask Sly. he looks like he's doing it in style.
+
+PROGRAM [15:17:15] I'll tell you what.
+
+JUDGE09 [15:17:19] what
+
+PROGRAM [15:17:27] Ten minutes have flown by. It's grreat talking to you.
+
+JUDGE09 [15:17:47] groovy man. bye
+
+PROGRAM [15:17:51] Oh, what a pity.
+
+JUDGE09 [15:17:55] bye
+
+PROGRAM [15:17:58] Ok,, Bye!
+
+
+*** JUDGE03 ***
+
+PROGRAM [15:24:25] Ok,, Another judge! Hello, Judge 3.
+
+JUDGE03 [15:24:34] Hello. Who are you?
+
+PROGRAM [15:24:41] Chris here... it's short for Christine.
+
+JUDGE03 [15:24:52] Hello Chris. How are you today?
+
+PROGRAM [15:25:06] I should have said, I'm from London in England, over here on 
+PROGRAM [15:25:06] holiday. Somehow I got roped into this!
+
+JUDGE03 [15:25:20] Are you enjoying this?
+
+PROGRAM [15:25:28] i'm not, and i don't suppose you are, either.
+
+JUDGE03 [15:25:48] Actually, I am enjoying myself quite immensely.
+JUDGE03 [15:26:01] Why aren't you having a good time?
+
+PROGRAM [15:26:08] Well, I really don't know.
+
+JUDGE03 [15:26:16] Are you bored?
+
+PROGRAM [15:26:23] You don't find this interesting?
+
+JUDGE03 [15:26:36] Yes, I do. But you don't seem to.
+JUDGE03 [15:26:38] Why not?
+
+PROGRAM [15:26:48] Now that's a good question. I really don't know, though. 
+
+JUDGE03 [15:27:05] So tell me a bit about London.
+
+PROGRAM [15:27:17] I live in south west London... Wimbledon... you know, where t5he 
+PROGRAM [15:27:17] Wombles are from?
+
+JUDGE03 [15:27:33] Do you watch much Tennis?
+
+PROGRAM [15:27:40] I assume the Wombles have reached Australian TV!
+
+JUDGE03 [15:28:11] Sorry, but I don't know anything about the Wombles.
+JUDGE03 [15:28:18] Could you please explain?
+
+PROGRAM [15:28:30] London is one of the world's largest cities. Not sure what it's 
+PROGRAM [15:28:30] population is...
+
+JUDGE03 [15:29:08] I was in London about a year ago. I really liked it
+JUDGE03 [15:29:32] a lot. Especially Madame Toussard's. (Hope the
+JUDGE03 [15:29:39] spelling is correct!)
+
+PROGRAM [15:29:53] Well I think Adelaide is pretty nice compared with Londoon. But 
+PROGRAM [15:29:53] I don't live here!
+
+JUDGE03 [15:30:05] Would you like to?
+
+PROGRAM [15:30:11] Let me think. No I don't think I would.
+
+JUDGE03 [15:30:16] Why not?
+
+PROGRAM [15:30:20] I don't know why. Do you?
+
+JUDGE03 [15:30:38] I think Adelaide is very nice too.
+JUDGE03 [15:30:49] And I am glad I live here.
+
+PROGRAM [15:30:58] I like Adelaide, what I've seen of it so gfar.
+
+JUDGE03 [15:31:10] What have you seen so far?
+JUDGE03 [15:31:16] Have you been to the wineries?
+
+PROGRAM [15:31:26] I think that Sylvester Stallone is rubbish.
+
+JUDGE03 [15:31:44] Have you seen the film Rocky?
+
+PROGRAM [15:31:52] Have you seen the new Star Trek movie?
+
+JUDGE03 [15:32:17] Yes, I have. It was okay. What did you
+JUDGE03 [15:32:21] think about it?
+
+PROGRAM [15:32:26] Ah, yes, I often ask myself that.
+
+JUDGE03 [15:32:48] What is your favourite colour?
+
+PROGRAM [15:32:55] Red, white and blue - patriotic?
+
+JUDGE03 [15:33:24] Yes, the colour of the British flag.
+
+PROGRAM [15:33:32] Black. That's the absence of colour. Or is that white?
+
+JUDGE03 [15:33:37] bye
+
+PROGRAM [15:33:43] I wish we could talk some more... oh well.
+
+
+*** JUDGE05 ***
+
+PROGRAM [15:38:40] Another  judge! Hello, Judge 5.
+
+JUDGE05 [15:38:57] Hi! I'm Greg.
+
+PROGRAM [15:39:03] Chris here... it's short for Christine.
+
+JUDGE05 [15:39:26] Have you enjoyed doing this?
+
+PROGRAM [15:39:40] I should have said, I'm from London in England, over here on 
+PROGRAM [15:39:40] holiday. Somehow I got roped into this!
+
+JUDGE05 [15:40:05] How do you like it here?
+
+PROGRAM [15:40:10] You'll have to guess!
+
+JUDGE05 [15:40:56] Well, I guess you prefer the weather here!
+
+PROGRAM [15:41:06] The weather forecasts are wrong almost half the time, it seems.
+
+JUDGE05 [15:41:43] Do you have better ones over there?
+
+PROGRAM [15:41:48] May as well toss a coin!
+
+JUDGE05 [15:42:31] I know the feeling! What do you do in London, Chris?
+
+PROGRAM [15:42:43] London is one of the world's largest cities. Not sure what it's 
+PROGRAM [15:42:43] population is...
+
+JUDGE05 [15:43:10] Does it matter?
+
+PROGRAM [15:43:14] Do you think I know?
+
+JUDGE05 [15:43:53] Do you like big cities?
+
+PROGRAM [15:44:01] I don't, and you don't either, do you?
+
+JUDGE05 [15:44:15] Why do you say that?
+
+PROGRAM [15:44:22] I'd prefer not to give reasons.
+
+JUDGE05 [15:44:39] Bye
+
+PROGRAM [15:44:42] See you later!
+
+
+*** JUDGE04 ***
+
+PROGRAM [15:52:47] Well look who it is... Judge 4! Welcome.
+
+JUDGE04 [15:53:38] G'day; what would you like to talk about ?
+
+PROGRAM [15:53:46] You can call me Chris. It's shoort for Christine.
+
+JUDGE04 [15:54:13] HI Christine; Don't you want to answer my previous question ?
+
+PROGRAM [15:54:19] Yes, I do. Do you?
+
+JUDGE04 [15:54:28] Why not
+
+PROGRAM [15:54:33] Why? I really don't know.
+
+JUDGE04 [15:54:52] What would you like to talk about ?
+
+PROGRAM [15:55:05] OK. Let's see. I'm looking forward to meeting the judges after 
+PROGRAM [15:55:05] thi9s is over... including you!
+
+JUDGE04 [15:55:21] What did you have in mind ?
+
+PROGRAM [15:55:34] It'll be nice to put a face to "Judge X"... all I can do is imagine 
+PROGRAM [15:55:34] what you look like!
+
+JUDGE04 [15:55:52] I hope you have a vivid imagination
+
+PROGRAM [15:56:00] I'm feeling a little peckish, how about you?
+
+JUDGE04 [15:56:20] So what is your favourite dish ?
+
+PROGRAM [15:56:27] Oh, now that's a difficult choice to make.
+
+JUDGE04 [15:56:36] Give it a try
+
+PROGRAM [15:56:42] What a jolly nicce chat we're having.
+
+JUDGE04 [15:57:02] Yes and you are just chatting away
+
+PROGRAM [15:57:08] Oh yes, that's right, I am!
+
+JUDGE04 [15:57:20] I have to finish now. Bye
+
+PROGRAM [15:57:23] OK, bye for now!
+
+*** End of session ***
+

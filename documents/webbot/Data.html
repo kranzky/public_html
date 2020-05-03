@@ -1,0 +1,213 @@
+<?
+$title = "Looking Inside WebBot";
+
+$name[] = "Abstract";
+$slide[] = "<P>We would like to explore a simple behaviouristic model which can
+learn to associate particular actions with verbal commands.  Information
+theoretical methods may be used to achieve this.</P>";
+
+$name[] = "Overview";
+$slide[] = "
+<P>In this talk we shall discuss the following things:<P>
+
+<UL>
+<LI>Learning from a behaviouristic point of view;</LI>
+<LI>Informational magnetism;</LI>
+<LI>The innards of WebBot; and</LI>
+<LI>Markov modelling.</LI>
+</UL>
+";
+
+$name[] = "Demonstration";
+$slide[] = "
+<P>But first, a
+<A HREF=\"../../webbot/Teach.html\" TARGET=\"WebBot\">demonstration</A>!</P>
+
+<P>We notice that:</P>
+
+<UL>
+<LI>The system learns very quickly; and</LI>
+<LI>It appears to have learnt a keyword rule.</LI>
+</UL>
+";
+
+$name[] = "Behaviourism";
+$slide[] = "
+
+<P>WebBot learns via behaviouristic techniques:</P>
+
+<UL>
+<LI>Modify associations between external stimuli and observed responses; and</LI>
+<LI>Do this by administering punishments and rewards.</LI>
+</UL>
+
+<P>Skinner (1957) suggested that language learning could be described in this way.
+Chomsky (1959) famously disagreed.  We (2000) beg to differ!</P>
+";
+
+$name[] = "Information Theory";
+$slide[] = "
+
+<P>Shannon (1949) developed information theory to model communication channels.
+The theory enables you to quantify information.</P>
+
+<P>This is done
+probabilistically.  A very likely event gives you much less information
+when it happens than an unlikely one does, because you were expecting it to
+happen.</P>
+
+<P>Information theory therefore embraces such notions as surprise,
+uncertainty and expectation, and gives them precise mathematical meaning.</P>
+";
+
+$name[] = "Informational Magnetism";
+$slide[] = "
+
+<P>Developed here at Ai, based on the work of Deniz Yuret (1998).</P>
+
+<P>An informational theoretic measure which specifies the strength of the force
+between two pieces of data, and whether the force is attractive or
+repulsive.</P>
+
+<P>Relates to behaviourism:</P>
+
+<UL>
+<LI>Stimuli and responses are equivalent; and</LI>
+<LI>Can incorporate the absence of a stimulus.</LI>
+</UL>
+
+<P>We will now see how this was integrated into WebBot.</P>
+";
+
+$name[] = "WebBot";
+$slide[] = "
+
+<P>Turing (1950) introduced the idea of a child machine.</P>
+
+<P>The user's input is expressed as a set of words, themselves sequences of
+alphabetic characters.</P>
+
+<P>WebBot knows the six possible actions (they're hard-wired).</P>
+
+<P>For each action, WebBot calculates the net force acting upon it.  Each
+word in the user's input exerts an attractive or repulsive force upon each
+action.</P>
+
+<P>The action which is most strongly attracted to the user's input is
+performed.</P>
+
+<P>But how does it learn?</P>
+";
+
+$name[] = "Learning";
+$slide[] = "
+
+<P>To calculate the force, we need to know P(a|w).</P>
+
+<P>Whenever the trainer rewards WebBot, we increase P(a|w).  Whenever the
+trainer punishes WebBot, we decrease it.</P>
+
+<P>This is done in such a way that punishments and rewards cancel out!</P>
+";
+
+$name[] = "Summary";
+$slide[] = "
+
+<P>We have seen that WebBot:</P>
+
+<UL>
+<LI>Is based on a simple, general learning principle;</LI>
+<LI>Learns the keyword rule rather quickly; and</LI>
+<LI>Makes few assumptions about the world.</LI>
+</UL>
+
+<P>In the future, we would like to:</P>
+
+<UL>
+<LI>Incorporate contextual information;</LI>
+<LI>Incorporate word-order information;</LI>
+<LI>Learn what words are automagically; and</LI>
+<LI>Learn word classes.</LI>
+</UL>
+
+<P>We have a good idea of how to do all this, but we are still only
+beginning!</P>
+";
+
+$name[] = "Markov Modelling";
+$slide[] = "
+
+<P>In Markov models, each word acts as stimulus for the word which
+immediately follows it.</P>
+
+<P CLASS=\"PRE\">THE HEAD AND IN FRONTAL ATTACK ON AN ENGLISH WRITER
+THAT THE CHARACTER OF THIS POINT IS THEREFORE ANOTHER
+METHOD FOR THE LETTERS THAT THE TIME OF WHO EVER TOLD
+THE PROBLEM FOR AN UNEXPECTED</P>
+
+<P>This quasi-English structure suggests that the model is capturing
+some information about the language, but we could do much better.</P>
+";
+
+$name[] = "Nonlinear Markov Model";
+$slide[] = "
+
+<P>Using the concept of informational magnetism, a word could act as a
+stimulus for all words surrounding it!</P>
+
+<P>To generate text, we write down the word which is attracted the most
+to the words already written down.</P>
+
+<P>Gradually the blanks between words will be filled in, in a nonlinear
+fashion.</P>
+
+<P>Rather spookily, responses, once emitted, become stimuli, and may even
+act as stimulus for words which precede them!</P>
+
+<P>This promising line of work is yet to be attempted.</P>
+";
+
+$name[] = "Example";
+$slide[] = "
+
+<P>Here is a very preliminary example, where the words in each sentence
+stimulate those in the next, and sentences are generated in a nonlinear
+fashion.</P>
+
+<P CLASS=\"PRE\">
+It is at through the sweat of any more 'Angelina,' or have men nourished
+its green leaves.  Their tears have moistened the wife.  They have
+watered its roots.
+</P>
+<P CLASS=\"PRE\">
+As he has grown and flourished.  And its green leaves unfolding to.
+And the first birthday of one tree has produced.  And the ages that.
+We can bear an original fruit.  Each one cry for a land.
+</P>
+<P CLASS=\"PRE\">
+We should leave off clamoring for them.  One is written, making
+criticism of coming disappointment.  Then his brow darkens with the
+Godlike contempt.  I am, nevertheless, wearily struggles through
+eyeglasses.
+</P>
+
+<P>This is the first time something like this has ever been done.</P>
+";
+
+$name[] = "Conclusion";
+$slide[] = "
+
+<P>In this talk, we have:</P>
+
+<UL>
+<LI>Introduced the behaviouristic theory of learning;</LI>
+<LI>Introduced information theory;</LI>
+<LI>Shown how informational magnetism may be used in a learning system;</LI>
+<LI>Discussed Markov modelling; and</LI>
+<LI>Shown how informational magnetism may make for more powerful models.</LI>
+</UL>
+
+<P>Cake, what cake?</P>
+";
+
+?>

@@ -1,0 +1,115 @@
+<HTML>
+
+<HEAD>
+<TITLE>Jason Hutchens' Introduction Page</TITLE>
+<LINK REV="made" HREF="mailto:hutch@ciips.ee.uwa.edu.au">
+<META NAME="description" content="Jason Hutchens' research work in the areas of Grammatical Inference, Language Acquisition, Data Compression and Natural Language Processing.">
+<META NAME="keywords" content="nlp,ai,grammatical inference,compression,text compression,data compression,language modeling,natural language processing,language acquisition">
+</HEAD>
+
+<BODY BGCOLOR="#FFFFFF">
+
+<CENTER>
+<H1><BIG>I</BIG>NTRODUCTION</H1>
+<BIG>
+Jason Hutchens<BR>
+Centre for Intelligent Information Processing Systems<BR>
+Department of Electrical & Electronic Engineering<BR>
+The University of Western Australia
+</BIG>
+<P>
+<TABLE><TR>
+<TD ALIGN="CENTRE">
+[ <A HREF="../">Contents</A> |
+<A HREF="../diary/">Diary</A> |
+<A HREF="../seminars/">Seminars</A> |
+<A HREF="../papers/">Papers</A> |
+<A HREF="../results/">Results</A> |
+<A HREF="../programs/">Programs</A> |
+<A HREF="../people/">People</A> |
+<A HREF="../bibliography/">Bibliography</A> |
+<A HREF="../contact/">Contact</A> ]
+</TD>
+</TR></TABLE>
+</CENTER>
+
+<H2>Introduction</H2>
+
+My name is <A HREF="http://ciips.ee.uwa.edu.au/~hutch/">Jason Hutchens</A>,
+and I am doing a PhD on <I>Natural Language Grammatical Inference</I>.
+I work in the
+<A HREF="http://ciips.ee.uwa.edu.au/">Centre for Intelligent Information
+Processing Systems</A>, which is more concisely known as "CIIPS",
+in the Department of
+<A HREF="http://www.ee.uwa.edu.au/">Electrical & Electronic Engineering</A>
+at the
+<A HREF="http://www.uwa.edu.au/">University of Western Australia</A>.  In
+this section, I introduce the field of <I>Grammatical Inference</I>, I
+outline my personal aims in this project, and I get a bit philosophical about
+future directions.
+
+<H2>Research Area</H2>
+
+My research is in the field of Grammatical Inference.  Well, the field doesn't
+really exists as such, the closest you get is <I>Computational Linguistics</I>.
+I am approaching things from an engineer's point of view rather than a
+linguist's, so I am more concerned with information theory and rather less
+concerned with formal linguistics.  In truth, I am interested in
+<I>Language Acquisition</I> and how it works in our heads.  I am not of the
+Chomskian persuasion, so I tend to believe that the bits of our brains that
+we use to learn and process language are generic information processing
+devices, rather than specific language machines.
+
+<H2>Aim</H2>
+
+My original aim was to make a better language model for speech recognition
+systems.  I progressed down this path a certain way, but then the field of
+<I>Data Compression</I> lured me off-track.  Speech recognition systems and
+data compressors both require a statistical language model, but data
+compressors place more constraints on the model which makes the problem a lot
+more challenging.  Also, the folks in the field of Data Compression seemed
+to know little about Grammatical Inference, so I though that I may be able to
+make a small impact on their thinking.
+<P>
+What constraints do data compressors compose?  Well, if you're interested in
+compressing generic data you are restricted as follows:
+<OL>
+<LI>The language model cannot make any assumptions about what data it is
+likely to see during the compression process.  This means that the model
+must be adaptive, and must start off in a state which favours no particular
+kind of data.</LI>
+<LI>The model can't even make any assumptions about which sort of symbols
+are likely to occur, apart from the global assumption that they'll be made
+up of bits (or bytes).</LI>
+<LI>The language model must adapt to the data as quickly as possible.</LI>
+</OL>
+This differs somewhat from the static approach taken in the field of <I>Speech
+Recognition</I>, where the language model is constructed from a corpus and
+evaluated on a disjoint corpus.  In fact, such a model couldn't be used as
+a data compressor unless the model itself was encoded along with the
+compressed representation of the data!  Therefore, "real" data compression
+offers a performance measure which is in my opinion a more accurate one than
+the <I>Perplexity</I> measure used in speech recognition.
+<P>
+Right now, my aim is to make the best generic data compressor on the planet.
+That probably sounds to be quite a big aim, but I believe that it's possible.
+It won't be fast (it'll most likely be incredibly slow), but I do hope that
+I can out-perform state-of-the-art compression systems by a considerable
+amount.
+
+<H2>Philosophical Stuff</H2>
+
+I'm doing a PhD, so I suppose philosophizing isn't out of the question.
+
+<H2>Modification Details</H2>
+
+Jason Hutchens' Introduction Page is maintained by
+<A HREF="../contact/">Jason Hutchens</A>,
+and it was last modified on
+<!--#echo var="LAST_MODIFIED"-->.
+You are the
+<!--#exec cgi="/cgi-bin/counter-nl-ord"-->
+visitor to this page.
+
+</BODY>
+</HTML>

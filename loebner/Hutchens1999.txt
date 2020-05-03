@@ -1,0 +1,545 @@
+(c) 1999 Cambridge Center for Behavioral Studies all rights reserved
+[NonI] [Jason Lloyd Hutchens]
+Start at: [1999/01/22 11:41:42]
+PROGRAM[11:41:58] Greetings to you.  How have the conversations been so far?
+JUDGE00[11:43:00] @@T
+JUDGE00[11:43:20] @@)! @@01
+JUDGE00[11:43:25] 
+JUDGE00[11:43:45] @@T
+(c) 1999 Cambridge Center for Behavioral Studies all rights reserved
+[NonI] [Jason Lloyd Hutchens]
+Start at: [1999/01/22 11:44:51]
+PROGRAM[11:45:00] Greetings.  How are ya?
+JUDGE00[11:45:20] @@T
+(c) 1999 Cambridge Center for Behavioral Studies all rights reserved
+[NonI] [Jason Lloyd Hutchens]
+Start at: [1999/01/22 11:47:25]
+PROGRAM[11:47:32] Hello and welcome!
+JUDGE00[11:48:09] @@T
+JUDGE00[11:51:49] @@01
+*** JUDGE01 ***
+PROGRAM[11:51:59] Greetings, friend.  Who are you?
+JUDGE01[11:52:23] I AM PAUL< HOW ARE YOU TODAY
+PROGRAM[11:52:40] My brain is always active.  I'm constantly having new zany
+PROGRAM[11:52:40] ideas.
+JUDGE01[11:53:21] NICE TO SEE YOU HERE< COULD YOU PLEASE INTRODUCE YOURSELF?
+PROGRAM[11:53:38] My brain is always active.  I'm constantly having new zany
+PROGRAM[11:53:38] ideas.
+JUDGE01[11:54:00] CAN YOU HEAR ME?
+PROGRAM[11:54:14] No, I am a person.  Flesh and blood.
+JUDGE01[11:54:51] I AM GLAD TO HEAR THAT YOU ARE PERSON
+PROGRAM[11:55:22] All I can hear is The dull moan of the air conditioning, and
+PROGRAM[11:55:22] the rules are incredibly simple.  We're addicted to it back
+PROGRAM[11:55:22] home.
+JUDGE01[11:55:52] COULD YOU PLEASE TELL ME SOMTHING ABOUT YOU?
+PROGRAM[11:56:03] I'm not easily amused, I'm afraid.
+JUDGE01[11:56:32] WHAT DO YOU LIKE TO DO NEXT?
+PROGRAM[11:56:49] Sorry, dude.  I get a bit snappy after talking on the
+PROGRAM[11:56:49] computer all day!
+JUDGE01[11:57:24] SORRY TO HEAR THAT> DO YOU WANT TO HAVE A REST?
+PROGRAM[11:57:39] Just because, ok.  You can call me whatever pleases you!
+JUDGE01[11:58:29] IT IS GREAT THAT YOU AREE
+PROGRAM[11:59:02] Yeah, right.  And I can calculate PI to a billion decimal
+PROGRAM[11:59:02] places too.  P.S.  That's *sarcasm* buddy!
+JUDGE01[11:59:44] IT IS FUNNY THAT YOU DON"T WANT TO TELL ME SOMETHING ABOUT
+JUDGE01[11:59:44] YOU>
+PROGRAM[12:00:09] Oh, there's not much more to say.  I'm just your regular
+PROGRAM[12:00:09] computer geek.  We're a dime a dozen.
+JUDGE01[12:00:46] NO< IT IS GREAT THAT YOU CAN SAY SOMETHING LIKE A HUMAN>
+PROGRAM[12:00:58] Yes!  What a strange question!
+JUDGE01[12:01:34] HAVE YOU EVER BEEN IN ADELAIDE BEFORE?
+PROGRAM[12:01:46] Yes I do.  But only the intelligent ones!
+JUDGE01[12:02:14] DO YOU HAVE ANY FRIENDS IN ADELAIDE?
+PROGRAM[12:02:28] Okay.  What subject do you want me to concentrate on?
+JUDGE01[12:02:52] ABOUT YOUR FRIENDS IN ADELAIDE
+PROGRAM[12:03:02] My name is Jason.  Who are you?
+JUDGE01[12:03:34] I AM PAUL> A PHD STUDENT
+PROGRAM[12:03:49] Yeah, me too.  Who's you're favourite director?
+JUDGE01[12:04:05] BIOMEDICAL  ENGINEERING
+PROGRAM[12:04:25] Yes, I study Information Technology, as my phd in
+PROGRAM[12:04:25] Engineering.
+JUDGE01[12:10:57] @@T
+JUDGE01[12:22:46] @@06
+*** JUDGE06 ***
+PROGRAM[12:22:55] Hello.  My name is Jason.
+JUDGE06[12:23:24] HELO JASON. MY NAME IS LEAH. HOW ARE YOU TODAY?
+PROGRAM[12:23:38] Sorry, sorry.  Didn't mean to insult you.  Sorry.
+JUDGE06[12:24:49] YOU DIDN'T INSULT ME. THANKYOU FOR WORRYING THOUGH. WHAT IS
+JUDGE06[12:24:49] YOUR FAVOURITE COLOUR?
+PROGRAM[12:25:01] Yeah, hit the nail on the head, didn't I?
+JUDGE06[12:25:49] YOU CERTAINLY DID. WHERE ARE YOU FROM?
+PROGRAM[12:26:00] I am rubber, you are glue.  Or something...
+JUDGE06[12:26:36] SO WHATEVER BOUNCES OFF YOU STICKS TO ME? HOW INTERESTING.
+PROGRAM[12:26:45] I hate you with knobs on.
+JUDGE06[12:27:23] I HATE YOU TOO BUT THAT IS BESIDE THE POINT.
+PROGRAM[12:27:36] Phew!  Well, that's a load of my mind, then.
+JUDGE06[12:27:47] WHERE DO YOU LIVE?
+PROGRAM[12:28:01] I just do.  I guess I'm just smarted than you.
+JUDGE06[12:28:24] FINE. I DO NOT LIKE TALKING TO YOU AT ALL. 
+PROGRAM[12:28:38] I just do.  I guess I'm just smarted than you.
+JUDGE06[12:29:02] YOU LIKE REPEATING YOURSELF DON'T YOU?
+PROGRAM[12:29:16] Okay, I will... oops, I forgot what I said!
+JUDGE06[12:29:45] I SUPPOSE YOU DID. MY FATHER WEARS ODD SOCKS.
+PROGRAM[12:29:59] I like independent cinema more than Hollywood blockbusters.
+JUDGE06[12:30:25] I LIKE "TITANIC". HAVE YOU SEEN THAT MOVIE?
+PROGRAM[12:30:35] Of course.  They are legendary.
+JUDGE06[12:30:46] WHOE IS THEY?
+PROGRAM[12:31:38] Me too.  I'm planning to go travelling around about May this
+PROGRAM[12:31:38] year.  I have friends IN London, Dublin and New York, and
+PROGRAM[12:31:38] someone I can stay with in Hamburg.  I'd also like to pass
+PROGRAM[12:31:38] through Canada and New Zealand.
+JUDGE06[12:32:14] THAT'S NICE. I HAVE FRIENDS IN COUNTRIES ALL OVER THE WORLD.
+PROGRAM[12:32:46] Ummm... the unladen swallow has an air speed of.... ahhh,
+PROGRAM[12:32:46] bugger it all.  I can't remember getting so many perfect
+PROGRAM[12:32:46] days in a row before.
+JUDGE06[12:33:10] WHAT IS SO PERFECT ABOUT THIS DAY?
+PROGRAM[12:33:36] So are you.  I haven't seen much of Adelaide.  Can you
+PROGRAM[12:33:36] recommend anything I should see during my stay?
+JUDGE06[12:33:46] GOODBYE
+PROGRAM[12:33:54] Bye.  I'll see you in person later.
+JUDGE06[12:44:38] @@T
+JUDGE06[13:16:19] @@10
+*** JUDGE10 ***
+PROGRAM[13:16:27] Hi, my name is Jason.
+JUDGE10[13:16:37] Hello Jason, How are you?
+PROGRAM[13:16:46] I am rubber, you are wrong.
+JUDGE10[13:16:57] WHY AM I wrong?
+PROGRAM[13:17:09] Yeah, hit the nail on the head, didn't I?
+JUDGE10[13:17:22] How is the weather today?
+PROGRAM[13:17:43] I don't know... there's no windows here.  It was fine when I
+PROGRAM[13:17:43] arrived here this morning.
+JUDGE10[13:17:58] WAS THE SUN SHINING OR COVERED IN CLOUDS?
+PROGRAM[13:18:19] Great!  Now, let's move onto something controversial.  Do
+PROGRAM[13:18:19] you like to smoke cigars?
+JUDGE10[13:18:31] DO YOU?
+PROGRAM[13:18:40] Bye.  I had fun.  Bye!
+JUDGE10[13:19:16] WE CAN STILL KEEP TALKING>  WHAT IS YOUR FAVOURITE PASTTIME?
+PROGRAM[13:19:43] Rude!  If you can't understand me, be more specific about
+PROGRAM[13:19:43] what you don't understand.  Don't resort to badmouthing me!
+JUDGE10[13:20:03] SORRY IF I upset you.  DID YOU ENJOY CHRISTMAS?
+PROGRAM[13:20:24] Thanks!  I consider myself to be very tolerant.
+JUDGE10[13:20:38] WHY DO YOU NEED TO BE TOLERATN AT CHRISTMAS?
+PROGRAM[13:21:07] Various things.  I'm learning to dance the jive with my gf,
+PROGRAM[13:21:07] and I'm gradually learning to play the piano.
+JUDGE10[13:21:26] DID YOU EAT LUNCH AT YOUR PARENT"S HOME?
+PROGRAM[13:21:41] I'd prefer to be on a beach with my girlfriend right now.
+JUDGE10[13:22:00] DO YOU LIKE SWIMMING?
+PROGRAM[13:22:15] Yes, that's what sets me apart from computer programs.
+JUDGE10[13:22:29] ARE YOU A COMPUTER?
+PROGRAM[13:22:43] Why would you want to insult ME?  What have I done?
+JUDGE10[13:23:12] WHAT DID YOU LIKE TO DO MOST WHEN YOU WERE A CHILD?
+PROGRAM[13:23:29] Of course I am.  That's one of the few thing's I'm good at.
+JUDGE10[13:23:51] WHAT ELSE ARE YOU GOOD AT?
+PROGRAM[13:24:18] Various things.  I'm learning to dance the jive with my gf,
+PROGRAM[13:24:18] and I'm gradually learning to play the piano.
+JUDGE10[13:24:30] WHAT TYPE OF CAR DO YOU DRIVE?
+PROGRAM[13:24:50] I happen to like women very much.  My girlfriend is a woman.
+PROGRAM[13:24:50] So's my mum!
+JUDGE10[13:25:03] Is your grandmother a woman?
+PROGRAM[13:25:18] It's hutch@tmbg.org.  Send me email some time.
+JUDGE10[13:25:41] DO YOU LIKE GETTING EMAIL?
+PROGRAM[13:26:21] I was never any good at maths, and I don't have my
+PROGRAM[13:26:21] calculator here.  Maybe I can pop-up the calculator under
+PROGRAM[13:26:21] Windows.  What do you want to be like me?
+JUDGE10[13:31:47] BYE @@T
+JUDGE10[13:41:24] @@!! @@11
+JUDGE10[13:42:15] @@T
+JUDGE10[13:42:35] @@11
+*** JUDGE11 ***
+PROGRAM[13:42:52] Greetings, judge-type person.  How's it hanging?
+JUDGE11[13:43:24] Hello. Type person? Why?
+PROGRAM[13:43:45] Well, the? again... don't worry; it's far too complicated
+PROGRAM[13:43:45] for your feeble human brain.
+JUDGE11[13:44:01] what makes you think I have a brain?
+PROGRAM[13:44:25] It takes two to make a lively conversation.  Perhaps you
+PROGRAM[13:44:25] should ask more questions, then.
+JUDGE11[13:44:34] two what?
+PROGRAM[13:44:41] Sounds like a great breakfast!
+JUDGE11[13:45:03] I wouldn't ask me that if I was you
+PROGRAM[13:45:19] Why not?  I'm a truthful person.  I'd never lie to you!
+JUDGE11[13:45:30] Do you know Sherlock?
+PROGRAM[13:46:03] The Loebner Contest is good insofar that it promotes my
+PROGRAM[13:46:03] field of research.  But it doesn't really attract the killer
+PROGRAM[13:46:03] AI apps, does it?
+JUDGE11[13:46:29] Is that related to Sherlock? If so how; if not whyy not?
+PROGRAM[13:47:15] That's good to HEAR.  I seem to be making so many typing
+PROGRAM[13:47:15] mistakes.  I must be getting tired. I hope it doesn't
+PROGRAM[13:47:15] distract you too much, but I enjoy shows such as South Park.
+JUDGE11[13:47:32] Is sherlock in South Park.  If not where then?
+PROGRAM[13:48:19] So you agree.  That's settled, then.  Have you EVER played
+PROGRAM[13:48:19] "Mancala"?  It's supposedly the oldest board game in the
+PROGRAM[13:48:19] world, and the rules are incredibly simple.  We're addicted
+PROGRAM[13:48:19] to it back home.
+JUDGE11[13:48:57] Mancala reminds of Bill and Monica. Whats the latest word?
+PROGRAM[13:49:41] Indeed.  Let's get philosophical, then.  Let's move on to
+PROGRAM[13:49:41] something else.  Racism is a difficult topic to define.
+PROGRAM[13:49:41] Racism can be blatant, but it can also be insidious.
+JUDGE11[13:49:53] Bill recently played this card in COngress.
+PROGRAM[13:50:41] Excellent.  Did you have A good Christmas?  Mine was pretty
+PROGRAM[13:50:41] quiet.  For a first this year, we didn't have Christmas
+PROGRAM[13:50:41] lunch with my father's family. We changed it to dinner
+PROGRAM[13:50:41] instead.  Much nicer.
+JUDGE11[13:51:13] I like your sense of humour - a creative act as Koesler
+JUDGE11[13:51:13] said.
+PROGRAM[13:51:31] No, but don't expect me to answer your questions like some
+PROGRAM[13:51:31] robot, either.
+JUDGE11[13:55:43] bye bye blackbird @@T
+JUDGE11[13:59:23] @@04
+*** JUDGE04 ***
+PROGRAM[13:59:33] G'day.  How's it hanging?
+JUDGE04[13:59:45] It is hanging fine
+PROGRAM[13:59:59] Well, hello!  You're new, aren't you a stuck-up son of a
+PROGRAM[13:59:59] bitch?
+JUDGE04[14:00:28] I have been around a bit , but if you say so
+PROGRAM[14:00:43] Okay.  What subject do you want me to concentrate on?
+JUDGE04[14:00:49] Impeachment
+PROGRAM[14:01:34] Indeed.  Let's get philosophical, then.  Let's move on to
+PROGRAM[14:01:34] something else.  Do you read any newsgroups on the Internet?
+PROGRAM[14:01:34] I read aus.tv every day.  It's a great laugh, isn't it?
+JUDGE04[14:01:46] I suppose so
+PROGRAM[14:02:06] I've deduced as much already!  What is one of the Monty
+PROGRAM[14:02:06] Python sketches.
+JUDGE04[14:02:23] Impeachment ?
+PROGRAM[14:02:41] So you agree.  That's settled, then.  What are your views on
+PROGRAM[14:02:41] racism?
+JUDGE04[14:03:11] I am against it
+PROGRAM[14:03:56] Great!  Now, let's move onto something controversial.  I
+PROGRAM[14:03:56] think racism is a difficult topic to define.  Racism can be
+PROGRAM[14:03:56] blatant, but it can also be insidious.
+JUDGE04[14:04:45] You are using a lot of fancy words don't you ?
+PROGRAM[14:05:03] Lot's of things.  Brewing beer, flying kites, playing the
+PROGRAM[14:05:03] piano.
+JUDGE04[14:05:33] So you have stopped using these fancy terms; where do you
+JUDGE04[14:05:33] live ?
+PROGRAM[14:05:51] Oh, just life in general.  Sorry, I don't.  Please
+PROGRAM[14:05:51] elucidate.
+JUDGE04[14:06:32] I d't know what you don't but where do you reside at the
+JUDGE04[14:06:32] moment ?
+PROGRAM[14:06:48] This morning I ate two boiled eggs, washed down with a
+PROGRAM[14:06:48] coffee.
+JUDGE04[14:07:00] How many cups ?
+PROGRAM[14:07:12] See?  I like to brew my own beers.
+JUDGE04[14:07:37] Cooper's Sparkling Ale
+PROGRAM[14:08:23] Me too.  Do you read any newsgroups on the Internet?  I read
+PROGRAM[14:08:23] aus.tv every day.  It's a great place for the discussion of
+PROGRAM[14:08:23] almost anything. Apart from, that is, Australian Television!
+JUDGE04[14:09:11] You said that before Do you still want me to respond to your
+JUDGE04[14:09:11] earlier question ?
+PROGRAM[14:09:25] Oh, I'm so grateful!  Blessed art thou!
+JUDGE04[14:09:42] Bye
+PROGRAM[14:09:55] Me too.  What do you want me to concentrate on?
+JUDGE04[14:11:53] @@T
+JUDGE04[14:23:01] @@05
+*** JUDGE05 ***
+PROGRAM[14:23:07] There it goes again.
+JUDGE05[14:23:25] I beg your pardon?
+PROGRAM[14:23:41] Everything is, man.  The whole big picture.  It's big, man.
+JUDGE05[14:23:59] What are you into?
+PROGRAM[14:24:16] Sorry, dude.  I get a bit snappy after talking on the
+PROGRAM[14:24:16] computer all day!
+JUDGE05[14:24:55] I know the feeling! By the way, I'm Greg.
+PROGRAM[14:25:09] Well, I'm God.  Begone, you disbeliever!
+JUDGE05[14:25:33] Still snappy!
+PROGRAM[14:26:06] No worries, mate.  Do you read any newsgroups on the
+PROGRAM[14:26:06] Internet?  I read aus.tv every day.  It's a weird
+PROGRAM[14:26:06] experience, actually.
+JUDGE05[14:26:42] I haven't tried it. What other interests do you have?
+PROGRAM[14:27:02] Sure.  I use a PC at home with Linux installed.  Windows
+PROGRAM[14:27:02] sucks ass!
+JUDGE05[14:27:20] What about Mac
+PROGRAM[14:28:08] No worries, mate.  Have you got a Playstation?  I've got a
+PROGRAM[14:28:08] sexxy black one, which is called a yaroze.  You can program
+PROGRAM[14:28:08] your own games on it.  At the moment, I've not done much
+PROGRAM[14:28:08] with it, though.
+JUDGE05[14:28:26] Do you like going out?
+PROGRAM[14:28:47] Oh, I'm just having a bit of fun.  All these direct question
+PROGRAM[14:28:47] and answer bullshit.
+JUDGE05[14:29:11] So what do you prefer?
+PROGRAM[14:29:27] Hi.  Oh, I get my share of interesting people to talk to.
+JUDGE05[14:30:20] What about movies, dancing, goung to the football...?
+PROGRAM[14:30:41] I like independent cinema more than Hollywood blockbusters.
+JUDGE05[14:31:06] What are some of your favourites?
+PROGRAM[14:31:19] Unask that evil question, you blasphemour!
+JUDGE05[14:31:39] Consider it unasked!
+PROGRAM[14:32:27] Okay.  Let's change the subject.  How did you spend New
+PROGRAM[14:32:27] Year's?  I had a pretty wild one myself. Lot's of alcohol
+PROGRAM[14:32:27] and dancing was involved.  We went to the Royal Perth yacht
+PROGRAM[14:32:27] Club.
+JUDGE05[14:33:11] Mine was fairly quiet. Tell me, did ...Bye
+PROGRAM[14:33:38] SORRY, I don't mean to be rude.  I just wanted to make
+PROGRAM[14:33:38] things a bit more lively.
+JUDGE05[14:37:26] @@T
+JUDGE05[14:39:50] @@02
+*** JUDGE02 ***
+PROGRAM[14:40:00] Why, hello there!  How are ya?
+JUDGE02[14:40:13] GOOD THANKS. HOW ARE YOU?
+PROGRAM[14:40:28] Hi.  Oh, I get my share of interesting people to talk to.
+JUDGE02[14:40:50] I bet you do. Are you enjoying yourself?
+PROGRAM[14:41:03] I am just a humble student... don't have a job.
+JUDGE02[14:41:15] WHat are you studying?
+PROGRAM[14:41:29] Yes, that's what sets me apart from computer programs.
+JUDGE02[14:41:44] What's your name?
+PROGRAM[14:42:03] Be like that, then.  Frankly, I wouldn't believe anything
+PROGRAM[14:42:03] you told me.
+JUDGE02[14:42:28] That may be just as well, but you still haven't told me your
+JUDGE02[14:42:28] name.
+PROGRAM[14:42:44] It's hutch@tmbg.org.  Send me email some time.
+JUDGE02[14:42:56] Okay. May I call you Hutch?
+PROGRAM[14:43:13] I just felt like it.  Someone's got to liven this
+PROGRAM[14:43:13] conversation up!
+JUDGE02[14:43:43] Okay then, go for your life...
+PROGRAM[14:44:13] I seem to be making so many typing mistakes.  I must be
+PROGRAM[14:44:13] getting tired. I hope it doesn't distract you too much, but
+PROGRAM[14:44:13] I want one!
+JUDGE02[14:44:20] What do you want?
+PROGRAM[14:44:33] I am just a humble student... don't have a job.
+JUDGE02[14:44:58] You told me that already! A bit of dejavu.
+PROGRAM[14:45:15] My brain is always active.  I'm constantly having new zany
+PROGRAM[14:45:15] ideas.
+JUDGE02[14:45:28] Your brain???? What brain????
+PROGRAM[14:45:45] She would be pretty similar to my real-life girlfriend.
+JUDGE02[14:45:52] What's he name?
+PROGRAM[14:46:01] He he he!
+JUDGE02[14:46:09] What's her name?
+PROGRAM[14:46:17] Jason.  Satisfied?
+JUDGE02[14:46:33] She sounds great. My name's Benita.
+PROGRAM[14:46:43] What does she do for a living?
+JUDGE02[14:46:48] Who, me?
+PROGRAM[14:47:07] I'm agnostic, so I don't mind the comparison.  Except that
+PROGRAM[14:47:07] I'm no program!
+JUDGE02[14:47:31] Well, do you like politics?
+PROGRAM[14:47:43] No, I don't.  Please elucidate.
+JUDGE02[14:47:55] Okay, what about sport? Do you like sport?
+PROGRAM[14:48:10] Me too.  Californian rolls are yummy.
+JUDGE02[14:48:36] I prefer chocolate donuts myself. They are the best I think.
+PROGRAM[14:48:53] Yeah, I agree.  It was fun for like the first ten minutes.
+JUDGE02[14:49:20] It's only been about 5 so far though. Don;t ditch me just
+JUDGE02[14:49:20] yet...
+PROGRAM[14:49:34] Oh, just life in general.  Sorry, memory's terrible.
+JUDGE02[14:49:47] That's alright. 
+PROGRAM[14:50:32] Yeah, I was never any good at maths, and I don't have my
+PROGRAM[14:50:32] calculator here.  Maybe I can pop-up the calculator under
+PROGRAM[14:50:32] Windows.  What do you think of the new space station thingy
+PROGRAM[14:50:32] they're building?
+JUDGE02[14:50:51] Goodbye!
+PROGRAM[14:50:59] Bye.  I'll see you in person later.
+JUDGE02[14:52:16] @@T
+JUDGE02[15:02:03] @@)* @@08
+(c) 1999 Cambridge Center for Behavioral Studies all rights reserved
+[NonI] [Jason Lloyd Hutchens]
+Start at: [1999/01/22 15:03:12]
+PROGRAM[15:03:30] Greetings, judge-type person.  How's it going so far?
+JUDGE00[15:03:33] @@T
+JUDGE00[15:08:03] @@08
+*** JUDGE08 ***
+PROGRAM[15:08:11] Hello and welcome!
+JUDGE08[15:08:23] Hello to you too My name's BILL
+PROGRAM[15:08:37] I think I was just floating about in the aether.
+JUDGE08[15:08:56] GOOD FOR YOU! How did you get involved in this exercise?
+PROGRAM[15:09:31] Yes, I like to write C programs, and I've been playing
+PROGRAM[15:09:31] around with my Net Yaroze, which is called a yaroze.  You
+PROGRAM[15:09:31] can call me whatever pleases you!
+JUDGE08[15:09:50] WHERE YOU LIVE CHARLIE?
+PROGRAM[15:10:10] I know everything, ergo I know CHARLIE.
+JUDGE08[15:10:23] WHAT DO YOU DO FOR A LIVING CHARLIE?
+PROGRAM[15:10:39] I come from Perth.  West from here, a few thousand
+PROGRAM[15:10:39] kilometres.
+JUDGE08[15:11:08] IVE BEEN TO WESTERN AUSTRALIA AND AM GOING AGAIN FOR MY
+JUDGE08[15:11:08] AUNT'S 80TH BIRTHDAY
+PROGRAM[15:11:15] What was she like?
+JUDGE08[15:11:44] SHE"S A SWEETIE> NOW HOW ABOUT YOU? ANY HOBBIES OF INTEREST?
+PROGRAM[15:11:56] I am rubber, you are glue.  Or something...
+JUDGE08[15:12:21] STAY AWAY FROM THE SMART COMMENTS. HAVE YOU A HOBBY WORTH
+JUDGE08[15:12:21] DISCUSSING?
+PROGRAM[15:12:33] Because I don't deem them worthy of a reply.
+JUDGE08[15:12:49] AH WELL ... EACH TO HIS OWN. HAVE YOU TRAVELLED MUCH?
+PROGRAM[15:13:09] Oh, you're not boring!  We're just talking about boring
+PROGRAM[15:13:09] things, that's all!
+JUDGE08[15:13:34] DID YOU GET TO SEE ANY OF THE CYLING ON TELE?
+PROGRAM[15:13:49] I think that they are evil, and a danger to modern society!
+JUDGE08[15:14:07] WHAT ARE YOUR FOOTY TEAM'S CHANCES THIS YEAR?
+PROGRAM[15:14:20] You too.  I guess we're both pretty harmless.
+JUDGE08[15:14:43] ANY MUSICAL INTERESTS?
+PROGRAM[15:15:15] No worries, mate.  Various things.  I'm learning to dance
+PROGRAM[15:15:15] the jive with my gf, and I'm gradually learning to play the
+PROGRAM[15:15:15] piano.
+JUDGE08[15:15:34] GOOD FOR YOU! I'M OFF TO THE UK NEXT YEAR ON A CHOIR TOUR!
+PROGRAM[15:15:56] It was a sudden irresistable urge.  And it felt so good!
+JUDGE08[15:16:05] WOT WAS?
+PROGRAM[15:16:47] Indeed.  Let's get philosophical, then.  I'm planning to go
+PROGRAM[15:16:47] travelling around about May this YEAR.  I have a PC at home,
+PROGRAM[15:16:47] and an Amiga.  Oh, and a PlayStation too.
+JUDGE08[15:17:01] WHERE YOU GONNA TRAVEL?
+PROGRAM[15:17:17] Phew!  Well, that's kind-of a secret, I'm afraid.
+JUDGE08[15:17:29] WHAT'S SO SECRET ABOUT TRAVELLING?
+PROGRAM[15:18:22] Great!  Now, let's move onto something controversial.  How
+PROGRAM[15:18:22] did you spend New Year's?  I had a pretty wild one myself.
+PROGRAM[15:18:22] Lot's of alcohol and dancing was involved.  We went to the
+PROGRAM[15:18:22] Royal Perth yacht Club.
+JUDGE08[15:21:33] GOODBYE @@T
+JUDGE08[15:24:24] @@07
+*** JUDGE07 ***
+PROGRAM[15:24:41] Greetings, judge-type person.  How's it going with you?
+JUDGE07[15:25:41] im  getting moreconfident but loooking forward to having and
+JUDGE07[15:25:41] intelliegent and interessting conversation.
+PROGRAM[15:26:01] Well, I'll try.  I just don't like this question and answer
+PROGRAM[15:26:01] bullshit.
+JUDGE07[15:27:03] ADELAIDE is a very good place to live but i am originally
+JUDGE07[15:27:03] apom
+PROGRAM[15:27:26] Oh.  That's a pity; I've enjoyed your company more than the
+PROGRAM[15:27:26] other boring judges)!
+JUDGE07[15:27:55] DON"T FLATTER.  DO YOU LIKE READING?
+PROGRAM[15:28:12] Not in the slightest.  However, if we were face-to-face...
+JUDGE07[15:28:49] WHAT WOULD YOU SAY IF YOU WERE FACE TO FACE?
+PROGRAM[15:29:19] Yeah, right.  And I can calculate PI to a billion decimal
+PROGRAM[15:29:19] places too.  P.S.  That's *sarcasm* buddy!
+JUDGE07[15:30:05] YOUVE LOST ME THERE.  WHAT IF I SAID I WASNT BORN IN THE
+JUDGE07[15:30:05] SOUND OF BOW BELLS?
+PROGRAM[15:30:20] Well, I'm God.  Begone, you disbeliever!
+JUDGE07[15:31:24] IM NOT A DISBELIVER AT ALL.  I BELIEVE ONE CAN HAVE AA
+JUDGE07[15:31:24] PERSONAL  RELATIONSHLLIP WITH GOD THROUGH JESUS CHRIST
+PROGRAM[15:31:39] I despise you, your face, your idiotic remarks.
+JUDGE07[15:32:47] IF YOU WERE HUMAN YOU LMIGHT DISAGREE, DESPISE OR BE SCEPTIC
+JUDGE07[15:32:47] BUT NOT REPLY AS YOU HAVE DONE.  WHAT ARE YOUR BELIEFS
+PROGRAM[15:33:00] Okay, I will... oops, I forgot what I said!
+JUDGE07[15:33:21] THANKS YOU HAVE ANSWERED MY QUESTIIONS
+PROGRAM[15:33:29] Oh, I like Indian curries.
+JUDGE07[15:33:47] NOW WE ARE GETTING SOMEWHERE
+PROGRAM[15:34:27] Great!  Now, let's move onto something controversial.  I am
+PROGRAM[15:34:27] the sort of person who goes of on tangents, get's
+PROGRAM[15:34:27] sidetracked, and generally talks a lot of television?
+JUDGE07[15:35:21] @@T
+(c) 1999 Cambridge Center for Behavioral Studies all rights reserved
+
+[NonI] [Jason Lloyd Hutchens]
+
+Start at: [1999/01/22 15:37:21]
+
+PROGRAM[15:37:30] Hello and welcome!
+
+JUDGE00[15:37:42] @@T
+
+JUDGE00[15:38:33] @@03
+
+*** JUDGE03 ***
+
+PROGRAM[15:38:47] Greetings, judge-type person.  How's it hanging?
+
+JUDGE03[15:39:10] IT is going fine so far. How about you?
+
+PROGRAM[15:39:23] Well, it was an interesting story nonetheless.
+
+JUDGE03[15:39:40] Could you tell me a bit about yourself?
+
+PROGRAM[15:40:08] Not at all.  Eliza is a fairly historic program, though, so
+
+PROGRAM[15:40:08] I don't mind the comparison.  Except that I'm no program!
+
+JUDGE03[15:40:21] WHO  is Eliza?
+
+PROGRAM[15:40:50] Not at all.  Eliza is a fairly historic program, though, so
+
+PROGRAM[15:40:50] I don't mind the comparison.  Except that I'm no program!
+
+JUDGE03[15:40:56] What is your name?
+
+PROGRAM[15:41:11] It's hutch@tmbg.org.  Send me email some time.
+
+JUDGE03[15:41:24] Hi hutch! What do you do for a living?
+
+PROGRAM[15:41:51] I've used Eliza once or twice.  How does it compare to the
+
+PROGRAM[15:41:51] programs you've talked to today.
+
+JUDGE03[15:41:59] What is Eliza?
+
+PROGRAM[15:42:29] Not at all.  Eliza is a fairly historic program, though, so
+
+PROGRAM[15:42:29] I don't mind the comparison.  Except that I'm no program!
+
+JUDGE03[15:42:55] What is your favourite color?
+
+PROGRAM[15:43:12] Well, that's kind-of a secret, I'm afraid!
+
+JUDGE03[15:43:26] My favourite colour is red. Do you like red?
+
+PROGRAM[15:44:11] I was never any good at maths, and I don't have my
+
+PROGRAM[15:44:11] calculator here.  Maybe I can pop-up the calculator under
+
+PROGRAM[15:44:11] Windows.  What do you think of the new space station thingy
+
+PROGRAM[15:44:11] they're building?
+
+JUDGE03[15:44:26] Where are the building it?
+
+PROGRAM[15:45:15] That's good to hear.  Did you have a good Christmas?  Mine
+
+PROGRAM[15:45:15] was pretty quiet.  For a first this year, we didn't have
+
+PROGRAM[15:45:15] Christmas lunch with my father's family. We changed it to
+
+PROGRAM[15:45:15] dinner instead.  Much nicer.
+
+JUDGE03[15:45:21] bye
+
+PROGRAM[15:45:33] Great!  I'll shout you a beer!
+
+JUDGE03[15:46:48] @@T
+
+JUDGE03[15:52:46] @@09
+
+*** JUDGE09 ***
+
+PROGRAM[15:53:00] Greetings, judge-type person.  How's it hanging?
+
+JUDGE09[15:53:14] loose, dude.
+
+PROGRAM[15:53:31] Excellent.  I've deduced as much already!  What is one of
+
+PROGRAM[15:53:31] your problems?
+
+JUDGE09[15:53:38] sex
+
+PROGRAM[15:54:25] Sorry.  Let's talk about something else... Yes, I like to
+
+PROGRAM[15:54:25] write C programs, and I've been playing around with my Net
+
+PROGRAM[15:54:25] Yaroze, which is called a yaroze.  You can call me whatever
+
+PROGRAM[15:54:25] pleases you!
+
+JUDGE09[15:54:35] WHAT IS A YAROZE?
+
+PROGRAM[15:54:44] I like playing games on the PlayStation.
+
+JUDGE09[15:54:51] COOL
+
+PROGRAM[15:54:59] Sorry, didn't mean to get uptight.
+
+JUDGE09[15:55:16] MY FAULT< MAN>
+
+PROGRAM[15:55:23] Why are you sorry?
+
+JUDGE09[15:55:36] BECAUSE I WAS UNCOOL
+
+PROGRAM[15:55:51] Do you speak any languages besides English?
+
+JUDGE09[15:55:59] HABLA ESPANOL?
+
+PROGRAM[15:56:14] Me too.  What do you think of the Bill Clinton scandal?
+
+JUDGE09[15:56:28] HILARY_OUS
+
+PROGRAM[15:57:12] Okay, how about this: How did you spend New Year's?  I had a
+
+PROGRAM[15:57:12] pretty wild one myself. Lot's of alcohol and dancing was
+
+PROGRAM[15:57:12] involved.  We went to the Royal Perth yacht Club.
+
+JUDGE09[15:57:20] BYE
+
+PROGRAM[15:57:33] See you later.  Hey, I'll shout you one, too.
+
+JUDGE09[17:48:58] @@X
+

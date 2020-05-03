@@ -1,0 +1,76 @@
+(exp_sys1_state==0)
+""
+{
+	response+="Do you know want to learn something about expert systems?";
+	exp_sys1_state=1;
+}
+[]
+
+
+/*------------------------------------------------------------------------------*/
+
+(exp_sys1_state==1)
+""
+{
+	response+="An expert system is a computer program that simulates the judgment and "; 		
+	response+="behavior of a human or an organization that has expert knowledge and "; 		
+	response+="experience in a particular field.";
+	exp_sys1_state=2;
+}
+[]
+
+
+(exp_sys1_state==1)
+"#BYE_WORD#"
+{
+	exp_sys1_state=4;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+/*------------------------------------------------------------------------------*/
+
+(exp_sys1_state==2)
+""
+{
+	response+="An expert system is made up of a knowledge base that contains accumulated "; 		
+	response+="experience and a set of rules for applying that knowledge base to a "; 		
+	response+="particular situation. ";
+	exp_sys1_state=3;
+}
+[]
+
+
+(exp_sys1_state==2)
+"#BYE_WORD#"
+{
+	exp_sys1_state=4;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+/*------------------------------------------------------------------------------*/
+
+(exp_sys1_state==3)
+""
+{
+	response+="Expert systems are the ones that play chess and assist in medical "; 			
+	response+="diagnosis. They are also a part of the 'strong AI' field. ";
+	changecontext("default");
+	exp_sys1_state=4;
+}
+[]
+
+
+(exp_sys1_state==3)
+"#BYE_WORD#"
+{
+	exp_sys1_state=4;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+/*------------------------------------------------------------------------------*/

@@ -1,0 +1,52 @@
+
+(1)
+"(#WORD_BOUNDARIES#)#COMMON_NAME#(#WORD_BOUNDARIES#)"
+{
+	changecontext("confirmname");
+	throw(input);
+}
+[]
+0
+
+(1)
+"(#WORD_BOUNDARIES#)#NON_NAME#(#WORD_BOUNDARIES#)"
+{
+	changecontext("invalidname");
+	throw(input);
+}
+[]
+-1
+
+(1)
+".*"
+RANDOMLOOP
+{
+	tempname = input;
+	changecontext("yesnoreply");
+	response =  "Do you want me to call you "+input+" from now on?";
+}
+{
+	tempname = input;
+	changecontext("yesnoreply");
+	response = "Is your name "+input+"?";
+}
+[]	
+-2
+
+(1)
+""
+{
+	changecontext("default");
+	throw(input);
+}
+[]
+-999
+
+(1)
+""
+{
+	changecontext("default");
+	throw(input);
+}
+[]
+-999

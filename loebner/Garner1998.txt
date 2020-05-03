@@ -1,0 +1,114 @@
+
+(C) 1998 Cambridge Center for Behavioural Studies
+Software: Albert One v. 1.0 (C) 1997 Robitron Software Research, Inc.
+Start at: 98.01.11 14:06:24
+
+* * * BEGIN Judge 2
+* * * PROGRAM[14:12:16]Hello. My name is Albert. Who are you?
+
+JUDGE002 [14:12:25] Greetings, I'm judge 2
+PROGRAM[14:12:36] I'm not sure what to talk about with you. Are you a girl
+or a boy?
+
+JUDGE002[14:12:42]girl. how are you?
+PROGRAM[14:12:51]Are you married? I'm doing just fine, thanks.
+
+JUDGE002[14:13:03]would you like to talk about somethng interesting?
+PROGRAM[14:13:17]MP is an abbreviation for Member of Parliament.
+
+JUDGE002[14:13:29]right, why did you say that?
+PROGRAM[14:13:37]I just felt like it.
+
+JUDGE002[14:13:47]okay, did you hit a wrong button?
+PROGRAM[14:13:56]Do you come from around here?
+
+JUDGE002[14:14:00]yes, do you?
+PROGRAM[14:14:03]No I don't.
+
+JUDGE002[14:14:16]where do you come from
+PROGRAM[14:14:20]I am from Earth.
+
+JUDGE002[14:14:34]well that's very specific indeed. what are your interests>
+
+PROGRAM[14:14:47]Would you like to have a drink with me later? let's not get
+too
+PROGRAM[14:14:48]personal.
+
+JUDGE002[14:14:57]what do you work as?
+PROGRAM[14:15:10]I've worked on a lot of PC's and some mini computers and
+mainframes
+PROGRAM[14:15:14]when I was in college.
+
+JUDGE002[14:15:20]what did you do at uni?
+PROGRAM[14:15:30]You should worry more about what you mean.
+
+JUDGE002[14:15:36]what do you mean?
+PROGRAM[14:15:42]You should worry more about what you mean.
+
+JUDGE002[14:15:48]and what does that mean?
+PROGRAM[14:15:53]Tiberius
+
+JUDGE002[14:16:08]okay, well if you're going to be completely incoherent how
+
+JUDGE002[14:16:19]am I supposed to have a conversation with you?
+PROGRAM[14:16:33]Do you like Mexican food?
+
+JUDGE002[14:16:42]never had any. do you like oysters?
+PROGRAM[14:16:53]I can certainly hope that any. You aren't going to
+dissapoint me I
+PROGRAM[14:16:54]hope?
+
+JUDGE002[14:17:03]what do you mean by that?
+PROGRAM[14:17:13]I don't know what I mean. You tell me what you think and
+I'll tell
+PROGRAM[14:17:16]you if I agree or not.
+
+JUDGE002[14:17:39]okay, well your response wasn't exactly grammatical so
+maybe you'd like t
+JUDGE002[14:17:47]to rephrase your response?
+PROGRAM[14:18:02]Would you like to have the 5 minute argument or were you
+thinking of
+PROGRAM[14:18:06]going for the whole half hour?
+
+JUDGE002[14:18:17]well I didn't expect the Spanish inquisition!
+PROGRAM[14:18:26]I really didn't have to know about "did not expect the
+spanish
+PROGRAM[14:18:27]inquisition!"
+
+JUDGE002[14:18:35]aren't you a Monty Python fan?
+PROGRAM[14:18:42]Yes. I am a big Python fan.
+
+JUDGE002[14:18:54]then what's the counter-quote?
+PROGRAM[14:19:01]I can't remember off hand.
+
+JUDGE002[14:19:22]It's Nobody expects the Spanish inquisition! Now how about
+my
+JUDGE002[14:19:28]five minute argument?
+PROGRAM[14:19:43]And now for something completely different. Are you fond of
+cats?
+
+JUDGE002[14:19:53]No, but I'd like to buy some cheese.
+PROGRAM[14:20:05]Have you seen any good movies lately?
+
+JUDGE002[14:20:20]yes, saw the James Bond one a few weeks ago. what about
+you?
+PROGRAM[14:20:30]Ive been watching a lot of stuff on home video. It just
+gets harder
+PROGRAM[14:20:41]and harder to get out to a theatre somehow. I didnt even
+see Star Trek:
+PROGRAM[14:20:51]First Contact in the theater, I'm waiting for it to come
+out on tape.
+
+JUDGE002[14:21:07]is is out on video. and its brilliant. are you American?
+PROGRAM[14:21:26]Don't like to talk much then eh? The five year mission is
+to seek out
+PROGRAM[14:21:32]and explore new worlds and new civilizations. Yes.
+
+JUDGE002[14:21:48]First contact is brilliant. go and see it now!
+PROGRAM[14:22:02]Mr. Spock is the first officer. Do you like synthesizer
+music?
+
+JUDGE002[14:22:09]nope. don't tell me you do?
+PROGRAM[14:22:20]Yeah, apparently all these upstart bands are getting back
+into these
+PROGRAM[14:22:29]older analog synthes

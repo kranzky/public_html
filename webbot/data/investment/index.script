@@ -1,0 +1,62 @@
+(1)
+"invest.*"
+{
+	response =  "Ai is a well-funded company, but we are always happy to explore interesting investment opportunities. We would be happy to hear from you at invest@a-i.com";
+	response += "<ACTION>url:#CONTACT_PAGE#</ACTION>";
+	changecontext("default");
+}
+[]
+0
+
+(1)
+"private"
+"public"
+"stock symbol"
+"nasdaq"
+"market cap"
+{
+	response =  "Ai is a private company.";
+	changecontext("default");
+}
+[]
+-1
+
+(1)
+"ipo"
+"public offering"
+{
+	response =  "Ai is not planning an IPO in the near future.";
+	changecontext("default");
+}
+[]
+-2
+
+(1)
+"fund.*"
+"financial backing"
+"financed"
+"backers"
+{
+	response =  "Ai is financed purely by private funds.";
+	changecontext("default");
+}
+[]
+-3
+
+(1)
+""
+{
+	changecontext("default");
+	throw(input);
+}
+[]
+-999
+
+(1)
+""
+{
+	changecontext("default");
+	throw(input);
+}
+[]
+-999

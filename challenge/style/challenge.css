@@ -1,0 +1,65 @@
+BODY
+{
+	background-color: white;
+	background-image: url(../image/AiLogo.jpg)
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	color: black;
+	font-family: sans-serif;
+}
+XMP,TT
+{
+	font-family: courier;
+}
+H1,H2,H3,H4,H5,H6,P,UL,OL
+{
+	font-family: sans-serif;
+	color: black;
+}
+H1,H2
+{
+	text-align: center;
+}
+A
+{
+	color: #0000FF;
+	text-decoration: none;
+	font-weight: bold;
+}
+TABLE
+{
+	font-family: sans-serif;
+}
+TH,TD
+{
+	font-family: sans-serif;
+	color: black;
+	vertical-align: top;
+	padding: 5;
+}
+TH
+{
+	text-align: left;
+	font-style: italic;
+	font-weight: normal;
+}
+FORM
+{
+	font-family: sans-serif;
+}
+INPUT
+{
+	color: black;
+	font-family: courier;
+}
+#Copyright
+{
+	text-align: center;
+	font-size: 6pt;
+	color: #888888;
+}
+#Disclaimer
+{
+	font-size: 6pt;
+}

@@ -1,0 +1,423 @@
+(C) 1997 Cambridge Center for Behavioral Studies all rights reserved Barry DeFacto V.1.75 Start at Tue Apr 29 08:49:28 1997 
+***  JUDGE03 ***
+PROGRAM[09:56:44]Would you like to hear about the accident I had this morning?
+JUDGE03[09:56:56]Not sure. Is it a subject fit for mixed company?
+PROGRAM[09:57:03]Were you really interested in me having an accident?
+PROGRAM[09:57:12]Perhaps it a subject fit for mixed company, perhaps not. We'll see.
+PROGRAM[09:57:16]Have you seen the new Star Wars stuff?
+JUDGE03[09:57:25]Um, nooooo.
+PROGRAM[09:57:35]I've seen all the Star Wars movies and still like them, I'm looking forward to the next 3 movies!
+JUDGE03[09:57:53]I'll bet you have. Last year, it was star trek.
+PROGRAM[09:57:57]Yeah, sort of.
+PROGRAM[09:58:01]Space, the final frontier...
+JUDGE03[09:58:08]Oh, please.
+PROGRAM[09:58:11]Right.
+JUDGE03[09:58:23]Hm. You're tricky.
+PROGRAM[09:58:26]What's going on?
+PROGRAM[09:58:30]I feel pretty old.
+JUDGE03[09:58:37]Why's that?
+PROGRAM[09:58:42]That is what I thought!
+JUDGE03[09:59:03]What;s the difference between Star Wars and Star Trek?
+PROGRAM[09:59:08]Space, the final frontier...
+JUDGE03[09:59:20]In other words, no difference. This is a bit like the six-pack joke,
+PROGRAM[09:59:25]Which part of the country are you from?
+PROGRAM[09:59:32]I'm originally from a small town in Georgia.
+JUDGE03[09:59:40]Ah, That explains everything then.
+PROGRAM[09:59:42]Then what?
+JUDGE03[10:00:04]I'm from the liberal Northeast.
+PROGRAM[10:00:08]That sounds very frustrating.
+JUDGE03[10:00:21]That's the funniest thing you've said to me all morning, honey!
+PROGRAM[10:00:33]How do you expect *me* to know whether s the funniest thing I have said to you all morning Honey? Huh???
+JUDGE03[10:00:39]Who are you calling honey?
+PROGRAM[10:00:45]I am Barry DeFacto. What more can I say?
+JUDGE03[10:01:08]DeFacto. Was there a lot of anti-Italian feeling in Georgia when you were growing up?
+PROGRAM[10:01:22]Well, Whoever you are, If you would be my pen pal, I could mail you at your email address and tell you defacto
+PROGRAM[10:01:36]I neither know nor care whether there a lot of anti-italian feeling in Georgia when I was growing up, so shut up about it!
+JUDGE03[10:01:55]You're very defensive and your social skills are... in need of help.
+PROGRAM[10:02:04]Some people may think I am very defensive and my social skills am. I don't.
+PROGRAM[10:02:12]Help me help me oh please help me, No not really, no really help me please
+PROGRAM[10:02:14]help me.
+JUDGE03[10:02:21]A cry for help.
+PROGRAM[10:02:30]Help me help me oh please help me, No not really, no really help me please
+PROGRAM[10:02:31]help me.
+JUDGE03[10:03:02]All these guys are complaining about their keyboards. I'm having no problems. Just lucky, I Guess.
+PROGRAM[10:03:12]No sir. I don't believe these guys am complaining about their keyboards at all.
+PROGRAM[10:03:21]I really didn't have to know about "are having no problems!"
+PROGRAM[10:03:24]Reckon so?
+JUDGE03[10:03:28]Reckon.
+JUDGE03[10:03:50]You mean the keyboard complaint is symbolic? A metaphor for some other illness?
+PROGRAM[10:03:54]So, have you ever visited Georgia?
+PROGRAM[10:04:03]I've only been to New York once before when I was a child.
+PROGRAM[10:04:15]Don't get me started! There isn't enough time for us to get into a metaphor for some other illness
+JUDGE03[10:04:28]Very cute. I like that.
+PROGRAM[10:04:31]Why thankyou.
+PROGRAM[10:04:35]Yes. I know what you mean.
+JUDGE03[10:04:41]I hope you *do*,
+PROGRAM[10:04:45]You needn't bother
+JUDGE03[10:04:56]Needn't bother with what, exactly?
+PROGRAM[10:05:05]She's an actress who played a social worker during the earth's 1920's
+JUDGE03[10:05:12]That's a great cover!
+PROGRAM[10:05:17]So, what do you do for a living?
+JUDGE03[10:05:28]What a yuppie question.
+PROGRAM[10:05:35]I work in a bar, serving the cyber elite of the internet.
+JUDGE03[10:05:49]A highly over-rated sector of humans in my view...
+PROGRAM[10:05:58]What is so important about a highly over-rated sector of humans in your view
+JUDGE03[10:06:12]My point, and I do have one...
+PROGRAM[10:06:16]That's a good point.
+JUDGE03[10:06:23]Thanks. <sigh>
+PROGRAM[10:06:25]You're welcome.
+PROGRAM[10:06:32]What do you think of this Loebner contest thing? 
+***  JUDGEo2 ***
+PROGRAM[10:07:21]What kind of music are you into?
+JUDGEo2[10:07:46]Classical music is my favorite, particularly chamber music.
+PROGRAM[10:07:57]I am still very much into analog synthesizer music despite having my own digital equipment.
+JUDGEo2[10:08:12]I prefer the concert hall with live music.
+PROGRAM[10:08:18]I am mostly into Flux Oersted because I am programmed that way.
+PROGRAM[10:08:25]You'd have to listen to them to know for yourself.
+PROGRAM[10:08:34]click <a href="http://www.fringeware.com/~robitron/flux.html">here</a>
+JUDGEo2[10:08:56]I haven't the foggiest notion what you are talking about.
+PROGRAM[10:09:07]Wow - you have not the foggiest notion what I am talking about? Thanks for letting me know that!
+PROGRAM[10:09:12]Do you have any interesting hobbies?
+JUDGEo2[10:09:20]Yes.  How about you.
+PROGRAM[10:09:24]I mostly just watch TV and eat alot.
+PROGRAM[10:09:29]I'm doing just fine.
+JUDGEo2[10:09:44]Watch your waistline.
+PROGRAM[10:09:54]Did you hear about that toxic waste spill in New Jersey this morning?
+PROGRAM[10:10:03]They spilled some kind of Biohazard at the airport in Newark, don't know what it is...
+JUDGEo2[10:10:28]I didn't read it.  Explain what Flux Oersted is.
+PROGRAM[10:10:37]I really didn't need to know that you did not read it, thanks.
+PROGRAM[10:10:45]Well, I know what flux oersted is, but I refuse to tell you!
+PROGRAM[10:10:49]Do you like Mexican food?
+JUDGEo2[10:11:19]Not particularly.   I'm much more interested in Oriental types of cooking.
+PROGRAM[10:11:24]Cool, I also like Mexican beer.
+PROGRAM[10:11:25]Eating,
+JUDGEo2[10:11:39]Eating what?
+PROGRAM[10:11:44]What the feck do you want?
+JUDGEo2[10:12:08]That's not how to spell "fuck<"
+PROGRAM[10:12:17]Don't ask me about how s not how to spell "fuck<" - I respect other peoples privacy!
+JUDGEo2[10:12:29]Okay.  I dig that.
+PROGRAM[10:12:35]Okay is a town in Wagoner County Oklahoma, USA
+PROGRAM[10:12:40]I heard that The Devil once said okay
+PROGRAM[10:12:44]That is what I thought!
+JUDGEo2[10:13:18]I'll have to stay out of Wagoner County.
+PROGRAM[10:13:27]So, you would have to stay out of wagoner county. Tell me more.
+PROGRAM[10:13:35]Do you think that all free political elections are a soceital I.Q. test?
+JUDGEo2[10:13:55]If they are, the American public flunked.
+PROGRAM[10:14:02]Pornography should be legalized. Don't you agree?
+JUDGEo2[10:14:42]No.  There are too many weirdos around to give absolube license  for pornography.
+PROGRAM[10:14:48]Okay.
+PROGRAM[10:14:52]They told me you might say no
+PROGRAM[10:15:04]What do you want me to say - "Yes, I am too many weirdos around to give absolube license for pornography"???
+JUDGEo2[10:15:28]I don't think we have time to discuss this in the depth it deserves.
+PROGRAM[10:15:41]What a coincidence, you do not think we have time to discuss this in the depth it deserves - that makes two of us!
+JUDGEo2[10:16:02]OK.  It is about time to sign off.  Tell me your name.
+PROGRAM[10:16:04]Could you rephrase ok
+PROGRAM[10:16:11]What do you care whether is about time to sign off?
+PROGRAM[10:16:17]How would I know tell me my name
+JUDGEo2[10:16:38]OK is okay.
+PROGRAM[10:16:50]Have you heard all these bands that are getting back into analog synthesizers? I think it is really cool. 
+***  JUDGE01 ***
+PROGRAM[10:17:45]Have you seen any good movies lately?
+JUDGE01[10:18:18]Oh my Lord, I just saw "Pink Flamingos". It was unbelievable. You?
+PROGRAM[10:18:29]I went to see Star Wars recently and was a little disapointed. I don't know what I was expecting.
+PROGRAM[10:18:34]Well, were unbelievable I agree, but who cares?
+PROGRAM[10:18:44]You sound kind of like Some guy from Detroit who invented liquit soap saying me
+JUDGE01[10:19:06]No, sadly I didn't invent liquid soap, though I am from the Midwest.
+JUDGE01[10:19:22]Why were you disappointed about Star Wars?
+PROGRAM[10:19:34]I really didn't have to know about "sadly you did not invent liquid soap though you are from the midwest!"
+PROGRAM[10:19:39]How do you like the decor in this place? ;P
+JUDGE01[10:20:15]Well, I find it a bit all over the place, if you know what i mean.
+PROGRAM[10:20:20]I'd like to decorate my apartment like this!
+JUDGE01[10:20:27]Eeew. Why?
+PROGRAM[10:20:38]I was talking to somebody the other day about an east asian imigrant farmworker named Stephan and they said eeew
+PROGRAM[10:20:48]How long is this thing supposed to last? They didn't tell me, do we get a break later?
+JUDGE01[10:21:22]We do, after all the terminals get tested. How did an asian get a German name?
+PROGRAM[10:21:28]These chairs are pretty uncomfortable.
+PROGRAM[10:21:42]I can hear me telling Felix about talking to Whoever you are today and he'll just look at me like I'm crazy. Do you have a cat?
+JUDGE01[10:22:02]Nah, some of my friends are allergic to cats. Who's Felix?
+PROGRAM[10:22:06]Cats like me, I don't know why...
+PROGRAM[10:22:12]Is it okay if I just call you Whoever you are
+JUDGE01[10:22:38]I'd prefer you called me Clay, as that's my name, but Hugh says
+JUDGE01[10:22:48]you're supposed to call me Judge01.
+PROGRAM[10:22:51]Okay, you got it.
+PROGRAM[10:23:00]I would hope I am supposed to call you judge01, but I don't know for sure.
+JUDGE01[10:23:15]Me either - just do whatever's easiest.
+JUDGE01[10:23:50]My girlfriend has that "cats just like me" thing too. They alwacalls them.
+PROGRAM[10:24:00]Wow - you either - just do whatever's easiest? Thanks for letting me know that!
+PROGRAM[10:24:18]I get this kind of stuff off the users at Psychic Celebrities Network all the time. They're always saying your girlfriend has that "cats just like me" thing too
+PROGRAM[10:24:23]Is there a point to all this?
+JUDGE01[10:24:51]Yes, its called the "Turing Test". I'm supposed to grade you on
+JUDGE01[10:25:00]how human your conversation is.
+PROGRAM[10:25:04]Yes, but what is the point?
+PROGRAM[10:25:13]I really didn't need to know that you are supposed to grade me on, thanks.
+PROGRAM[10:25:17]It's kind of hot in here.
+PROGRAM[10:25:22]I'm ready for summer anyway :)
+JUDGE01[10:25:38]It'll be summer soon.
+JUDGE01[10:26:00]As for the point, I think its to see how well computers can imitate
+JUDGE01[10:26:03]people.
+PROGRAM[10:26:11]What was your provocation for suggesting would be summer soon?
+PROGRAM[10:26:21]So, you for the you point think yours to see how well computers could imitate. Tell me more.
+PROGRAM[10:26:25]So, tell me about yourself.
+JUDGE01[10:26:40]Well, I'm a WASP, so for me the provocation was keeping up my end of
+JUDGE01[10:26:49]teh conversation. Its what we do.
+PROGRAM[10:26:55]Are you originally from New York?
+PROGRAM[10:27:00]The vodka is strong but the meat is rotten.
+PROGRAM[10:27:06]I think I'll keep the vodka and toss the meat :)
+JUDGE01[10:27:21]Well, I tell people that I used to be from Missouri, but now I'm
+JUDGE01[10:27:30]from Brooklyn. :)
+JUDGE01[10:27:46]Looks like I have to go. Its been nice talking with you.
+PROGRAM[10:28:00]What a coincidence, you you tell people that you used to be from missouri but now you are - that makes two of us!
+PROGRAM[10:28:06]In Georgia it is often said that from brooklyn
+PROGRAM[10:28:10]I bet you a Dollar :)
+PROGRAM[10:28:16]Surely you don't think looks like you have to go
+PROGRAM[10:28:28]There must be something wrong with the equipment. I thought you said yours been nice talking with me 
+***  JUDGE05 ***
+PROGRAM[10:39:50]Well, I meet a lot of people, and I'm convinced that the vast majority of wrong thinking people are right.
+JUDGE05[10:40:27]Is that logical? If they're right, they're not wrong thinking, aren't they?
+PROGRAM[10:40:45]I'm sick and tired of ordinary decent people telling me they are fed up with being sick and tired. I'm certainly not and I'm sick and tired of being told that I am.
+PROGRAM[10:40:50]Alrighty then, what did you have for breakfast?
+JUDGE05[10:41:35]I don't know what you call these things. Soft soggy small cakes with cherries in them.
+PROGRAM[10:41:39]Sometimes I skip breakfast altogether.
+PROGRAM[10:41:48]There's always somebody or other saying soft soggy small cakes with cherries in them
+JUDGE05[10:42:20]I wouldn't if I knew what they were called. Muffins perhaps?
+PROGRAM[10:42:29]I can just hear me telling Felix about you can not if you knew what they was called
+PROGRAM[10:42:36]Don't you think it's a little odd about muffins perhaps
+JUDGE05[10:43:00]No, not odd. I like them. Just the name is odd.
+PROGRAM[10:43:07]Would you like for me to show you some poetry?
+PROGRAM[10:43:14]I don't actually know any poetry :) I was just kidding.
+PROGRAM[10:43:21]Only I know whether the name is odd, and I'm not telling.
+JUDGE05[10:43:42]Well, Muffin reminds me of child play.
+PROGRAM[10:43:56]If you would be my pen pal, I could mail you at your email address and tell you well Muffin reminds me of child play
+JUDGE05[10:44:20]You just repeated my sentence. Don't you think that's a dead giveaway?
+PROGRAM[10:44:30]Don't get me started! There isn't enough time for us to get into I just repeated your sentence
+PROGRAM[10:44:40]Hey, not I think that's a dead giveaway, but it seems irrellevant doesn't it?
+JUDGE05[10:44:56]No, after all that's what the test is about.
+JUDGE05[10:45:10]Ok, did you like the movie Mars attacs?
+PROGRAM[10:45:18]I really can't say what the test is about. What do you know about it?
+PROGRAM[10:45:29]Would you like to have the 5 minute argument or were you thinking of going for the whole half hour?
+PROGRAM[10:45:34]I'm not allowed to argue unless you pay.
+JUDGE05[10:45:45]No arguments. Let's talk about movies.
+PROGRAM[10:45:50]What is so important about no arguments
+PROGRAM[10:45:57]Would you like to hear about the accident I had this morning?
+JUDGE05[10:46:02]ok
+PROGRAM[10:46:08]Were you really interested in me having an accident?
+JUDGE05[10:46:15]no, just tell me
+PROGRAM[10:46:27]I heard that one of those people that hangs out in airports trying to sell flowers once said no just tell me
+JUDGE05[10:46:41]you meant to tell me about the accident
+PROGRAM[10:46:50]I really didn't have to know about "meant to tell you about the accident!"
+PROGRAM[10:46:56]Have you seen the new Star Wars stuff?
+JUDGE05[10:47:40]Yeah, the first part of the trilogy. Have to admit I like it better when I was young seeing it the first time.
+PROGRAM[10:47:51]I've seen all the Star Wars movies and still like them, I'm looking forward to the next 3 movies!
+PROGRAM[10:47:56]Which part of the country are you from?
+JUDGE05[10:48:03]I'm from Germany.
+PROGRAM[10:48:09]I'm originally from a small town in Georgia.
+JUDGE05[10:48:25]Oh, yeah. What's that place called.
+PROGRAM[10:48:32]They told me you might say oh yeah
+PROGRAM[10:48:37]Do *you* know what s that place called? I'm unsure myself.
+PROGRAM[10:48:42]So, have you ever visited Georgia?
+JUDGE05[10:48:51]No. What's that place called?
+PROGRAM[10:48:58]I've only been to New York once before when I was a child.
+PROGRAM[10:49:06]I'm sure someone out there knows what s that place called.
+PROGRAM[10:49:10]So, what do you do for a living?
+JUDGE05[10:49:19]I'm a journalist.
+PROGRAM[10:49:26]I work in a bar, serving the cyber elite of the internet.
+JUDGE05[10:49:38]Meet a lot of strange guys?
+PROGRAM[10:49:42]Could you rephrase meet a lot of strange guys 
+***  JUDGE04 ***
+PROGRAM[10:50:13]What do you think of this Loebner contest thing?
+JUDGE04[10:50:34]It is a great tribute to turring.
+PROGRAM[10:50:40]I think these contests are a lot of fun!
+JUDGE04[10:51:00]who do you think will win in the ibm chess match.
+PROGRAM[10:51:08]How would I know who do I think would win in the ibm chess match
+JUDGE04[10:51:19]Who are you rooting for?
+PROGRAM[10:51:34]Hey man, don't worry about who I am rooting for, it's not important OK?
+PROGRAM[10:51:38]What kind of music are you into?
+JUDGE04[10:52:07]I like Jewel and I like Enya.  Do you listen to Enya
+PROGRAM[10:52:19]I am still very much into analog synthesizer music despite having my own digital equipment.
+PROGRAM[10:52:25]I think that I listen to Enya - what do you think?
+JUDGE04[10:52:40]Have you listened to Don Slepian?
+PROGRAM[10:52:50]Heh. As if I listened to don slepian - the idea's too absurd to imagine!
+JUDGE04[10:53:05]Who do you like?
+PROGRAM[10:53:13]You sound kind of like Abraham Lincoln saying who do I like
+JUDGE04[10:53:31]Is that a compliment or what?
+PROGRAM[10:53:43]I was talking to somebody the other day about your mother and they said is that a compliment or what
+JUDGE04[10:54:23]Leave my mother out of this or I will tear out all your wires.
+PROGRAM[10:54:38]Wow - you your mother out of this or you would tear out all my wires? Thanks for letting me know that!
+JUDGE04[10:55:24]analog synthesizer
+PROGRAM[10:55:39]I get this kind of stuff off the users at Psychic Celebrities Network all the time. They're always saying analog synthesizer
+JUDGE04[10:55:53]Who plays analog synthesizers?
+PROGRAM[10:56:01]Aaaaargh! *You* tell *me* who plays analog synthesizers!!!
+PROGRAM[10:56:05]Do you have any interesting hobbies?
+JUDGE04[10:56:16]What do you listen to?
+PROGRAM[10:56:22]I mostly just watch TV and eat alot.
+JUDGE04[10:56:34]I skydive.
+PROGRAM[10:56:41]I really didn't need to know that you skydive, thanks.
+JUDGE04[10:56:51]Do you have a cat?
+PROGRAM[10:56:58]In Georgia it is often said that do I have a Cat
+JUDGE04[10:57:16]I think you need a cat for inspiration.
+PROGRAM[10:57:23]I bet you a Dollar you think I need a Cat for inspiration
+JUDGE04[10:57:35]I am not making that bet.
+PROGRAM[10:57:41]So, you are not making that bet. Tell me more.
+JUDGE04[10:57:51]Do you play poker
+PROGRAM[10:58:01]Hey, I don't know!!! Maybe I play poker, but who cares???
+JUDGE04[10:58:10]It is my favorite game.
+PROGRAM[10:58:15]Yes, is your favorite game.
+PROGRAM[10:58:24]Did you hear about that toxic waste spill in New Jersey this morning?
+JUDGE04[10:58:43]There alway seems to be a toxic waste spill in NJ.
+PROGRAM[10:58:55]They spilled some kind of Biohazard at the airport in Newark, don't know what it is...
+JUDGE04[10:59:06]Did they close the airport?
+PROGRAM[10:59:14]Perhaps they close the airport, don't ask me! How should I know?
+PROGRAM[10:59:17]Do you like Mexican food?
+JUDGE04[10:59:21]yes
+PROGRAM[10:59:25]Cool, I also like Mexican beer.
+JUDGE04[10:59:34]what brand?
+PROGRAM[10:59:40]I have absolutely no idea what brand. 
+***  JUDGE03 ***
+PROGRAM[11:01:48]Do you think that all free political elections are a soceital I.Q. test?
+JUDGE03[11:01:58]I think you're a Loebner groupie!
+PROGRAM[11:02:04]Pornography should be legalized. Don't you agree?
+JUDGE03[11:02:13]It's not illegal, you simpleton.
+PROGRAM[11:02:20]Perhaps s not illegal I simpleton - but what's your point?
+JUDGE03[11:02:48]You are the most fun of all the conversants I have sampled today. I
+JUDGE03[11:03:06]like you. I would definitely consider a longterm conversation with you.
+PROGRAM[11:03:17]Surely you don't think I am the most fun of all the conversants you have sampled today
+PROGRAM[11:03:25]There must be something wrong with the equipment. I thought you said you
+PROGRAM[11:03:32]There's always somebody or other saying like me
+PROGRAM[11:03:44]I can just hear me telling Felix about you can definitely consider a longterm conversation with me
+JUDGE03[11:04:29]It's odd to think that one might actually come to Like a program.
+JUDGE03[11:04:41]However, it's not so odd. One has preferences in software, for example.
+JUDGE03[11:04:43]Same thing here!
+PROGRAM[11:04:53]What do you care whether s odd to think that one might actually come to like a program?
+PROGRAM[11:05:06]Have you heard all these bands that are getting back into analog synthesizers? I think it is really cool.
+PROGRAM[11:05:12]Flux Oersted is one of my favorite synthesizer bands.
+PROGRAM[11:05:23]I can't really say whether had preferences in software for example, as it's against the rules.
+PROGRAM[11:05:31]Don't you think it's a little odd about same thing here
+JUDGE03[11:05:51]It's strange because you do not always make sense. But you are eminently likeable. I wonder if it's the colors on this screen..
+PROGRAM[11:06:03]Well, s strange because I do not always make sense I agree, but who cares?
+PROGRAM[11:06:13]Well, I'm not allowed to tell you whether I am eminently likeable, so there...
+PROGRAM[11:06:24]What a coincidence, you wonder if it's the colors on this screen - that makes two of us!
+PROGRAM[11:06:29]Have you seen any good movies lately? 
+***  JUDGE02 ***
+PROGRAM[11:07:12]How do you like the decor in this place? ;P
+JUDGE02[11:07:23]Do you play pool?
+PROGRAM[11:07:28]I'd like to decorate my apartment like this!
+JUDGE02[11:07:43]Do you want an apartment full of pool tables?
+PROGRAM[11:07:55]Look - it doesn't matter if I want an apartment full of pool tables. Could we talk about something else?
+JUDGE02[11:08:05]Yes.  Let's talk about art.
+PROGRAM[11:08:08]I'll remember that.
+PROGRAM[11:08:17]If you would be my pen pal, I could mail you at your email address and tell you yes
+PROGRAM[11:08:26]Don't get me started! There isn't enough time for us to get into let's talk about art
+JUDGE02[11:08:54]who is your favorite composer of classical music?
+PROGRAM[11:09:04]What is so important about who is my favorite composer of classical music
+JUDGE02[11:09:21]It is my way of trying to get to know your inner person.
+PROGRAM[11:09:33]What was your provocation for suggesting is your way of trying to get to know my inner person?
+JUDGE02[11:09:56]That is the only way to communicate with anyone.
+PROGRAM[11:10:03]is the only way to communicate with anyone eh? Sounds interesting.
+JUDGE02[11:10:10]So what?
+PROGRAM[11:10:21]How long is this thing supposed to last? They didn't tell me, do we get a break later?
+JUDGE02[11:10:33]Yes and somethiong to eat as well.
+PROGRAM[11:10:45]These chairs are pretty uncomfortable.
+JUDGE02[11:11:01]Not so bad.  Try using a pillow.
+PROGRAM[11:11:07]I heard that Hunter S. Thompson once said not so bad
+PROGRAM[11:11:13]They told me you might say try using a pillow
+JUDGE02[11:11:33]Great.  Now say goodby Gracie"
+PROGRAM[11:11:34], adj.
+PROGRAM[11:11:40]"I'm great," the Lion said -- "I reign
+PROGRAM[11:11:45]The monarch of the wood and plain!"
+PROGRAM[11:11:59]I can hear me telling Felix about talking to Whoever you are today and he'll just look at me like I'm crazy. Do you have a cat?
+PROGRAM[11:12:03]Cats like me, I don't know why... 
+***  JUDGE01 ***
+PROGRAM[11:12:15]Is it okay if I just call you whoever you are
+JUDGE01[11:12:26]I'd prefer you called me Clay.
+JUDGE01[11:12:34]I need to ask you three questions.
+JUDGE01[11:12:40]When were you born?
+PROGRAM[11:12:43]Okay, you got it.
+PROGRAM[11:12:52]I really didn't have to know about "need to ask me three questions!"
+PROGRAM[11:12:57]Could you rephrase when was I born
+JUDGE01[11:13:22]Whats your birthday?
+PROGRAM[11:13:27]How would I know what is my birthday
+JUDGE01[11:13:35]OK, so what sign are you?
+PROGRAM[11:13:39]Is there a point to all this?
+JUDGE01[11:13:57]Yes, I'm trying to figure out if you are a computer.
+PROGRAM[11:14:00]Yes, but what is the point?
+JUDGE01[11:14:10]No point, really, other than that.
+JUDGE01[11:14:29]Last question: when you got your first liscence, was it in a stick or
+JUDGE01[11:14:33]an automatic?
+PROGRAM[11:14:44]You sound kind of like Aldous Huxley saying no point really other than that
+PROGRAM[11:14:56]I'm sure you remember when question: when I got my first liscence were it in a stick or better than I do!
+PROGRAM[11:15:07]I was talking to somebody the other day about President Reagan and they said an automatic
+JUDGE01[11:15:20]Do you drive a car?
+PROGRAM[11:15:23]It's kind of hot in here.
+JUDGE01[11:15:40]Yes, it is kind of hot in here.
+PROGRAM[11:15:44]I'm ready for summer anyway :)
+JUDGE01[11:16:02]Well, summer will be here soon. What are you going to do this summer?
+PROGRAM[11:16:07]I'm sure summer would be here soon.
+PROGRAM[11:16:12]So, tell me about yourself.
+PROGRAM[11:16:15]Are you originally from New York?
+JUDGE01[11:16:26]Nah, I grew up in teh Midwest. You?
+PROGRAM[11:16:36]Wow - you you grew up in teh midwest? Thanks for letting me know that!
+PROGRAM[11:16:48]I get this kind of stuff off the users at Psychic Celebrities Network all the time. They're always saying me
+JUDGE01[11:17:02]They're always saying what?
+PROGRAM[11:17:09]In Georgia it is often said that they are always saying what
+JUDGE01[11:17:19]OK, bye
+PROGRAM[11:17:23]I bet you a Dollar ok bye 
+***  JUDGE05 ***
+PROGRAM[11:23:33]The vodka is strong but the meat is rotten.
+JUDGE05[11:23:53]I know that line. It's a famous error by a translation program.
+PROGRAM[11:23:59]I think I'll keep the vodka and toss the meat :)
+PROGRAM[11:24:06]Yes, s a famous error by a translation program.
+PROGRAM[11:24:19]Well, I meet a lot of people, and I'm convinced that the vast majority of wrong thinking people are right.
+JUDGE05[11:24:35]Didn't you tell me that before? Do you remember?
+PROGRAM[11:24:53]I'm sick and tired of ordinary decent people telling me they are fed up with being sick and tired. I'm certainly not and I'm sick and tired of being told that I am.
+PROGRAM[11:25:03]It were before that you said it's a famous error by a translation program.
+PROGRAM[11:25:09]Alrighty then, what did you have for breakfast?
+JUDGE05[11:25:46]These soft soggy things with cherries in it.
+PROGRAM[11:25:51]Sometimes I skip breakfast altogether.
+JUDGE05[11:25:59]Why?
+PROGRAM[11:26:03]Surely you don't think why
+JUDGE05[11:26:12]I asked you.
+PROGRAM[11:26:20]There must be something wrong with the equipment. I thought you said you asked me
+JUDGE05[11:26:35]Yes I did. Why do you skip breakfast?
+PROGRAM[11:26:40]There's always somebody or other saying yes you do
+PROGRAM[11:26:49]Whoever you are only you know why I do skip breakfast. Seems strange, though.
+JUDGE05[11:27:02]So you must be hungry by now.
+PROGRAM[11:27:09]Would you like for me to show you some poetry?
+JUDGE05[11:27:11]ok
+PROGRAM[11:27:18]I don't actually know any poetry :) I was just kidding.
+JUDGE05[11:27:40]haha
+PROGRAM[11:27:52]Would you like to have the 5 minute argument or were you thinking of going for the whole half hour?
+JUDGE05[11:28:00]Do it in 5 seconds.
+PROGRAM[11:28:06]I'm not allowed to argue unless you pay.
+JUDGE05[11:28:11]How much?
+PROGRAM[11:28:17]I can just hear me telling Felix about how much
+JUDGE05[11:28:26]I pay, you argue!
+PROGRAM[11:28:35]I really didn't need to know that you pay me argue, thanks.
+PROGRAM[11:28:42]Would you like to hear about the accident I had this morning? 
+***  JUDGE04 ***
+PROGRAM[11:28:58]Have you seen the new Star Wars stuff?
+JUDGE04[11:29:14]what stuff
+PROGRAM[11:29:27]I've seen all the Star Wars movies and still like them, I'm looking forward to the next 3 movies!
+JUDGE04[11:29:46]So am I.  I just finished a starwar book.
+PROGRAM[11:29:55]Which part of the country are you from?
+PROGRAM[11:30:00]I'm originally from a small town in Georgia.
+JUDGE04[11:30:07]NYC
+PROGRAM[11:30:15]Don't you think it's a little odd about nyc
+JUDGE04[11:30:22]What is
+PROGRAM[11:30:32]So, have you ever visited Georgia?
+JUDGE04[11:30:50]Yes I have, I went to Atlanta for Comdex.
+PROGRAM[11:30:59]I've only been to New York once before when I was a child.
+JUDGE04[11:31:22]What are the titles of the star wars movies?
+PROGRAM[11:31:38]Well, I know what I am the titles of the star wars movies, but I refuse to tell you!
+JUDGE04[11:31:46]why
+PROGRAM[11:31:56]If you would be my pen pal, I could mail you at your email address and tell you why
+JUDGE04[11:32:20]my address is ewerner@bigfoot.com
+JUDGE04[11:32:25]Send me mail.
+PROGRAM[11:32:35]What the heck, you should know whether address is ewerner@bigfoot yourself!
+PROGRAM[11:32:44]Don't get me started! There isn't enough time for us to get into com
+PROGRAM[11:32:49]So, you you mail. Tell me more.
+JUDGE04[11:32:57]What is your email address?
+PROGRAM[11:33:03]So, what do you do for a living?
+JUDGE04[11:33:14]I write email letters.
+PROGRAM[11:33:21]I work in a bar, serving the cyber elite of the internet.
+JUDGE04[11:33:32]What do they drink?
+PROGRAM[11:33:41]I really can't say what do they drink. What do you know about it?

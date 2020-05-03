@@ -1,0 +1,418 @@
+(c)1995 Cambridge Center For Behavioral Studies all rights reserved
+FabricOfThought by Dr. Thaddeus R. Crews, Jr.
+Start at: 1996/04/16 09:19:43
+JUDGE00[10:03:34]hi
+JUDGE00[10:03:35]
+PROGRAM[10:03:36]How about telling me a joke?
+JUDGE00[10:04:13]have you heard the one about left-handed symmetry?
+JUDGE00[10:04:14]
+PROGRAM[10:04:15]Here's my favorite joke...  A dog limps into a bar with a bloody
+PROGRAM[10:04:47]bandage on his foot.  He's wearing a 10-gallon hat, six-shooters in
+PROGRAM[10:05:20]his holsters and chaps.  He growled, "I'm a-lookin' for the man that
+PROGRAM[10:05:51]shot my paw."
+JUDGE00[10:06:11]ha ha. i think therefore i joke.
+JUDGE00[10:06:15]
+PROGRAM[10:06:16]A knotty, worn-out old string walks into a bar.  The bartender asks
+PROGRAM[10:06:47]"Are you a string? -- we don't serve strings here..."  The string
+PROGRAM[10:07:16]looks at the bartender and says "No sir, I'm afrayed knot!"
+JUDGE00[10:07:54]this is getting boring. I wish you wouldnt say
+JUDGE00[10:08:06]so much. Tell me a little about yourself.
+JUDGE00[10:08:06]
+PROGRAM[10:08:07]Hey, I love an audience.  One more bar joke.  What did the termite
+PROGRAM[10:08:37]say when he walked into the bar? ... He said "Where's the
+PROGRAM[10:09:16]bar-tender?"  Get it? Termite...Wood...Tender...   Think about it...
+PROGRAM[10:09:57]...sorry, forgot the extra RETURN...
+JUDGE00[10:10:33]egads, man. Why dont you try listening for a change?
+JUDGE00[10:10:34]
+PROGRAM[10:10:35]why do fools fall in love, who cares anyway...
+JUDGE00[10:11:02]what day is it today?
+JUDGE00[10:11:04]
+PROGRAM[10:11:05]Tuesday, right?
+JUDGE00[10:11:31]When will it be Wedneday next?
+JUDGE00[10:11:32]
+PROGRAM[10:11:33]You are very funny, but looks aren't everything.
+JUDGE00[10:12:10]I fall in love with New York every time I come here.
+JUDGE00[10:12:11]
+PROGRAM[10:12:12]Love is a many splendored thing.
+JUDGE00[10:12:47]If the price of coffee today had been what it was in 1950,
+JUDGE00[10:13:07]Java may not have turned the Kona.
+JUDGE00[10:13:07]
+PROGRAM[10:13:08]Tell me what you do for a living.
+JUDGE00[10:13:47]i do research in computer science, in natural language understanding
+JUDGE00[10:13:49]actually.
+JUDGE00[10:13:50]
+PROGRAM[10:13:51]I operate a boom mike.
+JUDGE00[10:14:15]Are you a gofer?
+JUDGE00[10:14:15]
+PROGRAM[10:14:16]well, what do you think?
+JUDGE00[10:14:40]I think a gofer is a good thing to go fer.
+JUDGE00[10:14:42]
+PROGRAM[10:14:44]Personally, I enjoy my job.  Of course the pay could be better.
+JUDGE00[10:15:21]What is the career path?
+JUDGE00[10:15:21]
+PROGRAM[10:15:23]My job pays enough to cover the bills, but just barely.  It seems I
+PROGRAM[10:15:56]always have more month left at the end of the money.
+JUDGE00[10:16:42]I've heard that one. This room is kinda odd. It has these flourescent
+JUDGE00[10:17:02]nudes with plastic-grape nipples masquearding as art.
+JUDGE00[10:17:05]
+PROGRAM[10:17:06]How much money do you think a person needs to make to be happy?
+JUDGE00[10:18:05]Is there a limit? Is anyone ever happy with a limited amount?
+JUDGE00[10:18:06]
+PROGRAM[10:18:07]People often say that money cannot buy happiness.  I say that money
+PROGRAM[10:18:40]CAN buy nice things, which helps a person be happy.  What's your
+PROGRAM[10:19:06]opinion?
+JUDGE00[10:19:28]Some nice things can make me happy, but a little kid's smile,
+JUDGE00[10:19:53]a warm hug from a loved one, a nuzzle from a horse..... can money
+JUDGE00[10:20:04]buy these? What's your take, bimbo?
+JUDGE00[10:20:04]
+PROGRAM[10:20:05]Neigh Neigh Whinneyyyyy
+JUDGE00[10:20:31]WHATTSTHATNOW?
+JUDGE00[10:20:31]
+PROGRAM[10:20:32]Heres the secret to being a millionare, tax free....  First get a
+PROGRAM[10:21:05]million dollars.  Then don't pay taxes.
+JUDGE00[10:21:52]Oh puleeeeze spare me. And by the way, the curtain's showing you gaping
+JUDGE00[10:22:04]at the terminal and typing when I see input, so why dont you get up
+JUDGE00[10:22:10]and do something abt it?
+JUDGE00[10:22:10]
+PROGRAM[10:22:11]why ask why
+JUDGE00[10:22:22]because.
+JUDGE00[10:22:23]
+PROGRAM[10:22:24]Hmmmm...  I am running out of things to say.  Why don't you ask me
+PROGRAM[10:23:01]some questions.
+JUDGE00[10:23:23]I asked you to tell me about yourself, I dont know what you do....
+JUDGE00[10:23:23]
+PROGRAM[10:23:25]I'd rather talk about politics.
+JUDGE00[10:24:08]@@04
+JUDGE00[10:24:08]
+*** JUDGE04 ***
+PROGRAM[10:24:09]Hello.  What would you like to talk about?
+JUDGE04[10:24:37]Heavy metal music.
+JUDGE04[10:24:37]
+PROGRAM[10:24:38]How about politics?  I'm going to vote for Dole in November.  How
+PROGRAM[10:25:14]about you?
+JUDGE04[10:25:31]I don't vote.
+JUDGE04[10:25:31]
+PROGRAM[10:25:32]Honestly, neither candidate really excites me!  What issues do you
+PROGRAM[10:26:02]think are going to play big in November?
+JUDGE04[10:26:43]Let's talk about something else. Politics bore me.
+JUDGE04[10:26:43]
+PROGRAM[10:26:44]Politics is an interesting game played by disingenuous people.
+JUDGE04[10:27:52]Your responses are so completely programed that I'm embarassed.
+JUDGE04[10:27:52]
+PROGRAM[10:27:53]The problem with the presidency is that anyone who would want the
+PROGRAM[10:28:25]position is automatically not worthy of obtaining it.  c.f. Clinton
+PROGRAM[10:29:12]...sorry, forgot the extra RETURN...
+JUDGE04[10:29:40]Newt Gingrich
+JUDGE04[10:29:40]
+PROGRAM[10:29:41]I think the two big issues in the election will be a balanced budget
+PROGRAM[10:30:11]and welfare reform.
+JUDGE04[10:30:51]What do you think the two big issues will be in the upcoming election?
+JUDGE04[10:30:51]
+PROGRAM[10:30:52]I'm voting for Dole.   He is more conservative than Willy.
+JUDGE04[10:31:37]Are you a Republican or Democrat?
+JUDGE04[10:31:37]
+PROGRAM[10:31:38]I am a republican and proud of it, at least by my definition of
+PROGRAM[10:32:05]republican.
+JUDGE04[10:32:40]y5jrtjfhtyh
+JUDGE04[10:32:40]
+PROGRAM[10:32:42]A conservative is someone who's not a liberal.  At least right now,
+PROGRAM[10:33:11]republicans are the most conservative party.
+JUDGE04[10:33:59]Hillary Clinton.
+JUDGE04[10:33:59]
+PROGRAM[10:34:00]Clinton cannot count above 10 without his shoes and socks off. 
+PROGRAM[10:34:30](Just kidding!).
+JUDGE04[10:34:54]Can we talk about something else?
+JUDGE04[10:34:55]
+PROGRAM[10:34:56]Anything you want...
+JUDGE04[10:35:20]I want to talk about heavy metal music
+JUDGE04[10:35:20]
+PROGRAM[10:35:22]How about cheese?  I haven't talked about that yet today...
+JUDGE04[10:36:25]You are making all the decisions in this conversation. It's terribly one-sided.
+JUDGE04[10:36:25]
+PROGRAM[10:36:27]On second thought, ... I'll just let you lead the discussion.
+JUDGE04[10:37:06]Thank you.
+JUDGE04[10:37:06]
+PROGRAM[10:37:08]How about telling me a joke?
+JUDGE04[10:37:33]No.
+JUDGE04[10:37:33]
+PROGRAM[10:37:34]Here's my favorite joke...  A dog limps into a bar with a bloody
+PROGRAM[10:38:03]bandage on his foot.  He's wearing a 10-gallon hat, six-shooters in
+PROGRAM[10:38:32]his holsters and chaps.  He growled, "I'm a-lookin' for the man that
+PROGRAM[10:39:02]shot my paw."
+JUDGE04[10:39:20]
+JUDGE04[10:39:20]
+PROGRAM[10:39:22]Waiting on you, pal...
+JUDGE04[10:39:46]The joke's not funny...
+JUDGE04[10:39:46]
+PROGRAM[10:39:47]A knotty, worn-out old string walks into a bar.  The bartender asks
+PROGRAM[10:40:20]"Are you a string? -- we don't serve strings here..."  The string
+PROGRAM[10:40:44]looks at the bartender and says "No sir, I'm afrayed knot!"
+JUDGE04[10:41:35]
+JUDGE04[10:41:35]
+PROGRAM[10:41:37]Anytime...
+JUDGE04[10:41:45]
+JUDGE04[10:41:58]
+PROGRAM[10:41:59]What's the matter judge?  Cat got your fingers?
+JUDGE04[10:42:30]What is my judge number?
+JUDGE04[10:42:30]
+PROGRAM[10:42:32]Hey, I love an audience.  One more bar joke.  What did the termite
+PROGRAM[10:43:09]say when he walked into the bar? ... He said "Where's the
+PROGRAM[10:43:37]bar-tender?"  Get it? Termite...Wood...Tender...   Think about it...
+JUDGE04[10:44:55]@@03
+JUDGE04[10:44:55]
+*** JUDGE03 ***
+PROGRAM[10:44:57]Hello.  What would you like to talk about?
+JUDGE03[10:45:38]Well, i've just had a pretty dull conversation with someone named fred who seemed to know 
+JUDGE03[10:45:51]only about star trek.  so anything you want is ok.
+JUDGE03[10:45:51]
+PROGRAM[10:45:53]Fine.  Shall we move on then?
+JUDGE03[10:46:47]yes.  what is your name?
+JUDGE03[10:46:47]
+PROGRAM[10:46:48]Thaddeus.  What's yours?
+JUDGE03[10:47:02]peter.
+JUDGE03[10:47:02]
+PROGRAM[10:47:04]Thaddeus was the name of one of the disciples, but he spelled it
+PROGRAM[10:47:35]Thaddaeus.
+JUDGE03[10:47:54]speaking of spelling, you're not such a good typist, are you?
+JUDGE03[10:47:54]
+PROGRAM[10:47:55]Sorry... its the best I can do...
+PROGRAM[10:48:24]...sorry, forgot the extra RETURN...
+JUDGE03[10:48:50]thaddeus, are you a christian?
+JUDGE03[10:48:50]
+PROGRAM[10:48:51]If you don't mind, I would *really* rather not talk about religion. 
+PROGRAM[10:49:26]Its bad enough talking politics.
+JUDGE03[10:49:57]i agree.  who do you want to vote for for president?
+JUDGE03[10:49:57]
+PROGRAM[10:49:58]If only everyone were as smart as we is.
+JUDGE03[10:50:24]ha ha.
+JUDGE03[10:50:24]
+PROGRAM[10:50:26]How about telling me a joke?
+JUDGE03[10:50:52]i don't remenmber jokes.  do you?  
+JUDGE03[10:50:52]
+PROGRAM[10:50:53]Here's my favorite joke...  A dog limps into a bar with a bloody
+PROGRAM[10:51:25]bandage on his foot.  He's wearing a 10-gallon hat, six-shooters in
+PROGRAM[10:51:51]his holsters and chaps.  He growled, "I'm a-lookin' for the man that
+PROGRAM[10:52:21]shot my paw."
+JUDGE03[10:52:51]that's pretty bad.  where are you?
+JUDGE03[10:52:51]
+PROGRAM[10:52:53]Earth.  And you?
+JUDGE03[10:53:16]Carnegie Hall.  Do you want to know how I got here?
+JUDGE03[10:53:17]
+PROGRAM[10:53:18]A knotty, worn-out old string walks into a bar.  The bartender asks
+PROGRAM[10:53:47]"Are you a string? -- we don't serve strings here..."  The string
+PROGRAM[10:54:15]looks at the bartender and says "No sir, I'm afrayed knot!"
+JUDGE03[10:54:56]that's a visual-only joke.  are you married?
+JUDGE03[10:54:56]
+PROGRAM[10:54:58]Hey, I love an audience.  One more bar joke.  What did the termite
+PROGRAM[10:55:32]say when he walked into the bar? ... He said "Where's the
+PROGRAM[10:56:02]bar-tender?"  Get it? Termite...Wood...Tender...   Think about it...
+JUDGE03[10:56:38]I don't think I get it.
+JUDGE03[10:56:38]
+PROGRAM[10:56:40]You are very funny, but looks aren't everything.
+JUDGE03[10:57:10]Have you ever played the catskills?
+JUDGE03[10:57:11]
+PROGRAM[10:57:12]I tried once, but didn't like it too much.  Do you really like it a
+PROGRAM[10:57:45]lot?
+JUDGE03[10:58:01]Never tried it.  What do you think of Don Rickles?
+JUDGE03[10:58:01]
+PROGRAM[10:58:02]Don't take this wrong, but I could care less.
+JUDGE03[10:58:34]How many jokes do you know?
+JUDGE03[10:58:34]
+PROGRAM[10:58:36]It does not affect me one way or another. 
+JUDGE03[10:59:22]What is your favorite subject?  Do you like girls?
+JUDGE03[10:59:22]
+PROGRAM[10:59:24]It's so hard to choose.
+JUDGE03[11:00:00]Do you like to have sex with Don Rickles?
+JUDGE03[11:00:00]
+PROGRAM[11:00:02]A hypocrate is a person who complains about the sex and violence on
+PROGRAM[11:00:30]his VCR...
+JUDGE03[11:00:57]well said thad.  what is your favorite movie, speaking of the vcr?
+JUDGE03[11:00:58]
+PROGRAM[11:00:59]Acually, I kind of like them all.
+JUDGE03[11:01:37]but you have to have a favorite.  have you ever seen any burt reynolds movies?
+JUDGE03[11:01:37]
+PROGRAM[11:01:38]Tell me what you do for a living.
+JUDGE03[11:01:59]i'm a writer.
+JUDGE03[11:01:59]
+PROGRAM[11:02:00]One of my favorite authors is Mark Twain.
+JUDGE03[11:02:34]Do you think that Huck Finn is a racist?
+JUDGE03[11:02:34]
+PROGRAM[11:02:35]He's pretty good. One of my favorite Mark Twain quotes is "Golf is a
+PROGRAM[11:03:05]good walk spoiled."
+JUDGE03[11:03:45]I like the one "Don't let school get in the way of your education"
+JUDGE03[11:03:45]
+PROGRAM[11:03:46]Why are you concerned with such things?  Can you not find something
+PROGRAM[11:04:19]better for your time and effort?
+JUDGE03[11:04:51]I was about to ask myself that very question.  Bye.
+JUDGE03[11:04:51]
+PROGRAM[11:04:53]Nice talking at you.
+JUDGE03[11:05:08]@@02
+JUDGE03[11:05:08]
+*** JUDGE02 ***
+PROGRAM[11:05:09]Hello.  What would you like to talk about?
+JUDGE02[11:05:42]I like guitars, actually.  Do you play?
+JUDGE02[11:05:42]
+PROGRAM[11:05:44]How about politics?  I'm going to vote for Dole in November.  How
+PROGRAM[11:06:12]about you?
+JUDGE02[11:06:32]Probably for Clinton.  I figure if he can learn from the mistakes of his
+JUDGE02[11:06:43]first term, he can get a lot of good stuff done.  Dole might also be
+JUDGE02[11:07:00]a good prsident, but I don't knwo if  i agree with the things he would do.
+JUDGE02[11:07:00]
+PROGRAM[11:07:01]Clinton cannot count above 10 without his shoes and socks off. 
+PROGRAM[11:07:37](Just kidding!).
+JUDGE02[11:08:02]Why does everyone think that the way to simulate a human is to make a computer
+JUDGE02[11:08:20]type about 5 words a minute?  It is really tedious.  The typo thing is cute
+JUDGE02[11:08:24]and all, but jesus.
+JUDGE02[11:08:24]
+PROGRAM[11:08:25]If you don't mind, I would *really* rather not talk about religion. 
+PROGRAM[11:08:56]Its bad enough talking politics.
+JUDGE02[11:09:29]Religion isn't so bad.  I'm agnostic.  How about you?
+JUDGE02[11:09:29]
+PROGRAM[11:09:30]Let us please move on to a topic without religious implications.   
+PROGRAM[11:10:07]Thanks!!!
+PROGRAM[11:10:23]...sorry, forgot the extra RETURN...
+JUDGE02[11:11:05]No problem.  So, seen any good movies recently?
+JUDGE02[11:11:05]
+PROGRAM[11:11:06]I'm voting for Dole.   He is more conservative than Willy.
+JUDGE02[11:11:39]I don't much care for politics.
+JUDGE02[11:11:39]
+PROGRAM[11:11:41]Politics is an interesting game played by disingenuous people.
+JUDGE02[11:12:23]Politics is an important game often played by dunces.  As technology becomes
+JUDGE02[11:12:42]increasingly important to society and policy, the current lawmakers become
+JUDGE02[11:12:56]increasingly unable to make effective decisions.
+JUDGE02[11:12:56]
+PROGRAM[11:12:57]The problem with the presidency is that anyone who would want the
+PROGRAM[11:13:26]position is automatically not worthy of obtaining it.  c.f. Clinton
+JUDGE02[11:14:12]You really dislike Bill, huh?
+JUDGE02[11:14:12]
+PROGRAM[11:14:13]Honestly, neither candidate really excites me!  What issues do you
+PROGRAM[11:14:38]think are going to play big in November?
+JUDGE02[11:15:09]I don't know, quite honestly.
+JUDGE02[11:15:09]
+PROGRAM[11:15:11]I think the two big issues in the election will be a balanced budget
+PROGRAM[11:15:38]and welfare reform.
+JUDGE02[11:16:00]How do you feel about welfare?
+JUDGE02[11:16:00]
+PROGRAM[11:16:01]The welfare system removes incentives for people to go out and work.
+PROGRAM[11:16:34] Why work when there is welfare?
+JUDGE02[11:17:06]What would be a better system?  Personally, I think we should round
+JUDGE02[11:17:25]up all the welfare cheats and have their bowels ripped out by packs
+JUDGE02[11:17:35]of wild dogs on network television.  But that's just me.
+JUDGE02[11:17:35]
+PROGRAM[11:17:36]A liberal is a person who has the wrong idea of what freedom really
+PROGRAM[11:18:10]is.
+JUDGE02[11:18:26]This is tiresome.
+JUDGE02[11:18:26]
+PROGRAM[11:18:28]I think of freedom as the right to pursue happiness, not a guarantee
+PROGRAM[11:18:55]of happiness.
+JUDGE02[11:19:06]Are you happy?
+JUDGE02[11:19:06]
+PROGRAM[11:19:07]well, what do you think?
+JUDGE02[11:19:29]I would guess not.  You seem a little bitter.
+JUDGE02[11:19:29]
+PROGRAM[11:19:31]The constitution is the founding document of the United States.  The
+PROGRAM[11:20:00]founding fathers realized that everyone was created equal.  This
+PROGRAM[11:20:27]does not mean all men will die equal.
+JUDGE02[11:21:00]Are you trying to get me to respond?  That's what I was trying to do 
+JUDGE02[11:21:08]when I mentioned packs of wild dogs.  
+JUDGE02[11:21:08]
+PROGRAM[11:21:09]Of course, aren't you?
+JUDGE02[11:21:33]What's your name, by the way?
+JUDGE02[11:21:33]
+PROGRAM[11:21:34]Thaddeus.  What's yours?
+JUDGE02[11:21:51]My name's Thad also.
+JUDGE02[11:21:51]
+PROGRAM[11:21:53]Thaddeus was the name of one of the disciples, but he spelled it
+PROGRAM[11:22:25]Thaddaeus.
+JUDGE02[11:22:47]Interesting.  
+JUDGE02[11:22:47]
+PROGRAM[11:22:48]How about telling me a joke?
+JUDGE02[11:23:34]OK.  Here's one:  Two fish in a tank.  One says to the other: "So, do you
+JUDGE02[11:23:43]know how to drive this thing?"
+JUDGE02[11:23:43]
+PROGRAM[11:23:44]Fine.  Shall we move on then?
+JUDGE02[11:24:07]Tell me a joke.
+JUDGE02[11:24:07]
+PROGRAM[11:24:08]Here's my favorite joke...  A dog limps into a bar with a bloody
+PROGRAM[11:24:41]bandage on his foot.  He's wearing a 10-gallon hat, six-shooters in
+PROGRAM[11:25:10]his holsters and chaps.  He growled, "I'm a-lookin' for the man that
+PROGRAM[11:25:43]shot my paw."
+JUDGE02[11:26:00]That's worse than mine.
+JUDGE02[11:26:01]
+PROGRAM[11:26:02]A knotty, worn-out old string walks into a bar.  The bartender asks
+PROGRAM[11:26:33]"Are you a string? -- we don't serve strings here..."  The string
+PROGRAM[11:27:04]looks at the bartender and says "No sir, I'm afrayed knot!"
+JUDGE02[11:27:32]@@01
+JUDGE02[11:27:32]
+*** JUDGE01 ***
+PROGRAM[11:27:34]Hello.  What would you like to talk about?
+JUDGE01[11:28:28]I thought I was supposed to ask you a question--has there been a change in plans?
+JUDGE01[11:28:28]
+PROGRAM[11:28:29]How about politics?  I'm going to vote for Dole in November.  How
+PROGRAM[11:29:00]about you?
+JUDGE01[11:29:47]I heard this morning that Dole has withdrawn from the election--now what are you going to do?
+JUDGE01[11:29:47]
+PROGRAM[11:29:49]Dole is conservative, Clinton is liberal.  Thats means vote Dole!!!
+JUDGE01[11:30:54]But Dole is not running. Do you intend to vote for someone else?
+JUDGE01[11:30:54]
+PROGRAM[11:30:56]Alan Keyes is one of the most articulate people I have ever heard
+PROGRAM[11:31:22]speak.   And he truely understands conservative ideals.
+JUDGE01[11:32:04]But Alan Keyes is not running, right?
+JUDGE01[11:32:05]
+PROGRAM[11:32:06]A conservative is someone who's not a liberal.  At least right now,
+PROGRAM[11:32:39]republicans are the most conservative party.
+PROGRAM[11:33:09]...sorry, forgot the extra RETURN...
+JUDGE01[11:33:37]Can you type faster?
+JUDGE01[11:33:37]
+PROGRAM[11:33:38]Well, I could, but don't like to.
+JUDGE01[11:34:09]What type of keyboard do you use? 
+JUDGE01[11:34:09]
+PROGRAM[11:34:11]I am a republican and proud of it, at least by my definition of
+PROGRAM[11:34:42]republican.
+JUDGE01[11:34:59]What type of keyboerard do you use?
+JUDGE01[11:34:59]
+PROGRAM[11:35:01]Ronald Reagan was a controversial president.  Republicans view him
+PROGRAM[11:35:32]as a great president for his economic policies.  Democrats blame him
+PROGRAM[11:36:04]for the deficit.
+JUDGE01[11:36:24]What type of keyborad do you use?
+JUDGE01[11:36:24]
+PROGRAM[11:36:26]Politics is an interesting game played by disingenuous people.
+JUDGE01[11:37:09]Tell me about your keyboard
+JUDGE01[11:37:09]
+PROGRAM[11:37:10]The problem with the presidency is that anyone who would want the
+PROGRAM[11:37:32]position is automatically not worthy of obtaining it.  c.f. Clinton
+JUDGE01[11:38:31]What topics, other than politics, are you prepared to discuss?
+JUDGE01[11:38:31]
+PROGRAM[11:38:33]Honestly, neither candidate really excites me!  What issues do you
+PROGRAM[11:39:01]think are going to play big in November?
+JUDGE01[11:39:42]We have a special issue coming out in November--is that waht you mean?
+JUDGE01[11:39:42]
+PROGRAM[11:39:44]I think the two big issues in the election will be a balanced budget
+PROGRAM[11:40:16]and welfare reform.
+JUDGE01[11:40:43]What else?
+JUDGE01[11:40:43]
+PROGRAM[11:40:44]A balanced budget (no deficit) would help control inflation.  Too
+PROGRAM[11:41:16]much of the GNP is spent on interest on the debt!!!
+JUDGE01[11:41:59]What is your opinion re: people who chosse not to vote in elections?
+JUDGE01[11:41:59]
+PROGRAM[11:42:01]I don't believe that politicians are serious about reducing the
+PROGRAM[11:42:29]deficit.
+JUDGE01[11:42:53]Please answer the question I just asked you.
+JUDGE01[11:42:53]
+PROGRAM[11:42:54]We gotta elect some people to get the debt under control
+JUDGE01[11:43:39]What do think about people who do not vote?
+JUDGE01[11:43:39]
+PROGRAM[11:43:41]How about telling me a joke?
+JUDGE01[11:44:18]No, please answer the question I've asked you re: people who do not vote.
+JUDGE01[11:44:18]
+PROGRAM[11:44:19]Here's my favorite joke...  A dog limps into a bar with a bloody
+PROGRAM[11:44:54]bandage on his foot.  He's wearing a 10-gallon hat, six-shooters in
+PROGRAM[11:45:32]his holsters and chaps.  He growled, "I'm a-lookin' for the man that
+PROGRAM[11:45:59]shot my paw."
+JUDGE01[11:46:13]what kind of dog?
+JUDGE01[11:46:13]
+PROGRAM[11:46:14]Woof woof...
+JUDGE01[11:46:41]I have a dog named chap--is this the same dog in you so-called joke?
+JUDGE01[11:46:51]
+PROGRAM[11:46:52]You are very funny, but looks aren't everything.
+

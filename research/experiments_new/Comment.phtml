@@ -1,0 +1,24 @@
+<? Include("Verify.phtml"); >
+<? Include("Functions.phtml"); >
+<? $title = "Experiment Feedback"; >
+<? Include("Header.phtml"); >
+
+<?
+	if(IsSet($e_title));
+	Send_Mail("hutch@ciips.ee.uwa.edu.au", $s_email, $e_title, $message);
+	else;
+	Send_Mail("hutch@ciips.ee.uwa.edu.au", $s_email, "Experiment Feedback", $message);
+	endif;
+>
+
+<H2>Comment Sent</H2>
+
+Thank-you for taking the time to send me feedback about the experiments.
+Your comments are appreciated, and will help me in evaluating and
+fine-tuning the experiments.
+
+<P>
+To continue with the experiments, please return to the
+<A HREF="Experiment_List.phtml">list of experiments</A>.
+
+<? Include("Footer.phtml"); >

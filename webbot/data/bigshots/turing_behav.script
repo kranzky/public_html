@@ -1,0 +1,122 @@
+(turing_behav_state==0 && !yes_no_confirm)
+""
+{
+	response+="Do you want to talk about Turing and behaviorism? ";
+	yes_no_calling_context ='turingbehav';
+	yes_no_negative_response += 'Too bad, it is very interesting.';
+	yes_no_confirm = 0;
+	changecontext("yesno");
+}
+[]
+
+(turing_behav_state == 0 && yes_no_confirm)
+""
+{
+	yes_no_confirm = 0;
+	turing_behav_state = 1;
+	throw(input);
+}
+[]
+
+/*------------------------------------------------------------------------------*/
+
+(turing_behav_state==1)
+""
+{
+	response+="Behaviorism, in short, is a movement in psychology that tries to explain the behavior of organisms in terms of relations between inputs and outputs.";
+	turing_behav_state=2;
+}
+[]
+
+
+(turing_behav_state==1)
+"#BYE_WORD#"
+{
+	turing_behav_state=5;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+/*------------------------------------------------------------------------------*/
+
+(turing_behav_state==2)
+""
+{
+	response+="Behaviorists believe that a system's output is uniquely determined by past and present inputs. Turing, therefore, was a machine-behaviorist.";
+	turing_behav_state=3;
+}
+[]
+
+
+(turing_behav_state==2)
+"#BYE_WORD#"
+{
+	turing_behav_state=5;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+/*------------------------------------------------------------------------------*/
+
+(turing_behav_state==3)
+""
+{
+	response+="Turing saw language as a skill, not as a 'built-in' human characteristic. In his paper, Turing wrote that a child-machine should be taught with a punishment-reward system, alongside 'hard-wired' programming.";
+	turing_behav_state=4;
+}
+[]
+
+
+(turing_behav_state==3)
+"#BYE_WORD#"
+{
+	turing_behav_state=5;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+/*------------------------------------------------------------------------------*/
+
+(turing_behav_state==4)
+""
+{
+	response+="He wrote that the machine that could pass the 'Turing test' must be a machine that will learn the same way human children learn, by trial and error. A truly behavioristic approach. That is where Turing, behaviorism, and AI meet. ";
+	changecontext("default");
+	turing_behav_state=5;
+}
+[]
+
+
+(turing_behav_state==4)
+"#BYE_WORD#"
+{
+	turing_behav_state=5;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+/*------------------------------------------------------------------------------*/
+
+(1)
+""
+{
+	response+="It seems as though we have already discussed this matter. ";
+	changecontext("default");
+	throw(input);
+}
+[]
+-999
+
+(1)
+""
+{
+	response+="It seems as though we have already discussed this matter. ";
+	changecontext("default");
+	throw(input);
+}
+[]
+-999

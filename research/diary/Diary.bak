@@ -1,0 +1,646 @@
+<H4>Fri 23 Jan, 1998</H4>
+
+After an incredibly long break from writing diary entries, I've decided
+to pick up the habit once again.  Recently I've been involved in the
+Loebner contest, and have attended the NeMLaP3/CoNLL'98 conferences.
+The latter has given me much food for thought.  So, in the next few
+weeks, I hope to accomplish the following:
+<UL>
+<LI>Extend the paper I submitted to the conference with the intention of
+submitting it to a journal.</LI>
+<LI>Write a generic hierarchical clustering program.</LI>
+<LI>Investigate Zipfian distributions, and the extent to which random
+data is Zipfian.</LI>
+<LI>Write a Spam detector!</LI>
+</UL>
+This last point comes from a paper presented by Patrick Juola, which was
+on the topic of language taxonomy.  He mentioned a nice way of estimating
+entropy from small corpora, perhaps only a few kilobytes in size.  He
+applied similar techniques to estimate the cross entropy of texts in
+different languages, and then classified them using numerical taxonomy.
+<P>
+I want to classify my emails in a similar way.  Preliminary tests indicate
+that emails cluster fairly well by subject, and within the subject clusters,
+by author.  For instance, all of my personal email falls in one cluster,
+and within that are smaller clusters containing email from single authors.
+Interestingly, spam email is the cluster most distant from the others.
+Perhaps a Spam detector is possible?
+<P>
+There are a few problems with this.  Firstly, I am worried about the
+method used to evaluate the cross entropy.  It is non-symmetric, so
+I basically averaged two results to get the final measure.  It seems
+to me that a better measure would be to build a model from one text
+and use it to compress the other---is this equivalent?  Also, the
+clustering method is suspect, because how do you calculate the
+cross-entropy between clusters of text?  Surely taking the average of
+the individual cross-entropies doesn't work?
+
+<H4>Tue 27 Jan, 1998</H4>
+
+Yesterday was Australia day, and the weekend was spent on extra-curricular
+activities.  Anyway, now I'm back on track.  I've finished writing an
+elegant skeleton for a clustering program; I've only got to write the
+clustering function and a function to measure the similarity between two
+texts.
+<P>
+As mentioned previously, the cross entropy isn't a great measure, because
+it ain't symmetric.  Averaging Cross(p,q) and Cross(q,p) seems like a
+terrible hack, so I'm forced to investigate other measures.  Or, at
+least find a clustering regime which works with non-symmetric measures.
+<P>
+Alternatively, a nice measure could be derived from models of the texts
+by calculating the expected value of Spearman's rank correlation
+coefficient.  This has the advantage of being a metric, although I'm
+not sure how well it will work.  The idea is to build up a statistical
+model for each text under investigation.  The similarity between any
+two texts would be by summing up the probability of every possible
+context multiplied by the S.R.C.C. between the probability distribution
+predicted by each of the models.
+<P>
+Anyway, the first step is to get the clustering working, and the resulting
+dendrogram displaying.  Once that is done, I'll concentrate on getting
+a nice measure made.
+
+<H4>Wed 28 Jan, 1998</H4>
+
+I finished writing the clustering algorithm, using Patrick Juola's
+estimate of cross-entropy as the similarity measure.  What remains to
+be done is a function to display the resulting dendrogram, perhaps in
+LaTeX or PostScript format.
+<P>
+Mike thought e-mail classification was a rather vacuous pasttime, but
+I convinced him that at least I was writing a generic clustering algorithm
+into the bargain.  But, to appease him, I will soon begin expanding my
+paper submitted to CoNLL'98 for submission to a journal.  With this in mind,
+I wish to do the following:
+<UL>
+<LI>Thresholding the instantaneous entropy of a text provides a crude way
+of segmenting it into chunks.  I need to investigate methods of evaluating
+the quality of the segmentation, particularly in the case where the chunks
+correspond to English words.</LI>
+<LI>Statistics may be gathered about the symbols which occur immediately
+prior to a large jump in entropy (large defined as entropy which exceeds
+the threshold).  These symbols may be considered to be seperator symbols.
+The entropy of the statistics collected about these symbols may indicate
+whether seperator symbols exist in the text at all.</LI>
+<LI>With this in mind, I aim to plot the quality of the segmentation vs.
+the entropy of the separator symbol distribution.  This will hopefully
+show a correlation between the two, and hence provide a method of selecting
+an appropriate entropy threshold.  Of course, this experiment should also
+be repeated with an text containing no clues to word boundaries.</LI>
+<LI>Statistical compression systems augmented with the chunks need to be
+evaluated.  I propose doing this on small corpora, using the same techniques
+as in the original paper, but with a variety of chunking thresholds.  This
+will hopefully show the relative independance of performance wrt the chosen
+threshold, and lend weight to the scaffolding argument.</LI>
+<LI>The biggest tast will be the development of a truly adaptive data
+compression system based on the results of this investigation.</LI>
+</UL>
+Well, that seems a lot of work to do.  I'll begin with the dendrogram
+plotting, and see how much progress I make.
+
+<H4>Thu 29 Jan, 1998</H4>
+
+I managed to write a nice recursive function to draw arbitrary dendrograms
+using LaTeX graphics, and I cleaned up the code a bit (finding and fixing
+a few bugs along the way).  My next step is to remove the need to recalculate
+the similarity whenever a new cluster is formed by adopting one of the
+standard approaches (distance between clusters is distance between closest
+elements, farthest elements, average of distances between all elements etc).
+Some of these methods may depend on the similarity measure obeying the
+triangular inequality, and this warrants investigation.
+<P>
+It seems to me that word classes may be found by a process of measuring the
+entropy of probability distributions, rather than clustering the distributions
+themselves.  This technique relies on the distributions being smoothed, and
+postulates that the smoothed distributiuons with lowest entropy will
+correspond to word classes.  This seems plausible, as it avoids two problems
+with finding word classes:
+<OL>
+<LI>If a context has not been seen before, or if it has been seen only a
+few times, then we shouldn't use it to draw any conclusions about word
+classes.  The probability distribution it predicts will have a high entropy
+because the 0-gram and -1-gram statistics will overshadow the 2-gram and
+3-gram statistics.</LI>
+<LI>If a context has been seen many times, but may be followed by many
+different classes of words, then its entropy will be high too, even though
+enough statistics have been gathered to use it's distribution to find
+word classes</LI>
+</OL>
+I therefore suggest that the distributions of every context in the model
+are ranked in order of their entropy.  The words within each distribution
+should also be sorted in order of decreasing probability, and a correspondence
+with "good" word classes should be looked for.
+<P>
+Finally, I want to get back to the kind of work Mike was doing for his
+Masters, and apply it to data compression.  Language models typically
+bundle contexts into equivalence classes to overcome the problem of
+sparse data.  These equivalence classes are usually based on the previous
+n symbols.  Models of different order (ie: different equivalence classes)
+are then used to get a smoothed probability distribution.
+<P>
+Consider what happens when the context {x,y} is encountered.  If this
+context has been seen before, then the statistics of what follows
+{x,y} is used, along with the statistics of what follows {*,y} and {*,*}
+(NB: the asterisk represents the wildcard symbol).  We are missing out
+on any extra information that the context {x,*} would provide.  This
+would be especially helpful in the case where the symbol y had not been
+seen before, or in the case where the context {x,y} had not been seen before.
+<P>
+So perhaps we should introduce an extra equivalence class, and use that
+for smoothing as well.  In the optimum case, where the best smoothing
+weights are used (NB: this is done by cheating; we look ahead to the
+next symbol and a posteriori select weights which assign it the highest
+probability), the extra equivalence class will almost certainly improve
+things, and at least will never make things worse.  The price to pay
+is more complex models (at least in terms of memory consumption).  I will
+need to perform some tests to see how much compression improves.
+<P>
+Implementing the new equivalence classes should be easy.  I intend to
+introduce a new wildcard symbol to the alphabet, and to include it in
+the trie when gathering statistics.  So even higher-order context
+(such as {x, *, z} and {x, *, *}) will be found.  In fact, I have already
+done this sort of thing before for a crossword-puzzle fuzzy-matcher.
+<P>
+In reality we would like many different wildcards, of varying granularity.
+This get's back to the problem of finding word classes, as word classes
+ar themselves wildcards.  So the problems are intertwined.  This is
+good and proper.
+
+<H4>Fri 30 Jan, 1998</H4>
+
+Well, I can finally say that the clustering program is finished to a point
+where I'm happy with it.  Dendrograms are drawing nicely, and the results
+are about what I expected.  I think I'll leave it for a while and pursue
+the other exciting areas of investigation mentioned in previous diary
+entries.
+<P>
+I have been organising my LaTeX files into suitable directories today,
+and have created three skeleton papers which I intend to flesh out
+soon, for submission to various journals.  These are:
+<OL>
+<LI>A paper on the segmentation of text into words, with techniquies for
+finding separator symbols.</LI>
+<LI>A paper on a hybrid LZ/Statistical compressor.</LI>
+<LI>A paper relating language learning to compression.</LI>
+</OL>
+Apart from that, I want to get back into GIT, my Grammatical Inference
+Toolkit.  I need to familiarise myself with the code, and add the clustering
+module to it.  Once that's done, I'll begin to investigate my new ideas.
+Let's just see how the weekend pans out...
+
+<H4>Fri 30 Jan, 1998</H4>
+
+A second diary entry for a Friday!  That would have to be a record!
+Anyway, I have become accustomed to GIT once more, and have programmed
+my little class-finding routine.  Basically, the routine uses a PPMV
+model to make a smoothed prediction for every possible context.  The
+prediction with the lowest entropy is selected, and the symbols with
+a non-zero frequency according to the highest-order model used are
+displayed.  This was done on the assumption that they will constitute
+a symbol class.
+<P>
+Indeed, on the Sherlock corpus, we find the symbols "n" and "s" occur
+in a single class (as yet I've only performed this experiment on the
+character level; it must be extended to the word level).  These two
+characters seem to belong to a class, but further investigation reveals
+that the character "s" occurred 325 times, whereas "n" occurred just
+once.  Not good evidence for grouping them together, methinks.  Rather,
+good evidence for gluing "s" onto the tail of the context which was,
+not surprisingly, "lme".  You know, for "Holmes".
+<P>
+Brief tests on other sources indicate a similar unbalance in the classes
+found.  Although it is possible that using words instead of characters
+will render this problem passe, for the moment the best course of action
+seems to be changing the measure used for "classiness".  I think we should
+look for the predicted distribution which has the lowest entropy (ie:
+the most confident one), but whose highest-order model has the highest
+entropy (ie: smoothest, unable to choose between symbols).  Brief thought
+lends this credence, and I don't know why I didn't do it in the first
+place.  The case already explored seems applicable to chunking (via a
+agglutamation process), and I'll try this out as well.  That chunking
+and classing may have very similar algorithms makes a person like me,
+obsessed with algorithmic elegance, rather happy!
+<P>
+A quick test of this idea indicates that the classes are much better.
+For instance, one of the classes was *exactly* the vowel class, and
+the counts were a=120, e=23, i=68, o=88 and u=68.  Pretty good if
+you ask me!  Of course, much has to be investigated.  In particular...
+<UL>
+<LI>The gluing mechanism is ideal for a VMM; simply extend the selected
+context by gluing on the symbol.</LI>
+<LI>The classing method will fall down on low-order models I fear.  That
+is, the context chosen won't have enough information, so the class will
+be noisy.</LI>
+<LI>How do we use the classes found?  We can upwrite the data, which will
+only affect the symbol after the context, or we can look for similar
+distributions in other contexts via clustering.  Clustering will be quick
+in this case, as we already have one distribution, and we want to find the
+closest ones to it.</LI>
+<LI>Chunking would be done by gluing the most frequent symbol onto the
+entire context, not just the previous symbol.  This is because the entire
+context is a good predictor for the symbol.  For instance, gluing "e" onto
+"olm" makes sense, while gluing it onto just "m" is silly.
+</UL>
+<P>
+Anyway, that's enough work for a Friday!  Down the pub for me!
+
+<H4>Mon 02 Feb, 1998</H4>
+
+Friday was spent, as some may have guessed, doon t'poob.  Saturday saw
+me practicing the piano and reading Hofstadter's new book, and then
+attending April and Aaron's engagement.  I spent Sunday sleeping, so
+nary an ounce of work was done.  And to top it off, this morning I
+discovered Mame, the Multiple Arcade Machine Emulator, and spent a
+while playing various classic arcade games.  D'oh!
+<P>
+Continuing from where I left off on Friday, I wrote a function to read
+words instead of characters in GIT (in order to test the quality of
+word-level classes).  Unfortunately it doesn't work very well, so I
+need to spend some time changing GIT to support different alphabets.
+The best way to do this is one pass of the data to create a dictionary,
+then a second pass to upwrite the data into a string of symbols which
+index the dictionary.  Parsing will be oh-so-much faster this way (at the
+moment I'm using a greedy parser, which is sloooooow).  Results will
+therefore take a while longer.  Oh well.  To work, for me.
+<P>
+Yet... before I do word classes, I'd like a proof-of-concept for the
+new chunking method.  Simply, begin with a character-level model, and
+iterate over the data source, introducing a new chunk each iteration
+according to the previously described algorithm (the gluing one).  This
+seems to work nicely, with the following chunks being found for a small
+(100kb) subset of the Sherlock corpus:
+{lme}, {wil}, { Mr}, {nin}, {sai}, {nto}, { into}, {oul}, {pon}, {ttl},
+{ittle}, { little}, {loc}, { Sh},
+and so on.  Note that the chunks are always 3 symbols long, as an order-3
+model is being used.
+<P>
+These chunks may be thought of as symbol-sequences which occur frequently
+within the text, and which almost always predict the same symbol.  We
+create a new symbol out of these contexts in order to increase the amount
+of information available for the prediction, in the hope that this will
+capture long-distance dependencies.  Apart from creating new symbols, we
+could also increase the depth of the trie at appropriate points.  Perhaps
+one day I'll implement this also...
+<P>
+My biggest problem is trying to justify chunking.  We might chunk whenever
+the entropy goes high, in order to provide more context in that particular
+circumstance.  This makes sense; if we are unable to predict what comes
+after "o l", we should do better predicting what comes after " to l" or
+"who l".
+On the other hand, if the entropy goes low, it's good evidence for gluing
+symbols together.  Since the context almost always predicts the same symbol,
+we should just create a new symbol in the hopes that we will be able to
+predict what comes after it better.  This makes sense; if we always predict
+"s" after "lme", then using "lmes" as a new symbol will provide more context
+for what follows it (the context may be "Holmes", for instance).  I need to
+test these two cases; I can't decide between them using intuition alone!
+
+<H4>Tue 03 Feb, 1998</H4>
+
+Today was about as non-productive as I get.  Bruce Cooper and I have sold
+the rights to SEPO, so we spent some time getting things in order.  I'm
+responsible for the documentation, and needless to say, that takes
+considerable time to write.  So the research is on hold temporarily
+until I get it done.  Money is a very attractive proposition, so I'm keen
+to get the manual finished so that we'll get paid!
+<P>
+Another distraction during the day was that blasted archaic arcade machine
+emulator.  Those old games were just so freaking addictive!  Oh well.
+
+<H4>Wed 04 Feb, 1998</H4>
+
+Most of today was spent finishing off the SEPO documentation.  It has now
+all been done, apart from the small section which Bruce is responsible for.
+I also tidied up the source code a little, and made sure that it compiled
+on the SGI's.  In addition to that, I created a mini SEPO application...
+a text adventure with three rooms and six objects.  It was all very easy,
+and I impressed myself with how powerful SEPO has turned out to be!
+<P>
+As far as research is concerned, I've done little.  I had a look at the
+results of testing the automatic chunker.  Three methods were evaluated:
+<OL>
+<LI>Find the context in the model which makes a prediction with the lowest
+entropy, yet the distribution of the context itself has the highest entropy.
+This was the method I've suggested will give pretty good symbol classes,
+but in this experiment I was chunking such contexts.</LI>
+<LI>Find the context in the model which makes a prediction with the lowest 
+entropy, and whose distribution has the lowest entropy.  Create a new
+chunk out of the context.</LI>
+<LI>Same as 2, but the new chunk consists of the most frequent symbol in
+the context's distribution glued onto the context itself.</LI>
+</OL>
+The results of testing indicate that method 1 produces the best chunks.
+A 1Mb Sherlock Holmes corpus was used to infer a PPMC model, and the model
+was used to compress a second corpus of the same size.  Method 1 achieved
+the best compression (after 100 iterations it reduced the per-character
+information to 2.11 bits, as opposed to 2.20 for the other two methods
+and 2.22 for no chunking at all).
+<P>
+Therefore, it seems that the first method is finding the most useful
+word segments so far as compression is concerned.  It finds segments such
+as <B>lou</B>, <B>sho</B>, <B>nes</B>, <B>ove</B> and so on, which seem
+reasonable.
+<P>
+There is no use chunking if you don't have enough data for the context, and
+there's no use chunking if you can already predict what comes after the
+context fairly well.  This method ensures that you have enough data
+(the context's prediction has a low entropy), and that what comes after the
+context cannot be predicted very well (it's distribution has a high
+entropy), which is perhaps why it works so well.  That exactly the same
+method may be used to find symbol classes is encouraging, although this
+needs to be tested...
+
+<H4>Fri 06 Feb, 1998</H4>
+
+Yep, I'm being a slack bastard at the moment.  I don't know why, but I
+suspect it's got something to do with the fact that my recent experiments
+have been taking several hours to run.  And I didn't even bother to write
+a diary entry for yesterday!
+<P>
+The SEPO distribution has been packaged up and sent off, which means I can
+get back to working on my project.  Just as I suspected, a chunker which
+creates a chunk of the context whose distribution has the highest entropy
+easily out-performs the other approaches, with a per-character information
+of 2.00 bits; as opposed to the 2.11 bits of the method previously
+reported.
+<P>
+I've now got to get around to addressing my list of things to do, but
+I fear that will be left 'til next week.  I have things to do; mostly
+concerning my job as a tegestologist.  You work it out!
+
+<H4>Mon 09 Feb, 1998</H4>
+
+Not much done... working on papers.
+
+<H4>Tue 10 Feb, 1998</H4>
+
+Sheesh, I'm being slack lately.  Still writing those 4 journal papers...
+
+<H4>Wed 11 Feb, 1998</H4>
+
+I have begun to flesh out four papers intended for submission to some
+journal or other.  They are:
+<OL>
+<LI>A paper on finding words in unsegmented text, using entropic chunking,
+model context chunking and symbol-seperator discovery.</LI>
+<LI>A paper on a hybrid PPM/LZ data compression scheme, which combines
+a standard PPM compressor with an adaptive chunker and dynamic dictionary.</LI>
+<LI>A paper on the PPM compression scheme with extended equivalence classes,
+performed by introducing several wildcard symbols into the dictionary.</LI>
+<LI>A paper on finding symbol classes by clustering predictions, combined
+with a technique for finding candidate distributions from the model.</LI>
+</OL>
+The most interesting of these to me, at the moment, is number 3.  It is
+inspired in part by Mike's 1988 Master's Thesis.  I am currently modifying
+GIT to include wildcard symbols, and this may take some time.  Once this
+is done, I must compare standard PPMC with the wildcard version, and will
+hopefully show its superiority.
+<P>
+Recently I have decided to get a big, beefy PC.  Sonny is setting one up
+for me and, with any luck, I'll have it on the weekend.  Yippee!
+<P>
+Anyway; getting back to the problem at hand.  Interpolation in PPMC is
+done to simulate what happens when you need to fall-back to a simpler
+model.  With Markov models of different order, the fallback sequence is
+obvious.  With wildcard models, not so.  Who is to say whether a <x, *>
+or <*, x> context is better?
+<P>
+A brief amount of thinking in the toilet led me to the following idea.
+Consider a context <x, y>.  Now, it is possible that either both the
+symbols contribute to what the next symbol is going to be, or one
+of them, or none of them.  Let's consider the case where only one of
+them makes a contribution.  This may happen when the other one has
+never been seen before, or represents a low-information word (such
+as "the").
+<P>
+So, let's suppose that "y" doesn't provide any information about what's
+coming next.  So, in this case, <x, *> would be the better context to
+use.  So we make a prediction, and we find out that "z" occurred.  So
+our context is now <y, z>.  We know that "y" is fairly useless, so "z"
+is the only symbol which may possibly provide information about what's
+coming next.  If it does, then <*, z> is the best context to use.  If
+not, then neither context is any good, but, as soon as a useful symbol
+comes up, the <*, q> context will be the best.
+<P>
+What I'm attempting to say here is this: if, at any time, <x, *> proves
+to be the best context, because the "y" symbol is useless, then there
+must be an associated case where <*, q> will be the best context.  They
+come in pairs, and therefore should be weighted 50-50.
+<P>
+Hence, it may be possible to replace the bigram prediction with a
+50% <x, *> prediction and a 50% <*, y> prediction, and proceed to use
+normal PPMC weighting.  This needs to be verified.  To do this, use
+optimal weighting, and make sure that <x, *> and <*, y> are both used
+about the same number of times.  Also, perform PPMC with a range of
+weights, and see which gives the best results.
+
+<H4>Wed 11 Feb, 1998</H4>
+
+Okay, after much heartache I've done a generic wildcard model.  That is,
+a wildcard symbol is added to the trie.  However, I've not accounted for
+wildcard symbols NOT having their statistics updated (they're not "real"
+symbols, so they shouldn't drain the probability density), or many different
+sorts of wildcard symbols.  This is too hard!
+<P>
+What remains to be done now is optimal smoothing (just to test how good
+it performs wrt a normal optimal-PPM model) and proper smoothing (which will
+be hard, but which is neccessary).  But that's for tomorrow: right now, I'm
+off to play squash!
+
+<H4>Thu 12 Feb, 1998</H4>
+
+I have done optimal prediction for the wildcard model, and it always
+out-performs optimal-PPM.  With natural language texts it doesn't
+win by much; sometimes only shaving 0.1 bits off the average bits per
+character.  On other data, such as the geo corpus, it shaves off over
+0.5 bits per character.  Both these results are for order-3 models.
+<P>
+At the moment, I'm amalgamating contexts which have the same number
+of wildcards in them to give a single prediction; this is being done
+to allow normal PPMC smoothing to be used.  The amalgamation is being
+done by simple averaging the two distributions, although there may
+be better ways.  This needs to be thought about, and investigated.
+<P>
+Another possible smoothing technique is using weights which are functions
+of the entropy of the various distributions.  This also needs to be
+investigated!
+
+<H4>Thu 12 Feb, 1998</H4>
+
+Well, it turns out that averaging distributions from contexts with the same
+number of wildcards severly degrades performance.  The geo corpus still
+compresses better than PPM, in the optimum case, when this averaging is
+performed.  However, the corpora which had closer results in the non-averaging
+case ended up performing worse than optimal-PPM when averaging was done.
+<P>
+I believe that, as the corpus size grows, the difference between wildcard
+and non-wildcard models decreases.  Also, as the statistics of the model
+settle down (ie: there are fewer "surprise" contexts), the contribution of
+the wildcard model is lessened.  This is almost certainly a product of the
+fact that natural language text is being analysed on the letter level.
+Results for the wildcard model will certainly be better when we operate
+on the word level.  This has yet to be tested.
+
+<H4>Fri 13 Feb, 1998</H4>
+
+I have had a frustrating day adding word-level support to GIT.  Things
+started out okay; it turned out that it was relatively easy to make
+the read_data() routine read in words and add them to the dictionary
+automatically.  Unfortunately, though, the wild_compress() routine
+crashes on some data sources, even though the normal compress() routine
+doesn't.  Hours have been spent looking for the blasted bug, to no avail.
+<P>
+Anyway, 'tis getting late.  I don't think I'll catch the bug today, but
+I'll hopefully get him on the weekend.  After that, I'll be able to test
+how much of a contribution the wildcard model makes on the word level.
+First with optimal weights, and then with others.  See-you next week!
+
+<H4>Mon 16 Feb, 1998</H4>
+
+Okay; I've written training and testing functions for the wildcard model,
+and evaluated it's performance (using optimal smoothing) on the Sherlock
+Holmes corpus.  I used a 1Mb training corpus and a 1Mb testing corpus.
+A normal trigram model scored a perplexity of 205 words, while the
+wildcard model came in at a considerably lower 127 words.  This bodes well,
+and I plan to perform more tests with "real" smoothing methods in the
+near future.
+<P>
+D'oh!  A quick Pixie check shows I'm still re-scaling nodes, a-la PPMC,
+when I don't have to.  Removing this call speeds up the program by a
+factor of 60, and changes results to boot.  Now the normal model has a
+perplexity of 95 symbols, and the wildcard model one of 83 symbols.  Not
+much of a difference anymore...
+<P>
+Extending the model order to 3 (hence we are collecting quadgrams), gives
+a perplexity of 91 vs. 58.  A lot better!  This gets me wondering whether
+I should re-do the experiments on the letter-level...
+
+<H4>Tue 17 Feb, 1998</H4>
+
+I've just whipped up a program to scan through a trie, looking for separator
+symbols.  Whenever the entropy of a node exceeds a threshold value, the
+last symbol in the context is added to a special separator dictionary, and
+the count of that symbol is increased by the number of times the context
+was seen during training.  The dictionary itself therefore defines a
+distribution over the alphabet, and we can measure the entropy of this.
+<P>
+A plot of threshold entropy versus separator-symbol entropy is interesting.
+The entropy of the separator-symbol distribution begins high---over 4 bits
+in fact--- and slowly descends.  This descent increases with the threshold
+entropy, and begins to rapidly drop when a threshold of around 3 bits is
+reached.  At a threshold of around 4 bits, a small kink generally appears
+in the curve, and the entropy of the distribution goes to zero soon after.
+<P>
+Results indicate that the best separator symbols are found at about the
+point of the kink.  For instance, in the 3.5Mb Sherlock Holmes corpus,
+three symbols, {", ^, -}, are found at the kink, and these seem to be
+fairly good word separators.  The space symbol, denoted by ^, occurs far
+more often than the other two symbols.  In fact, if we wait for the entropy
+to go to zero, only the space symbol remains.
+<P>
+On the other hand, in a text without separator symbols, results are quite
+different.  A version of the Sherlock Holmes corpus was created without
+punctuation or whitespace, and all the words in it were capitalized.  This
+corpus is 2.7Mb in size.  Although the plot looks remarkably similar
+(even the kink occurs in roughly the same place), the smallest non-zero
+entropy for the separator-symbol distribution is 2.24 bits (in the other
+case, it was 0.02 bits).  At the point of the kink, the separator-symbols
+are {D, S, E, L, Y, G, O}, fairly evenly distributed.  The entropy only
+goes to zero when no separator symbols are found.
+<P>
+This little experiment gives quite remarkable results; we can determine
+whether any separator symbols exist simply by looking at the minimum entropy
+of the separator-symbol distribution, and we can find out what they are quite
+easily.  Lots of experiments need to be performed, especially to determine
+the nature of the kink!  But there's a paper in it.  Of that I'm sure.
+
+<H4>Tue 17 Feb, 1998</H4>
+
+I've performed the same experiments on files from the Canterbury corpus,
+and have found similarly encouraging results.  This suggests the following
+experiment, which I will conduct this-afternoon:
+<OL>
+<LI>Read in the corpus, and find the non-empty separator-symbol distribution
+which has the lowest entropy.</LI>
+<LI>Select the most frequent symbol from this distribution, and remove all
+occurrences of it from the input text.</LI>
+<LI>Repeat this procedure with the new text, until there is no text left.</LI>
+</OL>
+Each time a symbol is removed from the input text, it should be written to
+a results file, along with the entropy of the distribution which it occurred
+in.  This should be interesting!
+<P>
+A brief test indicates that the results aren't as good as I expected.  This
+is almost certainly due to the fact that the separator symbols are NOT
+context sensitive.  So, the next step is to remove the symbols based upon
+their context!
+
+<H4>Wed 18 Feb, 1998</H4>
+
+Today I tracked down a 1955 paper by Zellig Harris, which details a phoneme
+segmentation technique, which is capable of finding both mropheme and word
+boundaries.  Chris Manning made me aware of it; he seemed chuffed that it
+was a linguist who first came up with a statistical technique for
+segmentation.  Strangely, Harris' paper doesn't include a list of
+references, so I can't trace the work any further back.  Wolff cites him,
+though.
+<P>
+The technique is simple.  We are given an utterance U to segment; each
+utterance is just a sequence of phonemes.  We take the first phoneme, and
+calculate the number of different phonemes which can follow it.  This
+number comes from training data (although Harris cites sparse data as a
+reason for using an informant instead).  We repeat this calculation
+for the first two phonemes, then the first three, and so on, until the
+end of the utterance is reached.
+<P>
+We are left with a sequence of numbers, and generally find that the sequence
+peaks at sensible boundaries.  Segmentation is therefore a process of
+thresholding.  Harris makes several modifications to the procedure to
+improve results (eg: run the process backwards as well, perform insertion,
+count the (n+2)th phoneme as well as the (n+1)th, etc.), but that is the
+gist of it.  If you squint your eyes, you can just about make out the
+relationship to entropy.
+<P>
+Apart from Harris' paper, I've also been reading about ways of measuring the
+segmentation performance.  What is generally done (Krenn1, Marcken1) is
+a hierarchical bracketing of the data to be segmented.  We can then
+build a contingency table to summarise the results.  Remember that such a
+table contains the decision the program made, and the correct decision, and
+it measures the number of false-positives and so on.  From this table we
+can calculate the recall, which measures the completeness of segmentations
+attempted by the system, and the precision, which measures the accuracy of
+the attempted segmentations, as below:
+<P>
+<TABLE BORDER=1 CELLSPACING=0 CELLPADDING=4>
+<TR><TD>Model/Truth</TD><TD>YES</TD><TD>NO</TD></TR>
+<TR><TD>YES</TD><TD>a</TD><TD>b</TD></TR>
+<TR><TD>NO</TD><TD>c</TD><TD>d</TD></TR>
+</TABLE>
+<P>
+Here, for instance, b is the number of false-positives.  We calculate
+recall as a/(a+c), and precision as a/(a+b).  There is another measure
+called fallout, calculated as b/(b+d), but it is seldom used.
+<P>
+Now I've just got to get around to writing the damned thing up!
+
+<H4>Fri 20 Feb, 1998</H4>
+
+Not much work has been donw the last two days.  On Thursday I read some
+papers to do with segmentation, including the one Chris Manning gave me
+a reference for (Harris1).  I then attempted to find a solution to Bob
+Linggard's Marriage Problem; a solution which I formulated as an amusing
+tale, and emailed to the PatWreck crowd.  It turned out it was sub-optimal,
+but I had fun.
+<P>
+I then spent a few hours writing a program to generate all possible cases
+for a fixed population size for Bob's problem, which allowed me to test
+the performance of my method with a few others.  Fun fun fun!
+<P>
+This morning I had a three hour course on resuscitation techniques, given
+by St. John's Ambulance.  'Twas interesting, but contributed little to my
+research.  I then spent a while fixing several reported bugs in MegaHAL,
+and the program I wrote yesterday.  And now it's 4pm on a Friday afternoon.
+It's Tapper Time!  I'm due to go to the pub soon; but it's an early night
+for me... I've got a Rottnest trip tomorrow morn!
+

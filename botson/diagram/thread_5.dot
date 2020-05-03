@@ -1,0 +1,9 @@
+digraph thread_5 {
+rule_12[label="Vegemite is great",color=blue,URL="Index.html?perform=RuleSubView&sub_rule=12"];
+enter [shape=box,label="Australian",URL="Index.html?perform=ClassSubView&sub_class=6",shape=diamond];
+enter -> rule_12 [label="tell me about australian food"];
+rule_12 -> rule_13 [label="no it isn't"];
+rule_13[label="yes it is",color=black,URL="Index.html?perform=RuleSubView&sub_rule=13"];
+enter [shape=box,label="Australian",URL="Index.html?perform=ClassSubView&sub_class=6",shape=diamond];
+rule_13 -> rule_12 [label="tell me about australian food"];
+}

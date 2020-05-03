@@ -1,0 +1,30 @@
+<?
+if(!IsSet($identity)) $identity=1;
+?>
+<!DOCTYPE HTML PUBLIC "-//Netscape Comm. Corp.//DTD HTML//EN">
+<HTML>
+<HEAD>
+<TITLE>Jason Hutchens: other lab</TITLE>
+<LINK REL="StyleSheet" HREF="style/jason.css" TYPE="text/css" MEDIA="screen">
+<LINK REV="Made" HREF="mailto:hutch@tmbg.org">
+</HEAD>
+<BODY>
+<H1><A HREF="">Jason Hutchens</A>: other lab</H1>
+<? if($identity==9) { ?>
+<P>Our web camera has experienced some sort of malfunction.  Please
+<A HREF="mailto:hutch@tmbg.org">send me an email</A> and let me know
+what events transpired leading up to this malfunction.</P>
+<? } else { ?>
+<? if($identity>0) { ?>
+<IMG SRC="image/spy/spy20482<? echo($identity); ?>.gif">
+<? } ?>
+<FORM METHOD="Post" ACTION="Other.html">
+<INPUT TYPE="Hidden" NAME="identity" VALUE="<? echo($identity+1); ?>">
+<? if($identity==0) { ?>
+<INPUT TYPE="Submit" VALUE="Spy on Other Lab">
+<? } else { ?>
+<INPUT TYPE="Submit" VALUE="Spy on Other Lab Again">
+<? }} ?>
+</FORM>
+</BODY>
+</HTML>

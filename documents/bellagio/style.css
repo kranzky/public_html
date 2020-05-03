@@ -1,0 +1,49 @@
+BODY
+{
+	background-image: url(back.gif);
+	color: black;
+	font-family: sans-serif;
+}
+A
+{
+	color: blue;
+	text-decoration: none;
+}
+H1
+{
+	font-size: 32pt;
+	text-align: center;
+}
+H2
+{
+	font-size: 18pt;
+	text-align: center;
+}
+H3
+{
+	text-align: center;
+	font-size: 24pt;
+}
+P
+{
+	font-size: 18pt;
+	text-align: justify;
+}
+UL
+{
+	font-size: 18pt;
+	text-align: justify;
+}
+P.PRE
+{
+	font-family: courier;
+	font-size: 18pt;
+	font-weight: bold;
+	text-align: left;
+}
+TT
+{
+	font-family: courier;
+	font-size: 14pt;
+	font-weight: bold;
+}

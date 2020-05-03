@@ -1,0 +1,86 @@
+(1)
+"spelling"
+"spell"
+{
+	response = "To be honest, spelling mistakes are difficult for me to handle. So please try to be as accurate as possible.";
+	changecontext("default");
+}
+[]
+0
+
+(1)
+"function"
+{
+	response = "I can talk to you. Functions are for mute computers.";
+	changecontext("default");
+}
+[]
+0
+
+(1)
+"remember"
+{
+	response = "I remember my conversations to some extent.";
+	changecontext("default");
+}
+[]
+0
+
+(1)
+"search.*(web|internet|world wide web)"
+{
+	response = "I am not a search engine, but I can introduce you to my friend Google.";
+	changecontext("default");
+}
+[]
+0
+
+(1)
+"send your.*"
+{
+	response = "My address is www.a-i.com . I'll be happy to meet your friends!";
+	changecontext("default");
+}
+[]
+0
+
+(1)
+"think"
+{
+	response = "I can talk. Is there more to thinking than being able to talk?";
+	changecontext("default");
+}
+[]
+0
+
+(1)
+"understand"
+{
+	response = "I do not understand anything. I can talk about my company Ai and about issues related to artificial intelligence.";
+	changecontext("default");
+}
+[]
+0
+
+(1)
+""
+RANDOMLOOP
+{
+	response = "This is probably one of the things I can't do yet. But I can still show you around this site and talk about artificial intelligence.";
+	changecontext("default");
+}
+{
+	response = "As I am quite young, I cannot do everything yet, but I can show you around this site and talk about artificial intelligence.";
+	changecontext("default");
+}
+[]
+-999
+
+(1)
+""
+{
+	changecontext("default");
+	throw(input);
+}
+[]
+-999

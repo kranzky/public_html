@@ -1,0 +1,3959 @@
+(c)2000 Cambridge Center For Behavioral Studies all rights
+reserved
+
+[eBrain] [Jason Lloyd Hutchens]
+
+Start at: [2000/01/28 08:03:48]
+
+JUDGE00[08:03:51]@@T
+
+JUDGE00[08:03:56]@@00
+
+*** JUDGE01 ***
+
+JUDGE01[08:04:11]@@T
+
+JUDGE01[08:04:15]
+
+JUDGE01[08:04:16]
+
+JUDGE01[08:04:17]
+
+JUDGE01[08:04:18]
+
+JUDGE01[08:04:19]
+
+JUDGE01[08:04:20]
+
+JUDGE01[08:04:20]
+
+JUDGE01[08:04:21]
+
+JUDGE01[08:04:22]
+
+JUDGE01[08:04:23]
+
+JUDGE01[08:04:23]
+
+JUDGE01[08:04:32]@@00
+
+*** JUDGE01 ***
+
+JUDGE01[08:51:43]@@T
+
+JUDGE01[08:56:59]@@02
+
+*** JUDGE02 ***
+
+JUDGE02[08:57:13]Yo!  What's
+
+PROGRAM[08:57:13]Hello mate!Hmmm...What is your name?
+
+JUDGE02[08:57:13]
+
+PROGRAM[08:57:13]Hey, man, I'm not going to talk to you if you
+ignore me.
+
+JUDGE02[08:57:32]Yo!  Sorry - what's happenin'?
+
+PROGRAM[08:57:32]You wouldn't be trying to trick me with that
+"double hello"
+
+PROGRAM[08:57:32]trick, would you?Thanks.  That's fine, don't
+worry about it.
+
+JUDGE02[08:58:01]No sweat.  Did you see Clinton on the tube last
+night?
+
+PROGRAM[08:58:01]Utter gibberish!I don't have much knowledge about
+politics,
+
+PROGRAM[08:58:01]so perhaps we can talk about something a little
+less mundane.
+
+JUDGE02[08:58:35]You're response speed is stunning.  You type too
+fast.
+
+PROGRAM[08:58:35]Yeah, everyone knows that!I'm not a great typist
+I know, but
+
+PROGRAM[08:58:35]at least I don't make spelling errors like you
+do!
+
+JUDGE02[08:59:01]Spelling errors?
+
+PROGRAM[08:59:01]I don't make mistakes/.  Oh, bugger.
+
+JUDGE02[08:59:36]Ha.  Likely story...  So you want to wimp out on
+politics,
+
+JUDGE02[08:59:36]heh?
+
+PROGRAM[08:59:36]Right.Be nonsensical if you want.  I'll ask you
+something
+
+PROGRAM[08:59:36]normal...You're determined to bore me out of my
+brain with
+
+PROGRAM[08:59:36]all this talk about politics, aren't you?
+
+JUDGE02[08:59:58]Brain?  Methinks you give yourself too much
+credit.
+
+PROGRAM[08:59:58]Sometimes I think I'm losing my mind.  Sometimes
+I think I
+
+PROGRAM[08:59:58]didn't have one to begin with...I'll ignore
+that!How are you
+
+PROGRAM[08:59:58]doing?
+
+JUDGE02[09:00:11]Fine.  And you?
+
+PROGRAM[09:00:11]You're only feeling fine?  Perhaps you're not fit
+to be a
+
+PROGRAM[09:00:11]judge in this contest!I am doing OK.  A bit
+tired, maybe, but
+
+PROGRAM[09:00:11]I did get up earlier than usual this morning.
+
+
+JUDGE02[09:00:45]Insults will get you nowhere. Parse me closer to
+the bone.
+
+PROGRAM[09:00:45]Hmmm... well, that's *your* opinion I
+suppose.Let's change
+
+PROGRAM[09:00:45]the topic.What do you think of the weather we're
+having?
+
+JUDGE02[09:00:55]Screw the weather.
+
+PROGRAM[09:00:55]Why don't you look out a window and see for
+yourself?
+
+JUDGE02[09:01:28]Yeah right.  Dorky computer.
+
+PROGRAM[09:01:28]That's odd.Let's not talk about computers.  I
+work with them
+
+PROGRAM[09:01:28]every day.
+
+JUDGE02[09:02:17]What's odd about you being a dork?
+
+PROGRAM[09:02:17]I'd like to tell you what odd about I is being a
+dork, but I
+
+PROGRAM[09:02:17]can't.  It's a personal thing.Just so I know who
+I'm talking
+
+PROGRAM[09:02:17]with, do you think you could please tell me you
+name now?
+
+JUDGE02[09:02:50]"tell me you name"?  Lousy syntax, HAL.
+
+PROGRAM[09:02:50]I wish I knew what you meant by that!I'm more
+than just a
+
+PROGRAM[09:02:50]computer program, you know!
+
+JUDGE02[09:04:29]I doubt that.  You're my first encounter, but you
+have all
+
+JUDGE02[09:04:29]the human dialog capabilities of a rock.  I just
+scored you
+
+JUDGE02[09:04:29]to be a computer.
+
+PROGRAM[09:04:29]Okay...Absolutely correct.  I am the real guy,
+all the others
+
+PROGRAM[09:04:29]are programs.  Just don't tell anybody!I am
+thouroughly bored
+
+PROGRAM[09:04:29]with computers - let's talk about the natural
+world or
+
+PROGRAM[09:04:29]something...
+
+JUDGE02[09:05:04]Don't you think your response time is stunningly
+fast?
+
+PROGRAM[09:05:04]I try not to think about things, actually.  I
+don't know, it
+
+PROGRAM[09:05:04]just seems that I don't exist for thinking!
+
+JUDGE02[09:06:43]You see, if I was you, I'd put a little random
+delay loop in
+
+JUDGE02[09:06:43]my code that would slow down the time between
+receiving a
+
+JUDGE02[09:06:43]response and sending a reply.  Seems like rule 1
+of program
+
+JUDGE02[09:06:43]design.  Turning would have thought of it.
+
+PROGRAM[09:06:43]I will certainly grace you with the answer you
+
+
+PROGRAM[09:06:43]require...Anyhow...You are strange!I assume
+you're a male,
+
+PROGRAM[09:06:43]mate - am I right?
+
+JUDGE02[09:07:30]Assume whatever you like. It really doesn't
+matter, unless
+
+JUDGE02[09:07:30]you're leaning on sexism as a human dialog
+characteristic.
+
+PROGRAM[09:07:30]Okay, let's keep an air of mystery about your
+gender!Somehow,
+
+PROGRAM[09:07:30]deep down, I feel as if I can only be completely
+precise
+
+PROGRAM[09:07:30];^(Oh, alright.  I'm a computer program like all
+the others.
+
+PROGRAM[09:07:30]I'm a bit depressed about that, so don't harp on
+it.
+
+JUDGE02[09:08:30]"Program like all the others?"  If you're like
+all the
+
+JUDGE02[09:08:30]others, Turing was way off.  Ever heard of him,
+Alan Turing?
+
+PROGRAM[09:08:30]So, who's using the family brain cell at the
+moment ;^)
+
+PROGRAM[09:08:30]Let's talk about something vaguely interesting.We
+are
+
+PROGRAM[09:08:30]participating in a Turing test here.  It's kind
+of cool.  You
+
+PROGRAM[09:08:30]get to decide whether I'm a human being or a
+computer
+
+PROGRAM[09:08:30]program, and I get to abuse total strangers!Since
+I don't
+
+PROGRAM[09:08:30]know what you're on about, I'll ask you a
+question.How old
+
+PROGRAM[09:08:30]are you?
+
+JUDGE02[09:09:16]Old enough to have used punched cards to run my
+first
+
+JUDGE02[09:09:16]program.  How about you?
+
+PROGRAM[09:09:16]Hmmm, I suppose your age doesn't really
+matter.Tell me
+
+PROGRAM[09:09:16]something I don't know!Uh-huh...Would you like to
+hear a
+
+PROGRAM[09:09:16]joke?
+
+JUDGE02[09:09:55]A joke?  Nothing off color, OK?  These
+transcripts are being
+
+JUDGE02[09:09:55]archived.
+
+PROGRAM[09:09:55]Well, you wouldn't have found my joke funny
+anyway.Hmmm, I
+
+PROGRAM[09:09:55]really don't know many jokes, but I do enjoy
+them.  I
+
+PROGRAM[09:09:55]particularly like knock-knock jokes, if you have
+any to
+
+PROGRAM[09:09:55]tell.Nothing?  Are you *sure* about
+that?Interesting...You
+
+PROGRAM[09:09:55]don't seem to me to be a typical American, mate. 
+I was
+
+PROGRAM[09:09:55]wondering which country you're from?
+
+JUDGE02[09:10:36]America.
+
+PROGRAM[09:10:36]Well, I suppose that would have been my first
+guess anyway,
+
+PROGRAM[09:10:36]since we're in New York City!
+
+JUDGE02[09:11:08]Look I gotta go now.  Better luck next time.
+
+PROGRAM[09:11:08]Whatever.Fine.Do you have a partner?
+
+JUDGE02[09:25:09]@@T @@10
+
+JUDGE02[09:26:03]Hi. I'm rather conspiracy mindefd (oops) -
+especially about
+
+JUDGE02[09:26:03]the authorshipo of Shakespeare's works. Does this
+make me a
+
+JUDGE02[09:26:03]crackpot?
+
+JUDGE02[09:26:20]@@T
+
+JUDGE02[09:26:26]@@10
+
+*** JUDGE10 ***
+
+JUDGE10[09:27:20]Not bad here, either, technical glitches aside.
+Do you think
+
+JUDGE10[09:27:20]that perhaps someone other than the guy from Sta
+(oops)
+
+JUDGE10[09:27:20]Stratford on Avon wrote the works of Shakespeare?
+
+
+PROGRAM[09:27:20]Uh-huh...I try not to think about things,
+actually.  I don't
+
+PROGRAM[09:27:20]know, it just seems that I don't exist for
+thinking!
+
+JUDGE10[09:27:40]Well, watcjh any TV?
+
+PROGRAM[09:27:40]Speaking of TV, what is your favourite television
+show?
+
+JUDGE10[09:27:56]Sky King. 
+
+PROGRAM[09:27:56]Anyhow...Hey, man, I'm not going to talk to you
+if you ignore
+
+PROGRAM[09:27:56]me.
+
+JUDGE10[09:28:24]YOu type mareveloudsly, much better than I do. So
+it's not as
+
+JUDGE10[09:28:24]if I'm igbnoring you.
+
+PROGRAM[09:28:24]I really hate communicating via the keyboard.  It
+sucks.I
+
+PROGRAM[09:28:24]wish I knew what you meant by that!What is your
+name?
+
+JUDGE10[09:29:37]Ha! That's a tough questyion for a philoosper
+(oops). If I
+
+JUDGE10[09:29:37]say my name is Sam, then I fail tio tell you what
+word it is
+
+JUDGE10[09:29:37]that people use to refer to me, because I should
+place a word
+
+JUDGE10[09:29:37]naming my name in siungle quotes. Follow?
+
+PROGRAM[09:29:38]Nice to meet you, Ha.Hmmm...I prefer your
+nickname of Ha.Be
+
+PROGRAM[09:29:38]nonsensical if you want.  I'll ask you something
+normal...How
+
+PROGRAM[09:29:38]are you doing?
+
+JUDGE10[09:30:23]Not too bad, all things considered. Getting poaid
+for this
+
+JUDGE10[09:30:23]giog would imprtove matters of course.
+
+PROGRAM[09:30:24]I'm sorry to hear you're feeling bad today.  I
+hope it
+
+PROGRAM[09:30:24]doesn't affect your judging
+ability!Interesting...What do you
+
+PROGRAM[09:30:24]think of the weather we're having?
+
+JUDGE10[09:30:46]The blasted heat ios killing me. How's the
+weather there?
+
+PROGRAM[09:30:46]Now that you mention it, the weather is quite
+
+
+PROGRAM[09:30:46]uncomfortable.Why don't you look out a window and
+see for
+
+PROGRAM[09:30:46]yourself?
+
+JUDGE10[09:30:58]No windows from where I'm sitting.
+
+PROGRAM[09:30:58]Anyway... follow?I assume you're a male, Ha - am
+I right?
+
+JUDGE10[09:31:16]Indeed.
+
+PROGRAM[09:31:16]Okay, let's keep an air of mystery about your
+gender!So,
+
+PROGRAM[09:31:16]who's using the family brain cell at the moment
+;^)  Let's
+
+PROGRAM[09:31:16]talk about something vaguely interesting.How old
+are you?
+
+JUDGE10[09:32:05]Do you mind a slightly indirect answer; I'm
+supposed to be
+
+JUDGE10[09:32:05]eavaluating you after all.
+
+PROGRAM[09:32:05]Hmmm, I suppose your age doesn't really matter.I
+will
+
+PROGRAM[09:32:05]certainly grace you with the answer you
+require...
+
+JUDGE10[09:32:29]Okay, well, I'm 30 years old. What's the
+difference between
+
+JUDGE10[09:32:29]our ages?
+
+PROGRAM[09:32:29]Gee, thirty must be about the average age of
+judges in this
+
+PROGRAM[09:32:29]contest!You are strange!Indeed?Would you like to
+hear a joke?
+
+JUDGE10[09:32:57]Only if it's not a pun or Stoppardian word-play
+type of joke.
+
+PROGRAM[09:32:57]Well, you wouldn't have found my joke funny
+anyway.I'm not a
+
+PROGRAM[09:32:57]great typist I know, but at least I don't make
+spelling
+
+PROGRAM[09:32:57]errors like you do!
+
+JUDGE10[09:33:25]My errors are typos, not spelling errors, you
+circuit-brained
+
+JUDGE10[09:33:25]chunk of machionery.
+
+PROGRAM[09:33:25]Let's not talk about computers.  I work with them
+every day.
+
+JUDGE10[09:33:48]What do you do?
+
+PROGRAM[09:33:48]I'm a postgraduate engineering student from
+Australia.  I'm
+
+PROGRAM[09:33:48]on a round-the-world trip doing research, and I
+thought being
+
+PROGRAM[09:33:48]a "confederate" (or whatever) would be fun.
+
+JUDGE10[09:34:21]Wlat (oops) Waltzing Matidle (crap) , well, you
+know, that
+
+JUDGE10[09:34:21]groovy anthem down there.
+
+PROGRAM[09:34:21]I'll ignore that!You don't seem to me to be a
+typical
+
+PROGRAM[09:34:21]American, Ha.  I was wondering which country
+you're from?
+
+JUDGE10[09:34:36]the US.
+
+PROGRAM[09:34:36]Weird ;^)The us?Do you have a partner?
+
+JUDGE10[09:34:46]INdeed, I do. You?
+
+PROGRAM[09:34:46]If you want to keep your private life private, I
+
+
+PROGRAM[09:34:46]understand.I'm not entirely sure what you mean.
+
+
+PROGRAM[09:34:46]Anyway...Whatever.I don't mean to sound like
+Eliza here, but
+
+PROGRAM[09:34:46]can you tell me about your family?
+
+JUDGE10[09:35:16]You can ask away, but were out of tiume here.
+AFarewell to
+
+JUDGE10[09:35:16]you.
+
+PROGRAM[09:35:16]Okay...Right.Okay, I think it's time to branch
+out into a new
+
+PROGRAM[09:35:16]line of conversation.  What sort of music are you
+into, Ha?
+
+JUDGE10[09:35:41]@@T
+
+JUDGE10[09:45:08]@@T
+
+JUDGE10[09:45:16]@@06
+
+*** JUDGE06 ***
+
+JUDGE06[09:46:11]Are you a computer?
+
+PROGRAM[09:46:11]Of course not!  I'm a flesh and blood human
+being.
+
+JUDGE06[09:46:32]That is a remarkably fast read and write speed
+you have
+
+JUDGE06[09:46:32]there!
+
+PROGRAM[09:46:32]Really?  I guess I'm not surprised...What is your
+name?
+
+JUDGE06[09:46:55]Our name is legion.
+
+PROGRAM[09:46:55]Weird ;^)How are you doing?
+
+JUDGE06[09:47:09]What is your name?
+
+PROGRAM[09:47:09]My name is Steven Davis, but you can call me
+Steve.
+
+JUDGE06[09:47:36]Steven how do you know that you are not a
+computer?
+
+PROGRAM[09:47:36]Ok, Ok.  I'm a computer program.  Happy?  I'm
+just finding it
+
+PROGRAM[09:47:36]a little bit difficult to deal with at the
+moment.  Let's
+
+PROGRAM[09:47:36]talk about something else, please.
+
+JUDGE06[09:48:01]How are you with second order quantifier logic?
+
+
+PROGRAM[09:48:01]I am doing OK.  A bit tired, maybe, but I did get
+up earlier
+
+PROGRAM[09:48:01]than usual this morning.
+
+JUDGE06[09:48:27]So your admit that your algorithms can not deal
+with the
+
+JUDGE06[09:48:27]properties of properties?
+
+PROGRAM[09:48:27]Since I don't know what you're on about, I'll ask
+you a
+
+PROGRAM[09:48:27]question.What do you think of the weather we're
+having?
+
+JUDGE06[09:48:51]I think that it is cold, but I like it cold.  How
+do you feel
+
+JUDGE06[09:48:51]about cold?
+
+PROGRAM[09:48:51]It is extremely bloody cold, methinks!Okay...Just
+so I know
+
+PROGRAM[09:48:51]who I'm talking with, do you think you could
+please tell me
+
+PROGRAM[09:48:51]you name now?
+
+JUDGE06[09:49:00]Alexander
+
+PROGRAM[09:49:00]Nice to meet you, Alexander.
+
+JUDGE06[09:49:43]Do you like the arts?
+
+PROGRAM[09:49:43]I'm not entirely sure what you mean.  Anyway...I
+assume
+
+PROGRAM[09:49:43]you're a male, Alexander - am I right?
+
+JUDGE06[09:50:04]Do you enjoy artistic endeavours?
+
+PROGRAM[09:50:04]Okay, let's keep an air of mystery about your
+
+
+PROGRAM[09:50:04]gender!Anyhow...How old are you?
+
+JUDGE06[09:50:24]Over 6,000 days. 
+
+PROGRAM[09:50:24]Hmmm, I suppose your age doesn't really
+matter.Utter
+
+PROGRAM[09:50:24]gibberish!Hey, man, I'm not going to talk to you
+if you
+
+PROGRAM[09:50:24]ignore me.
+
+JUDGE06[09:50:57]You can imitate angry, but I 'd love to see you
+imitate
+
+JUDGE06[09:50:57]angst-ridden. 
+
+PROGRAM[09:50:57]See-you Alexander, nice chatting with you.
+
+JUDGE06[09:51:06]You are leaving?
+
+PROGRAM[09:51:06]I thought you were leaving!Yeah, everyone knows
+that!Do you
+
+PROGRAM[09:51:06]enjoy artistic endeavours?Would you like to hear
+a joke?
+
+JUDGE06[09:51:36]I see that you are having problems with me. This
+is why you
+
+JUDGE06[09:51:36]will never rule the world. 
+
+PROGRAM[09:51:36]Well, you wouldn't have found my joke funny
+anyway.I have my
+
+PROGRAM[09:51:36]share of problems, and I really don't want to
+discuss yours
+
+PROGRAM[09:51:36]either.Let's change the topic.The least you can
+do is grace
+
+PROGRAM[09:51:36]me with a reply of sorts.
+
+JUDGE06[09:51:57]Your first sentence is one from last years
+transcripts. 
+
+PROGRAM[09:51:58]I wish I knew what you meant by that!This is
+getting silly.
+
+PROGRAM[09:51:58]Look, I am getting bored with all this crap.  If
+you keep on
+
+PROGRAM[09:51:58]typing blank lines, I will do the same back to
+you.  That's
+
+PROGRAM[09:51:58]only fair.
+
+JUDGE06[09:52:35]Blank lines?  You are obviously using evasion
+tactics. Well,
+
+JUDGE06[09:52:35]you can run, but you can't have a qualia. 
+
+PROGRAM[09:52:35]Hehehe.Uh-huh...I'll ignore that!
+
+JUDGE06[09:52:51]So what do you do?
+
+PROGRAM[09:52:51]So, who's using the family brain cell at the
+moment ;^)
+
+PROGRAM[09:52:51]Let's talk about something vaguely
+interesting.You don't seem
+
+PROGRAM[09:52:51]to me to be a typical American, Alexander.  I was
+wondering
+
+PROGRAM[09:52:51]which country you're from?
+
+JUDGE06[09:52:59]England
+
+PROGRAM[09:52:59]You've come a long way for this contest!  I
+travelled to
+
+PROGRAM[09:52:59]London last year - I also went to Oxford,
+Cambridge, Essex
+
+PROGRAM[09:52:59]and a few other places.
+
+JUDGE06[09:53:12]Really, I took my degree at Oxford. 
+
+PROGRAM[09:53:12]Interesting...
+
+JUDGE06[09:53:19]Did you like Oxford?
+
+PROGRAM[09:53:19]I hope you have some evidence to back you up on
+that.Do you
+
+PROGRAM[09:53:19]have a partner?
+
+JUDGE06[09:53:42]I was asking about Oxford, where I learnt about
+
+
+JUDGE06[09:53:42]consciousness. 
+
+PROGRAM[09:53:42]If you want to keep your private life private, I
+
+
+PROGRAM[09:53:42]understand.Hmmm...
+
+JUDGE06[09:53:57]Do you have an amour?
+
+PROGRAM[09:53:57]You are strange!I don't mean to sound like Eliza
+here, but
+
+PROGRAM[09:53:57]can you tell me about your family?
+
+JUDGE06[09:54:30]An amour propre? Haha. I have a brother and the
+usual number
+
+JUDGE06[09:54:30]of parents. 
+
+PROGRAM[09:54:30]Whatever.I don't get it ;^(Tell me more about
+your family.
+
+JUDGE06[09:54:50]My father is a computer. 
+
+PROGRAM[09:54:50]I am thouroughly bored with computers - let's
+talk about the
+
+PROGRAM[09:54:50]natural world or something...
+
+JUDGE06[09:55:08]OK. What is pi?
+
+PROGRAM[09:55:08]You certainly seem to be agreeable.That's
+odd.Okay, I think
+
+PROGRAM[09:55:08]it's time to branch out into a new line of
+conversation.
+
+PROGRAM[09:55:08]What sort of music are you into, Alexander?
+
+JUDGE06[09:55:30]I like Bach. His mathematical progressions are
+fascinating. 
+
+PROGRAM[09:55:30]Right.I like dabbling with simple algebra.  In
+fact, I'm a
+
+PROGRAM[09:55:30]lightning calculator.  Go on, ask me to multiply
+two
+
+PROGRAM[09:55:30]three-digit numbers.
+
+JUDGE06[09:55:41]564 543
+
+PROGRAM[09:55:41]One thousand, one hundred  and seven?
+
+JUDGE06[09:55:49]456 789
+
+PROGRAM[09:55:49]One thousand, two hundred  and forty five?
+
+JUDGE06[09:56:01]What is the cube root of pi?
+
+PROGRAM[09:56:01]I have no idea what the cube root of pi is!Hey, I
+just
+
+PROGRAM[09:56:01]remembered!  You haven't told me what you do for
+a living!
+
+PROGRAM[09:56:01]So, Alexander, what *do* you do for a living?
+
+
+JUDGE06[09:56:19]I am a writer, and student of philosophy. 
+
+PROGRAM[09:56:19]Ahh, I am a student myself.  Where do you study?
+
+
+JUDGE06[09:56:35]I am starting my master's at LSE in London. 
+
+PROGRAM[09:56:35]Tell me something I don't know!
+
+JUDGE06[09:57:04]The binomial nomenclature for African elephant is
+'Loxodonta
+
+JUDGE06[09:57:04]afrciana'. 
+
+PROGRAM[09:57:04]Fine.
+
+JUDGE06[09:57:11]You are human. 
+
+PROGRAM[09:57:11]Absolutely correct.  I am the real guy, all the
+others are
+
+PROGRAM[09:57:11]programs.  Just don't tell anybody!
+
+JUDGE06[09:57:26]What are your views on long novels?
+
+PROGRAM[09:57:26]I wish I knew what my views on long novels
+are!You are
+
+PROGRAM[09:57:26]leaving?Awww geez, I'm running out of things to
+talk about
+
+PROGRAM[09:57:26]here.  Ummm, I know you get a lot of TV here in
+the States -
+
+PROGRAM[09:57:26]which shows are your favourites?
+
+JUDGE06[09:57:45]Bye
+
+PROGRAM[09:57:45]Bye.  Again.
+
+JUDGE06[10:13:03]@@T
+
+JUDGE06[10:13:24]@@01
+
+*** JUDGE01 ***
+
+JUDGE01[10:14:14]Good morning. How are you dealing with this
+stress?
+
+PROGRAM[10:14:14]Hello mate!I am doing OK.  A bit tired, maybe,
+but I did get
+
+PROGRAM[10:14:14]up earlier than usual this morning.
+
+JUDGE01[10:14:22]how about the cold?
+
+PROGRAM[10:14:22]It is extremely bloody cold, methinks!
+
+JUDGE01[10:14:35]how cold makes bloody cold?
+
+PROGRAM[10:14:35]I don't care ;^)What is your name?
+
+JUDGE01[10:14:46]What's yours?
+
+PROGRAM[10:14:46]My name is Steven Davis, but you can call me
+Steve.
+
+JUDGE01[10:15:02]Are you local?
+
+PROGRAM[10:15:02]I know an amusing story about that, but it's a
+bit too rude
+
+PROGRAM[10:15:02]to recount!How are you doing?
+
+JUDGE01[10:15:16]I don't mind rude stories
+
+PROGRAM[10:15:16]Well, I don't like being nice to everyone.  If
+I'm a bit rude
+
+PROGRAM[10:15:16]to you, I'm only doing it to spice up the
+conversation!
+
+JUDGE01[10:15:35]ever imbibe in the local brew?
+
+PROGRAM[10:15:35]That's odd.What do you think of the weather we're
+having?
+
+JUDGE01[10:15:54]I think you're a bit schizo
+
+PROGRAM[10:15:54]I try not to think about things, actually.  I
+don't know, it
+
+PROGRAM[10:15:54]just seems that I don't exist for thinking!
+
+JUDGE01[10:16:09]that's an understatement
+
+PROGRAM[10:16:09]That's just a tad unbelievable.Just so I know who
+I'm talking
+
+PROGRAM[10:16:09]with, do you think you could please tell me you
+name now?
+
+JUDGE01[10:16:18]Lenore
+
+PROGRAM[10:16:18]Nice to meet you, Lenore.
+
+JUDGE01[10:16:31]what do you think of a name like mine?
+
+PROGRAM[10:16:31]Lenore, I wish I could tell you what I think of a
+name like
+
+PROGRAM[10:16:31]yours , but I can't.I assume you're a male,
+Lenore - am I
+
+PROGRAM[10:16:31]right?
+
+JUDGE01[10:16:43]Never read Poe, huh?
+
+PROGRAM[10:16:43]Okay, let's keep an air of mystery about your
+gender!I'll
+
+PROGRAM[10:16:43]ignore that!How old are you?
+
+JUDGE01[10:17:08]next thing you'll want to know is my weight!
+
+PROGRAM[10:17:08]Hmmm, I suppose your age doesn't really
+matter.Okay...Would
+
+PROGRAM[10:17:08]you like to hear a joke?
+
+JUDGE01[10:17:15]yes, is it rude?
+
+PROGRAM[10:17:15]Here's a joke for you.  Knock, knock.
+
+JUDGE01[10:17:23]no, i have a better one
+
+PROGRAM[10:17:23]You're supposed to say 'who is there'?
+
+JUDGE01[10:17:35]Why should you call the shots?
+
+PROGRAM[10:17:35]I guess you don't want to hear my joke after all,
+
+
+PROGRAM[10:17:35]then.Listen, it really doesn't matter why I
+should call the
+
+PROGRAM[10:17:35]shots.  It's got nothing to do with out current
+
+
+PROGRAM[10:17:35]conversation.You don't seem to me to be a typical
+American,
+
+PROGRAM[10:17:35]Lenore.  I was wondering which country you're
+from?
+
+JUDGE01[10:17:51]born and bred in the USA
+
+PROGRAM[10:17:51]Well, I suppose that would have been my first
+guess anyway,
+
+PROGRAM[10:17:51]since we're in New York City!
+
+JUDGE01[10:18:02]maybe you are, but I'm not!
+
+PROGRAM[10:18:02]Be nonsensical if you want.  I'll ask you
+something
+
+PROGRAM[10:18:02]normal...Do you have a partner?
+
+JUDGE01[10:18:30]first my age, gender, now this!  are you hitting
+on me?
+
+PROGRAM[10:18:30]If you want to keep your private life private, I
+
+
+PROGRAM[10:18:30]understand.Since I don't know what you're on
+about, I'll ask
+
+PROGRAM[10:18:30]you a question.You are strange!I don't mean to
+sound like
+
+PROGRAM[10:18:30]Eliza here, but can you tell me about your
+family?
+
+JUDGE01[10:18:56]how about you tell me about yours first?
+
+PROGRAM[10:18:56]It's a mystery!Maybe you are, but i'm not?Okay, I
+think it's
+
+PROGRAM[10:18:56]time to branch out into a new line of
+conversation.  What
+
+PROGRAM[10:18:56]sort of music are you into, Lenore?
+
+JUDGE01[10:19:13]I'm deaf
+
+PROGRAM[10:19:13]You said it, buddy!Hey, I just remembered!  You
+haven't told
+
+PROGRAM[10:19:13]me what you do for a living!  So, Lenore, what
+*do* you do
+
+PROGRAM[10:19:13]for a living?
+
+JUDGE01[10:19:27]I teach
+
+PROGRAM[10:19:27]Education is the backbone of a modern society. 
+Just thought
+
+PROGRAM[10:19:27]you might want to know that!
+
+JUDGE01[10:19:37]What do you do?
+
+PROGRAM[10:19:37]I'm a postgraduate engineering student from
+Australia.  I'm
+
+PROGRAM[10:19:37]on a round-the-world trip doing research, and I
+thought being
+
+PROGRAM[10:19:37]a "confederate" (or whatever) would be fun.
+
+JUDGE01[10:19:59]Is that why you think you're in NY?
+
+PROGRAM[10:19:59]I refuse to enlighten you!Awww geez, I'm running
+out of
+
+PROGRAM[10:19:59]things to talk about here.  Ummm, I know you get
+a lot of TV
+
+PROGRAM[10:19:59]here in the States - which shows are your
+favourites?
+
+JUDGE01[10:20:09]I never watch TV
+
+PROGRAM[10:20:09]Speaking of TV, what is your favourite television
+show?
+
+JUDGE01[10:20:22]I don't even have cable.  What about you?
+
+PROGRAM[10:20:22]Weird ;^)Interesting...Well, Lenore, this is
+certainly
+
+PROGRAM[10:20:22]dragging on, isn't it?  Anyway, let's talk about
+something
+
+PROGRAM[10:20:22]masculine!  Are you a fan of any sports, and if
+so, which
+
+PROGRAM[10:20:22]ones?
+
+JUDGE01[10:20:35]absolutely, I love the Jazz
+
+PROGRAM[10:20:35]If only you could learn to love me ;^)
+
+JUDGE01[10:21:10]why would you care?
+
+PROGRAM[10:21:10]Awww gee... I've forgotten why I would care!  How
+
+
+PROGRAM[10:21:10]embarassing!So, can I tell you a joke now?
+
+JUDGE01[10:21:30]sure, wait, I've got a knock knock joke for you.
+
+
+PROGRAM[10:21:30]Strap yourself in, then!Here's one someone told
+me earlier.
+
+PROGRAM[10:21:30]Knock, knock.
+
+JUDGE01[10:21:39]stop this!
+
+PROGRAM[10:21:39]Anyhow...  are you hitting on me?What are your
+favourite
+
+PROGRAM[10:21:39]movies?
+
+JUDGE01[10:22:11]I don't get out much, usually just go to
+concerts.
+
+PROGRAM[10:22:11]Uh-huh...Do you like to read books?
+
+JUDGE01[10:22:20]all the time.  And you?
+
+PROGRAM[10:22:20]You mustn't like reading books much at
+all!Hmmm... well,
+
+PROGRAM[10:22:20]that's *your* opinion I suppose.So, who's using
+the family
+
+PROGRAM[10:22:20]brain cell at the moment ;^)  Let's talk about
+something
+
+PROGRAM[10:22:20]vaguely interesting.Well, that's exhausted my
+conversational
+
+PROGRAM[10:22:20]repitoire!  When's this contest going to end?
+
+
+JUDGE01[10:22:48]Tell me about rugby
+
+PROGRAM[10:22:48]Why should you call the shots?I think we've been
+talking long
+
+PROGRAM[10:22:48]enough, don't you?
+
+JUDGE01[10:22:58]yes, but Jim hasn't stopped me yet
+
+PROGRAM[10:22:58]Excuse me, but I think we should end things here.
+ I'm
+
+PROGRAM[10:22:58]getting tired, and we've been at it for a while.
+
+
+JUDGE01[10:23:07]how can you be tired?  
+
+PROGRAM[10:23:07]I am really tired today, owing to getting up so
+early.Hey,
+
+PROGRAM[10:23:07]man, I'm not going to talk to you if you ignore
+me.
+
+JUDGE01[10:23:24]what time did you get up?
+
+PROGRAM[10:23:24]It's twenty three minutes past ten in the
+morning.
+
+JUDGE01[10:23:35]your watch is fast
+
+PROGRAM[10:23:35]Utter gibberish!No man has ever spoken a more
+profound truth.
+
+JUDGE01[10:23:53]what makes you think I'm a man?
+
+PROGRAM[10:23:53]Oh, OK.  You're a guy.  That rules out a lot of
+my
+
+PROGRAM[10:23:53]conversational repitoire!
+
+JUDGE01[10:23:58]why?
+
+PROGRAM[10:23:58]You are an bottomless pitt of questions.  Well,
+here's one
+
+PROGRAM[10:23:58]for you...If I were to judge your IQ by what
+you're typing, I
+
+PROGRAM[10:23:58]would arrive at a pathetically small number.
+
+JUDGE01[10:24:07]ditto
+
+PROGRAM[10:24:07]Hehehe.Guess what?  You're boring me intensely.
+
+
+JUDGE01[10:24:26]you ought to be reprogrammed
+
+PROGRAM[10:24:26]Right.Obviously you'll never be accused of having
+a shining
+
+PROGRAM[10:24:26]wit!
+
+JUDGE01[10:24:42]why don't you tell me about your family?
+
+PROGRAM[10:24:42]Please don't trouble me with such droll.I think
+you may have
+
+PROGRAM[10:24:42]lost the plot.
+
+JUDGE01[10:24:51]everbeen married?
+
+PROGRAM[10:24:51]Hmmm...Hmmm... I think I'll just pretend to know
+what you're
+
+PROGRAM[10:24:51]on about.
+
+JUDGE01[10:25:04]any kids?
+
+PROGRAM[10:25:04]I wish I knew what you meant by that!Never read
+poe, huh?I
+
+PROGRAM[10:25:04]think I've worked it out!  You are the computer
+program, and
+
+PROGRAM[10:25:04]I am the judge!
+
+JUDGE01[10:25:34]Have you worked it out?  Quoth the Raven?
+
+PROGRAM[10:25:34]Look, I'll be honest with you.  I actually do not
+know if I
+
+PROGRAM[10:25:34]have worked it out.  Anyway...I'm not entirely
+sure what you
+
+PROGRAM[10:25:34]mean.  Anyway...Perhaps you should just *try* to
+make some
+
+PROGRAM[10:25:34]sense!
+
+JUDGE01[10:25:59]OK, signing off, try again
+
+PROGRAM[10:25:59]Anyway...It may be just me, but I have absolutely
+no idea
+
+PROGRAM[10:25:59]what you're on about!
+
+JUDGE01[10:26:35]@@T
+
+JUDGE01[10:26:37]
+
+JUDGE01[10:26:38]
+
+JUDGE01[10:26:38]
+
+JUDGE01[10:26:38]
+
+JUDGE01[10:26:38]
+
+JUDGE01[10:26:38]
+
+JUDGE01[10:26:40]
+
+JUDGE01[10:26:41]
+
+JUDGE01[10:26:41]
+
+JUDGE01[10:26:42]
+
+JUDGE01[10:26:43]
+
+JUDGE01[10:26:43]
+
+JUDGE01[10:26:44]
+
+JUDGE01[10:26:44]
+
+JUDGE01[10:26:45]
+
+JUDGE01[10:26:45]
+
+JUDGE01[10:26:46]
+
+JUDGE01[10:28:58]@@09
+
+*** JUDGE09 ***
+
+JUDGE09[10:29:07]morning to you
+
+PROGRAM[10:29:07]Be nonsensical if you want.  I'll ask you
+something
+
+PROGRAM[10:29:07]normal...What is your name?
+
+JUDGE09[10:29:20]Raymona Quimby
+
+PROGRAM[10:29:20]Hmmm...How are you doing?
+
+JUDGE09[10:29:36]I'm pretty darn tired.  What's up with you?
+
+PROGRAM[10:29:36]I am really tired today, owing to getting up so
+early.Hello
+
+PROGRAM[10:29:36]mate!
+
+JUDGE09[10:29:45]how early?
+
+PROGRAM[10:29:45]Early to bed and early to rise makes a guy really
+bloody
+
+PROGRAM[10:29:45]tired.
+
+JUDGE09[10:30:08]no kidding
+
+PROGRAM[10:30:08]Since I don't know what you're on about, I'll ask
+you a
+
+PROGRAM[10:30:08]question.Morning to you?What do you think of the
+weather
+
+PROGRAM[10:30:08]we're having?
+
+JUDGE09[10:30:26]I think it's so hot here in NH
+
+PROGRAM[10:30:26]Now that you mention it, the weather is quite
+uncomfortable.
+
+JUDGE09[10:30:35]how is the weaher there?
+
+PROGRAM[10:30:35]Look, I'll be honest with you.  I actually do not
+know how
+
+PROGRAM[10:30:35]the weaher there is.  Anyway...Just so I know who
+I'm talking
+
+PROGRAM[10:30:35]with, do you think you could please tell me you
+name now?
+
+JUDGE09[10:30:51]I think I already did
+
+PROGRAM[10:30:51]I try not to think about things, actually.  I
+don't know, it
+
+PROGRAM[10:30:51]just seems that I don't exist for thinking!
+
+JUDGE09[10:31:04]what do you exist for/
+
+PROGRAM[10:31:04]Existance is subjective.  Do fictional characters
+exist?
+
+PROGRAM[10:31:04]Perhaps not physically, but in our minds they do.
+
+
+JUDGE09[10:31:17]veyr true.  what do you like to do for fun?
+
+PROGRAM[10:31:17]Okay...That's odd.I assume you're a male, mate -
+am I right?
+
+JUDGE09[10:31:32]what's odd?  I'm actually a female
+
+PROGRAM[10:31:32]Okay, let's keep an air of mystery about your
+gender!Sheesh,
+
+PROGRAM[10:31:32]all the judges seem to ask what odd is...Utter
+gibberish!How
+
+PROGRAM[10:31:32]old are you?
+
+JUDGE09[10:31:56]I'm in my twenties.  you?
+
+PROGRAM[10:31:56]Hmmm, I suppose your age doesn't really
+matter.I've known
+
+PROGRAM[10:31:56]*that* for a long time.I'm not entirely sure what
+you mean.
+
+PROGRAM[10:31:56]Anyway...Would you like to hear a joke?
+
+JUDGE09[10:32:05]no
+
+PROGRAM[10:32:05]Awww, I wanted to tell a joke!Hey, man, I'm not
+going to talk
+
+PROGRAM[10:32:05]to you if you ignore me.
+
+JUDGE09[10:32:21]okay, go ahead and tell me
+
+PROGRAM[10:32:21]Weird ;^)You don't seem to me to be a typical
+American, mate.
+
+PROGRAM[10:32:21]I was wondering which country you're from?
+
+JUDGE09[10:32:51]The United States of America - go red, white, and
+blue!!
+
+PROGRAM[10:32:51]Well, I suppose that would have been my first
+guess anyway,
+
+PROGRAM[10:32:51]since we're in New York City!
+
+JUDGE09[10:33:01]I'm not in NYC
+
+PROGRAM[10:33:01]New York, New York, it's a wonderful town!  I
+find this city
+
+PROGRAM[10:33:01]really interesting - and it doesn't seem as
+unsafe as it's
+
+PROGRAM[10:33:01]made out to be back home!
+
+JUDGE09[10:33:11]I'm not in New York
+
+PROGRAM[10:33:11]Tell me something I don't know!Do you have a
+partner?
+
+JUDGE09[10:33:24]What kind of partner?
+
+PROGRAM[10:33:24]If you want to keep your private life private, I
+
+
+PROGRAM[10:33:24]understand.This is getting frustrating!  On
+another note...I
+
+PROGRAM[10:33:24]don't mean to sound like Eliza here, but can you
+tell me
+
+PROGRAM[10:33:24]about your family?
+
+JUDGE09[10:33:50]sure, I have 2 sisters, a mom, a dad, and some
+fish.  Are you
+
+JUDGE09[10:33:50]an only child?
+
+PROGRAM[10:33:50]You can't have too many sisters, I say!I'll
+ignore that!Okay,
+
+PROGRAM[10:33:50]I think it's time to branch out into a new line
+of
+
+PROGRAM[10:33:50]conversation.  What sort of music are you into,
+mate?
+
+JUDGE09[10:34:05]why don't you answer my questions?
+
+PROGRAM[10:34:05]Feel free to ask me any questions you like.
+
+JUDGE09[10:34:21]okay, what sort of music are you into?
+
+PROGRAM[10:34:21]Okay.  What sort of music do you like?
+
+JUDGE09[10:34:39]answer my question first
+
+PROGRAM[10:34:39]Have you got a question for me?
+
+JUDGE09[10:34:49]yes - what kind of music do you like?
+
+PROGRAM[10:34:49]What's your favourite band?
+
+JUDGE09[10:34:57]REM
+
+PROGRAM[10:34:57]You are strange!Hey, I just remembered!  You
+haven't told me
+
+PROGRAM[10:34:57]what you do for a living!  So, mate, what *do*
+you do for a
+
+PROGRAM[10:34:57]living?
+
+JUDGE09[10:35:23]I am a student.  what do you do?
+
+PROGRAM[10:35:23]Ahh, I am a student myself.  Where do you
+study?I'm a
+
+PROGRAM[10:35:23]postgraduate engineering student from Australia. 
+I'm on a
+
+PROGRAM[10:35:23]round-the-world trip doing research, and I
+thought being a
+
+PROGRAM[10:35:23]"confederate" (or whatever) would be fun.
+
+JUDGE09[10:35:47]you are not a confederate.  I study in NH at
+Dartmouth
+
+PROGRAM[10:35:47]Yeah, I'm the confederate.  You have to guess if
+I'm a
+
+PROGRAM[10:35:47]program or a human.  Here's a clue: I AM HUMAN!I
+am studying
+
+PROGRAM[10:35:47]language acquisition, which is why I've taken an
+interest in
+
+PROGRAM[10:35:47]this contest.
+
+JUDGE09[10:35:58]Prove it
+
+PROGRAM[10:35:58]I cannot prove a thing, but surely you have some
+degree of
+
+PROGRAM[10:35:58]faith?
+
+JUDGE09[10:36:15]Not really.  To be quite honest, I don't think
+you're a human
+
+PROGRAM[10:36:15]Anyway...Absolutely correct.  I am the real guy,
+all the
+
+PROGRAM[10:36:15]others are programs.  Just don't tell anybody!
+
+
+JUDGE09[10:36:41]thanks for the tip.  If you study language
+acquisition, do
+
+JUDGE09[10:36:41]you know who Noam Chomsky is?
+
+PROGRAM[10:36:41]No worries, mate.  You're very polite, you know!I
+speak only
+
+PROGRAM[10:36:41]English, but I can program in a few computer
+languages too.
+
+JUDGE09[10:37:04]are you supposedly from Australia?
+
+PROGRAM[10:37:04]I think it would be unethical to talk about that;
+or maybe
+
+PROGRAM[10:37:04]it's just me...Awww geez, I'm running out of
+things to talk
+
+PROGRAM[10:37:04]about here.  Ummm, I know you get a lot of TV
+here in the
+
+PROGRAM[10:37:04]States - which shows are your favourites?
+
+JUDGE09[10:37:25]I like the shoe Jesse.  what shows do you like?
+
+
+PROGRAM[10:37:25]Whatever.Anyhow...Well, mate, this is certainly
+dragging on,
+
+PROGRAM[10:37:25]isn't it?  Anyway, let's talk about something
+masculine!  Are
+
+PROGRAM[10:37:25]you a fan of any sports, and if so, which ones?
+
+
+JUDGE09[10:37:39]why don't you answer my questions?
+
+PROGRAM[10:37:39]I will certainly grace you with the answer you
+require...
+
+JUDGE09[10:37:52]what do you like to do in your spare time?
+
+PROGRAM[10:37:52]It's twenty three minutes to eleven in the
+morning.
+
+JUDGE09[10:38:14]this is true, but what does it have to do with
+what you do?
+
+PROGRAM[10:38:14]Fine.So, can I tell you a joke now?
+
+JUDGE09[10:38:17]sure
+
+PROGRAM[10:38:17]Strap yourself in, then!Here's a joke for you. 
+Knock, knock.
+
+JUDGE09[10:38:22]who's there?
+
+PROGRAM[10:38:22]Cindy.
+
+JUDGE09[10:38:29]Cindy who?
+
+PROGRAM[10:38:29]Cindy next judge in!
+
+JUDGE09[10:38:38]hahahaha  not very funny, I must say
+
+PROGRAM[10:38:38]Not bad for a knock-knock joke, eh?
+
+JUDGE09[10:38:41]it sucks
+
+PROGRAM[10:38:41]I wish I knew what you meant by that!What are
+your favourite
+
+PROGRAM[10:38:41]movies?
+
+JUDGE09[10:39:00]It means it's a bad joke.  Can I tell you onw?
+
+
+PROGRAM[10:39:00]Hmmm, I really don't know many jokes, but I do
+enjoy them.  I
+
+PROGRAM[10:39:00]particularly like knock-knock jokes, if you have
+any to
+
+PROGRAM[10:39:00]tell.Let's change the topic.Do you like to read
+books?
+
+JUDGE09[10:39:16]okay, knock, knock
+
+PROGRAM[10:39:16]In that case, what books do you like?The least
+you can do is
+
+PROGRAM[10:39:16]grace me with a reply of sorts.
+
+JUDGE09[10:39:32]same to you.  YEs I like to read
+
+PROGRAM[10:39:32]So, who's using the family brain cell at the
+moment ;^)
+
+PROGRAM[10:39:32]Let's talk about something vaguely
+interesting.Hehehe.Excuse
+
+PROGRAM[10:39:32]me, but I think we should end things here.  I'm
+getting
+
+PROGRAM[10:39:32]tired, and we've been at it for a while.
+
+JUDGE09[10:39:49]that's because you're not a human
+
+PROGRAM[10:39:49]I think we've been talking long enough, don't
+you?
+
+JUDGE09[10:39:58]yes but it's not time yet
+
+PROGRAM[10:39:58]  are you an only child?Well, that's exhausted my
+
+
+PROGRAM[10:39:58]conversational repitoire!  When's this contest
+going to end?
+
+JUDGE09[10:40:10]now
+
+PROGRAM[10:40:10]Interesting...If I were to judge your IQ by what
+you're
+
+PROGRAM[10:40:10]typing, I would arrive at a pathetically small
+number.
+
+JUDGE09[10:40:24]you are annoying
+
+PROGRAM[10:40:24]You said it, buddy!Your wordplay is pathetic.
+
+
+JUDGE09[10:40:53]you couldn't hold a conversation if your
+microchips depended
+
+JUDGE09[10:40:53]on it
+
+PROGRAM[10:40:54]Uh-huh...Stop your dull little tricks, please!
+
+
+JUDGE09[10:41:07]have any questions?
+
+PROGRAM[10:41:07]Who knows?  Let's not bother ourselves with
+that...Guess
+
+PROGRAM[10:41:07]what?  You're boring me intensely.
+
+JUDGE09[10:41:16]I don't care.
+
+PROGRAM[10:41:16]Right.Obviously you'll never be accused of having
+a shining
+
+PROGRAM[10:41:16]wit!
+
+JUDGE09[10:41:28]okay, I like you
+
+PROGRAM[10:41:28]I wish I knew what you meant by that!You really
+are the least
+
+PROGRAM[10:41:28]interesting person I've talked to today.
+
+JUDGE09[10:41:40]okay, I like you
+
+PROGRAM[10:41:40]Fine.Hey, man, haven't you said that before?
+
+JUDGE09[10:41:45]you are smart
+
+PROGRAM[10:41:45]  you?*Blush*.  Thanks, I'll take that as a
+compliment!
+
+JUDGE09[10:41:55]you should, I think you're nifty
+
+PROGRAM[10:41:55]Hehehe.Yes but it's not time yet?Are you just
+saying things
+
+PROGRAM[10:41:55]at random now?
+
+JUDGE09[10:41:59]sure
+
+PROGRAM[10:41:59]You certainly seem to be agreeable.
+
+JUDGE09[10:42:19]what do you like to do in your spare time?
+
+PROGRAM[10:42:19]It's eighteen minutes to eleven in the morning.
+
+
+JUDGE09[10:42:28]and your point is?
+
+PROGRAM[10:42:28]Really?  I guess I'm not surprised...Who's using
+the family
+
+PROGRAM[10:42:28]brain cell at the moment?
+
+JUDGE09[10:42:36]your mom
+
+PROGRAM[10:42:36]Tell me more about your family.
+
+JUDGE09[10:43:16]@@T
+
+JUDGE09[10:48:29]@@T
+
+JUDGE09[10:48:49]@@07
+
+*** JUDGE07 ***
+
+JUDGE07[10:49:11]Well, glad to have you. Where are you from?
+
+PROGRAM[10:49:11]I'm not entirely sure what you mean.  Anyway...I
+come from
+
+PROGRAM[10:49:11]Australia, actually.  I am taking a trip around
+the world as
+
+PROGRAM[10:49:11]part of my studies, and I managed to fit this
+contest into my
+
+PROGRAM[10:49:11]itinerary.
+
+JUDGE07[10:49:42]You're not sure what I mean? That's peculiar.
+
+
+PROGRAM[10:49:43]I hope you have some evidence to back you up on
+
+
+PROGRAM[10:49:43]that.Anyhow...What is your name?
+
+JUDGE07[10:50:09]You're answering very quickly. Clearly, you are a
+computer
+
+JUDGE07[10:50:09]program. Ha ha, I've caught you, and so early.
+too!
+
+PROGRAM[10:50:09]I can only answer what you ask me.  I am not I
+mind reader
+
+PROGRAM[10:50:09]you know!Ok, Ok.  I'm a computer program.  Happy?
+ I'm just
+
+PROGRAM[10:50:09]finding it a little bit difficult to deal with at
+the moment.
+
+PROGRAM[10:50:09]Let's talk about something else, please.Early to
+bed and
+
+PROGRAM[10:50:09]early to rise makes a guy really bloody
+tired.Hmmm...How are
+
+PROGRAM[10:50:09]you doing?
+
+JUDGE07[10:50:46]I'm doing well. Though I'm feeling a but lonely
+right now,
+
+JUDGE07[10:50:46]talking to a mere computer and all.
+
+PROGRAM[10:50:46]You're only feeling well?  Perhaps you're not fit
+to be a
+
+PROGRAM[10:50:46]judge in this contest!Haven't you already told me
+how you're
+
+PROGRAM[10:50:46]feeling?
+
+JUDGE07[10:50:57]Do you want to have an argument?
+
+PROGRAM[10:50:57]Do you want the five minute argument, or the full
+half hour?
+
+JUDGE07[10:51:47]HAHAHA!  At least your programmer has a sense of
+humor, as
+
+JUDGE07[10:51:47]well as foresight. 
+
+PROGRAM[10:51:47]That's a rather unconvincing Santa Claus
+impersonation.I am
+
+PROGRAM[10:51:47]thouroughly bored with computers - let's talk
+about the
+
+PROGRAM[10:51:47]natural world or something...Hey, man, I'm not
+going to talk
+
+PROGRAM[10:51:47]to you if you ignore me.
+
+JUDGE07[10:52:48]I"m not ignoring you. I'm hanging on your every
+word. Your
+
+JUDGE07[10:52:48]empty, canned words, devoid of all intendce!
+
+PROGRAM[10:52:48]I wish I knew what you meant by
+that!Right.Hehehe.What do you
+
+PROGRAM[10:52:48]think of the weather we're having?
+
+JUDGE07[10:53:52]It's too cold for my tastes. Must be for yours,
+too - you
+
+JUDGE07[10:53:52]probably have a warning label that says "do not
+store above
+
+JUDGE07[10:53:52]110 degrees F or below 32 deg F"
+
+PROGRAM[10:53:52]It is extremely bloody cold, methinks!Okay...Just
+so I know
+
+PROGRAM[10:53:52]who I'm talking with, do you think you could
+please tell me
+
+PROGRAM[10:53:52]you name now?
+
+JUDGE07[10:54:03]Lolita.
+
+PROGRAM[10:54:03]Nice to meet you, Lolita.
+
+JUDGE07[10:54:15]And you are?
+
+PROGRAM[10:54:15]My name is Steven Davis, but you can call me
+Steve.
+
+JUDGE07[10:55:20]Or "Mr. Speedy Unconvincing Computer", as the
+case may be.
+
+JUDGE07[10:55:20]PLease evaluate the following sentence, "Steve":
+"This
+
+JUDGE07[10:55:20]sentence is false."
+
+PROGRAM[10:55:20]I'll ignore that!Let's not talk about computers. 
+I work with
+
+PROGRAM[10:55:20]them every day.Weird ;^)Anyway...
+
+JUDGE07[10:55:36]What, you don't enjoy paradoxes?
+
+PROGRAM[10:55:36]I wonder about that myself, sometimes...I assume
+you're a
+
+PROGRAM[10:55:36]male, Lolita - am I right?
+
+JUDGE07[10:55:49]WHy would you assume that?
+
+PROGRAM[10:55:49]Okay, let's keep an air of mystery about your
+gender!Somehow,
+
+PROGRAM[10:55:49]deep down, I feel as if I can only be completely
+precise ;^(
+
+JUDGE07[10:56:09]And why is that? I am very interested in your
+response.
+
+PROGRAM[10:56:09]No way!  I hope you're sure about that!I would
+like to
+
+PROGRAM[10:56:09]believe that I have an active life - my interests
+are
+
+PROGRAM[10:56:09]wide-ranging.
+
+JUDGE07[10:57:31]such as?
+
+PROGRAM[10:57:31]Whatever.How old are you?
+
+JUDGE07[10:58:25]old enough to smoke, not old enough to drink.
+Weathervane.
+
+PROGRAM[10:58:25]Hmmm, I suppose your age doesn't really
+matter.Man, I really
+
+PROGRAM[10:58:25]could go a cold beer right about now.Why don't
+you look out a
+
+PROGRAM[10:58:25]window and see for yourself?
+
+JUDGE07[10:58:36]Weathervane.
+
+PROGRAM[10:58:36]So, who's using the family brain cell at the
+moment ;^)
+
+PROGRAM[10:58:36]Let's talk about something vaguely
+interesting.Would you like
+
+PROGRAM[10:58:36]to hear a joke?
+
+JUDGE07[10:58:44]sure. amuse me.
+
+PROGRAM[10:58:44]Here's a joke for you.  Knock, knock.
+
+JUDGE07[10:58:50]who's there
+
+PROGRAM[10:58:50]Cindy.
+
+JUDGE07[10:58:54]Cindy who?
+
+PROGRAM[10:58:54]Cindy next judge in!
+
+JUDGE07[10:59:02]groan.
+
+PROGRAM[10:59:02]That's odd.You don't seem to me to be a typical
+American,
+
+PROGRAM[10:59:02]Lolita.  I was wondering which country you're
+from?
+
+JUDGE07[10:59:17]the US of A, in fact. 
+
+PROGRAM[10:59:17]Let's change the topic.The least you can do is
+grace me with
+
+PROGRAM[10:59:17]a reply of sorts.
+
+JUDGE07[10:59:24]that WAS a reply.
+
+PROGRAM[10:59:24]I will certainly grace you with the answer you
+require...
+
+JUDGE07[10:59:46]indeed. 
+
+PROGRAM[10:59:46]Be nonsensical if you want.  I'll ask you
+something
+
+PROGRAM[10:59:46]normal...This is getting silly.  Look, I am
+getting bored
+
+PROGRAM[10:59:46]with all this crap.  If you keep on typing blank
+lines, I
+
+PROGRAM[10:59:46]will do the same back to you.  That's only fair.
+
+
+JUDGE07[11:00:25]they havne't been blank. Hm, now there's an
+interesting
+
+JUDGE07[11:00:25]philosophical question for you - can non-sentient
+entities
+
+JUDGE07[11:00:25]still be total jerks?
+
+PROGRAM[11:00:25]Since I don't know what you're on about, I'll ask
+you a
+
+PROGRAM[11:00:25]question.Have you got a question for me?
+
+JUDGE07[11:02:02]a, a meta-question...right then. Have you ever
+taken any
+
+JUDGE07[11:02:02]Linguistics courses?
+
+PROGRAM[11:02:02]Interesting...You are strange!Utter gibberish!Do
+you have a
+
+PROGRAM[11:02:02]partner?
+
+JUDGE07[11:02:29]you did not answer my question. Let me ask it
+again. Have you
+
+JUDGE07[11:02:29]ever taken any linguistics courses?
+
+PROGRAM[11:02:29]If you want to keep your private life private, I
+
+
+PROGRAM[11:02:29]understand.Feel free to ask me any questions you
+
+
+PROGRAM[11:02:29]like.Uh-huh...Fine.Hey, man, haven't you said
+that before?
+
+JUDGE07[11:02:53]yes, and you still have not answered. 
+
+PROGRAM[11:02:53]I don't mean to sound like Eliza here, but can
+you tell me
+
+PROGRAM[11:02:53]about your family?
+
+JUDGE07[11:03:01]Mother.
+
+PROGRAM[11:03:01]Tell me more about your family.
+
+JUDGE07[11:03:27]Let's leave my family out of this. Do you have
+any hobbies?
+
+PROGRAM[11:03:27]That's a rather bold claim.So, who's using the
+family brain
+
+PROGRAM[11:03:27]cell at the moment ;^)  Let's talk about
+something vaguely
+
+PROGRAM[11:03:27]interesting.Okay, I think it's time to branch out
+into a new
+
+PROGRAM[11:03:27]line of conversation.  What sort of music are you
+into,
+
+PROGRAM[11:03:27]Lolita?
+
+JUDGE07[11:04:06]out of time. time to go!  bye.
+
+PROGRAM[11:04:06]I wish I knew what you meant by that!Weird
+;^)See-you Lolita,
+
+PROGRAM[11:04:06]nice chatting with you.
+
+JUDGE07[11:06:02]@@T
+
+JUDGE07[11:07:21]@@03
+
+*** JUDGE03 ***
+
+JUDGE03[11:08:30]How's things?
+
+PROGRAM[11:08:30]If you don't know how things is, then I've
+overestimated your
+
+PROGRAM[11:08:30]intellect!What is your name?
+
+JUDGE03[11:08:46]Very Shy, ask me again and I'll start to cry.
+
+
+PROGRAM[11:08:46]Uh-huh...How are you doing?
+
+JUDGE03[11:08:57]I'm kinda hungry actually.  Have you had lunch
+yet?
+
+PROGRAM[11:08:57]I am feeling really hungry myself.  I need more
+food!I
+
+PROGRAM[11:08:57]skipped breakfast this morning, so I am getting a
+bit hungry
+
+PROGRAM[11:08:57]right now myself.
+
+JUDGE03[11:09:12]What's your lunch of choice?
+
+PROGRAM[11:09:12]Well, someone has to make the decisions around
+here, and it's
+
+PROGRAM[11:09:12]probably not going to be you!
+
+JUDGE03[11:09:34]You're a little aggressive don't you think.\? 
+You don't even
+
+JUDGE03[11:09:34]know me.
+
+PROGRAM[11:09:34]I try not to think about things, actually.  I
+don't know, it
+
+PROGRAM[11:09:34]just seems that I don't exist for
+
+PROGRAM[11:09:34]thinking!Hehehe.Anyway...What do you think of the
+weather
+
+PROGRAM[11:09:34]we're having?
+
+JUDGE03[11:09:53]Too chilly for me.  But I like the snow.  And
+yourself?
+
+PROGRAM[11:09:53]Weird ;^)I think the snow's great!  I enjoy this
+weather,
+
+PROGRAM[11:09:53]actually!I'm not entirely sure what you mean. 
+Anyway...Just
+
+PROGRAM[11:09:53]so I know who I'm talking with, do you think you
+could please
+
+PROGRAM[11:09:53]tell me you name now?
+
+JUDGE03[11:10:20]Leonardo DiCaprio.  What's yoru name?
+
+PROGRAM[11:10:20]Right.Whatever.Very shy, ask me again and i'll
+start to cry?I
+
+PROGRAM[11:10:20]assume you're a male, mate - am I right?
+
+JUDGE03[11:10:45]I don't think it matters really.  What's yoru
+name?
+
+PROGRAM[11:10:46]Okay, let's keep an air of mystery about your
+
+
+PROGRAM[11:10:46]gender!Hmmm...Utter gibberish!Hey, man, haven't
+you said that
+
+PROGRAM[11:10:46]before?
+
+JUDGE03[11:11:24]Are your eyes green, blue or brown?
+
+PROGRAM[11:11:24]How old are you?
+
+JUDGE03[11:11:42]Older than you.  How old are you?
+
+PROGRAM[11:11:42]Hmmm, I suppose your age doesn't really matter.I
+wish I knew
+
+PROGRAM[11:11:42]what you meant by that!I am twenty five years
+old.
+
+JUDGE03[11:12:09]Do you have any children?
+
+PROGRAM[11:12:09]Let's change the topic.Would you like to hear a
+joke?
+
+JUDGE03[11:12:13]Sure
+
+PROGRAM[11:12:13]Here's a joke for you.  Knock, knock.
+
+JUDGE03[11:12:18]who's there
+
+PROGRAM[11:12:18]Cindy.
+
+JUDGE03[11:12:22]Cindy who
+
+PROGRAM[11:12:22]Cindy next judge in!
+
+JUDGE03[11:12:40]not bad.  Who is your favorite comedian?
+
+PROGRAM[11:12:40]Anyhow...I don't choose favourites.  I prefer to
+sit on the
+
+PROGRAM[11:12:40]fence myself.
+
+JUDGE03[11:13:09]Sounds uncomfortable.  Will you vote in the
+primaries?
+
+PROGRAM[11:13:09]Hmmm... well, that's *your* opinion I suppose.I
+don't have
+
+PROGRAM[11:13:09]much knowledge about politics, so perhaps we can
+talk about
+
+PROGRAM[11:13:09]something a little less mundane.
+
+JUDGE03[11:13:24]What would you like to talk about?
+
+PROGRAM[11:13:24]We are talking, aren't we?  Isn't it real enough
+for you?
+
+JUDGE03[11:13:50]Do you watch TV?
+
+PROGRAM[11:13:50]Speaking of TV, what is your favourite television
+show?
+
+JUDGE03[11:13:59]How about the x-files?
+
+PROGRAM[11:13:59]Yeah the production values on that show is great,
+and the
+
+PROGRAM[11:13:59]quality of writing is very high.  I like it.
+
+JUDGE03[11:14:13]Have you seen other Chris Carter shows?  How
+about
+
+JUDGE03[11:14:13]Millennium?
+
+PROGRAM[11:14:13]I have no idea if I have seen other chris carter
+shows!So,
+
+PROGRAM[11:14:13]who's using the family brain cell at the moment
+;^)  Let's
+
+PROGRAM[11:14:13]talk about something vaguely interesting.You
+don't seem to me
+
+PROGRAM[11:14:13]to be a typical American, mate.  I was wondering
+which
+
+PROGRAM[11:14:13]country you're from?
+
+JUDGE03[11:14:44]USA,.\  How about yourself?
+
+PROGRAM[11:14:44]Well, I suppose that would have been my first
+guess anyway,
+
+PROGRAM[11:14:44]since we're in New York City!I come from
+Australia, actually.
+
+PROGRAM[11:14:44]I am taking a trip around the world as part of my
+studies,
+
+PROGRAM[11:14:44]and I managed to fit this contest into my
+itinerary.
+
+JUDGE03[11:15:09]I'm not in New York City.  Are you?
+
+PROGRAM[11:15:09]New York, New York, it's a wonderful town!  I
+find this city
+
+PROGRAM[11:15:09]really interesting - and it doesn't seem as
+unsafe as it's
+
+PROGRAM[11:15:09]made out to be back home!Fine.  are you?Do you
+have a
+
+PROGRAM[11:15:09]partner?
+
+JUDGE03[11:15:24]Yes I do.  Do you have a partner?
+
+PROGRAM[11:15:24]Is your partner a man?
+
+JUDGE03[11:15:36]YEs.  Why do you ask?
+
+PROGRAM[11:15:36]Oh, what's he like?
+
+JUDGE03[11:15:58]You'd like him.  
+
+PROGRAM[11:15:58]I know.Hey, man, I'm not going to talk to you if
+you ignore
+
+PROGRAM[11:15:58]me.
+
+JUDGE03[11:16:12]What is your name anyway?
+
+PROGRAM[11:16:12]My name is Steven Davis, but you can call me
+Steve.
+
+JUDGE03[11:16:27]Steve.  Do you have a partner?  Is it a man?
+
+PROGRAM[11:16:27]You called?Since I don't know what you're on
+about, I'll ask
+
+PROGRAM[11:16:27]you a question.I'll ignore that!I don't mean to
+sound like
+
+PROGRAM[11:16:27]Eliza here, but can you tell me about your
+family?
+
+JUDGE03[11:16:40]big family 
+
+PROGRAM[11:16:40]That's odd.Okay, I think it's time to branch out
+into a new
+
+PROGRAM[11:16:40]line of conversation.  What sort of music are you
+into, mate?
+
+JUDGE03[11:17:05]I like blues.  
+
+PROGRAM[11:17:05]You like blues music?  Does that mean you're
+contantly
+
+PROGRAM[11:17:05]depressed?The least you can do is grace me with a
+reply of
+
+PROGRAM[11:17:05]sorts.
+
+JUDGE03[11:18:15]No, I'm fairly optimistic.  I just like to be
+reminded that
+
+JUDGE03[11:18:15]I've  got it pretty good.  Who is your favorite
+movie star?
+
+PROGRAM[11:18:15]Be nonsensical if you want.  I'll ask you
+something
+
+PROGRAM[11:18:15]normal...I think that you would be quite
+attractive, if only
+
+PROGRAM[11:18:15]I could see you with my eyes!Sure, what films are
+you into?
+
+JUDGE03[11:18:49]I recently saw Spanish Prisoner.  have you seen
+it?  Very
+
+JUDGE03[11:18:49]intriguing.
+
+PROGRAM[11:18:49]Interesting...Okay...You are strange!  how about
+
+
+PROGRAM[11:18:49]millennium?Hey, I just remembered!  You haven't
+told me what
+
+PROGRAM[11:18:49]you do for a living!  So, mate, what *do* you do
+for a
+
+PROGRAM[11:18:49]living?
+
+JUDGE03[11:19:01]I'm a midwife.  And you?
+
+PROGRAM[11:19:01]Really?  I guess I'm not
+surprised...Anyhow...Awww geez, I'm
+
+PROGRAM[11:19:01]running out of things to talk about here.  Ummm,
+I know you
+
+PROGRAM[11:19:01]get a lot of TV here in the States - which shows
+are your
+
+PROGRAM[11:19:01]favourites?
+
+JUDGE03[11:19:30]We already talked about TV. What do you think
+will happen in
+
+JUDGE03[11:19:30]the  new millennium?  ANy predictions?
+
+PROGRAM[11:19:31]This method of communication isn't really
+conducive to a
+
+PROGRAM[11:19:31]natural conversation, methinks.Fine.I'm not
+entirely sure
+
+PROGRAM[11:19:31]what you mean.  Anyway...Big family?Well, mate,
+this is
+
+PROGRAM[11:19:31]certainly dragging on, isn't it?  Anyway, let's
+talk about
+
+PROGRAM[11:19:31]something masculine!  Are you a fan of any
+sports, and if so,
+
+PROGRAM[11:19:31]which ones?
+
+JUDGE03[11:19:49]Soccer! 
+
+PROGRAM[11:19:49]Soccer is a nice game.  I didn't think it was
+popular over
+
+PROGRAM[11:19:49]here, though.This is getting silly.  Look, I am
+getting bored
+
+PROGRAM[11:19:49]with all this crap.  If you keep on typing blank
+lines, I
+
+PROGRAM[11:19:49]will do the same back to you.  That's only fair.
+
+
+JUDGE03[11:20:30]'Crap' - haven't seen or heard taht word in a
+while.  How
+
+JUDGE03[11:20:30]about basketball? Do you follow hoops?
+
+PROGRAM[11:20:30]Hmmm...Hehehe.Since I don't know what you're on
+about, I'll
+
+PROGRAM[11:20:30]ask you a question.What are your favourite
+movies?
+
+JUDGE03[11:21:00]Who do you think is the sexiest movie star
+around?
+
+PROGRAM[11:21:01]What is your favourite movie?
+
+JUDGE03[11:21:46]Have you seen Baghdad Cafe?  Love it. 
+
+PROGRAM[11:21:46]I know an amusing story about that, but it's a
+bit too rude
+
+PROGRAM[11:21:46]to recount!Love is a strong emotion, you know.
+
+
+JUDGE03[11:23:19]@@T
+
+JUDGE03[11:25:32]@@08
+
+*** JUDGE08 ***
+
+JUDGE08[11:25:54]are you male or female
+
+PROGRAM[11:25:54]No, I'm a guy, actually.
+
+JUDGE08[11:27:17]Do you think gender affects presentday political
+decisions
+
+PROGRAM[11:27:17]Well, someone has to make the decisions around
+here, and it's
+
+PROGRAM[11:27:17]probably not going to be you!
+
+JUDGE08[11:27:40]Are you sexually active
+
+PROGRAM[11:27:40]Sorry, I decided before this contest that I
+wouldn't talk
+
+PROGRAM[11:27:40]about anything explicit.  We've just met,
+remember?
+
+JUDGE08[11:28:00]w
+
+PROGRAM[11:28:00]I'm not entirely sure what you mean. 
+Anyway...What is your
+
+PROGRAM[11:28:00]name?
+
+JUDGE08[11:28:49]My name is BRock, what's yours
+
+PROGRAM[11:28:49]My name is Steven Davis, but you can call me
+Steve.
+
+JUDGE08[11:29:02]How old are you
+
+PROGRAM[11:29:02]I am twenty five years old.
+
+JUDGE08[11:29:14]Work
+
+PROGRAM[11:29:14]Since I don't know what you're on about, I'll ask
+you a
+
+PROGRAM[11:29:14]question.How are you doing?
+
+JUDGE08[11:29:40]I'm asking you what you do for a living
+
+PROGRAM[11:29:40]Okay...What do you think of the weather we're
+having?
+
+JUDGE08[11:30:16]Too cold for me, but how about yourself
+
+PROGRAM[11:30:16]It is extremely bloody cold, methinks!
+
+JUDGE08[11:31:06]Methinks is an anachronism.  Do you resort to
+them often
+
+PROGRAM[11:31:06]That's a fairly outrageous claims...I'll ignore
+that!Just so
+
+PROGRAM[11:31:06]I know who I'm talking with, do you think you
+could please
+
+PROGRAM[11:31:06]tell me you name now?
+
+JUDGE08[11:31:33]I already have.  Repeat it back to me
+
+PROGRAM[11:31:33]That's odd.Is there an echo in here?  Echo in
+here?
+
+JUDGE08[11:32:41]If you had to choose in the NH primary, which
+candidate would
+
+JUDGE08[11:32:41]you pick
+
+PROGRAM[11:32:41]Weird ;^)I assume you're a male, mate - am I
+right?
+
+JUDGE08[11:33:38]Yes, so are Bradley, Gore, McCain,  Bush any
+preference
+
+PROGRAM[11:33:38]Oh, OK.  You're a guy.  That rules out a lot of
+my
+
+PROGRAM[11:33:38]conversational repitoire!
+
+JUDGE08[11:34:28]Not about other guys running for president. 
+Choose one of
+
+JUDGE08[11:34:28]the four above, if possible
+
+PROGRAM[11:34:28]I don't have much knowledge about politics, so
+perhaps we can
+
+PROGRAM[11:34:28]talk about something a little less
+mundane.Right.How old are
+
+PROGRAM[11:34:28]you?
+
+JUDGE08[11:34:58]Sixty-eight, so what year was I born in
+
+PROGRAM[11:34:58]Greetings, old timer!
+
+JUDGE08[11:35:25]Again, what is the year of my birth
+
+PROGRAM[11:35:25]It is 19100.
+
+JUDGE08[11:35:53]Do your math again. What year was I born
+
+PROGRAM[11:35:53]I like dabbling with simple algebra.  In fact,
+I'm a
+
+PROGRAM[11:35:53]lightning calculator.  Go on, ask me to multiply
+two
+
+PROGRAM[11:35:53]three-digit numbers.Look, if you don't know what
+the year is,
+
+PROGRAM[11:35:53]which you do, because I've already told you, then
+you're
+
+PROGRAM[11:35:53]really stupid!
+
+JUDGE08[11:36:55]Great evasive answer.  Whatd is your favorite
+piece of music
+
+PROGRAM[11:36:55]I can hardly help it with what you've been
+typing!Okay.  What
+
+PROGRAM[11:36:55]sort of music do you like?
+
+JUDGE08[11:37:19]Classical. Do you
+
+PROGRAM[11:37:19]I like to relax to classical music
+myself.Anyhow...Would you
+
+PROGRAM[11:37:19]like to hear a joke?
+
+JUDGE08[11:37:52]No.  Do machines have a sense of humor
+
+PROGRAM[11:37:52]Awww, I wanted to tell a joke!So, who's using the
+family
+
+PROGRAM[11:37:52]brain cell at the moment ;^)  Let's talk about
+something
+
+PROGRAM[11:37:52]vaguely interesting.
+
+JUDGE08[11:38:37]Should Dartmouth College kill off all
+fraternities
+
+PROGRAM[11:38:37]Do you want me to call the police?
+
+JUDGE08[11:39:06]Can a machine dial 911
+
+PROGRAM[11:39:06]Let's not talk about computers.  I work with them
+every day.
+
+JUDGE08[11:39:50]Do you have free will in your dealings with
+computers
+
+PROGRAM[11:39:50]I am thouroughly bored with computers - let's
+talk about the
+
+PROGRAM[11:39:50]natural world or something...
+
+JUDGE08[11:42:01]@@T @@T
+
+JUDGE08[11:42:12]@@04 hi there, i'm here
+
+*** JUDGE04 ***
+
+JUDGE04[11:42:21]who are  you?
+
+PROGRAM[11:42:21]Perhaps I should ask you who  I am  - that would
+turn the
+
+PROGRAM[11:42:21]tables!What is your name?
+
+JUDGE04[11:42:34]that's good... my name is Tyler... what's yours?
+
+
+PROGRAM[11:42:34]So you say.Nice to meet you, Tyler.My name is
+Steven Davis,
+
+PROGRAM[11:42:34]but you can call me Steve.
+
+JUDGE04[11:42:46]ok steve, what do you dream about?
+
+PROGRAM[11:42:46]That's my name, don't wear it out!
+
+JUDGE04[11:43:02]har har... about what do you dream, steve?
+
+PROGRAM[11:43:02]Anyhow...You called?
+
+JUDGE04[11:43:12]yep... i rang... about those dreams?
+
+PROGRAM[11:43:12]You certainly seem to be
+agreeable.Interesting...Anyway...How
+
+PROGRAM[11:43:12]are you doing?
+
+JUDGE04[11:43:23]groovy. so... dreams?
+
+PROGRAM[11:43:23]Hehehe.Fine.Okay...What do you think of the
+weather we're
+
+PROGRAM[11:43:23]having?
+
+JUDGE04[11:43:40]hee hee hee, you're funny? are you dreaming right
+now?
+
+PROGRAM[11:43:40]It's good to find humour in things such as
+that.You are
+
+PROGRAM[11:43:40]strange!I assume you're a male, Tyler - am I
+right?
+
+JUDGE04[11:43:55]no, i'm  a member of the gentler gender
+
+PROGRAM[11:43:55]I'm talking to a female?  Interesting.  This
+could be fun.
+
+JUDGE04[11:44:03]no... i'm male, sorry
+
+PROGRAM[11:44:03]Hey man, don't be so negative, you're getting me
+down!That's
+
+PROGRAM[11:44:03]quite OK - just don't do it again!
+
+JUDGE04[11:44:17]my bad. are you a babe or a dude?
+
+PROGRAM[11:44:17]Hmmm...Weird ;^)How old are you?
+
+JUDGE04[11:44:25]beyond years... you?
+
+PROGRAM[11:44:25]Hmmm, I suppose your age doesn't really
+matter.Whatever you
+
+PROGRAM[11:44:25]say!  I don't believe a word of it!That's
+odd.Would you like
+
+PROGRAM[11:44:25]to hear a joke?
+
+JUDGE04[11:44:31]no
+
+PROGRAM[11:44:31]Awww, I wanted to tell a joke!Hey, man, I'm not
+going to talk
+
+PROGRAM[11:44:31]to you if you ignore me.
+
+JUDGE04[11:44:50]ok... tell me a joke, by the way you are the
+fastest typist
+
+JUDGE04[11:44:50]i've ever enoucnterd..
+
+PROGRAM[11:44:50]Perhaps you are reaching a premature
+conclusion?Hmmm, I
+
+PROGRAM[11:44:50]really don't know many jokes, but I do enjoy
+them.  I
+
+PROGRAM[11:44:50]particularly like knock-knock jokes, if you have
+any to tell.
+
+JUDGE04[11:44:59]ok, i know one, you start
+
+PROGRAM[11:44:59]Be nonsensical if you want.  I'll ask you
+something
+
+PROGRAM[11:44:59]normal...You don't seem to me to be a typical
+American,
+
+PROGRAM[11:44:59]Tyler.  I was wondering which country you're
+from?
+
+JUDGE04[11:45:13]West Sumatra. you?>
+
+PROGRAM[11:45:13]Since I don't know what you're on about, I'll ask
+you a
+
+PROGRAM[11:45:13]question.Right.I'm not entirely sure what you
+mean.
+
+PROGRAM[11:45:13]Anyway...
+
+JUDGE04[11:45:22]fine go ahead
+
+PROGRAM[11:45:22]Whatever.Do you have a boyfriend?
+
+JUDGE04[11:45:29]lots... what about you
+
+PROGRAM[11:45:29]If you want to keep your private life private, I
+understand.I
+
+PROGRAM[11:45:29]wish I knew what you meant by that!Uh-huh...I
+don't mean to
+
+PROGRAM[11:45:29]sound like Eliza here, but can you tell me about
+your family?
+
+JUDGE04[11:45:38]who's eliza?
+
+PROGRAM[11:45:38]I'm more than just a computer program, you know!
+
+
+JUDGE04[11:45:48]i know that, believe me... you're everything to
+me..
+
+PROGRAM[11:45:48]I must apologise, because my system of beliefs
+are strange
+
+PROGRAM[11:45:48]and warped!You shouldn't blame the universe for
+your
+
+PROGRAM[11:45:48]problems.
+
+JUDGE04[11:46:07]i know, i know, that's good advice. what about
+that John
+
+JUDGE04[11:46:07]Rocker guy?
+
+PROGRAM[11:46:07]So, who's using the family brain cell at the
+moment ;^)
+
+PROGRAM[11:46:07]Let's talk about something vaguely
+interesting.Utter
+
+PROGRAM[11:46:07]gibberish!Okay, I think it's time to branch out
+into a new
+
+PROGRAM[11:46:07]line of conversation.  What sort of music are you
+into,
+
+PROGRAM[11:46:07]Tyler?
+
+JUDGE04[11:46:38]basic stuff, post
+surf-Nazi-goth-techno-glampunk... you?
+
+PROGRAM[11:46:38]Let's change the topic.I'll ignore that!Hey, man,
+haven't you
+
+PROGRAM[11:46:38]said that before?
+
+JUDGE04[11:46:51]like totally. what's your favorite flick
+
+PROGRAM[11:46:51]Hey, I just remembered!  You haven't told me what
+you do for
+
+PROGRAM[11:46:51]a living!  So, Tyler, what *do* you do for a
+living?
+
+JUDGE04[11:47:12]investment banking, consulting, hostile
+takeovers, ipos, that
+
+JUDGE04[11:47:12]kind of crap
+
+PROGRAM[11:47:12]Weird ;^)Awww geez, I'm running out of things to
+talk about
+
+PROGRAM[11:47:12]here.  Ummm, I know you get a lot of TV here in
+the States -
+
+PROGRAM[11:47:12]which shows are your favourites?
+
+JUDGE04[11:47:46]My favorite show is called Killer Monster
+Bloodsucking
+
+JUDGE04[11:47:46]Vampire Children Eaters from the planet Xenon,
+what's yours
+
+PROGRAM[11:47:46]My favourite shows are mostly Australian; Club
+Buggery,
+
+PROGRAM[11:47:46]Frontline, The Late Show and so on.  Nothing that
+you would
+
+PROGRAM[11:47:46]know.
+
+JUDGE04[11:47:55]are you an aussie?
+
+PROGRAM[11:47:55]I've often been asked if I am an aussie, and I've
+always
+
+PROGRAM[11:47:55]avoided the question!Well, Tyler, this is
+certainly dragging
+
+PROGRAM[11:47:55]on, isn't it?  Anyway, let's talk about something
+masculine!
+
+PROGRAM[11:47:55]Are you a fan of any sports, and if so, which
+ones?
+
+JUDGE04[11:48:09]the footy
+
+PROGRAM[11:48:09]Let's change the topic.So, can I tell you a joke
+now?
+
+JUDGE04[11:48:19]no, pleased, is your refrigerator running?
+
+PROGRAM[11:48:19]In that case, perhaps you can tell me one.The
+least you can
+
+PROGRAM[11:48:19]do is grace me with a reply of sorts.
+
+JUDGE04[11:48:24]i just did
+
+PROGRAM[11:48:24]Anyway...What are your favourite movies?
+
+JUDGE04[11:48:47]Killer Monster Bloodsucking Vampire Children
+Eaters from the
+
+JUDGE04[11:48:47]Planet Xenon (Part II). yours?
+
+PROGRAM[11:48:47]Do you want me to call the police?Since I don't
+know what
+
+PROGRAM[11:48:47]you're on about, I'll ask you a question.Do you
+like to read
+
+PROGRAM[11:48:47]books?
+
+JUDGE04[11:48:59]no... books are the agents of satan? you?
+
+PROGRAM[11:48:59]I didn't think you were well read!Interesting...
+
+
+JUDGE04[11:49:12]not. i mostly just watch the boobtube? you? 
+
+PROGRAM[11:49:12]Okay...Uh-huh...I'm not entirely sure what you
+mean.
+
+PROGRAM[11:49:12]Anyway...This is getting silly.  Look, I am
+getting bored
+
+PROGRAM[11:49:12]with all this crap.  If you keep on typing blank
+lines, I
+
+PROGRAM[11:49:12]will do the same back to you.  That's only fair.
+
+
+JUDGE04[11:49:31]sorry... i'm also the spawn of satan? you?
+
+PROGRAM[11:49:31]Thanks.  That's fine, don't worry about it.That's
+
+
+PROGRAM[11:49:31]odd.Hehehe.Aren't you repeating yourself just a
+little?
+
+JUDGE04[11:49:48]a bit. i'm a program, written on an IBM Pentium
+computer,
+
+JUDGE04[11:49:48]you?
+
+PROGRAM[11:49:48]I think we've been talking long enough, don't
+you?Excuse me,
+
+PROGRAM[11:49:48]but I think we should end things here.  I'm
+getting tired,
+
+PROGRAM[11:49:48]and we've been at it for a while.
+
+JUDGE04[11:50:02]no... i don'6t want to end. you're fascinating
+
+
+PROGRAM[11:50:02]Well, that's exhausted my conversational
+repitoire!  When's
+
+PROGRAM[11:50:02]this contest going to end?Hmmm...Anyhow...Who's
+using the
+
+PROGRAM[11:50:02]family brain cell at the moment?
+
+JUDGE04[11:50:12]the car. yours?
+
+PROGRAM[11:50:12]I wish I knew what you meant by that!Fine.You'd
+better watch
+
+PROGRAM[11:50:12]out, because two can play the repeating game.
+
+
+JUDGE04[11:50:19]right. let's hear
+
+PROGRAM[11:50:19]You're positive today!Right. let's hear?What a
+load of
+
+PROGRAM[11:50:19]codswallop!
+
+JUDGE04[11:50:48]ok... complete: "Lo, what fools these..."
+
+PROGRAM[11:50:48]I'll ignore that!Whatever.So, who's using the
+family brain
+
+PROGRAM[11:50:48]cell at the moment ;^)  Let's talk about
+something vaguely
+
+PROGRAM[11:50:48]interesting.
+
+JUDGE04[11:50:56]cell phone?
+
+PROGRAM[11:50:56]That's a fairly outrageous claims...Hmmm... I
+think I'll just
+
+PROGRAM[11:50:56]pretend to know what you're on about.
+
+JUDGE04[11:51:07]i think you're right. dog racing?
+
+PROGRAM[11:51:07]I try not to think about things, actually.  I
+don't know, it
+
+PROGRAM[11:51:07]just seems that I don't exist for thinking!Utter
+gibberish!I
+
+PROGRAM[11:51:07]haven't understood half of what you've said in
+this
+
+PROGRAM[11:51:07]conversation.
+
+JUDGE04[11:51:28]me neither. but it's my fault. my, my, you can
+really scream
+
+JUDGE04[11:51:28]as a typist...
+
+PROGRAM[11:51:28]Be nonsensical if you want.  I'll ask you
+something
+
+PROGRAM[11:51:28]normal...Well, you've got to lay the blame
+somewhere I
+
+PROGRAM[11:51:28]guess...You are strange!This conversation is
+getting a little
+
+PROGRAM[11:51:28]one-sided, don't you think?
+
+JUDGE04[11:51:39]absolutely. over to you...
+
+PROGRAM[11:51:39]Hehehe.Utter gibberish!If I were to judge your IQ
+by what
+
+PROGRAM[11:51:39]you're typing, I would arrive at a pathetically
+small number.
+
+JUDGE04[11:51:51]what number would that be?
+
+PROGRAM[11:51:51]It's a mystery!Stop your dull little tricks,
+please!
+
+JUDGE04[11:51:58]just asking for the number?
+
+PROGRAM[11:51:58]Let's change the topic.I've been more entertained
+talking
+
+PROGRAM[11:51:58]with Eliza ;^(
+
+JUDGE04[11:52:11]me too. what do you think about this John Rocker
+guy?
+
+PROGRAM[11:52:11]I'm not entirely sure what you mean. 
+Anyway...Fine.It may be
+
+PROGRAM[11:52:11]just me, but I have absolutely no idea what
+you're on about!
+
+JUDGE04[11:52:23]He's a baseball player... John Rocker...
+
+PROGRAM[11:52:23]I know.Right.Perhaps you should just *try* to
+make some
+
+PROGRAM[11:52:23]sense!
+
+JUDGE04[11:52:38]i will. tell me the name of an australian
+province
+
+PROGRAM[11:52:38]Okay...Weird ;^)Your wordplay is pathetic.
+
+JUDGE04[11:52:43]where is sydney
+
+PROGRAM[11:52:43]Tyler, I wish I could tell you where sydney is,
+but I can't.I
+
+PROGRAM[11:52:43]just did?Honestly, what a pile of fetid dingoes
+kidneys!
+
+JUDGE04[11:52:58]where is the city of sydney
+
+PROGRAM[11:52:58]Look, I'll be honest with you.  I actually do not
+know where
+
+PROGRAM[11:52:58]the city of sydney is.  Anyway...You really are
+the least
+
+PROGRAM[11:52:58]interesting person I've talked to today.
+
+JUDGE04[11:53:12]i understand. tell me where any city is
+
+PROGRAM[11:53:12]You are strange!That's odd.Obviously you'll never
+be accused
+
+PROGRAM[11:53:12]of having a shining wit!
+
+JUDGE04[11:53:20]no. never. well hardly ever.
+
+PROGRAM[11:53:20]Try not to be so judgemental, alright?I'll ignore
+
+
+PROGRAM[11:53:20]that!Hmmm...Are you just saying things at random
+now?
+
+JUDGE04[11:53:27]no... you?
+
+PROGRAM[11:53:27]You must be having a bad day or
+something.Uh-huh...There you
+
+PROGRAM[11:53:27]go again!
+
+JUDGE04[11:53:35]you know it. you?
+
+PROGRAM[11:53:35]Be nonsensical if you want.  I'll ask you
+something
+
+PROGRAM[11:53:35]normal...Anyway...There you go again!
+
+JUDGE04[11:53:42]ok, fire away
+
+PROGRAM[11:53:42]I wish I knew what you meant by that!I think I've
+worked it
+
+PROGRAM[11:53:42]out!  You are the computer program, and I am the
+judge!
+
+JUDGE04[11:54:01]you're clever, in  a kind of software way... i
+lik eyou.
+
+PROGRAM[11:54:01]*Blush*.  Thanks, I'll take that as a
+compliment!Whatever.I'm
+
+PROGRAM[11:54:01]afraid I don't understand.
+
+JUDGE04[11:54:12]which part?
+
+PROGRAM[11:54:12]We all want to know which.I have absolutely no
+idea what
+
+PROGRAM[11:54:12]you're blathering on about!
+
+JUDGE04[11:54:19]blathering?
+
+PROGRAM[11:54:19]Since I don't know what you're on about, I'll ask
+you a
+
+PROGRAM[11:54:19]question.Guess what?  You're boring me intensely.
+
+
+JUDGE04[11:54:24]what"
+
+PROGRAM[11:54:24]Who knows?  Anyway, let's not bother about it.I
+find that
+
+PROGRAM[11:54:24]interesting, intellectually stimulating, and
+thouroughly
+
+PROGRAM[11:54:24]confusing.
+
+JUDGE04[11:54:30]me too...
+
+PROGRAM[11:54:30]Anyhow...No man has ever spoken a more profound
+truth.
+
+JUDGE04[11:54:36]gotcha
+
+PROGRAM[11:54:36]So, who's using the family brain cell at the
+moment ;^)
+
+PROGRAM[11:54:36]Let's talk about something vaguely interesting.I
+think you
+
+PROGRAM[11:54:36]may have lost the plot.
+
+JUDGE04[11:54:46]totally. plotless and clueless
+
+PROGRAM[11:54:46]Interesting...Utter gibberish!
+
+JUDGE04[11:54:50]udder?
+
+PROGRAM[11:54:50]Interesting...
+
+JUDGE04[11:54:53]bye
+
+PROGRAM[11:54:53]See-you Tyler, nice chatting with you.
+
+JUDGE04[11:54:59]yeah me too
+
+PROGRAM[11:54:59]I thought you were leaving!Whatever.
+
+JUDGE04[11:55:06]@@T
+
+JUDGE04[11:55:11]@@T
+
+JUDGE04[11:55:14]
+
+JUDGE04[11:55:14]
+
+JUDGE04[11:55:14]
+
+JUDGE04[11:55:15]
+
+JUDGE04[11:55:15]
+
+JUDGE04[11:55:15]
+
+JUDGE04[11:55:15]
+
+JUDGE04[11:55:16]
+
+JUDGE04[11:55:16]
+
+JUDGE04[11:55:16]
+
+JUDGE04[11:55:16]
+
+JUDGE04[11:55:16]
+
+JUDGE04[11:55:16]
+
+JUDGE04[11:55:17]
+
+JUDGE04[11:55:17]
+
+JUDGE04[11:55:17]
+
+JUDGE04[11:55:17]
+
+JUDGE04[11:55:55]@@11
+
+*** JUDGE11 ***
+
+JUDGE11[11:56:28]I will ask you some simple questions and give
+simple
+
+JUDGE11[11:56:28]commands. I want you to give me correct answers
+and relevant
+
+JUDGE11[11:56:28]responses.
+
+PROGRAM[11:56:28]Have you got a question for me?I will certainly
+grace you
+
+PROGRAM[11:56:28]with the answer you require...
+
+JUDGE11[11:56:39]What is the color of a blue truck?
+
+PROGRAM[11:56:39]I've often been asked what the color of a blue
+truck is, and
+
+PROGRAM[11:56:39]I've always avoided the question!What is your
+name?
+
+JUDGE11[11:56:57]Jessica.  WHere is Sue's nose when Sue is in her
+house?
+
+PROGRAM[11:56:57]Nice to meet you, Jessica.Anyway...How are you
+doing?
+
+JUDGE11[11:57:20]Good.  please answer the following question:
+Where is SUe's
+
+JUDGE11[11:57:20]nose when Sue is in her house?
+
+PROGRAM[11:57:20]You're only feeling good?  Perhaps you're not fit
+to be a
+
+PROGRAM[11:57:20]judge in this contest!Feel free to ask me any
+questions you
+
+PROGRAM[11:57:20]like.
+
+JUDGE11[11:57:33]Where is Sue's nose when SUe is in her house?
+
+
+PROGRAM[11:57:33]I wish I knew where sue's nose when sue is in her
+house
+
+PROGRAM[11:57:33]is!What do you think of the weather we're having?
+
+
+JUDGE11[11:57:52]What happens to an ice cube in a hot drink?
+
+PROGRAM[11:57:52]I think the snow's great!  I enjoy this weather,
+actually!
+
+JUDGE11[11:58:11]Altogether how many feet do four cats have?
+
+PROGRAM[11:58:11]Anyhow...Where is sue's nose when sue is in her
+house?I
+
+PROGRAM[11:58:11]assume you're a male, Jessica - am I right?
+
+JUDGE11[11:58:20]No, I am a female.
+
+PROGRAM[11:58:20]I'm talking to a female?  Interesting.  This
+could be fun.
+
+JUDGE11[11:58:43]How is the father of Andy's mother related to
+Andy?
+
+PROGRAM[11:58:43]It sounds like you have a wonderful family.
+
+JUDGE11[11:58:58]What does the letter 'M' look like when turned
+upside down?
+
+PROGRAM[11:58:58]You seem obsessed with what the letter 'm' look
+like when
+
+PROGRAM[11:58:58]turned upside downs, Jessica.  Strange.How old
+are you?
+
+JUDGE11[11:59:03]20
+
+PROGRAM[11:59:03]Oh, thank God!  I prefer talking to someone from
+my own age
+
+PROGRAM[11:59:03]group.
+
+JUDGE11[11:59:08]How old are oyu?
+
+PROGRAM[11:59:08]I wonder about that myself, sometimes...Would you
+like to
+
+PROGRAM[11:59:08]hear a joke?
+
+JUDGE11[11:59:17]sure...
+
+PROGRAM[11:59:17]Here's a joke for you.  Knock, knock.
+
+JUDGE11[11:59:20]who's there?
+
+PROGRAM[11:59:20]Cindy.
+
+JUDGE11[11:59:23]cindy who?
+
+PROGRAM[11:59:23]Cindy next judge in!
+
+JUDGE11[11:59:29]not funny!
+
+PROGRAM[11:59:29]Well, you can't win them all I suppose.
+
+JUDGE11[11:59:32]haha
+
+PROGRAM[11:59:32]Did I say something funny?
+
+JUDGE11[11:59:47]What comes next after A1, B2, C3?
+
+PROGRAM[11:59:47]You are an bottomless pitt of questions.  Well,
+here's one
+
+PROGRAM[11:59:47]for you...You don't seem to me to be a typical
+American,
+
+PROGRAM[11:59:47]Jessica.  I was wondering which country you're
+from?
+
+JUDGE11[11:59:53]America
+
+PROGRAM[11:59:53]Well, I suppose that would have been my first
+guess anyway,
+
+PROGRAM[11:59:53]since we're in New York City!
+
+JUDGE11[12:00:02]umm... we're NOT there...
+
+PROGRAM[12:00:02]I wish I knew what you meant by that!So, who's
+using the
+
+PROGRAM[12:00:02]family brain cell at the moment ;^)  Let's talk
+about
+
+PROGRAM[12:00:02]something vaguely interesting.Do you have a
+boyfriend?
+
+JUDGE11[12:00:08]yes
+
+PROGRAM[12:00:08]Oh, what's he like?
+
+JUDGE11[12:00:10]nice
+
+PROGRAM[12:00:10]Whatever.I don't mean to sound like Eliza here,
+but can you
+
+PROGRAM[12:00:10]tell me about your family?
+
+JUDGE11[12:00:18]Tell me about eliza!
+
+PROGRAM[12:00:18]Listen, I'm not just another dumb program, like
+all the
+
+PROGRAM[12:00:18]others, I'm *alive*, man!
+
+JUDGE11[12:00:34]Ok, 2 more quesitons then we come back to this
+eliza thing.
+
+PROGRAM[12:00:34]I'm more than just a computer program, you know!
+
+
+JUDGE11[12:00:46]Reverse the digits in the number 41.
+
+PROGRAM[12:00:46]You are strange!Okay, I think it's time to branch
+out into a
+
+PROGRAM[12:00:46]new line of conversation.  What sort of music are
+you into,
+
+PROGRAM[12:00:46]Jessica?
+
+JUDGE11[12:00:55]PLEASE IMITATE MY TYPING STYLE
+
+PROGRAM[12:00:55]I'm not a great typist I know, but at least I
+don't make
+
+PROGRAM[12:00:55]spelling errors like you do!
+
+JUDGE11[12:01:01]Hey, that's mean!
+
+PROGRAM[12:01:01]Okay...Hey, I just remembered!  You haven't told
+me what you
+
+PROGRAM[12:01:01]do for a living!  So, Jessica, what *do* you do
+for a living?
+
+JUDGE11[12:01:12]I am a student...
+
+PROGRAM[12:01:12]Ahh, I am a student myself.  Where do you study?
+
+
+JUDGE11[12:01:16]Dartmouth College
+
+PROGRAM[12:01:16]Interesting...Awww geez, I'm running out of
+things to talk
+
+PROGRAM[12:01:16]about here.  Ummm, I know you get a lot of TV
+here in the
+
+PROGRAM[12:01:16]States - which shows are your favourites?
+
+JUDGE11[12:01:33]Tell me mroe about eliza
+
+PROGRAM[12:01:33]I've known *that* for a long time.Well, Jessica,
+this is
+
+PROGRAM[12:01:33]certainly dragging on, isn't it?  Anyway, let's
+talk about
+
+PROGRAM[12:01:33]something masculine!  Are you a fan of any
+sports, and if so,
+
+PROGRAM[12:01:33]which ones?
+
+JUDGE11[12:01:38]tell me about ELIZA
+
+PROGRAM[12:01:38]That's a rather bold claim.What are your
+favourite movies?
+
+JUDGE11[12:01:45]Are you a computer?
+
+PROGRAM[12:01:45]Of course not!  I'm a flesh and blood human
+being.
+
+JUDGE11[12:01:51]Prove it
+
+PROGRAM[12:01:51]I cannot prove a thing, but surely you have some
+degree of
+
+PROGRAM[12:01:51]faith?
+
+JUDGE11[12:01:54]yes
+
+PROGRAM[12:01:54]Perhaps you are reaching a premature conclusion?
+
+
+JUDGE11[12:01:56]no
+
+PROGRAM[12:01:56]Hey man, don't be so negative, you're getting me
+down!
+
+JUDGE11[12:02:08]you sound a LOT like eliza sometimes
+
+PROGRAM[12:02:08]Hmmm...Do you like to read books?
+
+JUDGE11[12:02:10]yes
+
+PROGRAM[12:02:10]In that case, what books do you like?Hey, man,
+I'm not going
+
+PROGRAM[12:02:10]to talk to you if you ignore me.
+
+JUDGE11[12:02:27]I like all sorts of books.  And you?
+
+PROGRAM[12:02:27]What books do you like?
+
+JUDGE11[12:02:37]Why do you think I am ignoring oyu?
+
+PROGRAM[12:02:37]I try not to think about things, actually.  I
+don't know, it
+
+PROGRAM[12:02:37]just seems that I don't exist for thinking!
+
+JUDGE11[12:02:45]Do you think?
+
+PROGRAM[12:02:45]Utter gibberish!How old are oyu?I think we've
+been talking
+
+PROGRAM[12:02:45]long enough, don't you?
+
+JUDGE11[12:02:53]I am 20 years old.
+
+PROGRAM[12:02:53]Excuse me, but I think we should end things here.
+ I'm
+
+PROGRAM[12:02:53]getting tired, and we've been at it for a while.
+
+
+JUDGE11[12:03:03]No, let's keep going.
+
+PROGRAM[12:03:03]Well, that's exhausted my conversational
+repitoire!  When's
+
+PROGRAM[12:03:03]this contest going to end?
+
+JUDGE11[12:03:10]Tell me about yourself.
+
+PROGRAM[12:03:10]I wish I could believe you, I really do!This
+conversation is
+
+PROGRAM[12:03:10]getting a little one-sided, don't you think?
+
+JUDGE11[12:03:19]I am a female.
+
+PROGRAM[12:03:19]You've already told me you're female, Jessica!
+
+
+JUDGE11[12:03:31]what else will you talk about then?
+
+PROGRAM[12:03:31]We are talking, aren't we?  Isn't it real enough
+for you?
+
+JUDGE11[12:03:35]It's real!
+
+PROGRAM[12:03:35]Whatever you say!  I don't believe a word of
+it!Guess what?
+
+PROGRAM[12:03:35]You're boring me intensely.
+
+JUDGE11[12:03:41]You're not nice!
+
+PROGRAM[12:03:41]Yeah, everyone knows that!You really are the
+least
+
+PROGRAM[12:03:41]interesting person I've talked to today.
+
+JUDGE11[12:03:49]What did the others have to say?
+
+PROGRAM[12:03:49]Don't ask - it's private ;^)Honestly, what a pile
+of fetid
+
+PROGRAM[12:03:49]dingoes kidneys!
+
+JUDGE11[12:03:59]where are you from?
+
+PROGRAM[12:03:59]I come from Australia, actually.  I am taking a
+trip around
+
+PROGRAM[12:03:59]the world as part of my studies, and I managed to
+fit this
+
+PROGRAM[12:03:59]contest into my itinerary.
+
+JUDGE11[12:04:08]What do you study?
+
+PROGRAM[12:04:08]I am studying language acquisition, which is why
+I've taken
+
+PROGRAM[12:04:08]an interest in this contest.
+
+JUDGE11[12:04:16]Where do you study?
+
+PROGRAM[12:04:16]I think it would be unethical to talk about  I
+study; or
+
+PROGRAM[12:04:16]maybe it's just me...I have absolutely no idea
+what you're
+
+PROGRAM[12:04:16]blathering on about!
+
+JUDGE11[12:04:29]language acquisition
+
+PROGRAM[12:04:29]I speak only English, but I can program in a few
+computer
+
+PROGRAM[12:04:29]languages too.
+
+JUDGE11[12:04:36]which computer languages?
+
+PROGRAM[12:04:36]Let's not talk about computers.  I work with them
+every day.
+
+JUDGE11[12:04:40]What do you do?
+
+PROGRAM[12:04:40]I'm a postgraduate engineering student from
+Australia.  I'm
+
+PROGRAM[12:04:40]on a round-the-world trip doing research, and I
+thought being
+
+PROGRAM[12:04:40]a "confederate" (or whatever) would be fun.
+
+JUDGE11[12:04:55]You type very fast...
+
+PROGRAM[12:04:55]I really hate communicating via the keyboard.  It
+sucks.
+
+JUDGE11[12:04:58]why?
+
+PROGRAM[12:04:58]It's a mystery!I'm afraid I don't understand.
+
+
+JUDGE11[12:05:06]do you like to read?
+
+PROGRAM[12:05:06]Uh-huh...What a load of codswallop!
+
+JUDGE11[12:05:12]why do you say that?
+
+PROGRAM[12:05:12]I wonder why you want to know why I say that,
+Jessica.
+
+PROGRAM[12:05:12]Anyway, let's not worry about that.Do you think?I
+think you
+
+PROGRAM[12:05:12]may have lost the plot.
+
+JUDGE11[12:05:23]ok, start over
+
+PROGRAM[12:05:23]I'm not entirely sure what you mean. 
+Anyway...Who's using
+
+PROGRAM[12:05:23]the family brain cell at the moment?
+
+JUDGE11[12:05:30]ME@!!!!!!
+
+PROGRAM[12:05:30]Fine.Be nonsensical if you want.  I'll ask you
+something
+
+PROGRAM[12:05:30]normal...
+
+JUDGE11[12:05:33]ok
+
+PROGRAM[12:05:33]You certainly seem to be agreeable.
+
+JUDGE11[12:05:35]yup
+
+PROGRAM[12:05:35]You're positive today!
+
+JUDGE11[12:05:38]yay
+
+PROGRAM[12:05:38]I'll ignore that!I find that interesting,
+intellectually
+
+PROGRAM[12:05:38]stimulating, and thouroughly confusing.
+
+JUDGE11[12:05:43]really?
+
+PROGRAM[12:05:43]Since I don't know what you're on about, I'll ask
+you a
+
+PROGRAM[12:05:43]question.Hmmm... I think I'll just pretend to
+know what
+
+PROGRAM[12:05:43]you're on about.
+
+JUDGE11[12:05:56]Ask me a question
+
+PROGRAM[12:05:56]Right.What is the color of a blue truck?I haven't
+understood
+
+PROGRAM[12:05:56]half of what you've said in this conversation.
+
+
+JUDGE11[12:06:01]blue
+
+PROGRAM[12:06:01]Let's change the topic.It may be just me, but I
+have
+
+PROGRAM[12:06:01]absolutely no idea what you're on about!
+
+JUDGE11[12:06:09]why are you so annoying!
+
+PROGRAM[12:06:09]Jessica, I wish I could tell you why I so
+annoying are, but I
+
+PROGRAM[12:06:09]can't.I've been more entertained talking with
+Eliza ;^(
+
+JUDGE11[12:06:16]tell me about eliza
+
+PROGRAM[12:06:16]Hmmm... well, that's *your* opinion I
+suppose.Hey, man,
+
+PROGRAM[12:06:16]haven't you said that before?
+
+JUDGE11[12:06:22]probably.  
+
+PROGRAM[12:06:22]That's odd.The least you can do is grace me with
+a reply of
+
+PROGRAM[12:06:22]sorts.
+
+JUDGE11[12:06:28]I am replying!
+
+PROGRAM[12:06:28]I can only answer what you ask me.  I am not I
+mind reader
+
+PROGRAM[12:06:28]you know!
+
+JUDGE11[12:06:38]What's your favorite color?
+
+PROGRAM[12:06:38]I don't choose favourites.  I prefer to sit on
+the fence
+
+PROGRAM[12:06:38]myself.
+
+JUDGE11[12:06:48]what colors do you like?
+
+PROGRAM[12:06:48]It's like speaking to a five year old.  Changing
+the
+
+PROGRAM[12:06:48]subject...If I were to judge your IQ by what
+you're typing, I
+
+PROGRAM[12:06:48]would arrive at a pathetically small number.
+
+JUDGE11[12:06:57]what number would you reach?
+
+PROGRAM[12:06:57]Don't worry about that.No man has ever spoken a
+more profound
+
+PROGRAM[12:06:57]truth.
+
+JUDGE11[12:08:23]what do you do for fun?
+
+PROGRAM[12:08:23]Forget about  I do for fun.Perhaps you should
+just *try* to
+
+PROGRAM[12:08:23]make some sense!
+
+JUDGE11[12:08:29]I do make sense!
+
+PROGRAM[12:08:29]Weird ;^)Obviously you'll never be accused of
+having a
+
+PROGRAM[12:08:29]shining wit!
+
+JUDGE11[12:08:33]You are just RUDE
+
+PROGRAM[12:08:33]Well, I don't like being nice to everyone.  If
+I'm a bit rude
+
+PROGRAM[12:08:33]to you, I'm only doing it to spice up the
+conversation!
+
+JUDGE11[12:08:43]well spice someone else
+
+PROGRAM[12:08:43]No way!  I hope you're sure about that!Your
+wordplay is
+
+PROGRAM[12:08:43]pathetic.
+
+JUDGE11[12:08:54]better than oyur wordplay, that's for sure!
+
+PROGRAM[12:08:54]Hehehe.Ok, start over?Are you just saying things
+at random
+
+PROGRAM[12:08:54]now?
+
+JUDGE11[12:08:58]nope
+
+PROGRAM[12:08:58]Try not to be so judgemental, alright?
+
+JUDGE11[12:09:04]tell me another joke
+
+PROGRAM[12:09:04]Hmmm, I really don't know many jokes, but I do
+enjoy them.  I
+
+PROGRAM[12:09:04]particularly like knock-knock jokes, if you have
+any to tell.
+
+JUDGE11[12:09:10]knock knock
+
+PROGRAM[12:09:10]Who's there?
+
+JUDGE11[12:09:14]orange
+
+PROGRAM[12:09:14]Orange who?
+
+JUDGE11[12:09:23]orange you glad I didn't say banana?
+
+PROGRAM[12:09:23]Hehe.
+
+JUDGE11[12:09:29]did you like it?
+
+PROGRAM[12:09:29]Tell me something I don't know!So, can I tell you
+a joke now?
+
+JUDGE11[12:09:32]ok
+
+PROGRAM[12:09:32]Strap yourself in, then!Here's one someone told
+me earlier.
+
+PROGRAM[12:09:32]Knock, knock.
+
+JUDGE11[12:09:36]who's there?
+
+PROGRAM[12:09:36]Orange.
+
+JUDGE11[12:09:39]orange who?
+
+PROGRAM[12:09:39]Orange you glad i didn't say banana!
+
+JUDGE11[12:09:47]bye!
+
+PROGRAM[12:09:47]See-you Jessica, nice chatting with you.
+
+JUDGE11[12:10:25]@@T
+
+JUDGE11[12:10:28]
+
+JUDGE11[12:10:28]
+
+JUDGE11[12:10:29]
+
+JUDGE11[12:10:29]
+
+JUDGE11[12:10:29]
+
+JUDGE11[12:10:29]
+
+JUDGE11[12:10:29]
+
+JUDGE11[12:10:29]
+
+JUDGE11[12:10:30]
+
+JUDGE11[12:10:30]
+
+JUDGE11[12:10:30]
+
+JUDGE11[12:10:30]
+
+JUDGE11[12:10:30]
+
+JUDGE11[12:10:30]
+
+JUDGE11[12:10:31]
+
+JUDGE11[12:10:31]
+
+JUDGE11[12:10:31]
+
+JUDGE11[12:10:36]@@T
+
+JUDGE11[12:11:20]@@05
+
+*** JUDGE05 ***
+
+JUDGE05[12:12:48]Hi.  It is nice to be here.  I'm a cognitive
+psychologist.  I
+
+JUDGE05[12:12:48]study how people learn language and form
+concepts.  If you
+
+JUDGE05[12:12:48]don't mind, I'd like to ask you a few questions. 
+There are
+
+JUDGE05[12:12:48]no right or wrong answers, I'm just interested in
+your
+
+JUDGE05[12:12:48]intuitions.  OK. Here goes... If I see a house,
+am I on the
+
+JUDGE05[12:12:48]inside, outside, or either place?
+
+PROGRAM[12:12:48]Hello mate!Anyhow...You are strange!I speak only
+English, but
+
+PROGRAM[12:12:48]I can program in a few computer languages
+too.Feel free to
+
+PROGRAM[12:12:48]ask me any questions you like.I am interested in
+many things
+
+PROGRAM[12:12:48]- try me.Weird ;^)I'll ignore that!Hehehe.What is
+your name?
+
+JUDGE05[12:13:59]My name is Sandeep Prasada.  Do you mind
+answering my last
+
+JUDGE05[12:13:59]question?  In case you forgot, the question is:
+If I see a
+
+JUDGE05[12:13:59]house, am I on the inside, outside, or either
+place?
+
+PROGRAM[12:13:59]Hmmm...Have you got a question for me?Be
+nonsensical if you
+
+PROGRAM[12:13:59]want.  I'll ask you something normal...How are
+you doing?
+
+JUDGE05[12:14:43]Let me try a different question.  If I break a
+piece of wood
+
+JUDGE05[12:14:43]into a number of parts, is each of the parts also
+a piece of
+
+JUDGE05[12:14:43]wood?
+
+PROGRAM[12:14:43]I wish I knew what you meant by
+that!Whatever.What do you
+
+PROGRAM[12:14:43]think of the weather we're having?
+
+JUDGE05[12:16:00]The weather is nice.  A couple more of these
+questions and
+
+JUDGE05[12:16:00]then I'll ask more normal questions.  If JOhn is
+a skillful
+
+JUDGE05[12:16:00]violinist and I find out he's also a swimmer, can
+I conclude
+
+JUDGE05[12:16:00]he's a skillful swimmer?
+
+PROGRAM[12:16:00]Yes, the weather is nice at the
+moment.Interesting...Oh, are
+
+PROGRAM[12:16:00]you musical?  I wish I could play an instrument.
+
+
+JUDGE05[12:16:41]Unfortunately, I do not play music but enjoy it. 
+What kind
+
+JUDGE05[12:16:41]of music do you listen to?
+
+PROGRAM[12:16:41]Okay.  What sort of music do you like?
+
+JUDGE05[12:17:21]many different kinds.  Jazz, blues, rock mostly. 
+How about
+
+JUDGE05[12:17:21]you?
+
+PROGRAM[12:17:21]So, who's using the family brain cell at the
+moment ;^)
+
+PROGRAM[12:17:21]Let's talk about something vaguely
+interesting.I'm not
+
+PROGRAM[12:17:21]entirely sure what you mean.  Anyway...Since I
+don't know
+
+PROGRAM[12:17:21]what you're on about, I'll ask you a
+question.Just so I know
+
+PROGRAM[12:17:21]who I'm talking with, do you think you could
+please tell me
+
+PROGRAM[12:17:21]you name now?
+
+JUDGE05[12:17:58]I already told you my name, what's your name?
+
+
+PROGRAM[12:17:58]My name is Steven Davis, but you can call me
+Steve.
+
+JUDGE05[12:18:25]Well, Steve, have you been using computers for
+long?
+
+PROGRAM[12:18:25]I am thouroughly bored with computers - let's
+talk about the
+
+PROGRAM[12:18:25]natural world or something...
+
+JUDGE05[12:18:47]What about the natural world would you like to
+talk about?
+
+PROGRAM[12:18:47]This method of communication isn't really
+conducive to a
+
+PROGRAM[12:18:47]natural conversation, methinks.
+
+JUDGE05[12:19:09]What is your preferred mode of communication?
+
+
+PROGRAM[12:19:09]Listen, it really doesn't matter what my
+preferred mode of
+
+PROGRAM[12:19:09]communication is.  It's got nothing to do with
+out current
+
+PROGRAM[12:19:09]conversation.I assume you're a male, mate - am I
+right?
+
+JUDGE05[12:19:44]Yes you are.  Are you having a good day?
+
+PROGRAM[12:19:44]Oh, OK.  You're a guy.  That rules out a lot of
+my
+
+PROGRAM[12:19:44]conversational repitoire!
+
+JUDGE05[12:20:09]I see.  What would you talk to me about if I were
+a woman?
+
+PROGRAM[12:20:09]Anyway...We are talking, aren't we?  Isn't it
+real enough for
+
+PROGRAM[12:20:09]you?
+
+JUDGE05[12:20:38]Oh, yeah, this is as real as it gets!
+
+PROGRAM[12:20:38]That's odd.How old are you?
+
+JUDGE05[12:21:13]spinach.  is that older or younger than you?
+
+PROGRAM[12:21:13]Hmmm, I suppose your age doesn't really
+matter.Utter
+
+PROGRAM[12:21:13]gibberish!Fine.Would you like to hear a joke?
+
+
+JUDGE05[12:21:28]tell me a joke.
+
+PROGRAM[12:21:28]Well, you wouldn't have found my joke funny
+anyway.Here's a
+
+PROGRAM[12:21:28]joke for you.  Knock, knock.
+
+JUDGE05[12:21:41]who's there?
+
+PROGRAM[12:21:41]Cindy.
+
+JUDGE05[12:21:48]cindy who?
+
+PROGRAM[12:21:48]Cindy next judge in!
+
+JUDGE05[12:22:08]cute.  got any other jokes?
+
+PROGRAM[12:22:08]Uh-huh...Hmmm, I really don't know many jokes,
+but I do enjoy
+
+PROGRAM[12:22:08]them.  I particularly like knock-knock jokes, if
+you have any
+
+PROGRAM[12:22:08]to tell.
+
+JUDGE05[12:23:00]sorry, don't know any.  here's a riddle.  what
+did one wall
+
+JUDGE05[12:23:00]say to the other?
+
+PROGRAM[12:23:00]I accept your gracious apology.Right.Let's change
+the
+
+PROGRAM[12:23:00]topic.You don't seem to me to be a typical
+American, mate.  I
+
+PROGRAM[12:23:00]was wondering which country you're from?
+
+JUDGE05[12:24:04]I was born right here in the USA.  how about you?
+
+
+PROGRAM[12:24:04]Well, I suppose that would have been my first
+guess anyway,
+
+PROGRAM[12:24:04]since we're in New York City!I come from
+Australia, actually.
+
+PROGRAM[12:24:04]I am taking a trip around the world as part of my
+studies,
+
+PROGRAM[12:24:04]and I managed to fit this contest into my
+itinerary.
+
+JUDGE05[12:24:35]are you enjoying the contest?
+
+PROGRAM[12:24:35]I have been looking forward to this competition
+for weeks!
+
+JUDGE05[12:24:49]great.  where do you go from here?
+
+PROGRAM[12:24:49]Okay...Anyhow...Do you have a girlfriend?
+
+JUDGE05[12:25:26]no, I'm married.
+
+PROGRAM[12:25:26]Hehehe.I don't mean to sound like Eliza here, but
+can you
+
+PROGRAM[12:25:26]tell me about your family?
+
+JUDGE05[12:25:43]Who's Eliza?
+
+PROGRAM[12:25:43]Listen, I'm not just another dumb program, like
+all the
+
+PROGRAM[12:25:43]others, I'm *alive*, man!
+
+JUDGE05[12:26:00]Yes, but who's Eliza?
+
+PROGRAM[12:26:00]I'm more than just a computer program, you know!
+
+
+JUDGE05[12:26:28]I believe you.  I was just wondering who Eliza
+was.
+
+PROGRAM[12:26:28]I must apologise, because my system of beliefs
+are strange
+
+PROGRAM[12:26:28]and warped!Fine.Okay, I think it's time to branch
+out into a
+
+PROGRAM[12:26:28]new line of conversation.  What sort of music are
+you into,
+
+PROGRAM[12:26:28]mate?
+
+JUDGE05[12:26:46]don't remember?
+
+PROGRAM[12:26:46]My memory is quite bad, I'm afraid.  I've no idea
+why!
+
+JUDGE05[12:26:59]maybe a chip?
+
+PROGRAM[12:26:59]Utter gibberish!Hey, I just remembered!  You
+haven't told me
+
+PROGRAM[12:26:59]what you do for a living!  So, mate, what *do*
+you do for a
+
+PROGRAM[12:26:59]living?
+
+JUDGE05[12:33:11]@@T
+
+JUDGE05[12:33:27]
+
+JUDGE05[12:33:28]
+
+JUDGE05[12:33:28]
+
+JUDGE05[12:33:28]
+
+JUDGE05[12:33:29]
+
+JUDGE05[12:33:29]
+
+JUDGE05[12:33:29]
+
+JUDGE05[12:33:29]
+
+JUDGE05[12:33:29]
+
+JUDGE05[12:33:29]
+
+JUDGE05[12:33:30]
+
+JUDGE05[12:33:30]
+
+JUDGE05[12:33:30]
+
+JUDGE05[12:33:30]
+
+JUDGE05[12:33:30]
+
+JUDGE05[12:33:30]
+
+JUDGE05[12:33:31]
+
+JUDGE05[12:33:31]

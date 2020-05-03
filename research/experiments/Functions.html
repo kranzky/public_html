@@ -1,0 +1,162 @@
+<?
+
+Function Story_Name($title,$genre,$order,$user)
+{
+	mysql_connect("localhost","hutch","wally37");
+   mysql_select_db("experiments");
+	$result=mysql_query("SELECT story FROM story WHERE genre='$genre' AND context=$order");
+	$num = mysql_num_rows($result);
+	if($num!=1) {
+		$name="XXXXXXXX";
+	} else {
+		$story=mysql_result($result, 0, "story");
+		$result=mysql_query("SELECT number FROM story_info WHERE story=$story AND user=$user");
+		$num = mysql_num_rows($result);
+		$name="$title"." [$num]";
+	}
+	return($name);
+}
+
+Function Story_Length($genre,$order)
+{
+	mysql_connect("localhost","hutch","wally37");
+   mysql_select_db("experiments");
+	$result=mysql_query("SELECT length FROM story WHERE genre='$genre' AND context=$order");
+	$num = mysql_num_rows($result);
+	if($num!=1) {
+		$name="XXXXXXXX";
+	} else {
+		$length=mysql_result($result, 0, "length");
+		$name="Show_Story [$length]";
+	}
+	return($name);
+}
+
+Function Error ($message,$file)
+{
+	GLOBAL $s_user;
+
+	echo "<H1>AN ERROR HAS OCCURRED</H1>";
+	if($message!="") {
+		echo "An error has been encountered:  ";
+		echo "<P><CENTER><BIG><B>$message</B></CENTER></BIG>";
+		$message.="\n\nPhP Error: [$phperrmsg]";
+		Send_Mail("hutch@tmbg.org", "hutch@tmbg.org", "Experiment Error", $message);
+	}
+	if($file!="") {
+		Include($file);
+	}
+	Include("Footer.html");
+	Exit;
+}
+
+Function Story_Link($url,$name,$genre,$order)
+{
+	GLOBAL $s_user;
+
+	mysql_connect("localhost","hutch","wally37");
+   mysql_select_db("experiments");
+	$result=mysql_query("SELECT story FROM story WHERE genre='$genre' AND context=$order");
+	$num = mysql_num_rows($result);
+	if($num!=1) {
+		echo $name;
+	} else {
+		$story=mysql_result($result, 0, "story");
+		$result=mysql_query("SELECT length FROM story WHERE story=$story");
+		$length=mysql_result($result, 0, "length");
+		$limit=$length-$order;
+		$result=mysql_query("SELECT number FROM story_info WHERE story=$story AND user=$s_user AND number>=$limit");
+		$num = mysql_num_rows($result);
+		if($num==0) {
+			echo "<A HREF=\"$url?genre=$genre&order=$order\">$name</A>";
+		} else {
+			echo $name;
+		}
+	}
+}
+
+Function Send_Mail($to,$from,$subject,$message)
+{
+	$fp = fsockopen("localhost", 25);
+
+   if($fp < 0) {
+      Error("Error sending email to $to (error = $fp)", "");
+		return;
+	}
+
+   fputs($fp, "HELO localhost\n");
+   fputs($fp, "MAIL FROM: $from\n");
+   fputs($fp, "RCPT TO: $to\n");
+   fputs($fp, "DATA\n");
+   fputs($fp, "Subject: $subject\n");
+   fputs($fp, "To: $to\n");
+   fputs($fp, "$message\n");
+   fputs($fp, ".\n");
+   fputs($fp, "QUIT\n");
+   fclose($fp);	
+}
+
+Function Clean_Word($word)
+{
+	$word=StripSlashes($word);
+	$space=1;
+	while($space==1) {
+		if(strlen($word)==0) {
+			return("");
+		}
+		$a=substr($word, 0, 1);
+		if(strchr(" 	",$a)!="") {
+			$word=substr($word, 1, strlen($word)-1);
+		} else {
+			$a=substr($word, strlen($word)-1, 1);
+			if(strchr(" 	",$a)!="") {
+				$word=substr($word, 0, strlen($word)-1);
+			} else {
+				$space=0;
+			}
+		}
+	}
+
+	return($word);
+}
+
+Function Verify_Word($word)
+{
+	$alnum=0;
+	$space=0;
+	$i=0;
+	while($i<strlen($word)) {
+		$a=substr($word, $i, 1);
+		if(strchr("ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789",$a)!="") {
+			if($space==1) {
+				return("");
+			}
+			$alnum=1;
+		} else {
+			if(($alnum==1)&&($a!="'")&&($a!="-")) {
+				$space=1;
+			}
+		}
+		$i+=1;
+	}
+
+	return($word);
+}
+
+Function Filter_Word($word)
+{
+	$filter="";
+	$i=0;
+	while($i<strlen($word)) {
+		$a=substr($word, $i, 1);
+		if(strchr(" 	",$a)!="") {
+			return("");
+		}
+		if(strchr("ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789",$a)!="") {
+			$filter.=$a;
+		}
+		$i+=1;
+	}
+	return($filter);
+}
+?>

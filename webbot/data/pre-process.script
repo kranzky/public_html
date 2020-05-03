@@ -1,0 +1,22 @@
+// Remove trailing special characters
+(1)
+"(.*)[!.;,? ]$"
+{
+	reuse();
+	changecontext("default");
+	throw(match[1]);
+}
+[]
+0
+
+// Remove leading special characters
+(1)
+"^[!.;,? ](.*)"
+{
+	reuse();
+	changecontext("default");
+	throw(match[1]);
+}
+[]
+0
+

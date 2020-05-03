@@ -1,0 +1,119 @@
+(minsky_state == 0 && !yes_no_confirm)
+""
+{
+	response+="Do you want to know who Marvin Minsky is?";
+        yes_no_calling_context ='minsky';
+        yes_no_negative_response += 'Well, maybe next time.';
+	yes_no_confirm = 0;
+	changecontext("yesno");
+}
+[]
+
+(minsky_state == 0 && yes_no_confirm)
+""
+{
+	yes_no_confirm = 0;
+	minsky_state = 1;
+	throw(input);
+}
+[]
+
+/*------------------------------------------------------------------------------*/
+
+(minsky_state==1)
+""
+{
+	response+="Marvin Minsky has made many contributions to AI, cognitive psychology, mathematics, computational linguistics, robotics, and optics. In recent years, he has worked chiefly on imparting the human capacity for commonsense reasoning to machines. "; 
+	minsky_state=2;
+}
+[]
+
+
+(minsky_state==1)
+"#BYE_WORD#"
+{
+	minsky_state=5;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+/*------------------------------------------------------------------------------*/
+
+(minsky_state==2)
+""
+{
+	response+="In 1951, Minsky built SNARC, the first neural network simulator. His other inventions include mechanical hands and other robotic devices.";
+	minsky_state=3;
+}
+[]
+
+
+(minsky_state==2)
+"#BYE_WORD#"
+{
+	minsky_state=5;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+/*------------------------------------------------------------------------------*/
+
+(minsky_state==3)
+""
+{
+	response+="Minsky believes in modeling the way computers think after the way humans think by creating an intelligent machine that uses common sense reasoning instead of logical reasoning. ";
+	minsky_state=4;
+}
+[]
+
+
+(minsky_state==3)
+"#BYE_WORD#"
+{
+	minsky_state=5;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+/*------------------------------------------------------------------------------*/
+
+(minsky_state==4)
+""
+{
+	response+="Minsky says that logical systems, while working well in mathematics, do not work well in the real world which is full of ambiguity, inconsistencies, and exceptions. I've displayed more information on Minsky and other notable people in the pages #CONTENT_LOCATION#.";
+	response+="<ACTION>url:#RES_ARTI_PAGE_PEOPLE#</ACTION>";
+	changecontext("default");
+	minsky_state=5;
+}
+[]
+
+
+(minsky_state==4)
+"#BYE_WORD#"
+{
+	minsky_state=5;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+(1)
+""
+{
+	changecontext("default");
+	throw(input);
+}
+[]
+-999
+
+(1)
+""
+{
+	changecontext("default");
+	throw(input);
+}
+[]
+-999

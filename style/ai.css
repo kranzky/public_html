@@ -1,0 +1,50 @@
+BODY
+{
+	background-color: black;
+	color: #55FF55;
+	font-family: sans-serif;
+}
+XMP,TT
+{
+	font-family: courier;
+}
+H1,H2,H3,H4,H5,H6,P,UL,OL
+{
+	font-family: sans-serif;
+	color: #55FF55;
+}
+A
+{
+	color: #8888FF;
+	text-decoration: none;
+	font-weight: bold;
+}
+TABLE
+{
+	font-family: sans-serif;
+}
+TH,TD
+{
+	font-family: sans-serif;
+	color: #55FF55;
+	vertical-align: top;
+}
+FORM
+{
+	font-family: sans-serif;
+}
+INPUT
+{
+	color: black;
+	font-family: courier;
+}
+#Copyright
+{
+	text-align: center;
+	font-size: 8pt;
+	color: #88FF88;
+}
+#Diagram
+{
+	background-color: white;
+}

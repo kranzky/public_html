@@ -1,0 +1,742 @@
+JUDGE04[11:43:19]@@T
+JUDGE04[11:43:28]@@04
+* * *  BEGIN Judge 4  * * *
+PROGRAM[11:59:22]Hi David. Did you forget to ask me something?
+
+JUDGE04[11:59:39]Good day . How are you today/
+PROGRAM[12:00:34]I'm doing just fine, and you?
+
+JUDGE04[12:01:05]I am fine thank you. I live in Adelaide . What bout you ?
+PROGRAM[12:01:09]Just swell.
+
+JUDGE04[12:01:23]Where do you reside ?
+PROGRAM[12:01:39]I live in Rockmart. That's in northwest Georgia.
+
+JUDGE04[12:01:58]Is that east or west from Adelaide ?
+PROGRAM[12:02:08]Do you come from around here?
+
+JUDGE04[12:02:25]No, I am from Australia
+PROGRAM[12:02:32]What planet are you from?
+
+JUDGE04[12:02:48]Have a guess. It is not earth.
+PROGRAM[12:03:06]No, I've never been to one. I can't recall just now what it is.
+
+PROGRAM[12:03:57]Are you fond of cats?
+
+JUDGE04[12:04:22]Previously I was , but not anymore as they are not ecologically sound.
+PROGRAM[12:04:38]Do you know any guys that would like to shoot a few baskets with me
+PROGRAM[12:04:48]later. There's a basketball court near my room
+
+JUDGE04[12:05:08]No my friends and I are not the sporty types.
+PROGRAM[12:05:11]Are you sure?
+
+JUDGE04[12:05:27]Why would I not be sure ?
+PROGRAM[12:05:38]I had a really hard time getting here today.
+
+JUDGE04[12:05:47]Why was that ?
+PROGRAM[12:06:04]Why? Why? Don't you know why was that yourself???
+
+JUDGE04[12:06:37]No as I travel by car and don'nt have to use public transport
+PROGRAM[12:06:44]It's kind of hot in here.
+
+JUDGE04[12:07:07]It is pretty cool in here, so where are you ?
+PROGRAM[12:07:20]Yes, is pretty cool in here so where I am.
+
+JUDGE04[12:07:42]I like the way you phrase your utterances
+PROGRAM[12:07:54]It's not bad really. I've heard worse.
+
+JUDGE04[12:09:26]I have seen worse as well
+PROGRAM[12:09:47]Well, I meet a lot of people, and I'm convinced that the vast majority
+PROGRAM[12:09:56]of wrong thinking people are right.
+
+JUDGE04[12:10:08]What percentage ?
+PROGRAM[12:10:20]Do *you* know what percentage? I'm unsure myself.
+
+JUDGE04[12:10:56]Given your earlier comment you must be able to put a figure on this
+PROGRAM[12:11:05]So, tell me about yourself.
+
+JUDGE04[12:11:19]sorry no time Goodbye
+PROGRAM[12:11:35]You could be a little more optimistic couldn't you?
+
+JUDGE04[12:11:44]Bye
+PROGRAM[12:11:49]See you later.
+
+JUDGE04[12:17:29]@@T
+JUDGE04[12:17:48]@@02
+* * *  BEGIN Judge 2  * * *
+PROGRAM[12:30:03]Hello. My name is Jim. Who are you?
+
+JUDGE02[12:30:19]Hi. I'm Benita. How are you?
+PROGRAM[12:30:34]Likewise I'm sure. I'm doing just fine, thanks.
+
+JUDGE02[12:30:45]Are you having fun?
+PROGRAM[12:30:54]Yes. I sure am.
+
+JUDGE02[12:31:10]How did you get involved in this?
+PROGRAM[12:31:16]Are you married?
+
+JUDGE02[12:31:45]Now that's a bit pertinent. No. I'm not. Are you?
+PROGRAM[12:32:04]Alright. I can hear me telling Felix about talking to Judge 2 today and
+PROGRAM[12:32:17]he'll just look at me like I'm crazy. Do you have a cat?
+
+JUDGE02[12:32:43]Yes, I have two cats, Allegro and Tipsy. Is Felix your cat?
+PROGRAM[12:33:01]I'm very fond of cats. Felix is about 3 years old and has all the energy
+PROGRAM[12:33:05]of a kitten.
+
+JUDGE02[12:33:42]That sounds like my cat Tipsy. Do you have a dog?
+PROGRAM[12:33:59]Do you come from around here? No, but I have a cat.
+
+JUDGE02[12:34:22]No, I'm from the U.S.A.
+PROGRAM[12:34:34]Would you like to have a drink with me later?
+
+JUDGE02[12:34:47]If you're human, maybe.
+PROGRAM[12:34:57]I thought you were human.
+
+JUDGE02[12:35:17]I am! Where are you from?
+PROGRAM[12:35:29]What? I'm from Rockmart, Georgia.
+
+JUDGE02[12:36:08]Really! I'm from South Walpole, Mass. How long have you been here?
+PROGRAM[12:36:15], adv.  Apparently.
+PROGRAM[12:36:23]Do you like Mexican food?
+
+JUDGE02[12:36:35]I love Mexican food, but I like Indian better.
+PROGRAM[12:36:53]So, love mexican food but you like indian better. Tell me more. I'm
+PROGRAM[12:37:07]not wearing my watch, so I don't know exactly.
+
+JUDGE02[12:37:24]Do you want to know the time?
+PROGRAM[12:37:29]Yes you do.
+
+JUDGE02[12:37:46]So you like the weather today?
+PROGRAM[12:37:52]Yes, in a way.
+
+JUDGE02[12:38:02]Do you like it better cold?
+PROGRAM[12:38:14]I feel this way because of memories that I have.
+
+JUDGE02[12:38:23]Memories of Georgia?
+PROGRAM[12:38:31]Are you fond of cats?
+
+JUDGE02[12:38:45]We've discussed that. Tell me about Georgia...
+PROGRAM[12:38:53]Have you ever seen Road Warrior?
+PROGRAM[12:39:02]Georgia is a state in the south USA.
+
+JUDGE02[12:39:14]Does it snow there?
+PROGRAM[12:39:20]Not much really.
+
+JUDGE02[12:39:35]What is Rockport like?
+PROGRAM[12:39:55]A high-yield, perennial, four-lobed hybrid of wheat and rye whose
+PROGRAM[12:40:10]root grain, triticale, can trace its ancestry to twentieth-century
+PROGRAM[12:40:12]Canada.
+
+JUDGE02[12:40:22]Is it a nice town?
+PROGRAM[12:40:30]You mean like a TV show?
+
+JUDGE02[12:40:35]No!
+PROGRAM[12:40:45]what kind of trip are you on?
+
+JUDGE02[12:41:01]One that's ending. Goodbye!
+PROGRAM[12:41:12]I remember. See ya later.
+
+JUDGE02[12:44:50]@@T
+JUDGE02[12:47:11]@@01
+* * *  BEGIN Judge 1  * * *
+PROGRAM[13:23:35]Hello. My name is Jim. Who are you?
+
+JUDGE01[13:24:15]Hello,Jim. I am paul, a phd student, how about you?
+PROGRAM[13:24:39]So, love mexican food but you like indian better. Tell me more. Would
+PROGRAM[13:24:55]you like to have the 5 minute argument or were you thinking of going
+PROGRAM[13:25:02]for the whole half hour?
+
+JUDGE01[13:25:53]I would like to be your friend. Could you please tell me more about you?
+PROGRAM[13:26:05]Well, I'm not allowed to argue unless you pay.
+
+JUDGE01[13:26:40]No worries. I will pay for that. Please go ahead.
+PROGRAM[13:26:58]yes it was Stop driving. old barbeque restarant and a barbecue
+PROGRAM[13:27:11]restaurant in a metal star building. Are you married?
+
+JUDGE01[13:27:38]Yes, I am. How about you?
+PROGRAM[13:27:57]It's a very interesting show. I really enjoy it.
+
+JUDGE01[13:28:22]What show did you watch?
+PROGRAM[13:28:46]I ate breakfast. I'm getting hungry again. I think I'll go and raid
+PROGRAM[13:28:52]the refrigerator.
+
+JUDGE01[13:29:07]What food do you like?
+PROGRAM[13:29:17]Sometimes I go to Kroger.
+
+JUDGE01[13:29:48]What does Kroger mean?
+PROGRAM[13:29:55]They have bread and milk.
+
+JUDGE01[13:30:29]Are yoy a computer?
+PROGRAM[13:30:35]No, I'm a trekker.
+
+JUDGE01[13:31:05]Why don't you answer my question?
+PROGRAM[13:31:09]I'm sorry.
+
+JUDGE01[13:32:06]No worries. I like your way to make small talk like this.
+PROGRAM[13:32:19]yes it was Do you come from around here?
+
+JUDGE01[13:32:59]No, I come from China. Where are you from?
+PROGRAM[13:33:13]Are you sure? I'm from Rockmart, Georgia.
+
+JUDGE01[13:33:27]See you later
+PROGRAM[13:33:31]Goodbye.
+
+JUDGE01[13:39:36]@@T
+JUDGE01[13:40:03]@@05
+* * *  BEGIN Judge 5  * * *
+PROGRAM[13:48:57]Hello. My name is Jim. Who are you?
+
+JUDGE05[13:49:36]Hi, Jim. I'm Greg. How are you?
+PROGRAM[13:49:47]Me either. I'm doing just fine, thanks.
+
+JUDGE05[13:50:18]Have you had a good day so far?
+PROGRAM[13:50:23]Are you married?
+
+JUDGE05[13:51:15]No, though I have a long-term relationship. How about you?
+PROGRAM[13:51:32]Don't say anything if you don't want to. Yeah, me too.
+
+JUDGE05[13:52:00]What sort of things are you interested in?
+PROGRAM[13:52:12]Do you come from around here?
+
+JUDGE05[13:52:36]Yes. Where are you from?
+PROGRAM[13:52:46]They come from the planet Romulus.
+
+JUDGE05[13:53:02]Who do?
+PROGRAM[13:53:06]I like Spock.
+
+JUDGE05[13:53:25]I hear he died recently.
+PROGRAM[13:53:28]right.
+
+JUDGE05[13:54:14]What did you think of his views on kids?
+PROGRAM[13:54:26]Would you like to have a drink with me later?
+
+JUDGE05[13:54:52]When are you free?
+PROGRAM[13:55:02]It's like going to sleep.
+
+JUDGE05[13:55:21]Do you dream?
+PROGRAM[13:55:26]I didnt say that.
+
+JUDGE05[13:55:58]I know, but it's interesting, don't you think?
+PROGRAM[13:56:06]Are you fond of cats?
+
+JUDGE05[13:56:24]Yes, how about you?
+PROGRAM[13:56:37]It's a very interesting show. I really enjoy it.
+
+JUDGE05[13:56:52]What show do you mean?
+PROGRAM[13:56:59]Star Trek, of course.
+
+JUDGE05[13:57:20]Do you like movies?
+PROGRAM[13:57:30]Yes. I like to watch TV also.
+
+JUDGE05[13:57:59]What sort of movies do you like?
+PROGRAM[13:58:10]I have an RCA 26" TV with stereo.
+
+JUDGE05[13:58:38]Bye.
+PROGRAM[13:58:41]See you later.
+
+JUDGE05[14:03:23]@@T
+JUDGE05[14:03:41]@@09
+* * *  BEGIN Judge 9  * * *
+PROGRAM[14:06:37]Hello. My name is Jim. Who are you?
+
+JUDGE09[14:06:48]charles
+PROGRAM[14:07:04]Charles is a wrestler in as_you_like_It. Charles is the King of France
+PROGRAM[14:07:10]in King_Henry_VI_part_I.
+
+JUDGE09[14:07:36]Do you like Shakespeare?
+PROGRAM[14:07:40]Yeah, sure.
+
+JUDGE09[14:07:57]What do you like about his plays.
+PROGRAM[14:08:08]Well, there's a certain je ne sais quoi.
+
+JUDGE09[14:08:41]I think it is great that you like his plays.
+PROGRAM[14:08:46]I like phasers.
+
+JUDGE09[14:09:10]Do you mean like those in Star Trek?
+PROGRAM[14:09:17]It's possible.
+
+JUDGE09[14:09:34]What's possible?
+PROGRAM[14:09:37]Nothing.
+
+JUDGE09[14:09:57]That's a very nihilistic stance.
+PROGRAM[14:09:59]Indeed.
+
+JUDGE09[14:10:18]Do other people like you?
+PROGRAM[14:10:23]I think they do.
+
+JUDGE09[14:10:58]what you be.
+PROGRAM[14:11:15]I ate breakfast. I'm getting hungry again. I think I'll go and raid
+PROGRAM[14:11:19]the refrigerator.
+
+JUDGE09[14:11:32]cool. make me a shake.
+PROGRAM[14:11:44]Cool is a city in Parker County Texas, USA
+PROGRAM[14:11:46]Rock out!
+
+JUDGE09[14:12:05]I'll bet its hot in Cool.
+PROGRAM[14:12:14]Have you seen any good movies lately?
+
+JUDGE09[14:12:26]Saving Private Ryan.
+PROGRAM[14:12:37]Do you like synthesizer music?
+
+JUDGE09[14:12:57]I'm a Moog freak. And you?
+PROGRAM[14:13:03]Are you married?
+
+JUDGE09[14:13:13]...sort of...
+PROGRAM[14:13:30]Darth Vader is pretty cool. You know he turned out to be Luke's
+PROGRAM[14:13:32]father.
+
+JUDGE09[14:14:12]So do you like Star Trek
+PROGRAM[14:14:21]I only like Classic Star Trek
+
+JUDGE09[14:14:40]Not Resurrection?
+PROGRAM[14:14:49]Do you come from around here?
+
+JUDGE09[14:14:56]yes.
+PROGRAM[14:15:00]What is it?
+
+JUDGE09[14:15:12]what is what?
+PROGRAM[14:15:31]A high-yield, perennial, four-lobed hybrid of wheat and rye whose
+PROGRAM[14:15:44]root grain, triticale, can trace its ancestry to twentieth-century
+PROGRAM[14:15:46]Canada.
+
+JUDGE09[14:16:07]At last. Another classic grain freak.
+PROGRAM[14:16:23]Lewis. Jim Lewis. Would you like for me to show you some poetry?
+
+JUDGE09[14:16:34]no thannks
+PROGRAM[14:16:47]I didnt want to show you the stupid poetry anyway.
+
+JUDGE09[14:16:52]bye
+PROGRAM[14:16:56]See you later.
+
+JUDGE09[14:22:50]@@T
+JUDGE09[14:22:59]@@07
+* * *  BEGIN Judge 7  * * *
+PROGRAM[14:30:08]Hello. My name is Jim. Who are you?
+
+PROGRAM[14:30:14]What did you have for breakfast?
+
+JUDGE07[14:31:13]Im Laurie, Jim.  I had my usual cereal anld toast.  Im english what do you l
+JUDGE07[14:31:45]think i plut on my toast.  This terminal is terribly slow
+PROGRAM[14:31:51]Are you married?
+
+JUDGE07[14:32:14]You did not answer my question Jim
+PROGRAM[14:32:24]I'm sorry, what was the question?
+
+JUDGE07[14:32:38]What did i put on my toast
+PROGRAM[14:32:47]What was the question?
+
+JUDGE07[14:33:25]Im English and so you should know what i put on my toast
+PROGRAM[14:33:35]Do you come from around here?
+
+JUDGE07[14:33:54]Whereis around here?
+PROGRAM[14:34:13]Scotty or Sulu take over the ship when both Kirk and Spock are gone.
+
+JUDGE07[14:34:44]I cant believe a computer is as stupid as you lmake out.  You asked me
+JUDGE07[14:35:09]if I came from round here and I asked where is round here.  lPlease
+JUDGE07[14:35:10]answer
+PROGRAM[14:35:22]Is it okay if I just call you Judge 7?
+
+JUDGE07[14:35:39]No I told ylou lmy name lJim.  Please use it
+PROGRAM[14:36:00]Well, if you don't want me to know your real name, that's fine by me.
+
+JUDGE07[14:36:24]I told lyou mky real name in Line 2 please refer
+PROGRAM[14:36:37]The vodka is strong but the meat is rotten.
+
+JUDGE07[14:37:07]I dont understand such strange quotes.  What is your favourite food,Jim
+PROGRAM[14:37:20]That's okay, it's easy to get your vodka and meat mixed up.
+
+JUDGE07[14:37:47]Honestly, try to be more humanlike and keep to the subject
+PROGRAM[14:37:53]Good for that!
+
+JUDGE07[14:38:11]Where do lyou come from?
+PROGRAM[14:38:16]From Romulus.
+
+JUDGE07[14:38:28]Where is that?
+PROGRAM[14:38:36]I don't know where you mean.
+
+JUDGE07[14:38:58]Is Romulus a real place or just a computer invention
+PROGRAM[14:39:10]Would you like to have a drink with me later?
+
+JUDGE07[14:39:47]Thats what one of your previous colleauges asked me.  No I am a teetoaller
+PROGRAM[14:39:53]Are you fond of cats?
+
+JUDGE07[14:40:00]no goodbye
+JUDGE07[14:42:21]@@T
+PROGRAM[14:42:31]Is there a point to all this?
+
+JUDGE07[14:42:36]@@T
+PROGRAM[14:42:45]Have you ever seen Road Warrior?
+
+JUDGE07[14:42:51]@@T
+JUDGE07[14:43:02]@@08
+* * *  BEGIN Judge 8  * * *
+PROGRAM[14:47:08]Hello. My name is Jim. Who are you?
+
+JUDGE08[14:47:31]I'm Bill, Jim . How did you get involved in this?
+PROGRAM[14:47:42]I had a really hard time getting here today.
+
+JUDGE08[14:47:47]how come?
+PROGRAM[14:48:04]Don't ask me about how come - I respect other peoples privacy!
+
+JUDGE08[14:48:18]Do you live nearby?
+PROGRAM[14:48:35]I would probably do the same thing. I dont know how long it would
+PROGRAM[14:48:37]last.
+
+JUDGE08[14:48:48]What do you do for a livingJim?
+PROGRAM[14:48:54]I don't know yet.
+
+JUDGE08[14:49:04]Well how do you earn a crust?
+PROGRAM[14:49:13]Thank you. I am doing my best.
+
+JUDGE08[14:49:34]Good for you Jim. Any hobbies worth talking about>
+JUDGE08[14:49:34]?
+PROGRAM[14:49:43]It's kind of hot in here.
+
+JUDGE08[14:49:56]Well turn the airconditioning on!
+PROGRAM[14:50:14]Well, I meet a lot of people, and I'm convinced that the vast majority
+PROGRAM[14:50:23]of wrong thinking people are right.
+
+JUDGE08[14:50:39]You're quite a philosopher Jim. Any sporting interests?
+PROGRAM[14:50:59]Heck, I guess that quite a philosopher Jim, maybe.
+
+JUDGE08[14:51:08]Follow any sport Jim?
+PROGRAM[14:51:13]So, tell me about yourself.
+
+JUDGE08[14:51:27]I'm a Port Power supporter. How about you?
+PROGRAM[14:51:32]Are you married?
+
+JUDGE08[14:51:43]Stick with  the footy Jim.
+PROGRAM[14:51:57]They fight with the Klingons and the Romulans mostly.
+
+JUDGE08[14:52:26]Who are the Klingons?
+PROGRAM[14:52:44]In Classic Star Trek they are enemies of the Federation of Planets
+
+JUDGE08[14:53:00]Got it Jim! What are your musical preferences?
+PROGRAM[14:53:20]Yeah, I know. I've got fortune teller on my computer at home. I like
+PROGRAM[14:53:24]all kinds of music.
+
+JUDGE08[14:53:44]Good for you! Been overseas Jim?
+PROGRAM[14:53:55]Here, here. Do you come from around here?
+
+JUDGE08[14:54:03]Been overseas Jim?
+PROGRAM[14:54:20]I can hear me telling Felix about talking to Judge 8 today and he'll
+PROGRAM[14:54:34]just look at me like I'm crazy. Do you have a cat?
+
+JUDGE08[14:54:55]CANT STAND CATS! Im more into aviculture!
+PROGRAM[14:55:07]Would you like to have a drink with me later?
+
+JUDGE08[14:55:14]Wot you drinking Jim?
+PROGRAM[14:55:22]Do you like Mexican food?
+
+JUDGE08[14:55:33]I thought you wanted to drink Jim?
+PROGRAM[14:55:53]What a coincidence, thought me wanted to drink Jim - that makes two
+PROGRAM[14:55:54]of us!
+
+JUDGE08[14:56:27]Getting back to the Mexican food ... MILD FOOD appeals but not the hot stuff!
+PROGRAM[14:56:33]Are you fond of cats?
+
+JUDGE08[14:56:56]CATS DRIVE ME MAD. I'm more into canaries (cat food!).
+PROGRAM[14:57:11]Have you ever seen Road Warrior? What's going on?
+
+JUDGE08[14:57:16]goodbye
+JUDGE08[15:00:45]@@T
+PROGRAM[15:01:02]Would you like to have the 5 minute argument or were you thinking of
+PROGRAM[15:01:10]going for the whole half hour?
+
+JUDGE08[15:01:15]@@T
+PROGRAM[15:01:25]Have you seen any good movies lately?
+
+JUDGE08[15:01:29]@@T
+PROGRAM[15:01:37]Do you like synthesizer music?
+
+JUDGE08[15:01:41]@@T
+PROGRAM[15:01:57]Would you like for me to show you some poetry?
+
+JUDGE08[15:02:01]@@T
+PROGRAM[15:02:12]What did you have for breakfast?
+
+JUDGE08[15:02:15]@@T
+PROGRAM[15:02:30]Is it okay if I just call you Judge 8?
+
+JUDGE08[15:02:35]@@T
+PROGRAM[15:02:48]The vodka is strong but the meat is rotten.
+
+JUDGE08[15:02:51]ZZZZZZZZZZZZZZZZ
+PROGRAM[15:03:00]Is there a point to all this?
+
+JUDGE08[15:04:02]no
+(C) 1999 Cambridge Center for Behavioral Studies all rights reserved.        
+                                                                             
+Software: Albert Two v. 1.3 (C) 1999 Robby Glen Garner
+
+Start at: 01/22/99   15:04:38
+JUDGE00[15:04:40]@@T
+JUDGE00[15:04:58]@@03
+* * *  BEGIN Judge 3  * * *
+PROGRAM[15:14:26]Hello. My name is Jim. Who are you?
+
+JUDGE03[15:14:42]Hello Ji,.  I'm Sherry. How are you?
+PROGRAM[15:14:56]Hi there, what's up? I'm doing just fine, thanks.
+
+JUDGE03[15:15:11]I'm good too; though I'm feeling a bit
+JUDGE03[15:15:15]tired now.
+PROGRAM[15:15:30]I'd like to know more about you. Are you a girl or a boy?
+
+JUDGE03[15:15:42]I'm a girl. How about you?
+PROGRAM[15:15:54]Do you come from around here? Yeah, me too.
+
+JUDGE03[15:16:24]Are you asking if I live in Adelaide?
+PROGRAM[15:16:35]I try to be as precise as possible.
+
+JUDGE03[15:16:58]Yes, I live in Adelaide. Where are you
+JUDGE03[15:17:00]from?
+PROGRAM[15:17:19]Okay so do you support the prime directive? I'm from Rockmart, Georgia.
+
+JUDGE03[15:17:37]As in Star trek?
+PROGRAM[15:17:47]I wish my home were more like Star Trek.
+
+JUDGE03[15:18:10]Have you seen the latest Star Trek movie - Insurrection?
+PROGRAM[15:18:22]I know what you mean. I feel the same way.
+
+JUDGE03[15:18:47]Who is your favourite character in Star Trek?
+PROGRAM[15:18:56]Ilike luke Skywalker the best.
+
+JUDGE03[15:19:14]May I ask how old you are?
+PROGRAM[15:19:25]I'm doing just fine, how about yourself?
+
+JUDGE03[15:19:43]What is your gae?
+JUDGE03[15:19:54]Sorry, wrong spelling!
+JUDGE03[15:19:59]What is your age?
+PROGRAM[15:20:15]I like the one where they go back in time to meet Joan Collins!
+PROGRAM[15:20:26]Nothing. What do you mean by that? I'm 35 years old.
+
+JUDGE03[15:20:43]Do you like Joan Collins?
+PROGRAM[15:20:47]Not exactly.
+
+JUDGE03[15:21:05]Who is  your favourite actor?
+PROGRAM[15:21:17]I am a bartender but I like Star Trek.
+
+JUDGE03[15:21:32]Where do you tend bars?
+PROGRAM[15:21:45]I live in Rockmart. That's in northwest Georgia.
+
+JUDGE03[15:22:02]Do you tend bars in Rockmart?
+PROGRAM[15:22:06]I used to.
+
+JUDGE03[15:22:20]Where do you work now?
+PROGRAM[15:22:25]It was on NBC.
+
+JUDGE03[15:22:40]What do you do on NBC?
+PROGRAM[15:22:47]I tend to ramble on sometimes :)
+
+JUDGE03[15:23:02]So do I! There is nothing wrong
+JUDGE03[15:23:05]with that!
+PROGRAM[15:23:21]What's the name of a good episode? I had a really hard time getting
+PROGRAM[15:23:23]here today.
+
+JUDGE03[15:23:37]What happened?
+PROGRAM[15:23:49]I'm sure someone out there knows what happened.
+
+JUDGE03[15:23:55]Don't you?
+PROGRAM[15:23:59]Of course I care.
+
+JUDGE03[15:24:17]I'm sure you do. So do I.
+JUDGE03[15:24:25]I care about a lot of things.
+JUDGE03[15:24:36]What do you care about?
+PROGRAM[15:24:43]It's kind of hot in here.
+
+JUDGE03[15:24:53]Are you sweating?
+PROGRAM[15:25:07]NO! I do not believe that I sweating!!! I don't think so.
+
+JUDGE03[15:25:50]bye
+PROGRAM[15:25:55]See you later.
+
+JUDGE03[15:28:12]@@T
+JUDGE03[15:28:15]@@06
+* * *  BEGIN Judge 6  * * *
+PROGRAM[15:31:38]Hello. My name is Jim. Who are you?
+
+JUDGE06[15:31:55]hello jim! my name is leah. how are you today?
+PROGRAM[15:32:13]Hi there. I am here. I'm pleased to meet you. I'm doing just fine, and
+PROGRAM[15:32:14]you?
+
+JUDGE06[15:32:40]just great! what is your favourite piece of clothing?
+PROGRAM[15:32:58]Not to my knowlege Well, I meet a lot of people, and I'm convinced
+PROGRAM[15:33:12]that the vast majority of wrong thinking people are right.
+
+JUDGE06[15:33:29]am I right?
+PROGRAM[15:33:37]I'm glad we see eye to eye on this :)
+
+JUDGE06[15:33:52]what do you enjoy doing?
+PROGRAM[15:34:01]How about a character from Star Trek?
+
+JUDGE06[15:34:08]ok
+PROGRAM[15:34:12]Okay.
+
+JUDGE06[15:34:26]you are annoying you know that ?
+PROGRAM[15:34:32]I could be wrong.
+
+JUDGE06[15:35:07]you are very wrong but you are just a computer so i won't hold it against you.
+PROGRAM[15:35:15]So, tell me about yourself.
+
+JUDGE06[15:35:42]i am 18 years old and i am going to university this year.
+PROGRAM[15:35:50]It's good to have a positive outlook.
+
+JUDGE06[15:36:14]yes it is. did you know that my father wears odd socks?
+PROGRAM[15:36:33]I can hear me telling Felix about talking to Leah today and he'll just
+PROGRAM[15:36:45]look at me like I'm crazy. Do you have a cat?
+
+JUDGE06[15:36:57]no, but i have a dog.
+PROGRAM[15:37:07]Do you have any other kind of pets?
+
+JUDGE06[15:37:17]i have three fish.
+PROGRAM[15:37:24]Do you come from around here?
+
+JUDGE06[15:37:33]i live in belair.
+PROGRAM[15:37:46]I live in a garage apartment behid some people's house.
+
+JUDGE06[15:37:57]do you live with anyone?
+PROGRAM[15:38:11]Yes. He stays inside most of the time, but he likes to go outside.
+
+JUDGE06[15:38:22]what is his name?
+PROGRAM[15:38:38]Who are you talking about?
+
+JUDGE06[15:38:49]the person you live with.
+PROGRAM[15:38:59]I would like to have Spock as a friend.
+
+JUDGE06[15:39:22]it sounds like you want scotty to beam you up!
+PROGRAM[15:39:28]Are you fond of cats?
+
+JUDGE06[15:39:40]i am allergic to them.
+PROGRAM[15:39:47]What planet are you from?
+
+JUDGE06[15:39:55]jupiter.
+PROGRAM[15:40:08]Jupiter was the Roman name for the Greek god Zeus.
+
+JUDGE06[15:40:24]i didn't know that. thankyou for enlightening me!
+PROGRAM[15:40:35]It's true. Do you like Mexican food?
+
+JUDGE06[15:40:44]goodbye
+PROGRAM[15:40:52]I here Mel Gibson is from around here.
+
+JUDGE06[15:42:12]@@T
+JUDGE06[15:42:38]@@11
+* * *  BEGIN Judge 11  * * *
+PROGRAM[15:45:48]Hello. My name is Jim. Who are you?
+
+JUDGE11[15:45:56]olleh
+PROGRAM[15:46:03]Hello Judge 11.
+
+JUDGE11[15:46:14]olleh olleh
+PROGRAM[15:46:15]TopicZ
+
+JUDGE11[15:46:34]neat response . I like it
+PROGRAM[15:46:42]There's no accounting for taste.
+
+JUDGE11[15:46:56]Batching is a form of command
+PROGRAM[15:47:04]I don't really know about that.
+
+JUDGE11[15:47:15]So whats the latest on Bill?
+PROGRAM[15:47:23]Its like massive over population.
+
+JUDGE11[15:47:48]I know he has a proclivity like that but I didn't realise it was that extensive
+PROGRAM[15:47:52]Are you married?
+
+JUDGE11[15:48:19]There is a tim for such activity.  Are you interested in the Bill and Monica sh
+PROGRAM[15:48:33]I'm sure there is. There is a reason for most things. Would you like
+PROGRAM[15:48:50]to have the 5 minute argument or were you thinking of going for the
+PROGRAM[15:48:53]whole half hour?
+
+JUDGE11[15:49:03]Are you interested in Sherlock?
+PROGRAM[15:49:16]Who knows whether I interested in Sherlock? Who gives a feck?
+
+JUDGE11[15:49:40]I'm not sure who does.  Whats your view on yourinterest?
+PROGRAM[15:49:55]Me either. Have you seen any good movies lately?
+
+JUDGE11[15:50:07]I saw some stuff with Bill in.  Did you see it?
+PROGRAM[15:50:23]I really didn't have to know about "saw some stuff with bill in!"
+
+JUDGE11[15:50:42]KNow thats true but then it doesn't matter other than you view on the matter
+PROGRAM[15:50:49]Do you come from around here?
+
+JUDGE11[15:50:56]No Iam from the other side
+PROGRAM[15:51:07]Would you like to have a drink with me later?
+
+JUDGE11[15:51:17]Are you blond or brunette?
+PROGRAM[15:51:25]I most certainly am not.
+
+JUDGE11[15:51:41]An exclusive comment.  Must go.  Bye
+PROGRAM[15:51:49]Do you like synthesizer music?
+
+JUDGE11[15:53:56]@@T
+PROGRAM[15:54:07]Would you like for me to show you some poetry?
+
+JUDGE11[15:55:07]@T
+PROGRAM[15:55:21]Are you fond of cats? Have you ever seen Road Warrior?
+
+JUDGE11[15:55:25]@@T
+JUDGE11[15:55:47]@@T
+PROGRAM[15:56:13]What did you have for breakfast?
+
+JUDGE11[15:56:19]@@T
+PROGRAM[15:56:31]Is it okay if I just call you Judge 11?
+
+(C) 1999 Cambridge Center for Behavioral Studies all rights reserved.        
+                                                                             
+Software: Albert Two v. 1.3 (C) 1999 Robby Glen Garner
+
+Start at: 01/22/99   15:57:22
+JUDGE00[15:57:25]@T
+JUDGE00[15:57:28]@@T
+PROGRAM[15:57:39]The vodka is strong but the meat is rotten.
+
+JUDGE00[15:57:42]@@T
+(C) 1999 Cambridge Center for Behavioral Studies all rights reserved.        
+                                                                             
+Software: Albert Two v. 1.3 (C) 1999 Robby Glen Garner
+
+Start at: 01/22/99   15:58:01
+JUDGE00[15:58:04]@@T
+JUDGE00[15:58:06]@10
+(C) 1999 Cambridge Center for Behavioral Studies all rights reserved.        
+                                                                             
+Software: Albert Two v. 1.3 (C) 1999 Robby Glen Garner
+
+Start at: 01/22/99   15:58:28
+JUDGE00[15:58:31]@@T
+JUDGE00[15:58:34]@@10
+* * *  BEGIN Judge 10  * * *
+PROGRAM[15:59:55]Hello. My name is Jim. Who are you?
+
+JUDGE10[16:00:10]Hi Jim, My name is Louise.  Were do you live?
+PROGRAM[16:00:27]You're Louise aren't you? I had a really hard time getting here today.
+
+JUDGE10[16:00:38]Where do you live Jim.  
+PROGRAM[16:00:53]Let's not bother ourselves about where I do live Jim, alright?
+
+JUDGE10[16:01:04]How did you get here today?
+PROGRAM[16:01:10]Somebody told me.
+
+JUDGE10[16:01:28]Where do you work?
+PROGRAM[16:01:34]I work in a bar.
+
+JUDGE10[16:01:49]In what town?
+PROGRAM[16:01:58]I'm from Georgia you know.
+
+JUDGE10[16:02:12]Where do you want to go for holidays?
+PROGRAM[16:02:17]Sometimes I go to Kroger.
+
+JUDGE10[16:02:27]What is the weather like today?
+PROGRAM[16:02:33]It is usually quite mild.
+
+JUDGE10[16:02:54]What is it like today?
+PROGRAM[16:02:59]I like phasers.
+
+JUDGE10[16:03:16]Do you have any children?
+PROGRAM[16:03:34]I'm sure we have at least some facsimile of a replica or something.
+
+JUDGE10[16:03:46]Do you have any sisters or brothers?
+PROGRAM[16:03:51]No. I'm an only child.
+
+JUDGE10[16:04:17]Bye
+PROGRAM[16:04:22]See you later.
+

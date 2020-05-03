@@ -1,0 +1,11 @@
+digraph thread_3 {
+thread [label="Botson",URL="Index.html?perform=ClassSubView&sub_class=2",shape=diamond];
+thread -> enter;
+enter [label="About HAL",URL="Index.html?perform=ScriptSubView&sub_script=3",shape=box];
+rule_8[label="HALone is our pride and joy. He is ou...",color=yellow,style=filled,URL="Index.html?perform=RuleSubView&sub_rule=8"];
+enter -> rule_8 [label="tell me about HAL"];
+rule_8 -> rule_9 [label="yes i think so too"];
+rule_8 -> rule_10 [label="negative"];
+rule_9[label="(silence)",color=black,URL="Index.html?perform=RuleSubView&sub_rule=9"];
+rule_10[label="(silence)",color=red,URL="Index.html?perform=RuleSubView&sub_rule=10"];
+}

@@ -1,0 +1,7 @@
+digraph G
+{
+	main -> parse;
+	main -> init [label="this is a test"];
+	init [shape=box,label="Initialise",URL="xxx"];
+	parse [shape=ellipse,label="Parse"];
+}

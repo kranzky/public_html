@@ -1,0 +1,47 @@
+(1)
+"news"
+{
+	response =  "There are plenty of things going on at Ai. Why not read all about them on our Newsroom page #CONTENT_LOCATION#?";
+	response += "<ACTION>url:#NEWS_PAGE#</ACTION>";
+	changecontext("default");
+}
+[]
+-1
+
+(1)
+"press"
+{
+	response =  "There are lots of things going on at Ai. Why not read all about them on our Newsroom page #CONTENT_LOCATION#?";
+	response += "<ACTION>url:#NEWS_PAGE#</ACTION>";
+	changecontext("default");
+}
+[]
+-1
+
+(1)
+"media"
+{
+	response =  "The press doesn't know much about us as yet and we'd like to keep it that way for the time being. You can check #CONTENT_LOCATION# to see what they have to say about our Chief Scientist.";
+	response += "<ACTION>url:#MEDIA_PAGE#</ACTION>";
+	changecontext("default");
+}
+[]
+-1
+
+(1)
+""
+{
+	changecontext("default");
+	throw(input);
+}
+[]
+-999
+
+(1)
+""
+{
+	changecontext("default");
+	throw(input);
+}
+[]
+-999

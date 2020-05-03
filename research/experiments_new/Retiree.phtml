@@ -1,0 +1,55 @@
+<? Include("Retired.phtml"); >
+
+<H2>Special Bonus Reward Story</H2>
+
+All retired experimental subjects are given access to a special bonus story
+as a way of saying thank-you for participating.  You can
+<A HREF="Retire_Show_Reward.phtml">read the entire story</A>, or you can
+<A HREF="Retire_Reward.phtml">add a word to it</A>.  When adding a word, you
+will be shown only the previous twenty words, and you will be unable to
+add another word until at least one other user adds a word.
+
+<H2>Story Results</H2>
+
+You can examine the results of the story experiment by clicking on the
+individual stories below.
+The number in the square brackets indicates the number of words in each
+story.
+These stories will continue to grow
+as more and more users add words to them:
+<P>
+<CENTER>
+<TABLE BORDER=1 CELLPADDING=4 CELLSPACING=0>
+<TR>
+<TD></TD>
+<TD ALIGN="MIDDLE"><B>Murder</B></TD>
+<TD ALIGN="MIDDLE"><B>Romance</B></TD>
+<TD ALIGN="MIDDLE"><B>Freeform</B></TD>
+</TR>
+<?
+$genre[]="Murder";
+$genre[]="Romance";
+$genre[]="Freeform";
+$order[]="1";
+$order[]="2";$order[]="3";
+$order[]="4";$order[]="5";
+$order[]="7";
+$order[]="10";
+$order[]="15";
+$i=0;
+while($i<Count($order));
+   echo "<TR>";
+   echo "<TD><B>Order $order[$i]</B></TD>";
+   $j=0;
+   while($j<Count($genre));
+      $name=Story_Length($genre[$j], $order[$i]);
+      echo "<TD><A HREF=\"Retire_Show_Story.phtml?genre=$genre[$j]&order=$order[$i]\">$name</A></TD>";
+      $j++;
+   endwhile;
+   $i++;
+   echo "</TR>";endwhile;
+>
+</TABLE>
+</CENTER>
+
+<? Include("Footer.phtml"); >

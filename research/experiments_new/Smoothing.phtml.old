@@ -1,0 +1,240 @@
+<? Include("Verify.phtml"); >
+<? Include("Functions.phtml"); >
+<? $title = "Smoothing Experiment"; >
+<? Include("Header.phtml"); >
+
+<?
+	Function Increment
+	(
+		  Global $s_user, $smooth, $num_smooth;
+
+		  $smooth+=1;
+		  $result=msql("hutch", "UPDATE user_info SET smooth=$smooth WHERE user=$s_user");
+		  if($smooth==$num_smooth);
+			$result=msql("hutch", "SELECT eligible FROM user_info WHERE user = $s_user");	
+			$eligible=msql_result($result, 0, "eligible");
+			$eligible+=1;
+		  $result=msql("hutch", "UPDATE user_info SET eligible=$eligible WHERE user=$s_user");
+		  endif;
+	);
+
+  Function Finish_Experiment
+  (
+	  GLOBAL $smooth;
+
+     echo "<H2>Experiment Finished!</H2>";
+     echo "You have completed this smoothing experiment.  Thank-you ";
+     echo "very much for taking the time to do so.  To continue with ";
+     echo "the experiments, please return to the ";
+     echo "<A HREF=\"Experiment_List.phtml\">experiment list</A>.";
+><H2>Feedback</H2>I would appreciate it if you took the time to comment on this experiment.
+In particular, I would like to know the following:
+<UL>
+<LI>What do you think of your performance?</LI>
+<LI>How did you make the guesses?  What was going on in your mind?</LI>
+<LI>How could this experiment be improved?</LI>
+</UL> 
+Feedback of any kind is valued.  Comments, critiscisms and suggestions on
+how this experiment may be improved are welcome.
+<FORM METHOD=POST ACTION="Comment.phtml">
+<CENTER><TABLE BORDER=0 CELLSPACING=0 CELLPADDING=4 WIDTH="90%"><TR><TD BGCOLOR="EEEEBB" ALIGN="MIDDLE"><TEXTAREA NAME=message ROWS=10 COLS=40></TEXTAREA></TD></TR></TABLE><INPUT TYPE=submit value="Register Comment">
+<INPUT TYPE=hidden NAME=e_title VALUE="Feedback for Smoothing Experiment <? echo $smooth; >">
+</CENTER>
+</FORM>
+<?
+     Include("Footer.phtml");
+     Exit;
+  );
+>
+
+<?
+	msql_connect("localhost");
+
+	$result=msql("hutch", "SELECT smooth FROM user_info WHERE user = $s_user");
+	$smooth=msql_result($result, 0, "smooth");
+
+   if($surprise!="");
+      $surprise=intval($surprise);
+      $result=msql("hutch", "UPDATE smooth SET surprise=$surprise WHERE user=$s_user AND experiment=$lastexp");
+		Finish_Experiment();
+   endif;
+
+	$result=msql("hutch", "SELECT val FROM global WHERE name='num_smooth'");
+	$num_smooth=msql_result($result, 0, "val");
+	if($smooth>=$num_smooth);
+		echo "<H2>Smoothing experiments completed</H2>";
+		echo "You have completed all of the smoothing experiments.  ";
+		echo "Thank-you very much!";
+		Include("Footer.phtml");
+		Exit;
+	endif;
+
+	$result=msql("hutch", "SELECT before, after FROM smooth_data WHERE experiment=$smooth");
+	$before=msql_result($result, 0, "before");
+	$after=msql_result($result, 0, "after");
+
+   /*
+    *    If they've submitted a guess clean it up and make sure it's not null
+    */
+   if($guess!="");
+
+      $guess=Clean_Word($guess);
+      if($guess=="");
+         echo "<H2>Empty Word</H2>";
+         echo "The word you entered for your guess was empty.  Please ";
+         echo "try again.";
+      else;
+			$guess=strtoupper($guess);
+         $guess=Filter_Word($guess);
+         if($guess=="");
+            echo "<H2>Multiple Words</H2>";
+            echo "You entered more than one word.  Please try again.";
+         endif;
+      endif;
+
+   endif;
+
+   /*
+    *    If it's not empty, see whether they've guessed it before.
+    */
+   if($guess!="");
+
+      $result=msql("hutch", "SELECT guess FROM smooth_info WHERE user=$s_user AND experiment=$smooth AND word='$guess'");
+      $num=msql_numrows($result);
+      if($num!=0);
+         echo "<H2>Same Guess</H2>";
+         echo "You have already guessed that word.  Please try again.";
+         $guess="";
+      endif;
+
+   endif;
+
+   /*
+    *    Find out how many guesses they've had
+    */
+   $result=msql("hutch", "SELECT guesses FROM smooth WHERE user=$s_user AND experiment=$smooth");
+   $num=msql_numrows($result);
+   if($num==0);
+      $result=msql("hutch", "INSERT INTO smooth VALUES ($s_user, $smooth, 0, 0, 0)");
+      $guesses=0;
+   else;
+      $guesses=msql_result($result, 0, "guesses");
+   endif;
+
+   /*
+    *    If they haven't, find out the number of guesses they've had,
+    *    insert their guess, and see whether it was correct
+    */
+   if($guess!="");
+      $result=msql("hutch", "INSERT INTO smooth_info VALUES ($s_user, $smooth, $guesses, '$guess')");
+      $guesses+=1;
+      $result=msql("hutch", "UPDATE smooth SET guesses=$guesses WHERE user=$s_user AND experiment=$smooth");
+
+      $result=msql("hutch", "SELECT word FROM smooth_data WHERE experiment=$smooth");
+      $word=msql_result($result, 0, "word");
+      $original=$word;
+      $word=Clean_Word($word);
+		$word=strtoupper($word);
+      $word=Filter_Word($word);
+      if($guess==$word);
+         echo "<H2>You guessed correctly!</H2>";
+         echo "Well done, you guessed the word correctly in only ";
+         echo "$guesses attempt(s)!";
+			Increment();
+			Finish_Experiment();
+      else;
+         echo "<H2>No, that's not it...</H2>";
+         echo "Your guess is not correct.  Please try again.";
+      endif;
+
+   endif;
+
+   if(($giveup=="Y")&&($guesses>=10));
+      echo "<H2>You gave up!</H2><P>";
+      $lastexp=$smooth;
+      $result=msql("hutch", "UPDATE smooth SET giveup=1 WHERE user=$s_user AND experiment=$smooth");
+      $result=msql("hutch", "SELECT word FROM smooth_data WHERE experiment=$smooth");
+      $word=msql_result($result, 0, "word");
+      echo "The word was \"<B>$word</B>\"!<P>";
+      echo "The sequence therefore reads <I>$before</I> <B>$word</B> <I>$after</I> ";
+      echo "Make a selection from the menu below which best describes your ";
+      echo "surprise at finding this out:";
+		Increment();
+>
+<P>
+<CENTER>
+<TABLE WIDTH="90%" CELLPADDING=0 CELLSPACING=0>
+<TR><TD>
+<FORM METHOD=POST ACTION="Smoothing.phtml">
+<SELECT NAME=surprise>
+<OPTION VALUE="1">I'm not surprised at all</OPTION>
+<OPTION VALUE="2">I should have guessed it sooner</OPTION>
+<OPTION VALUE="3">It's a difficult word to guess</OPTION>
+<OPTION VALUE="4">That word was quite unexpected</OPTION>
+<OPTION VALUE="5">I wouldn't have guessed it in a million years</OPTION>
+</SELECT>
+<INPUT TYPE=hidden NAME=lastexp VALUE="<? echo $lastexp; >">
+<INPUT TYPE=submit VALUE="Submit">
+</FORM>
+</TD></TR>
+</TABLE>
+</CENTER>
+<?
+      Include("Footer.phtml");
+      Exit;
+   endif;
+
+   /*
+    *    Finally, we're ready to ask for the guess!
+    */
+>
+
+<H2>Smoothing experiment <? echo 1+$smooth; > of <? echo $num_smooth; ></H2>
+
+Here is the sentence:
+
+<P>
+<CENTER>
+<TABLE WIDTH="90%" CELLPADDING=0 CELLSPACING=0>
+<TR><TD>
+<FORM METHOD=POST ACTION="Smoothing.phtml">
+<BIG><? echo $before; ></BIG>
+<INPUT SIZE=15 NAME=guess>
+<BIG><? echo $after; ></BIG>
+</FORM>
+</TD></TR>
+</TABLE>
+</CENTER>
+
+After reading this sentence, please enter your guess at the missing word into
+the text box above.
+Once you have had at least ten guesses, you will be given the option
+of giving up, and finding out what the word actually is.
+
+<?
+   if($guesses>=10);
+>
+<FORM METHOD=POST ACTION="Smoothing.phtml">
+<INPUT TYPE=hidden NAME=giveup VALUE="Y">
+<INPUT TYPE=submit VALUE="I give up!  Tell me the word!">
+</FORM>
+<?
+   endif;
+>
+
+<?
+   if($guesses>0);
+      echo "For your reference, these are the guesses you've had so far:";
+      echo "<OL>";
+      $i=0;
+      $result=msql("hutch", "SELECT word FROM smooth_info WHERE user=$s_user AND experiment=$smooth");
+      while($i<$guesses);
+         $word=msql_result($result, $i, "word");
+         echo "<LI>$word</LI>";
+         $i+=1;
+      endwhile;
+      echo "</OL>";
+   endif;
+>
+
+<? Include("Footer.phtml"); >

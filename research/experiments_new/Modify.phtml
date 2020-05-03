@@ -1,0 +1,40 @@
+<? Include("Verify.phtml"); >
+<? Include("Functions.phtml"); >
+<? $title = "Modify your Details"; >
+<? Include("Header.phtml"); >
+
+<?
+   msql_connect("localhost");
+
+	if(IsSet($e_name));
+		$result=msql("hutch", "UPDATE user_info SET name='$e_name',list='$e_list' WHERE user=$s_user");
+		echo "<H2>Details Updated</H2>";
+		echo "Your details have been modified.  You may return to the ";
+		echo "<A HREF=\"Experiment_List.phtml\">experiment list</A> now.";
+	endif;
+
+	$result=msql("hutch", "SELECT name,list FROM user_info WHERE user = $s_user");
+   $name = msql_result($result, 0, "name");
+   $list = msql_result($result, 0, "list");
+>
+
+<H2>Modify User</H2>
+
+<FORM METHOD=POST ACTION="Modify.phtml">
+<CENTER>
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=4>
+
+<TR><TD BGCOLOR="EEEEBB">Name:</TD><TD BGCOLOR="EEEEBB"><INPUT SIZE=30 NAME=e_name VALUE="<? echo $name; >"></TD></TR>
+
+<TR><TD BGCOLOR="EEEEBB">Would you like to be kept up-to-date with occasional emails?</TD><TD BGCOLOR="EEEEBB">
+<INPUT SIZE=40 NAME=e_list TYPE=radio VALUE="Y" <? if($list=="Y"); echo "CHECKED"; endif; >>Yes</INPUT>
+<INPUT SIZE=40 NAME=e_list TYPE=radio VALUE="N" <? if($list=="N"); echo "CHECKED"; endif; >>No</INPUT>
+</TD></TR>
+
+</TABLE>
+<P>
+<INPUT TYPE=submit value="Modify Your Details">
+</CENTER>
+</FORM>
+
+<? Include("Footer.phtml"); >

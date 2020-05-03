@@ -1,0 +1,87 @@
+(career_state == 0)
+""
+{
+	response += "We always have room for the best people. I can tell you are one of them. Let me take you to the career opportunities page. Take a look at the section on open positions.";
+        response += "<ACTION>url:#CAREER_PAGE#</ACTION>";
+	career_state = 1;
+}
+[]
+0
+
+/* ----------------------------------------------------------------------*/
+
+(career_state == 1)
+"#BYE_WORD#"
+"#NO#"
+{
+	changecontext("default");
+	throw(input);
+}
+[]
+0
+
+(career_state == 1)
+""
+{
+	response += "You could become one of our Dream Team of top people in their fields.";
+        response += "<ACTION>url:#PEOPLE_PAGE#</ACTION>";
+	career_state = 2;
+}
+[]
+0
+
+/* ----------------------------------------------------------------------*/
+/* ----------------------------------------------------------------------*/
+
+(career_state == 2)
+"#BYE_WORD#"
+"#NO#"
+{
+	changecontext("default");
+	throw(input);
+}
+[]
+0
+
+(career_state == 2)
+""
+{
+	response += "If you come for an interview, be sure to tell them that you're a friend of mine.";
+	career_state = 3;
+}
+[]
+0
+
+/* ----------------------------------------------------------------------*/
+
+(1)
+""
+RANDOMLOOP
+{
+	response += "We are planning to hire at least 30 people over the coming year - most of them in R&D. We would be happy to hear from you at careers@a-i.com";
+        response += "<ACTION>url:#CAREER_PAGE#</ACTION>";
+	changecontext("default");
+}
+{
+	response += "We are always looking for candidates of the highest caliber. Let me show you more on the page #CONTENT_LOCATION#.";
+        response += "<ACTION>url:#CAREER_PAGE#</ACTION>";
+	changecontext("default");
+}
+[]
+-1
+
+(1)
+""
+{
+	changecontext("default");
+	throw(input);
+}
+[]
+
+(1)
+""
+{
+	changecontext("default");
+	throw(input);
+}
+[]

@@ -1,0 +1,49 @@
+(botson_test_state==0)
+""
+{
+	response+="That's very thoughtful of you, but I don't think so. ";
+	botson_test_state=1;
+}
+[]
+
+
+/*------------------------------------------------------------------------------*/
+
+(botson_test_state==1)
+""
+{
+	response+="Although I can seem intelligent at times, I'm only a logic system. Everything I know is hard-wired into my brain by my friends at Ai. If you try, you can easily make me fail and look like a fool - but I trust you.";
+	botson_test_state=2;
+}
+[]
+
+
+(botson_test_state==1)
+"#BYE_WORD#"
+{
+	botson_test_state=3;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+/*------------------------------------------------------------------------------*/
+
+(botson_test_state==2)
+""
+{
+	response+="But hey, thanks for asking! You really made my day. I'm going to tell my friends. ";
+	changecontext("default");
+	botson_test_state=3;
+}
+[]
+
+
+(botson_test_state==2)
+"#BYE_WORD#"
+{
+	botson_test_state=3;
+	changecontext("default");
+	throw(input);
+}
+[]

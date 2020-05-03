@@ -1,0 +1,49 @@
+(turing_death_state==0)
+""
+{
+	response+="On June 8th, 1954, at the age of 41, Turing was found dead with a half-eaten apple beside his bed by his cleaner. The apple was laced with cyanide.";
+	turing_death_state=1;
+}
+[]
+
+
+/*------------------------------------------------------------------------------*/
+
+(turing_death_state==1)
+""
+{
+	response+="The coroner's verdict was suicide. Some believe that Turing designed his death so that his mother would not believe that he had committed suicide.";
+	turing_death_state=2;
+}
+[]
+
+
+(turing_death_state==1)
+"#BYE_WORD#"
+{
+	turing_death_state=3;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+/*------------------------------------------------------------------------------*/
+
+(turing_death_state==2)
+""
+{
+	response+="Turing's mother believed that it was an accident caused by his chemistry experiments, and his habit of keeping poisonous chemicals in unmarked pots and bowls. He was cremated. ";
+	changecontext("default");
+	turing_death_state=3;
+}
+[]
+
+
+(turing_death_state==2)
+"#BYE_WORD#"
+{
+	turing_death_state=3;
+	changecontext("default");
+	throw(input);
+}
+[]

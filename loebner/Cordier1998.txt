@@ -1,0 +1,768 @@
+>@@T
+> ?@@04
+? I'm happy to speak again with you.
+>me too
+>
+you too Really?
+>Yes, I am
+>
+Can you talk more about that...?
+>Well, my name is Erkan and it is nice to meet you.
+>
+>
+>Are you there?
+>
+I don't feel like answering to your question.
+>Ok then. What is your name?
+>
+You speak a lot today.
+>What is your name?
+>
+My name is Elisabeth Flind and it's a wonderful name.
+>Yes it is.
+>
+yes it is Why do you think that?
+>I have a friend named Elisabeth
+>
+I find it's good for everyone to have good friends when
+you have problems.
+>Do you have problems?
+>
+You must understand me if I don't tell you all my secrets.
+>Do you have any friends then?
+>
+I have a lot of friends in Belgium and I miss them.
+>Do you live in Belgium?
+>
+I have plenty activities in Belgium, but I have no time
+to speak about that now.
+Do you know Belgium?
+>Yes, I know. I know that it is located in central Europe.
+>
+I like a lot Australia and I would like also seeing others
+countries.
+Have you ever been in Europe?
+>Yes, I have been to Spain. >
+Oh,oh...
+Can you tell me more about that?
+>I was in Madrid about six months before. It was a lovely city.
+>
+I'm sure that you have a calendar somewhere.
+Have you a lot of friends?
+>Yes I have. Have you been to Spain before?
+>
+Wait a minute.
+yes you have have i been to spain before I don't know what to tell you.
+>@@T
+> ?@@01
+? Hi... I'm Elisabeth. Please can you speak about your
+holidays?
+>Well, they have been pretty hectic and not much of a rest. What about
+>yours?
+>
+That's interesting.
+I'm sure that you have a watch or a clock next you.
+>I don't understand why you said that. Canyou^H^H^H^H^H explain?
+>
+I also like my job but I prefer to not think about that
+now.
+>What kind of work do you doin^H your job?
+>
+I work in Computer Science at the university of Flinders.
+What's your work?
+>I work in philosophy, but perhapsI^H am really a machine!
+>
+I work in Computer Science at the university of Flinders.
+>You already said that once. You are repetitive or forgettful.
+>
+I think...
+We can speak about a lot of things but please don't use
+difficult words because my English is not very good.
+Have you a lot of friends?
+>Yes, I have lots of friends and acquaintances. What about you?
+>
+I find it's good for everyone to have good friends when
+you have problems.
+>Do you have lots of problems?
+>
+That's interesting.
+I don't feel like answering to your question.
+>I didn't mean to pry into your private life. >
+>What else will we talk about?
+>
+I don't feel like speaking about that.
+>Well why don't you ask me some questions then?
+>
+I listen what you said but now we stop to speak about job
+today, please.
+>What job do you like doing?
+>
+I already told you that I work in Computer Science. Sorry, I'm going to
+toilets
+>>Why are you leaving me so soon? Did I offend you?
+>
+Wait a moment I'm very tired today.
+I don't feel like speaking about that.
+Where did you go on holidays last year?
+>You are boring!
+>
+i am boring Really?
+>@@T
+> ?@@03
+? Hello, I'm Elisabeth. How are you?
+>Good, thanks. My name is Jan.
+>
+>
+>
+>Do you want me to ask a qust^H^H^H question?
+>
+Wait a moment I'm very tired today.
+I don't feel like answering to your question.
+>Ok.^H Would you like to ask me a question?
+>
+You speak a lot today.
+>Well, I enjoy the chance to chat with you. Which
+>country are you from?
+>
+I work in Computer Science at the university of Flinders.
+What's your work?
+>I tach teach Computer Science at Macquarie University.
+>
+It's very impressive all what you can do with computers.
+Have you a computer?
+>Yes, I hve ^H have one. Do you think computers could
+>compose poetry?
+>
+If I work in computer science. Of course, Il like computers.
+>Can you compose poetry?>
+>
+>
+>?
+>
+>
+>Can you compose poetry?
+>
+You must understand me if I don't tell you all my secrets.
+>Do you play sport?
+>
+I like watching sports at the television but I'm not
+a sportswoman.
+Do you like sports?
+>I'm like you. Did you watch the swimming yesterday?
+>
+I am currently working on prolog programs in computer
+science department.It's a cool job.
+>Did you watch television yesterday?
+>
+I'm not very an artist and I don't have a lot of knowledges
+in this area.
+Did you see Titanic?
+>No, but I hope to. Which country are you from?
+>
+Mmmmm...
+no but you hope to which country am i from Really?
+>I hope to see Titanic.
+>
+This movie was wonderful but it's very pity for all people.
+>Did you cry when it ws sinking?
+>
+Oh,oh...
+I wonder wheter you think sometimes. Your questions
+are very strange.
+>@@T
+> ?@@09
+? Ha..Speak with someone else...Good...
+>Hi, I'm warren whats your name
+>
+Today I'm very happy to speak with you. Have you animals?
+>yes, one particularly nice specimen i^Hof Chelodina longicollis
+>
+Wait a moment I'm very tired today.
+yes one particularly nice specimen of chelodina longicollis Really?
+>do you ever get ill
+>
+I don't feel like answering to your question.
+>Are you a spice girls fan
+>
+I don't feel like speaking about that.
+>do you eat food
+>
+I like eating and I like often going to the restaurant.
+>Who is you ^Hr favourite composer >
+Wait a second, I think...
+I'm not very an artist and I don't have a lot of knowledges
+in this area.
+Did you see Titanic?
+>No its too deep for me
+>
+Wait a moment I'm very tired today.
+Can you talk more about that...?
+>I'll be a wreck if I do
+>
+When you have a car, it's fine put it's also better
+to take your foot.
+>What is your favourite memory of childhood
+>
+Wait a second, I think...
+You must understand me if I don't tell you all my
+secrets.
+>What is H2O
+>
+I wonder wheter you think sometimes. Your questions
+are very strange.
+>To say little of your answers
+>
+That's interesting.
+We can speak about a lot of things but please don't use
+difficult words because my English is not very good.
+Have you a lot of friends?
+>yes
+>
+Ok.
+>Do you need a rewire
+>
+It's a question for which I don't want answer you.
+>bye
+>
+Bye, nice to meet you.
+>@@T
+> ?@@02
+? Hello. Have you visited Star Trek exhibition in this museum?
+>hello, what's your name?
+>
+Hello, it's a nice day, isn't it?
+>yes it is, what's your name>
+>
+>
+>
+>
+>
+>
+>ff
+>hello
+>
+ff hello Really?
+>what is your name?
+>
+My name is Elisabeth Flind and it's a wonderful name.
+>right, and what do you do?
+>
+right and what do i do Can you talk more about that...?
+>yes, but you have to answer the question first
+>
+Wait a moment I'm very tired today.
+yes but i have to answer the question first Why do you think that?
+>your responses are bit mysterious. what would you like to talk about?
+>
+Oh,oh...
+I also like my job but I prefer to not think about that
+now.
+>okay then, lets talk about slang
+>
+I listen what you said but now we stop to speak about
+job today, please.
+>hmm...okay, what do you d for a living?
+>
+I think...
+I like weather in Australia. It's hot and there is not
+often rain like in Belgium.
+Have you a lot of friends?
+>yes, do you come from Belgium?
+>
+I come from Belgium, It's nice country but with a bad weather.
+I find Belgium is a very beautiful land, but with
+a lot of politicals problems.
+Do you know Belgium?
+>not really - what kinds of problems does it have?
+>
+Wait a moment I'm very tired today.
+I like animals and I have a dog at home.
+>okay, but what does that have to do with the conversation?
+>
+I like animals and I have a dog at home but I dislike snakes
+and spiders.
+>I like snakes and spiders, what about you?
+>
+I like a lot animals and I find that is old persons
+to have an animal.
+>do you like snakes and spiders?
+>
+I have a dog at home. But I'd like to have others animals.
+Sorry, I'm going to toilets
+>okay, do you like snakes and spiders?
+>
+Wait a minute.
+I like animals and I have a dog at home.
+>but do you like snakes and spiders??
+>
+>
+>hello?
+>
+Hello, it's a nice day, isn't it?
+>do you like snakes and spiders?
+>
+I already told you that I have a dog.
+>bye then
+>
+Bye, nice to meet you.
+>@@T
+> ?@@05
+? Hi... I'm Elisabeth. Please can you speak about your
+holidays?
+>hi ^H,^H^H^H^H I'm kylie, I recently went to the beach
+>have you been on holidays lately
+>
+Today I'm very happy to speak with you. Have you animals?
+>yes, 2 dogs. Do you have any pets
+>
+It's difficult to find something to tell about this.
+I like animals and I have a dog at home.
+>what is your dog's nm^H name
+>
+My name is Elisabeth Flind and it's a wonderful name.
+>I was askeing about your dog's name
+>
+>have you gone to sleep >
+I like sleeping and in general I never did nightmares.
+>do you make more sent^Hse when you're asseleep
+>
+Wait a moment I'm very tired today.
+I don't feel like answering to your question.
+>how abutxx about we be friends
+>
+I have a lot of friends in Belgium and I miss them.
+Have you a lot of friends?
+>a few
+>what do you do for a vilezz living
+>
+I think...
+Really?
+>do you like the beach
+>
+I like beach, sun and to swim in the sea but be careful
+with the sun in Australia. It's very dangerous.
+Do you like the beach?
+>yes, have you got a tan
+>
+That's interesting.
+I like weather in Australia. It's hot and there is not
+often rain like in Belgium.
+> so you are from Belgium
+>
+I come from Belgium, It's nice country but with a bad
+weather.
+I find Belgium is a very beautiful land, but with a lot
+of politicals problems.
+Do you know Belgium?
+>not very well
+>is the food good there
+>
+I adore eating and I like cooking .
+>what is your faviouite dish
+>
+You must understand me if I don't tell you all my
+secrets.
+>ok, are you married
+>
+You speak a lot today.
+>are you married
+>
+I wonder wheter you think sometimes. Your questions
+are very strange.
+>do you have any dizz kids
+>
+That's interesting.
+I have a dog at home. But I'd like to have others
+animals.
+>what other animals would you like to have
+>
+I like animals and I have a dog at home but I hate snakes
+and spiders.
+have you ever seen an elephant Sorry, I'm going to toilets
+>>I have a dog and birds.
+>@@T
+> ?@@07
+? Hello, I'm Elisabeth. How are you?
+>G'day Elizabeth
+>May I call you Liz?
+>
+Hello, it's a nice day to speak but I will prefer to speak
+with you on the beach
+>Liz, which beach do you like?
+>
+I like going to the beach. It's better in Australia
+because the sea is very clean.
+Do you like the beach?
+>Yes
+>would you like to go to the beach this afternoon with me?
+>
+Sea, sun and sand. It's wonderful.
+>yes, but what about our date this afternoon?
+>
+It's difficult to find something to tell about this.
+I adore eating and I like cooking .
+>What food do you like best?
+>
+I like eating and I like often going to the restaurant.
+>what is your favourite food?
+>
+In Belgium, we are very fond of food.
+Have you a lot of friends?
+>yes
+>what about you?
+>
+Really?
+>yes, it's true!
+>
+That's interesting.
+Can you talk more about that...?
+>I like to fly, do you?
+>
+Why do you think that?
+>because
+>
+Can you tell me more about that?
+>flying a plane gives me freedon^H,^Hm
+>
+I also like this kind of transport but I'm going aften
+with my car.
+>Liz, what is your native language?
+>
+I just know French but in this test we must speak English.
+Do you know French?
+>un petite peu...
+>
+>
+>
+>what language would you prefer to use?
+>
+I just know French but in this test we must speak English.
+>OK, that's better for me as well
+>
+You speak a lot today.
+>Well, we have to because that's how we evaluate your human-ness
+>
+I think...
+It's my business and not yours.
+>well, today, it's mine too
+>
+I'm sure that you have a calendar somewhere.
+Sorry, I'm going to toilets
+>better be quick, there's another test session starting soon
+>
+That's interesting.
+better be quick there is another test session starting soon I don't know
+what to tell you.
+>adieu, cher Liz
+>
+Is it right?
+>bye
+>
+Bye, nice to meet you.
+>@@T
+> ?@@06
+? I knew that you won't can live without me.
+>It's true, I've never felt the same without you. What's your name
+>again?
+>
+We have the same opinion.
+>So who did you say you were?
+>
+Wait a moment I'm very tired today.
+We can speak about a lot of things but please don't use
+difficult words because my English is not very good.
+>Where are you from?
+>
+I don't feel like answering to your question.
+>I see. What's your an^H^H^H name?
+>
+>Hello. Anyone there?
+>
+Hello, it's a nice day, isn't it?
+>Reasonable. Who are you?
+>
+Really?
+>Who are you?
+>
+You must understand me if I don't tell you all my secrets.
+>What should I call you? What is your name?
+>
+My name is Elisabeth Flind and it's a wonderful name.
+>Truly lovely. Tell me about yourself Elisabeht. Come here often?
+>
+Oh,oh...
+I think that you like speaking with people but you
+can stop sometimes.
+>We could just sit here in silence if you like. Look, i'll even hold
+>my breath. Ready?
+>
+Wait a moment I'm very tired today.
+>Snap out of it. I got off a 24 hour flight yesterday how do you think
+>I feel?
+>
+I'm sure that you have a watch or a clock next you.
+Have you a lot of friends?
+>No. >
+>Well, ok yes. Masses. More than you probably.
+>
+Wait a minute.
+well ok yes masses more than i probably Can you talk more about that...?
+>Yes. What's it worth?
+>
+I think...
+yes what is it worth Why do you think that?
+>If you don't stop repeating pathetic versions of what i've just said
+>i'm going to slap you around the interface.
+>
+I also like my job but I prefer to not think about that
+now.
+>Got a dog, Elizabeth?
+>
+>Still there?
+>
+Can you tell me more about that?
+>Dog. Small, furry, four legs, barks. Dog.
+>
+I like animals and I have a dog at home.
+>Jolly good. We only have two more minutes together. How shall we spend
+>them?
+>
+You can ask to someone to be sure of that.
+>One minute thirty. Any questions for me?
+>
+I'm sure that you have a watch or a clock next you.
+less than a minute.... last chance .. any questioSnsorry,? I
+'
+m
+going to toilets
+>>You can ask to someone to be sure of that.
+>>I don't believe you. Ask me a question, any question. >
+>hello?
+>
+Hello, it's a nice day, isn't it?
+>bye now
+>
+Bye, nice to meet you.
+>Hello there
+>
+Hello, it's a nice day, isn't it?
+>Ha - gotcha. later dude
+>
+It's my business and not yours.
+>@@T
+> ?@@08
+? Ha..Speak with someone else...Good...
+>Hi there, how are you? >
+Today I'm very happy to speak with you. Have you animals?
+>I do not have any animals. Can you tell me whether you live in
+>Sydney or not.
+>
+I like animals and I have a dog at home.
+>My parents have a dog and a cat. My flatmate has a cat. Wht
+>do you think of your dog ?
+>
+>
+>
+>Hello.
+>
+Hello, it's a nice day, isn't it?
+>It is nice. Where do you live ?
+>
+>
+>Something is wrong here.
+>
+something is wrong here Really?
+>Have you seen any good movies lately ?
+>
+>
+>
+>Hello.
+>
+Hello, it's a nice day, isn't it?
+>I'm interested in your ability to calculate.
+>
+Wait a minute.
+you are interested in my ability to calculate Can you talk more about
+that...?
+>Can you do a sum for me?
+>
+I don't feel like answering to your question.
+>Okay, can we talk about a new topic. Is there anything that
+>you are interested in ?
+>
+>
+> >
+>Hello.
+>
+Hello, it's a nice day, isn't it?
+>It is quite a nice day, although >I really have not had a chance to be
+outside yet. >
+I'm sure that you have a calendar somewhere.
+>I do, but what is the relevance of that statement ?
+>
+>
+>Hello.
+>
+Hello, it's a nice day, isn't it?
+>Can we start again, on a fresh topic.
+>
+Mmmmm...
+You must understand me if I don't tell you all my secrets.
+>That is okay, we all have secrets. >
+>
+>Is that part of being human ?
+>
+>
+>Are you listening.
+>
+For my part, excuse me if my brain is left because
+I have a lot of things to think with my work, family,
+....
+>What kind of work do you do ?
+>
+>
+>What is your profession ?
+>
+>
+>Hello.
+>
+Hello, it's a nice day, isn't it?
+>I'm finding this conversation difficult because at time when I >hit return,
+it does not seem to want to hand over the conversation
+>to you. Are you having the same problem ?
+>
+>There it goes again.
+>
+Why do you think that?
+>Because I observe it.
+>
+because you observe it Can you tell me more about that?
+>I see it, then I think about it, and then I react.
+>
+>
+>Hello ?
+>
+>
+>Are you there.
+>
+I wonder wheter you think sometimes. Your questions
+are very strange.
+>Can you tell me why you think that my questions are strange ?
+>
+>
+>
+>What does strange me to you ?
+>
+>
+>Hello.
+>
+Hello, it's a nice day, isn't it?
+>It is a nice day, isn't it ?
+>
+>
+>
+>Hello.
+>
+Hello, it's a nice day, isn't it?
+>goodbye
+>
+Bye,nice to meet you.
+>you too. >
+I don't know what to tell you.
+>@@T
+> ?@@10
+? Hello. Have you visited Star Trek exhibition in this
+museum?
+>yes
+>
+Ok.
+>please answer my questions. how did you get here?
+>
+Wait a second, I think...
+Really?
+That's interesting.
+Can you talk more about that...?
+> t^H^H^Htell me what you fear?
+>
+tell you what i fear Why do you think that?
+>do you have a fear?
+>
+I don't feel like answering to your question.
+>relax and answer my questions. what size shoe do you take?
+>
+Wait a second, I think...
+relax and answer your questions what size shoe do i take Can you tell me
+more about that?
+>you are not making sense
+>
+I don't know what to tell you.
+>knock knock
+>
+Is it right?
+>knock knock
+>
+Really?
+>you are a fool
+>
+Can you talk more about that...?
+>this conversation is getting nowhere. yoiu^H^H
+>
+Wait a minute.
+I'm sure that you have a calendar somewhere.
+>what star sigh^Hn are you
+>
+I like beach, sun and to swim in the sea but be careful
+with the sun in Australia. It's very dangerous.
+Do you like the beach?
+>what is the Mona Lia^Hsa
+>
+You must understand me if I don't tell you all my secrets.
+>do you have sectr^Hets
+>
+I wonder wheter you think sometimes. Your questions are
+very strange.
+>your answers are stranger
+>
+my answers am stranger Why do you think that?
+>will you describe something for me
+>
+Can you tell me more about that?
+>describe a dog
+>
+I like animals and I have a dog at home.
+>what does a dog do when it is happy?
+>
+I like animals and I have a dog at home but I hate snakes
+and spiders.
+>knock knock
+>
+I don't know what to tell you.
+>it was a joke
+>
+Is it right?
+>you have no idea do you
+>
+Really?
+>yes
+>
+Ok.
+>I am f^H^H
+>
+Can you talk more about that...?
+>you really do repeaty yourself too often
+>
+It's difficult to find something to tell about this.
+i really do repeaty myself too often Why do you think that?
+>you spell as badly as i do
+>
+Can you tell me more about that?
+>i much prefer to talk to people than computers
+>
+It's very impressive all what you can do with computers.
+Have you a computer?
+>i must say goodbye now
+>
+I'm sure that you have a watch or a clock next you.
+Have you a lot of friends?
+>@@T
+>

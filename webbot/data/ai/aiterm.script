@@ -1,0 +1,20 @@
+(aiterm_state==0)
+""
+{
+	response+="Although artificial intelligence is a dream that has attracted humanity for ages, the term was first coined by John McCarthy at the Dartmouth Conference in 1956.";
+	changecontext("default");
+	aiterm_state=2;
+}
+[]
+
+/* ------------------------------------------------------------ */
+
+(aiterm_state==1)
+"#BYE_WORD#"
+{
+	aiterm_state=2;
+	changecontext("default");
+	throw(input);
+}
+[]
+

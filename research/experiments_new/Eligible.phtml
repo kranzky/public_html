@@ -1,0 +1,34 @@
+<? Include("Verify.phtml"); >
+<? Include("Maintainer.phtml"); >
+<? Include("Functions.phtml"); >
+<? $title = "Experimental Results"; >
+<? Include("Header.phtml"); >
+
+<?
+	Srand(Date("s"));
+	msql_connect("localhost");
+	$result=msql("hutch", "SELECT user,name FROM user_info WHERE eligible=4");
+	$num = msql_NumRows($result);
+	if($num<=0);
+		Error("Unable to find users", "");
+	endif;
+
+	echo "<H2>$num Eligible Users</H2>";
+	echo "Click on the name of a user listed below to find out more:";
+	echo "<UL>";
+	$i=0;
+	$winner=552;
+	while($i<$num);
+		$user = msql_result($result, $i, "user");
+		$name = msql_result($result, $i, "name");
+		if($user==$winner);
+			echo "<LI><BLINK>$user. <A HREF=\"Show_User.phtml?user=$user\">$name</A></BLINK></LI>";
+		else;
+			echo "<LI>$user. <A HREF=\"Show_User.phtml?user=$user\">$name</A></LI>";
+		endif;
+		$i+=1;
+	endwhile;
+	echo "</UL>";
+>
+
+<? Include("Footer.phtml"); >

@@ -1,0 +1,9 @@
+<?
+msql_connect("localhost");
+$result=msql("hutch", "SELECT retired FROM user_info WHERE user=$s_user");
+$retired=msql_result($result, 0, "retired");
+
+if($retired==0);
+   Error("", "error/retire3.phtml");
+endif;
+>

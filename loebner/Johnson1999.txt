@@ -1,0 +1,386 @@
+(c) 1999 Cambridge Centre for Behavioral Studies all rights reserved.
+Talk. A product of Sandy Johnson and Chris S. Johnson
+Start at: [1999/01/22 11:30:28]
+*** JUDGE00 ***
+PROGRAM[11:30:34]
+PROGRAM[11:30:34]Let's start.
+*** JUDGE05 ***
+PROGRAM[11:52:22]
+PROGRAM[11:52:22]Ready
+JUDGE05[11:52:39]Hi! I'm Greg.
+PROGRAM[11:52:41]Hi
+PROGRAM[11:52:44]Nice to meet you .
+JUDGE05[11:53:12]How are you today?
+PROGRAM[11:53:13]I'm fine thanks
+JUDGE05[11:53:53]What sort of things are you interested in?
+PROGRAM[11:54:21]I am not interested in Astrology although my
+ star sign is Libra.
+JUDGE05[11:54:38]Why is that?
+PROGRAM[11:55:05]One never knows one's destiny, that's the mystery
+ of life.
+JUDGE05[11:56:25]Yes. What direction have you gone in through life so far?
+PROGRAM[11:56:38]yes well they travel here but where have you travelled.
+PROGRAM[11:57:09]I have seen people suck coffee through a Tim Tam.
+JUDGE05[11:58:33]A number of places. Have you tried that with tea?
+PROGRAM[11:58:47]airports are such souless places, don't you think?
+PROGRAM[11:58:57]of course
+JUDGE05[11:59:57]Yes, but you can catch up with work there sometimes.Do you find that?
+PROGRAM[12:00:02]You have to be interested in politics in a democracy.
+JUDGE05[12:00:36]Why do you say that?
+PROGRAM[12:00:48]My brother thinks Dilbert portrays a very realistic picture
+ of the software industry.
+JUDGE05[12:01:37]How would you relate that to politics?
+PROGRAM[12:01:53]That has nothing to do with politics
+JUDGE05[12:02:41]So why can't people be uninterested in politics?
+PROGRAM[12:02:56]People who play the money market don't produce
+ anything so should therefore be ostracized
+ from society.
+JUDGE05[12:04:05]How would the economy work if you did that?
+PROGRAM[12:04:22]I think the effects of a bad Japanese economy will
+ be disastrous.
+JUDGE05[12:04:37]Goodbye.
+PROGRAM[12:04:37]bye
+JUDGE05[12:12:05]
+JUDGE05[12:12:05]
+*** JUDGE09 ***
+PROGRAM[12:23:18]
+PROGRAM[12:23:18]Anybody there?
+JUDGE09[12:23:24]hi
+PROGRAM[12:23:25]Hello
+JUDGE09[12:23:46]how are you?
+PROGRAM[12:23:48]I'm fine thanks
+JUDGE09[12:24:11]What shall we talk about?
+PROGRAM[12:24:30]Yes Ok then what shall we talk about.
+JUDGE09[12:24:52]I asked you first.
+PROGRAM[12:25:19]when I first heard "House of the Rising Sun" I knew I had
+ to learn to play a guitar?
+JUDGE09[12:25:51]when I first heard "When the levee breaks" I knew I had
+JUDGE09[12:26:00]to learn to play drums.
+PROGRAM[12:26:49]I was camping in France, in the bush, when I
+ heard a gong, later I found I camped near a Zen monastery.
+JUDGE09[12:27:03]When was that?
+PROGRAM[12:27:19]The Titanic was a ship that sank when it hit an
+ iceberg.
+JUDGE09[12:27:35]Really?
+PROGRAM[12:27:38]you lost me
+JUDGE09[12:28:11]what is your name?
+PROGRAM[12:28:32]Mercury Blue is the name of Jan's new band
+JUDGE09[12:28:58]That's a stupid name. Jan must be a jerk.
+PROGRAM[12:29:33]what's your mum's name?
+PROGRAM[12:30:02]I got a nice pen for Christmas from Jan.
+JUDGE09[12:30:34]My mum's name was Maja. She is dead. 
+JUDGE09[12:30:44]Is your mum dead or alive?
+PROGRAM[12:31:18]It must be sad on Mothers day when your mum is dead.
+PROGRAM[12:31:36]Tristan is one dead cat.
+PROGRAM[12:32:04]yes
+JUDGE09[12:32:38]Tristan?
+PROGRAM[12:32:40]i dont know
+JUDGE09[12:33:08]Are you happy?
+PROGRAM[12:33:33]yes
+JUDGE09[12:33:44]what is your name?
+PROGRAM[12:33:46]My name is Geoff
+*** JUDGE08 ***
+PROGRAM[13:17:00]
+PROGRAM[13:17:00]I'm here!
+JUDGE08[13:17:01]
+JUDGE08[13:17:13]Good for you! I'm Bill
+PROGRAM[13:17:41]In Sydney it has been very hot and humid.
+PROGRAM[13:18:13]I saw Bill Gates at the Sydney Entertainment Centre, I'm
+ impressed with him.
+JUDGE08[13:18:14]
+JUDGE08[13:18:58]Its hot been hot in Adelaide too, but now cooler for the cycling.
+JUDGE08[13:19:04]You follow the cycling?
+PROGRAM[13:19:36]I have never been to Adelaide before-I live in
+ Sydney.
+PROGRAM[13:19:39]you lost me
+JUDGE08[13:20:15]Havent you heard of the cycling Down Under tour??
+PROGRAM[13:20:17]what
+JUDGE08[13:20:48]Adelaide is hosting a world championship cyling event!
+JUDGE08[13:21:05]how about the recent cricket match in Sydney. Did you hear
+JUDGE08[13:21:08]about that??
+PROGRAM[13:21:52]The only chocolate that's yummy is my chocolate.
+PROGRAM[13:22:45]I played cricket with cane toads when I was in Queensland.
+PROGRAM[13:23:12]yes the Philippines under Marcos rule was to
+ the political right.
+JUDGE08[13:23:48]Have you been to the Philippines?
+PROGRAM[13:24:34]of course
+JUDGE08[13:24:48]How did you find Adelaide when you were here?
+PROGRAM[13:25:32]I am hoping to find some good bands while i'm in
+ Adelaide.
+JUDGE08[13:25:49]So you're into music eh?
+PROGRAM[13:25:51]you lost me
+JUDGE08[13:26:18]what sort of music interests you?
+PROGRAM[13:26:49]I think we should talk about something that
+ interests us both.
+JUDGE08[13:26:57]goodbye now
+PROGRAM[13:26:57]bye
+*** JUDGE03 ***
+PROGRAM[13:41:51]
+PROGRAM[13:41:51]Let's start.
+JUDGE03[13:42:01]Hello, how are you?
+PROGRAM[13:42:02]Hi
+JUDGE03[13:42:13]What is your name?
+PROGRAM[13:42:14]I'm Geoff
+JUDGE03[13:42:37]Hello, Geoff. I'm Sherry. How are you?
+PROGRAM[13:43:06]John Howard is the Prime Minister.
+PROGRAM[13:43:07]Hi .
+PROGRAM[13:43:14]Pretty good
+JUDGE03[13:43:43]That is good to hear. I'm good as well.
+JUDGE03[13:44:04]So do you think John Howard is a good
+JUDGE03[13:44:09]prime minister?
+PROGRAM[13:44:32]Did you hear about that??
+PROGRAM[13:44:55]Because I'm cleverer than you.
+PROGRAM[13:45:17]I think Brooke is a nicer name than Penny.
+JUDGE03[13:45:39]Well, Brooke is a nice name.
+JUDGE03[13:45:50]But I think Sherry is even nicer!
+JUDGE03[13:45:55]Don't you?
+PROGRAM[13:46:25]Brooke is an unusual girl's name
+PROGRAM[13:47:06]Girls are nicer than plants although sometimes they
+ both smell good.
+PROGRAM[13:47:08]I don't understand
+JUDGE03[13:47:37]How old are you?
+PROGRAM[13:48:48]I'm 46 years old and a divorced male.
+JUDGE03[13:49:11]I'm sorry to hear that you are divorced.
+JUDGE03[13:49:17]Do you have any kids?
+PROGRAM[13:50:05]I don't play sport anymore, i'm too old.
+PROGRAM[13:50:37]Yes, I went on a camping trip with my kids and Sandy and
+ his kids
+JUDGE03[13:51:01]Do you liking camping?
+PROGRAM[13:51:26]yes
+JUDGE03[13:51:42]I like camping too.
+JUDGE03[13:51:51]Where did you go camping?
+PROGRAM[13:52:24]Society frowns on having too many people camping in
+ the bush
+PROGRAM[13:52:40]It often rains when I go camping.
+JUDGE03[13:52:54]bye
+PROGRAM[13:52:54]goodbye .
+*** JUDGE02 ***
+PROGRAM[13:59:55]
+PROGRAM[13:59:55]I'm ready...
+JUDGE02[14:00:01]Hello!
+PROGRAM[14:00:01]Good afternoon.
+JUDGE02[14:00:15]How are you today?
+PROGRAM[14:00:16]Just great
+JUDGE02[14:00:33]Are you having fun?
+PROGRAM[14:01:05]of course
+JUDGE02[14:01:16]How did you get involved in this?
+PROGRAM[14:01:59]I have been involved with Jan's new band.
+JUDGE02[14:02:09]Jan's new band? What's that?
+PROGRAM[14:02:11]I don't understand
+PROGRAM[14:02:40]That's why the military shouldn't be involved with
+ politics.
+JUDGE02[14:03:10]Are you enjoying the weather we're having?
+PROGRAM[14:03:37]Yes, I hate having to ring back when someone rings you
+ on the phone
+JUDGE02[14:03:56]I know what you mean. 
+PROGRAM[14:04:33]What will you tell me?
+JUDGE02[14:05:00]Anything (almost). Tell me about yourself...
+PROGRAM[14:05:59]I almost ran over a kangaroo on the drive over
+ here.
+PROGRAM[14:06:27]truth is what I'm after, how about yourself?
+JUDGE02[14:06:49]I like the band Cake, do you?
+PROGRAM[14:07:12]not bad for a woolly thinker like yourself.
+JUDGE02[14:07:38]A woolly thinker? I'd say I'm pretty clear minded.
+PROGRAM[14:07:40]what
+PROGRAM[14:07:43]Hello I'm
+JUDGE02[14:07:58]What's your name?
+JUDGE02[14:08:48]
+(c) 1999 Cambridge Centre for Behavioral Studies all rights reserved.
+Talk. A product of Sandy Johnson and Chris S. Johnson
+Start at: [1999/01/22 14:18:14]
+*** JUDGE00 ***
+PROGRAM[14:18:20]
+PROGRAM[14:18:20]Let's start.
+*** JUDGE01 ***
+PROGRAM[14:23:29]
+PROGRAM[14:23:29]Anybody there?
+JUDGE01[14:23:58]Yes, I am Paul. Nice to see you.
+PROGRAM[14:23:58]Hi I
+PROGRAM[14:24:17]In Sydney it has been very hot and humid.
+JUDGE01[14:25:04]It is funny. How can you talk with me if you are in Sydney?
+PROGRAM[14:25:11]What so funny about that?
+PROGRAM[14:25:35]Sandy thinks that I talk too much.
+JUDGE01[14:26:08]No, I like it. Go ahead please.
+PROGRAM[14:26:42]What will you tell me
+PROGRAM[14:27:16]If you aren't going to talk to me please say so.
+JUDGE01[14:28:33]I'd like to be your friend. Could you please tell me something about you?
+PROGRAM[14:29:01]I'd say I'm pretty clear minded.
+PROGRAM[14:29:36]something that's tiny is something that's very
+ small which given what you say to me is an
+ apt way to descirbe your brain.
+JUDGE01[14:30:29]Put it this way. Have you been in Adelaide before?
+PROGRAM[14:30:56]Is this the way to San Jose?
+PROGRAM[14:31:28]of course
+JUDGE01[14:32:10]What topic do you like?
+PROGRAM[14:32:29]Let us move to the topic of scotch.
+JUDGE01[14:33:02]Tell me something about scotch.
+PROGRAM[14:33:40]I think we should talk about something that
+ interests us both
+JUDGE01[14:34:12]See you
+PROGRAM[14:34:29]What movie did you see?
+*** JUDGE04 ***
+PROGRAM[14:40:24]
+PROGRAM[14:40:24]Let's start.
+JUDGE04[14:40:37]That's why I pressed enter
+PROGRAM[14:40:54]So do you think John Howard is a good prime minister?
+JUDGE04[14:41:29]NO I think he is a poll dirven  politician who does not have
+JUDGE04[14:41:49]any views on what the country should be looking like in the next
+JUDGE04[14:41:53]ten years or so
+PROGRAM[14:42:46]Do you like looking for a new car?
+JUDGE04[14:43:12]Why do you say that ?
+PROGRAM[14:43:40]One never knows one's destiny, that is the mystery
+ of life.
+JUDGE04[14:44:06]I think everyone knows one's destiny
+PROGRAM[14:44:44]Look at the United States where everyone has the right
+ to bear arms, over 10, 000 deaths a year from
+ guns.
+JUDGE04[14:45:15]I dsu  suppose you don't have a gun 
+PROGRAM[14:45:43]As I don't watch TV I don't watch any sport
+JUDGE04[14:46:13]Do you want to talk about TV now ? You are very jumpy in your
+JUDGE04[14:46:18]conversation.
+PROGRAM[14:46:53]The art of Zen stop to you watching TV because you question
+ everything, and TV has no answers
+PROGRAM[14:47:28]I find topics of conversation jump all over the
+ place.
+JUDGE04[14:48:00]So let's talk about impeachment teh then 
+PROGRAM[14:48:02]I don't understand
+JUDGE04[14:48:36]So you don't follow the impeachment trial on TV ?
+PROGRAM[14:48:38]you lost me
+JUDGE04[14:49:10]So what would you like to talk about tehn then ?
+PROGRAM[14:49:40]Lets see what you would like to talk about today
+JUDGE04[14:50:14]Impeachment but you don't seem to have heard of it
+PROGRAM[14:51:09]do it or don't do it, I don't care
+JUDGE04[14:51:20]Byes
+*** JUDGE07 ***
+PROGRAM[14:54:05]
+PROGRAM[14:54:05]I'm ready...
+*** JUDGE07 ***
+PROGRAM[15:07:47]
+PROGRAM[15:07:47]Let's get going...
+JUDGE07[15:07:56]hi here we go a
+JUDGE07[15:08:11]my names laurie where are you from
+PROGRAM[15:08:12]Hello
+JUDGE07[15:08:24]please answer my question
+PROGRAM[15:08:53]In Sydney it has been very hot and humid.
+JUDGE07[15:08:54]do you live around here
+PROGRAM[15:09:13]Yes, I find flying long distances knocks me around.
+JUDGE07[15:09:14]it seems i have to press more often
+PROGRAM[15:09:38]Any of this, it seems to be going nowhere.
+JUDGE07[15:09:38]i seem to be doin
+PROGRAM[15:09:56]Impeachment but you don't seem to have heard of it
+JUDGE07[15:10:22] certainly heard of clinton so  what
+PROGRAM[15:10:50]I computer of your own certainly allows you to work
+ more flexible hours.
+JUDGE07[15:11:15]do you always take this long to i agree but do not remember saying anything about work.  This is 
+JUDGE07[15:11:24]not a subject i enjy
+PROGRAM[15:12:15]yes
+PROGRAM[15:13:08]The art of Zen is to answer a question with
+ another question
+JUDGE07[15:13:08]what is happening to your responses?
+PROGRAM[15:13:45]things are happening around here.
+JUDGE07[15:13:46]
+JUDGE07[15:13:46]i seem to be on all the time
+PROGRAM[15:14:25]I never seem to have enough time.
+JUDGE07[15:14:26]have you gone to sleep
+PROGRAM[15:15:02]Yes, Wimps sleep in a tent, I sleep outdoors:-).
+JUDGE07[15:15:02]
+JUDGE07[15:15:02]hello there
+PROGRAM[15:15:48]What direction have you gone in through life so
+ far?
+JUDGE07[15:16:24]I have a reasonable  satisfaction of my life. Am now retired
+PROGRAM[15:17:15]You started it so this gives me at least a modicum of
+ satisfaction
+PROGRAM[15:17:26]of course
+JUDGE07[15:18:08]Tell me something about yourself, your hobbies, food preferencs etc
+PROGRAM[15:18:48]She should be spending much money on cat food then?
+JUDGE07[15:18:48]bye
+PROGRAM[15:18:48]goodbye
+*** JUDGE10 ***
+PROGRAM[15:24:55]
+PROGRAM[15:24:55]Anybody there?
+JUDGE10[15:25:02]Hello, what is your name?
+PROGRAM[15:25:03]Good afternoon.
+JUDGE10[15:25:20]What is your name?
+PROGRAM[15:25:21]I'm Geoff
+JUDGE10[15:25:46]Hello Geoff, I'm Louise.  How are you?
+PROGRAM[15:25:47]Good afternoon, ,
+PROGRAM[15:25:55]Just great
+JUDGE10[15:26:10]Do you like the weather now?
+PROGRAM[15:26:34]search me
+JUDGE10[15:26:55]Did you have a good Christmas?
+PROGRAM[15:27:22]yes
+JUDGE10[15:27:32]Where did you have lunch?
+PROGRAM[15:27:47]I eat turkey for lunch on Christmas day.
+JUDGE10[15:28:10]Where did you have lunch.  With your family, at your mother's hous
+PROGRAM[15:28:28]Are going to eat lunch?
+PROGRAM[15:28:47]Sadam's mother loved him dearly
+JUDGE10[15:29:13]What are your hobbies?
+PROGRAM[15:29:30]Tell me something about yourself, your hobbies,
+ food preferencs etc.
+JUDGE10[15:29:58]I love to eat almost anything.  What do you like to eat or do
+JUDGE10[15:30:08]in your spare time?
+PROGRAM[15:30:41]I love to eat Tim Tams!
+PROGRAM[15:31:18]Smarties are nice to eat, my kids eat them.
+JUDGE10[15:31:35]Do you have any animals?
+PROGRAM[15:31:58]of course
+JUDGE10[15:32:10]Which ones?
+PROGRAM[15:32:19]they're the ones I'm talking about
+JUDGE10[15:32:45]I have a dog and some birds, canaries and a budgie.  Do
+JUDGE10[15:32:51]you have any animals?
+PROGRAM[15:33:20]I don't like it when cats catch and eat birds.
+PROGRAM[15:33:44]yes
+JUDGE10[15:34:13]I don't either.  Bye
+PROGRAM[15:34:43]I dsu suppose you don't have a gun.
+PROGRAM[15:34:44]goodbye ,
+*** JUDGE06 ***
+PROGRAM[15:39:29]
+PROGRAM[15:39:29]Let's start.
+JUDGE06[15:39:36]okay!
+PROGRAM[15:39:50]Who is the prime minister?
+JUDGE06[15:40:08]i don't have a clue? who is he?
+PROGRAM[15:40:09]you lost me
+PROGRAM[15:40:27]He is a soul brother.
+JUDGE06[15:40:46]the prime minister is a soul brother? 
+JUDGE06[15:40:56]i am sorry but you have lost me!
+PROGRAM[15:40:58]I don't know
+PROGRAM[15:41:27]Sorry but you aren't making sense.
+JUDGE06[15:41:48]neither are you. oh well. what is your name?
+PROGRAM[15:42:06]Neither do you make much sense sometimes.
+PROGRAM[15:42:23]Librians are meant to be well balanced, the scales
+ you know.
+PROGRAM[15:42:28]I'm Geoff
+JUDGE06[15:42:53]hello geoff. my name is leah.
+PROGRAM[15:42:54]Hi
+PROGRAM[15:43:19]My mum's name was Maja.
+JUDGE06[15:43:39]that is a pretty name! my mother's name is susan.
+PROGRAM[15:44:06]what's your mum's name?
+PROGRAM[15:44:31]Mercury Blue is the name of Jan's new band
+JUDGE06[15:44:57]my mother's name is Susan.
+JUDGE06[15:45:01]who is Jan?
+PROGRAM[15:45:26]My father's name was Lawrie Fletcher.
+PROGRAM[15:45:40]Jan must be a jerk.
+JUDGE06[15:45:48]bye
+PROGRAM[15:45:48]goodbye
+*** JUDGE11 ***
+PROGRAM[15:53:19]
+PROGRAM[15:53:19]Anybody there?
+JUDGE11[15:53:28]olleh
+PROGRAM[15:53:47]In Sydney it has been very hot and humid
+JUDGE11[15:54:04]True - did you see the indiact?
+PROGRAM[15:54:06]I don't know
+JUDGE11[15:54:28]So you have been in Sydney then?
+PROGRAM[15:54:30]I don't understand
+JUDGE11[15:55:01]DOesn't matter.  Whats the Bill sto   story at the moment?
+PROGRAM[15:55:11]I can't understnad anyone who doesn't eat apples.
+PROGRAM[15:55:22]i dont know
+JUDGE11[15:55:56]Me neither.   So tell me abou t the bIll story..
+PROGRAM[15:56:08]No and neither do I.
+PROGRAM[15:56:27]the Truman Story with Jim Carrey was a great movie
+JUDGE11[15:56:43]Biill or Jim Carey??
+PROGRAM[15:56:45]I don't understand
+JUDGE11[15:57:03]what?
+PROGRAM[15:57:14]what
+JUDGE11[15:57:18]yes
+PROGRAM[15:57:28]Yes I want to talk about forests
+JUDGE11[15:57:44]bye
+PROGRAM[15:57:45]goodbye

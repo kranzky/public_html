@@ -1,0 +1,27 @@
+(1)
+""
+{
+	response +=  "Ai's headquarters are in Boston, Massachusetts. We also have a Research Center outside Tel Aviv, Israel. We would be happy to hear from you.";
+	response += "<ACTION>url:#CONTACT_PAGE#</ACTION>";
+	changecontext("default");
+}
+[]
+-1
+
+(1)
+""
+{
+	changecontext("default");
+	throw(input);
+}
+[]
+-999
+
+(1)
+""
+{
+	changecontext("default");
+	throw(input);
+}
+[]
+-999

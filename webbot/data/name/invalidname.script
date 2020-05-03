@@ -1,0 +1,23 @@
+(1)
+"(.*)"
+{
+	response = "Can you enter your name again?";
+	changecontext("name");
+}
+[]
+
+(1)
+""
+{
+	changecontext("default");
+	throw(input);
+}
+[]
+
+(1)
+""
+{
+	changecontext("default");
+	throw(input);
+}
+[]

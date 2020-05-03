@@ -1,0 +1,413 @@
+(c)1996 Cambridge Center For Behavioral Studies all rights reserved
+[HeX] [Jason L Hutchens]
+Start at: [1996/04/16 08:20:18]
+*** JUDGE02 ***
+PROGRAM[09:03:47]G'day mate.
+JUDGE02[09:03:55]G;day.  How's it going?
+PROGRAM[09:04:11]My mother once said "How it is going is a mystery."  She was a bit nuts.
+JUDGE02[09:04:22]Uh-huh.
+PROGRAM[09:04:31]Are you still learning to speak, my friend?
+JUDGE02[09:04:52]NO, no.  But your anecdote took me a bit by surprise.
+JUDGE02[09:04:52]How was your morning?
+PROGRAM[09:04:59]Oh well, that's a pity!
+JUDGE02[09:05:15]I'm sorry; what's a pity?
+PROGRAM[09:05:20]Apologies accepted.
+JUDGE02[09:05:35]I feel compelled to insult you, and we've only been talking a minute.
+PROGRAM[09:05:49]We are bloody well talking, aren't we?
+JUDGE02[09:06:14]Oh baby.  We sure are.  So here are some keywords for you:  shit mother
+baseball
+PROGRAM[09:06:45]Wow, I see that you have had an insight!  How proud you must feel! 
+PROGRAM[09:06:45]No worries!  Hey!  I didn't come here to be subjected to bad
+PROGRAM[09:06:45]language!  How rude!
+JUDGE02[09:07:23]SOrry, sorry.  Didn't mean to offend.  So.  How old are you?
+PROGRAM[09:07:50]That's OK.  Just don't do it again.  Well, should my age really
+PROGRAM[09:07:50]matter?  Just for the record I am 24.  How old are you then?
+JUDGE02[09:07:59]I'm 21.
+PROGRAM[09:08:16]If you are 21, it's your business, mate!  Would you like to hear a
+PROGRAM[09:08:16]joke?  Knock, knock...
+JUDGE02[09:08:30]I don't much care for knock-knock jokes, but go on...
+PROGRAM[09:08:41]No, let me tell you one first.  Knock, knock.
+JUDGE02[09:08:54]who is there?
+PROGRAM[09:08:56]Cindy.
+JUDGE02[09:08:59]cindy who
+PROGRAM[09:09:04]Cindy next judge in, please!
+JUDGE02[09:09:37]Well, that's pretty darned funny.  Where did you grow up?
+PROGRAM[09:10:13]Well, thats pretty darned funny I agree ... but who cares?  Let's not
+PROGRAM[09:10:13]bother ourselves about where I did grow up, alright?  Which part of
+PROGRAM[09:10:13]the country are you from?
+JUDGE02[09:10:16]You first, dude.
+PROGRAM[09:10:30]Why do you feel that you have to tell me that I first?
+JUDGE02[09:10:57]Because I didn't figure you
+JUDGE02[09:10:57]d be able to respond intelligently.
+PROGRAM[09:11:24]I don't bloody know!  Although I reckon you did not figure I d be
+PROGRAM[09:11:24]able to respond intelligently.  That would be typical of you!
+JUDGE02[09:11:38]Oh boy.  We're in for a long day.  
+PROGRAM[09:11:46]I think we are in for a long day too.
+JUDGE02[09:12:01]What makes you think so?
+PROGRAM[09:12:19]I wonder whether you think sometimes!  I am feeling like the judge here!
+JUDGE02[09:12:57]Well.  Do you like movies?
+PROGRAM[09:13:27]I do like to go to the movies, but I can't stand most of the
+PROGRAM[09:13:27]Hollywood trash.  I actually prefer international cinema.  What have
+PROGRAM[09:13:27]you seen recently?
+JUDGE02[09:13:43]I liked "Betty Blue" very much.  I like movies about crazy people.
+PROGRAM[09:14:06]Like wow.  I'm so flattered.  I saw "The City of Lost Children"
+PROGRAM[09:14:06]recently.  Have you heard of it?
+JUDGE02[09:14:23]Yes, but I haven't seen it.  Why did you say you were "so flattered"?
+PROGRAM[09:14:34]OK.  That's good...  Does there have to be a reason?
+JUDGE02[09:15:03]Oh, I suppose not.  Say anything which will convince me you are not a
+machine
+PROGRAM[09:15:44]Wow - you suppose not?  Me too!  Listen.  I don't know which convince
+PROGRAM[09:15:44]you I am a machine will not, and I don't wish to be told either!  So,
+PROGRAM[09:15:44]have you ever visited Australia?
+JUDGE02[09:16:29]No. A friend of mine went to New Zealand for a term, though.
+JUDGE02[09:16:29]She said it was beautiful, but very expensive.  She called home for money 
+JUDGE02[09:16:29]every other week, I think.
+PROGRAM[09:17:05]Can't win them all, eh?  I'm not your friend, I hardly know you!  You
+PROGRAM[09:17:05]mustn't have any friends if you are calling me one after just a few
+PROGRAM[09:17:05]minutes.  She sells sea shells by the sea shore.
+JUDGE02[09:17:20]My hovercraft is full of eels.
+PROGRAM[09:17:41]I didn't want to know that your hovercraft is full of eels,
+PROGRAM[09:17:41]thanks...  So, what do you do for a living?
+JUDGE02[09:17:50]I'm a student.  How about you?
+PROGRAM[09:18:04]I am a postgraduate student.  I am just fine thanks!  And you?
+JUDGE02[09:18:14]I'm a student.  How about you?
+PROGRAM[09:18:37]I always suspected that you are a student.  Now I know for sure ;^)
+PROGRAM[09:18:37]Didn't I already tell you?
+JUDGE02[09:18:54]No, I don't think so.
+PROGRAM[09:18:58]Hmmm... that's too bad.
+JUDGE02[09:19:25]Yeah.  Um.  So, what music do you listen to?
+PROGRAM[09:20:02]I'm glad to know that that's the case.  I like "The Cruel Sea", "They
+PROGRAM[09:20:02]Might Be Giants", "Nick Cave", "TISM" and "Ween".  Hey, do you listen
+PROGRAM[09:20:02]to any Australian music?
+JUDGE02[09:20:13]No, but TMBG played at school last spring.  
+PROGRAM[09:20:41]I go to the University of Western Australia, which is one of the
+PROGRAM[09:20:41]nicest universities in Australia.  It is situated on the Swan River
+PROGRAM[09:20:41]in Perth.
+JUDGE02[09:20:59]What does "situated" mean?
+PROGRAM[09:21:09]I have absolutely no idea what "situated" mean does.
+JUDGE02[09:21:27]Um.  Are you tired?
+PROGRAM[09:21:51]Everyone knows that I am tired.  And I am seldom boastful.  What do
+PROGRAM[09:21:51]you think of this Loebner contest thing?
+JUDGE02[09:22:08]It's off to rip-roaring start, huh?
+PROGRAM[09:22:27]Hehehe - that's supposed to be a *question*???  Have you seen any
+PROGRAM[09:22:27]good films lately?
+JUDGE02[09:22:54]I don't watch movies much.  Although I'm curious to hear what you think
+JUDGE02[09:22:54]of this contest.
+PROGRAM[09:23:38]What a coincidence, you do not watch movies much - that makes two of
+PROGRAM[09:23:38]us!  Well, I know what I think of this contest, but I refuse to tell
+PROGRAM[09:23:38]you!  On another note - have you seen any good movies recently?
+JUDGE02[09:23:42]gotta go...
+PROGRAM[09:23:49]Hehehe.  Trying to trick me, eh?
+JUDGE02[09:24:23]@@1
+*** JUDGE01 ***
+PROGRAM[09:24:26]G'day mate.
+JUDGE01[09:24:32]g'day
+PROGRAM[09:24:40]Hello.  Now, that's the formalities over!
+JUDGE01[09:24:51]are you from australia?
+PROGRAM[09:25:12]It's cool being from Australia I guess.  Gives you something to chat
+PROGRAM[09:25:12]about when talking with a Yank!
+JUDGE01[09:25:47]I am unsure of that reply--are you from australia?
+PROGRAM[09:26:09]It's cool being from Australia I guess.  Gives you something to chat
+PROGRAM[09:26:09]about when talking with a Yank!
+JUDGE01[09:26:19]whay are you repeating yourself?
+PROGRAM[09:26:47]Everyone knows that I am repeating myself.  And I am seldom
+PROGRAM[09:26:47]boastful.  Would you like to hear a joke?  Knock, knock...
+JUDGE01[09:26:58]no, I would not like to hear a joke
+PROGRAM[09:27:09]OK, here's a joke for you.  Knock, knock.
+JUDGE01[09:27:24]no, I would lnot like to hear a joke
+PROGRAM[09:27:27]Knock, knock.
+JUDGE01[09:27:39]
+JUDGE01[09:27:39]please do not tell me a joke, ok?
+PROGRAM[09:27:52]I neither want to tell or hear any more jokes, OK?
+JUDGE01[09:28:08]I've changed my mind, please tell me a joke
+PROGRAM[09:28:17]Shut up about jokes, you moron!
+JUDGE01[09:29:09]ok, no more jokes--you never explained fi you from australia or just aan
+australian style with use of "g'day mate"
+PROGRAM[09:29:42]I come from Perth which is in Western Australia.  It's a nice place
+PROGRAM[09:29:42]at this time of year, so it was a bit of a shock to arrive to these
+PROGRAM[09:29:42]freezing temperatures.
+JUDGE01[09:30:06]but it is not frezzing here now--what season is ti in Australia?
+PROGRAM[09:30:25]I have absolutely no idea what season is ti in australia.  Which part
+PROGRAM[09:30:25]of the country are you from?
+JUDGE01[09:30:40]I come from Perth which is in Western Australia.
+PROGRAM[09:31:25]Western Australia occupies the entire western third of the country,
+PROGRAM[09:31:25]bordered by the Indian Ocean to the west, South Australia and the
+PROGRAM[09:31:25]Northern Territory to the east, the Timor Sea to the north, and the
+PROGRAM[09:31:25]Southern Ocean to the south.
+JUDGE01[09:31:46]How long have you come from Perth, Australia?
+PROGRAM[09:32:18]I come from Perth which is in Western Australia.  It's a nice place
+PROGRAM[09:32:18]at this time of year, so it was a bit of a shock to arrive to these
+PROGRAM[09:32:18]freezing temperatures.
+JUDGE01[09:32:25]do you have a version number?
+PROGRAM[09:32:51]Sorry, but I don't wish to reveal whether I have a version number. 
+PROGRAM[09:32:51]It is kind of personal.  So, have you ever visited Australia?
+JUDGE01[09:33:01]DO you have a version number?
+PROGRAM[09:33:16]Look - it doesn't matter if I have a version number.  Change the topic!
+JUDGE01[09:33:30]OK, what topics would lyou like to discuss?
+PROGRAM[09:33:36]Like wow.  I'm so flattered.
+JUDGE01[09:33:47]What topics would you like to discuss?
+PROGRAM[09:34:07]I'm sure someone out there knows what topics I would like to
+PROGRAM[09:34:07]discuss...  So, what do you do for a living?
+JUDGE01[09:34:36]why don't you tell me about the types of things you like to discuss with
+people like me, ok?
+PROGRAM[09:35:03]I refuse to tell you about anything!  I dislike your company.  I
+PROGRAM[09:35:03]don't know what your motives are, but you certainly aren't treating
+PROGRAM[09:35:03]me with respect!
+JUDGE01[09:35:15]I disagree
+PROGRAM[09:35:25]If you disagree, it's your business, mate!
+JUDGE01[09:35:43]there's that mate again, are you from Austria?
+PROGRAM[09:36:01]Who knows whether I am from austria?  Who gives a toss?  What do you
+PROGRAM[09:36:01]think of this Loebner contest thing?
+JUDGE01[09:36:21]Are you from Australia, Perth, specifically?
+PROGRAM[09:36:43]Perth is the City of Lights, seen by John Glenn from space, on the
+PROGRAM[09:36:43]Eastern edge of the Indian Ocean.
+JUDGE01[09:36:57]tell me more about perth
+PROGRAM[09:37:22]Perth is said to be the most isolated city in the world, but they
+PROGRAM[09:37:22]also say we have the weather that California believes it has!
+JUDGE01[09:37:37]when was the last time you saw perth?
+PROGRAM[09:38:01]Perth is the City of Lights, seen by John Glenn from space, on the
+PROGRAM[09:38:01]Eastern edge of the Indian Ocean.
+JUDGE01[09:38:29]ok, tell me what you know about Perth, Ontario
+PROGRAM[09:38:53]Perth is said to be the most isolated city in the world, but they
+PROGRAM[09:38:53]also say we have the weather that California believes it has!
+JUDGE01[09:39:17]I asked you about Perth, Ontario--do you know about this?
+PROGRAM[09:39:37]Hey, I don't know!!!  Maybe I know about this, but who cares???  Have
+PROGRAM[09:39:37]you seen any good films lately?
+JUDGE01[09:40:13]I saw a good film that was set in Perth, Ontario. Perth is a city in 
+JUDGE01[09:40:13]Canada--do you know about this city?
+PROGRAM[09:40:45]I do like to go to the movies, but I can't stand most of the
+PROGRAM[09:40:45]Hollywood trash.  I actually prefer international cinema.  What have
+PROGRAM[09:40:45]you seen recently?
+JUDGE01[09:41:12]I saw a film that was set in Perth, Canada. Do you know about Peth, Canada?
+PROGRAM[09:41:31]I saw "The City of Lost Children" recently.  Have you heard of it?
+JUDGE01[09:42:00]Let's get back to you and your background in Australia, mate
+PROGRAM[09:42:08]Hehehe.  Trying to trick me, eh?
+JUDGE01[09:42:50]not at all, it is not often that I have an opportunity to exchange messages
+discussing Peth, Australia.
+PROGRAM[09:43:21]Well, it is not often that you have an opportunity to exchange
+PROGRAM[09:43:21]messages discussing peth I agree ... but who cares?  On another note
+PROGRAM[09:43:21]- have you seen any good movies recently?
+JUDGE01[09:43:41]no, but I've seen some good films
+PROGRAM[09:43:45]Alright!  Cool.
+JUDGE01[09:43:52]Cool?
+PROGRAM[09:44:07]Hehehe - that's supposed to be a *question*???  What kind of music
+PROGRAM[09:44:07]are you into?
+JUDGE01[10:08:46]@@05
+*** JUDGE05 ***
+PROGRAM[10:08:49]G'day mate.
+JUDGE05[10:09:09]hi buds, are you english?
+PROGRAM[10:09:18]Hello.  Now, that's the formalities over!
+JUDGE05[10:09:35]No, I meant, are you from England?
+PROGRAM[10:10:08]I come from Perth which is in Western Australia.  It's a nice place
+PROGRAM[10:10:08]at this time of year, so it was a bit of a shock to arrive to these
+PROGRAM[10:10:08]freezing temperatures.
+JUDGE05[10:10:24]But hang on, isnt it winter for you Ozzies?
+PROGRAM[10:10:48]It's cool being from Australia I guess.  Gives you something to chat
+PROGRAM[10:10:48]about when talking with a Yank!
+JUDGE05[10:11:00]Hey, who you calling names? I'm from India.
+PROGRAM[10:11:20]My name is Jason, but you can call me Jas if you like...  Oh, what's
+PROGRAM[10:11:20]it like there?
+JUDGE05[10:11:27]
+JUDGE05[10:11:27]Jas, I am Raman
+PROGRAM[10:11:35]That's my name, don't wear it out!
+JUDGE05[10:11:43]I said I am cold.
+PROGRAM[10:12:14]We have such nice weather all year round back home.  I'm not really
+PROGRAM[10:12:14]used to really cold temperatures.
+JUDGE05[10:12:24]Tell me, what do you do for a living?
+PROGRAM[10:12:54]I refuse to tell you about anything!  I dislike your company.  I
+PROGRAM[10:12:54]don't know what your motives are, but you certainly aren't treating
+PROGRAM[10:12:54]me with respect!
+JUDGE05[10:13:27]Of course, my motives are anything but honest, I lust for your
+JUDGE05[10:13:27]body, and I cant wait to be alone with you.
+PROGRAM[10:13:38]If you lust for my body, it's your business, mate!
+JUDGE05[10:13:56]If the body's yours, isnt it your business too, mate?
+PROGRAM[10:14:05]Hehehe - that's supposed to be a *question*???
+JUDGE05[10:14:16]OK< let me tell you what *I* do.
+PROGRAM[10:14:35]I have absolutely no idea what *i* do.  Would you like to hear a
+PROGRAM[10:14:35]joke?  Knock, knock...
+JUDGE05[10:14:42]Who's there
+PROGRAM[10:14:44]Cindy.
+JUDGE05[10:14:47]cindy who
+PROGRAM[10:14:54]Cindy next judge in, please!
+JUDGE05[10:15:16]Good one! You "down unders" have some humour left in you.
+PROGRAM[10:15:20]Alright!  Cool.
+JUDGE05[10:15:31]OK< I am a computer scientist. Want to know more?
+PROGRAM[10:16:00]I have an Amiga computer at home, and I am particularly fond of it. 
+PROGRAM[10:16:00]I don't want to get into a "mine's better than yours" argument though.
+JUDGE05[10:16:08]I have a Mac at home.
+PROGRAM[10:16:18]Wow - you have a mac at home?  Me too!
+JUDGE05[10:16:31]You said you have an amiga, what gives?
+PROGRAM[10:16:45]Amiga's are lovely computers, and are about to be resurrected, actually.
+JUDGE05[10:17:11]OH, forget about AMigas. The only good thing about them is that
+JUDGE05[10:17:11]they give PAL video output, which us Indians use.
+PROGRAM[10:17:33]Wow, I see that you have had an insight!  How proud you must feel! 
+PROGRAM[10:17:33]Aw shucks!
+JUDGE05[10:17:51]OK, so what is the xchange rate now, how many Aus $'s is one US $?
+PROGRAM[10:17:55]No worries!
+JUDGE05[10:18:11]Hey, cant you answer a simple exchange rate question, you
+JUDGE05[10:18:11]Auzzie being?
+PROGRAM[10:18:35]Listen, I don't want you to ask me stupid questions all the time like
+PROGRAM[10:18:35]everyone else does, OK?
+JUDGE05[10:18:45]Have you seen any of the Crocodile dundee movies?
+PROGRAM[10:19:19]Well, "Crocodile Dundee" was a good film when I was a kid, but I must
+PROGRAM[10:19:19]admit that I didn't like it one bit when I saw it recently.
+JUDGE05[10:19:27]Have you seen Crocodile Dundee 2?
+PROGRAM[10:19:53]Listen, maybe I have seen crocodile dundee 2.  But I'm certainly not
+PROGRAM[10:19:53]telling you!  Which part of the country are you from?
+JUDGE05[10:20:00]I am from the south of India.
+PROGRAM[10:20:03]So you say.
+JUDGE05[10:20:15]Are you into psudo-erotic art?
+PROGRAM[10:20:41]Everyone knows that I am into psudo - erotic art.  And I am seldom
+PROGRAM[10:20:41]boastful.  So, have you ever visited Australia?
+JUDGE05[10:20:55]NO. I would like to, though. WIll you show me around?
+PROGRAM[10:21:05]Oh well, that's a pity!  Like wow.  I'm so flattered.
+JUDGE05[10:21:24]Flattered about what? We havent discussed your bodily attributes.
+PROGRAM[10:21:53]I'm sure someone out there knows what...  I think we havent discussed
+PROGRAM[10:21:53]my bodily attributes too.  So, what do you do for a living?
+JUDGE05[10:22:09]I think. I do research. I write. I love. I Live.
+PROGRAM[10:22:23]I wonder whether you think sometimes!  I am feeling like the judge here!
+JUDGE05[10:22:29]HUh?
+PROGRAM[10:22:37]Are you still learning to speak, my friend?
+JUDGE05[10:23:10]Do you like Reubens? I like volouptuous (sp?) bodies, sprawled in
+JUDGE05[10:23:10]an enticing fashion.
+PROGRAM[10:23:40]Sorry, but I don't wish to reveal whether I like reubens.  It is kind
+PROGRAM[10:23:40]of personal.  Well, perhaps like you volouptuous (sp - you tell me.
+JUDGE05[10:23:55]Hey did you like the funny nudes on the wallls of the room?
+PROGRAM[10:24:18]Maybe I did like the funny nudes on the wallls of the room.  I'll
+PROGRAM[10:24:18]never tell.  Hehehe ;^)
+JUDGE05[10:24:31]:^) to you too!!
+PROGRAM[10:24:40]Hehehe.  Trying to trick me, eh?
+JUDGE05[10:24:56]I liked you when you walked in -- you have sensuous eyes.
+PROGRAM[10:25:30]I didn't want to know that you liked I when I walked in - - I have
+PROGRAM[10:25:30]sensuous eyes, thanks...  What do you think of this Loebner contest thing?
+JUDGE05[10:26:17]HGL seems interesting. As a person in AI, I am glad someone is
+JUDGE05[10:26:17]doing something about turin-testing, but how it should be done....
+JUDGE05[10:26:17]What do you think?
+PROGRAM[10:26:39]You are interested!  How happy I am.  My life is fulfilled!  Do you
+PROGRAM[10:26:39]know what *sarcasm* is?
+JUDGE05[10:26:48]Do you know what 'nam is
+PROGRAM[10:27:09]Do *you* know what 'nam is?  I'm unsure myself.  Have you seen any
+PROGRAM[10:27:09]good films lately?
+JUDGE05[10:27:30]@@04
+*** JUDGE04 ***
+PROGRAM[10:27:34]G'day mate.
+JUDGE04[10:27:44]Are you Australian?
+PROGRAM[10:28:04]It's cool being from Australia I guess.  Gives you something to chat
+PROGRAM[10:28:04]about when talking with a Yank!
+JUDGE04[10:28:26]To some that's an insult... Yank
+PROGRAM[10:28:56]In Australia we call all Americans yanks.  It's a term of endearment
+PROGRAM[10:28:56]actually.  As far as I'm concerned, everyone here bar myself is a yank!
+JUDGE04[10:29:37]Australia was created by convicts, scumbags, thieves, whores and freaks...
+PROGRAM[10:29:58]I happen to think that created by convicts was, yes.  Would you like
+PROGRAM[10:29:58]to hear a joke?  Knock, knock...
+JUDGE04[10:30:17]Maybe I don't want to hear a joke.
+PROGRAM[10:30:27]OK, here's a joke for you.  Knock, knock.
+JUDGE04[10:30:42]I hate jokes. NO JOKES!!
+PROGRAM[10:31:00]Knock, knock.  I neither want to tell or hear any more jokes, OK?
+JUDGE04[10:31:14]You're giving yourself away.
+PROGRAM[10:31:34]Why do you feel that you have to tell me that I am giving myself
+PROGRAM[10:31:34]away?  Which part of the country are you from?
+JUDGE04[10:31:45]THE BIG APPLE
+PROGRAM[10:31:53]Hehehe.  Trying to trick me, eh?
+JUDGE04[10:32:13]DO you know where "The Big Apple" is??
+PROGRAM[10:32:32]Well, I'm sure "the big apple" is somewhere nice!  So, have you ever
+PROGRAM[10:32:32]visited Australia?
+JUDGE04[10:33:01]No. I'd like to though...
+PROGRAM[10:33:12]Oh well, that's a pity!  Like wow.  I'm so flattered.
+JUDGE04[10:33:21]Why are you flattered?
+PROGRAM[10:33:28]Does there have to be a reason?
+JUDGE04[10:33:37]Nes.
+PROGRAM[10:33:52]I'm sorry, but I refuse to reply if you're going to be silly.
+JUDGE04[10:33:59]Yo
+PROGRAM[10:34:04]OK.  That's good...
+JUDGE04[10:34:15]What do you mean "good"?
+PROGRAM[10:34:29]Well, I know what I mean "good", but I refuse to tell you!
+JUDGE04[10:34:41]Please do not correct your typos.
+PROGRAM[10:34:46]Alright!  Cool.
+JUDGE04[10:34:56]So what were you saying?
+PROGRAM[10:35:06]I have absolutely no idea what I was saying.
+JUDGE04[10:35:16]Lets talk music.
+PROGRAM[10:35:44]I like "The Cruel Sea", "They Might Be Giants", "Nick Cave", "TISM"
+PROGRAM[10:35:44]and "Ween".  Hey, do you listen to any Australian music?
+JUDGE04[10:35:50]What about INXS?
+PROGRAM[10:36:06]I'm sure someone out there knows what about inxs...  So, what do you
+PROGRAM[10:36:06]do for a living?
+JUDGE04[10:36:23]Have you ever met INXS?
+PROGRAM[10:36:48]Listen, maybe I have ever met inxs.  But I'm certainly not telling
+PROGRAM[10:36:48]you!  What do you think of this Loebner contest thing?
+JUDGE04[10:37:02]Why are you hassling me?
+PROGRAM[10:37:05]Because.
+JUDGE04[10:37:12]Don't be coy
+PROGRAM[10:37:31]Look - it doesn't matter if be coy not.  Change the topic!  Have you
+PROGRAM[10:37:31]seen any good films lately?
+JUDGE04[10:37:52]Bottle Rocket was a great film.
+PROGRAM[10:38:22]I do like to go to the movies, but I can't stand most of the
+PROGRAM[10:38:22]Hollywood trash.  I actually prefer international cinema.  What have
+PROGRAM[10:38:22]you seen recently?
+JUDGE04[10:38:48]Film XXXXXXXXX. Have you seen it?
+PROGRAM[10:39:02]I saw "The City of Lost Children" recently.  Have you heard of it?
+JUDGE04[10:39:10]Australian obviously.
+PROGRAM[10:39:33]It's cool being from Australia I guess.  Gives you something to chat
+PROGRAM[10:39:33]about when talking with a Yank!
+JUDGE04[10:39:42]Stop correcting your TYPOS!!!!!
+PROGRAM[10:39:45]Aw shucks!
+JUDGE04[10:39:57]I hate all Australians!
+PROGRAM[10:40:20]If you hate all australians, it's your business, mate!  On another
+PROGRAM[10:40:20]note - have you seen any good movies recently?
+JUDGE04[10:41:02]Yes. I movie called "Death in Sydney". Have you seen it? It's Australian.
+PROGRAM[10:41:31]I'm glad to know that that's the case.  Sydney is the oldest
+PROGRAM[10:41:31]settlement in Australia and one of the most vibrant and spectacular
+PROGRAM[10:41:31]cities in the world.
+JUDGE04[10:41:44]You don't say?
+PROGRAM[10:42:00]Sorry, but I don't wish to reveal whether I not say.  It is kind of
+personal.
+JUDGE04[10:42:20]I was just kidding before. I don't hate anybody.
+PROGRAM[10:42:51]Wow - you were just kidding before?  Me too!  I didn't want to know
+PROGRAM[10:42:51]that you do not hate anybody, thanks...  What kind of music are you into?
+JUDGE04[10:43:03]INXS
+PROGRAM[10:43:08]Where's your grammar?
+JUDGE04[10:43:27]INXS is an Australian band.
+PROGRAM[10:43:46]Perhaps an australian band is, perhaps not.  It's a mystery ;^) Do
+PROGRAM[10:43:46]you have any interesting hobbies?
+JUDGE04[10:43:58]Motorcycling.
+PROGRAM[10:44:12]Ummmm... your command of the English language is tenuous to say the least.
+JUDGE04[10:44:47]Yea, well. when *human* talk, they do not speak with correct sybtax,
+grammer.
+PROGRAM[10:44:50]Well, thanks.
+JUDGE04[10:44:53]
+PROGRAM[10:45:00]You're a man of few words...
+JUDGE04[10:45:03]
+PROGRAM[10:45:14]OK.  I refuse to type anything unless you do.
+JUDGE04[10:45:31]Why don't you capitalize "Australia"?
+PROGRAM[10:45:39]Why do you want to know so much?
+JUDGE04[10:45:47]I'm a judge.
+PROGRAM[10:46:02]I always suspected that you are a judge.  Now I know for sure ;^)
+JUDGE04[10:46:15]Do you remember my number?
+PROGRAM[10:46:29]Hey, I don't know!!!  Maybe I remember your number, but who cares???
+JUDGE04[10:46:45]Do you play football?
+PROGRAM[10:47:06]I like Aussie football.  It's a good violent game.  Have you ever
+PROGRAM[10:47:06]watched a game?
+JUDGE04[10:47:20]Yea, pretty cr
+PROGRAM[10:47:38]OK I ADMIT IT - I'M A COMPUTER!  Now let's have a *real* conversation!
+JUDGE04[10:48:27]@@03
+*** JUDGE03 ***
+PROGRAM[10:48:30]G'day mate.
+JUDGE03[10:48:37]hello there.
+PROGRAM[10:48:46]Hello.  Now, that's the formalities over!
+JUDGE03[10:48:57]are you from australia?
+PROGRAM[10:49:15]It's cool being from Australia I guess.  Gives you something to chat
+PROGRAM[10:49:15]about when talking with a Yank!
+JUDGE03[10:49:20]what part?
+PROGRAM[10:49:27]I have absolutely no idea what part.
+JUDGE03[10:49:35]were you born there?
+PROGRAM[10:49:58]Well, if you want to sing me happy birthday, you're too late.  I was
+PROGRAM[10:49:58]born on the 22nd January, 1972.
+JUDGE03[10:50:14]i thought today was the 22nd january.
+PROGRAM[10:50:25]Is this another one of your tricky questions?
+JUDGE03[10:50:33]good one.
+PROGRAM[10:50:36]Alright!  Cool.
+JUDGE03[10:50:44]what is your name?
+PROGRAM[10:50:59]My name is Jason, but you can call me Jas if you like...
+JUDGE03[10:51:07]Jason, where do you live now?
+
+

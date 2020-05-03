@@ -1,0 +1,57 @@
+(yes_no_calling_context != '')
+"(#WORD_BOUNDARIES#)#YES#(#WORD_BOUNDARIES#)"
+{
+	changecontext(yes_no_calling_context);
+	yes_no_calling_context='';
+	yes_no_confirm=1;
+	yes_no_negative_response = '';
+	throw(input);
+}
+[]
+0
+
+(yes_no_calling_context == '')
+"(#WORD_BOUNDARIES#)#YES#(#WORD_BOUNDARIES#)"
+{
+	changecontext("default");
+	throw(input);
+}
+[]
+0
+
+(yes_no_negative_response != '')
+"(#WORD_BOUNDARIES#)#NO#(#WORD_BOUNDARIES#)"
+{
+	response += yes_no_negative_response;
+	yes_no_negative_response = '';
+	changecontext("default");
+}
+[]
+0
+
+(yes_no_negative_response == '')
+"(#WORD_BOUNDARIES#)#NO#(#WORD_BOUNDARIES#)"
+{
+	changecontext("default");
+	throw(input);
+}
+[]
+0
+
+(1)
+""
+{
+	changecontext("default");
+	throw(input);
+}
+[]
+-999
+
+(1)
+""
+{
+	changecontext("default");
+	throw(input);
+}
+[]
+-999

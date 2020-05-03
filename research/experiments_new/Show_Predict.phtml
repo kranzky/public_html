@@ -1,0 +1,182 @@
+<? Include("Verify.phtml"); >
+<? Include("Maintainer.phtml"); >
+<? Include("Functions.phtml"); >
+<? $title = "Predict Experiment"; >
+<? Include("Header.phtml"); >
+
+<?
+	msql_connect("localhost");
+	$predict=intval($predict);
+
+	if(IsSet($word));
+	$word=intval($word);
+	$result=msql("hutch", "SELECT word FROM predict_data_info WHERE experiment=$predict AND number=$word");
+	$string=msql_result($result, 0, "word");
+	echo "<H2>Show Word \"$string\"</H2>";
+
+	$result=msql("hutch", "SELECT length FROM predict_data WHERE experiment=$predict");
+	$length=msql_result($result, 0, "length");
+	if($word>0);
+		echo "[<A HREF=\"Show_Predict.phtml?predict=$predict&word="+($word-1)+"\">Previous Word</A>]";
+	endif;
+	if($word<$length-1);
+		if($word>0); echo " | "; endif;
+		echo "[<A HREF=\"Show_Predict.phtml?predict=$predict&word="+($word+1)+"\">Next Word</A>]";
+	endif;
+
+	echo "<P>";
+
+	if(IsSet($user));
+		$result=msql("hutch", "SELECT guesses,giveup,surprise FROM predict WHERE user=$user AND experiment=$predict AND number=$word");
+		$guesses=msql_result($result, 0, "guesses");
+		$giveup=msql_result($result, 0, "giveup");
+		$surprise=msql_result($result, 0, "surprise");
+		echo "<A HREF=\"Show_User.phtml?user=$user\">User $user</A> had ";
+		echo "$guesses guesses at the word.  ";
+		if($giveup==1);
+			echo "The user gave up, and estimated their surprise at $surprise.  ";
+		endif;
+		echo "The guesses, in order, were:";
+		echo "<OL>";
+		$i=0;
+		$result=msql("hutch", "SELECT word FROM predict_info WHERE user=$user AND experiment=$predict AND number=$word");
+		while($i<$guesses);
+			$guess=msql_result($result, $i, "word");
+			echo "<LI>$guess</LI>";
+			$i+=1;
+		endwhile;
+		echo "</OL>";
+		echo "You can also see the ";
+		echo "<A HREF=\"Show_Predict.phtml?predict=$predict&word=$word\">overall statistics</A>";
+		echo " for this experiment.";
+	else;
+		$result=msql("hutch", "SELECT guesses,giveup,surprise FROM predict WHERE experiment=$predict AND number=$word");
+		$num=msql_numrows($result);
+		$i=0;
+		$guesses=0;
+		while($i<$num);
+			$guesses+=msql_result($result, $i, "guesses");
+			$i+=1;
+		endwhile;
+		if($num>0); $guesses=$guesses/$num; endif;
+		echo "$num users have taken an average of $guesses guesses at this word.  ";
+		$av_giveup=0;
+		$av_surprise=0;
+		$i=0;
+		while($i<$num);
+			$av_giveup+=msql_result($result, $i, "giveup");
+			$av_surprise+=msql_result($result, $i, "surprise");
+			$i+=1;
+		endwhile;
+		if($av_giveup>0);
+		echo "Of these, $av_giveup gave up, and registered an average ";
+		echo "surprise of "+doubleval($av_surprise)/doubleval($av_giveup)+".  ";
+		endif;
+		if(IsSet($seq));
+		Echo "(NB: Results for $seq guess only)";
+		$result=msql("hutch", "SELECT word FROM predict_info WHERE experiment=$predict AND number=$word AND guess=$seq");
+		else;
+		$result=msql("hutch", "SELECT word FROM predict_info WHERE experiment=$predict AND number=$word");
+		endif;
+		$num=msql_numrows($result);
+		echo "A total of $num guesses were made.  Here is a list of all the ";
+		echo "words guessed, listed in decreasing order of frequency:";
+		$i=0;
+		while($i<$num);
+			$guess=msql_result($result, $i, "word");
+			$count[$guess]+=1;
+			$i+=1;
+		endwhile;
+		$size=Count($count);
+		echo "<UL>";
+		$i=0;
+		while($i<$size);
+			echo "<LI>"+key($count)+" - "+doubleval(Abs($count[]))/doubleval($num)+"</LI>";
+			$i+=1;
+		endwhile;
+		echo "</UL>";
+	endif;
+
+	endif;
+
+	$result=msql("hutch", "SELECT val FROM global WHERE name='num_predict'");
+	$num_predict=msql_result($result, 0, "val");
+>
+
+<H2>Show Predict</H2>
+
+<?
+	if($predict>0);
+		echo "[<A HREF=\"Show_Predict.phtml?predict="+($predict-1)+"\">Previous Experiment</A>]";
+	endif;
+	if($predict<$num_predict-1);
+		if($predict>0); echo " | "; endif; 
+		echo "[<A HREF=\"Show_Predict.phtml?predict="+($predict+1)+"\">Next Experiment</A>]";
+	endif;
+
+	echo "<P>";
+>
+
+<? if(IsSet($user)); >
+Displayed below is the sequence of words currently predicted by
+<A HREF="Show_User.phtml?user=<? echo $user; >">user <? echo $user; ></A>.
+Click on a word to see the list of guesses and the surprise.
+<?	else; >
+Displayed below is the sequence of words for this prediction experiment.
+Click on a word to see a list of guesses, listed
+by decreasing frequency, the average number of guesses taken to get it right,
+and the average surprise.
+<?	endif; >
+
+<P>
+<CENTER>
+<TABLE WIDTH="90%" CELLPADDING=0 CELLSPACING=0>
+<TR><TD>
+<BIG>
+<?
+	if(!IsSet($predict));
+		Error("No experiment specified in show", "");
+	endif;
+	if(IsSet($user));
+		$result=msql("hutch", "SELECT position,predict FROM user_info WHERE user=$user");
+		$user_predict=msql_result($result, 0, "predict");
+		if($user_predict==$predict);
+			$length=msql_result($result, 0, "position");
+		else;
+			$length=0;
+		endif;
+	endif;
+	if((!IsSet($user))||($user_predict>$predict));
+		$result=msql("hutch", "SELECT length FROM predict_data WHERE experiment=$predict");
+		$length=msql_result($result, 0, "length");
+	endif;
+
+	$result=msql("hutch", "SELECT start,alphabet FROM predict_data WHERE experiment=$predict");
+	$alphabet=msql_result($result, 0, "alphabet");
+	$start=msql_result($result, 0, "start");
+
+	$i=0;
+	echo "$start";
+	if((strlen($start)>0)&&($alphabet==0));
+		echo " ";
+	endif;
+	while($i<$length);
+		$result=msql("hutch", "SELECT word FROM predict_data_info WHERE experiment=$predict AND number=$i");
+		$word=msql_result($result, 0, "word");
+		if(($i<($length-1))&&(($alphabet==0)||($word=="_")));
+			$word+=" ";
+		endif;
+		if(IsSet($user));
+			echo "<A HREF=\"Show_Predict.phtml?predict=$predict&word=$i&user=$user\">$word</A>";
+		else;
+			echo "<A HREF=\"Show_Predict.phtml?predict=$predict&word=$i\">$word</A>";
+		endif;
+		$i+=1;
+	endwhile;
+>
+</BIG>
+</TD></TR>
+</TABLE>
+</CENTER>
+
+<? Include("Footer.phtml"); >

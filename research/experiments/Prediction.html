@@ -1,0 +1,379 @@
+<? Include("Verify.html"); ?>
+<? Include("Functions.html"); ?>
+<? $title = "Prediction Experiment"; ?>
+<? Include("Header.html"); ?>
+
+<?
+	Function Increment_Position()
+	{
+		Global $position, $predict, $s_user, $length, $num_predict;
+
+		$position+=1;
+		$result=mysql_query("UPDATE user_info SET position=$position WHERE user=$s_user");
+		if($position==$length) {
+			$result=mysql_query("SELECT eligible,predict FROM user_info WHERE user = $s_user");
+			$predict=mysql_result($result, 0, "predict");
+			$eligible=mysql_result($result, 0, "eligible");
+			$predict+=1;
+			if($predict==$num_predict) {
+				$eligible+=1;
+				$result=mysql_query("UPDATE user_info SET eligible=$eligible WHERE user=$s_user");
+			}
+			$result=mysql_query("UPDATE user_info SET predict=$predict, position=0 WHERE user=$s_user");
+		}
+	}
+?>
+
+<?
+	mysql_connect("localhost","hutch","wally37");
+	mysql_select_db("experiments");
+
+	if($guess=="") { $guess=$guess2; }
+
+	$result=mysql_query("SELECT predict,position FROM user_info WHERE user = $s_user");
+	$predict=mysql_result($result, 0, "predict");
+	$position=mysql_result($result, 0, "position");
+
+	if($surprise!="") {
+		$surprise=intval($surprise);
+		$result=mysql_query("UPDATE predict SET surprise=$surprise WHERE user=$s_user AND experiment=$lastexp AND number=$lastpos");
+		echo "<P>Thanks for letting me know how surprised you were!</P>";
+	}
+
+	/*
+	 *		Get the number of experiments
+	 */
+	$result=mysql_query("SELECT val FROM global WHERE name='num_predict'");
+	$num_predict=mysql_result($result, 0, "val");
+	if($predict>=$num_predict) {
+		if($surprise!="") {
+			echo "<H2>Prediction experiments completed</H2>";
+			echo "You have completed all of the prediction experiments.  ";
+			echo "Thank-you very much!";
+			Include("Footer.html");
+			Exit;
+		} else {
+			Error("There are only $num_predict experiment(s)", "");
+		}
+	}
+
+	/*
+	 *		Get the number of words in the experiment
+	 */
+	$result=mysql_query("SELECT length,start,dictionary,alphabet FROM predict_data WHERE experiment=$predict");
+	$num = mysql_num_rows($result);
+	if($num!=1) {
+		Error("Prediction experiment $predict may not exist", "");
+	}
+	$length=mysql_result($result, 0, "length");
+	$dictionary=strtoupper(mysql_result($result, 0, "dictionary"));
+	$alphabet=mysql_result($result, 0, "alphabet");
+	$start=mysql_result($result, 0, "start");
+
+	if($alphabet==1) {
+		$dictionary="ABCDEFGHIJKLMNOPQRSTUVWXYZ_";
+	}
+
+	/*
+	 *		Get the current position in the experiment
+	 */
+	if($position>=$length) {
+		Error("User has already completed this experiment", "");
+	}
+
+	/*
+	 *		Construct the context string
+	 */
+	$string=$start;
+	if((strlen($string)>0)&&($alphabet==0)) {
+		$string.=" ";
+	}
+	$i=0;
+	while($i<$position) {
+		$result=mysql_query("SELECT word FROM predict_data_info WHERE experiment=$predict AND number=$i");
+		$word=mysql_result($result, 0, "word");
+		$string.=$word;
+		if(($i<$position-1)&&(($alphabet==0)||($word=="_"))) { $string.=" "; }
+		$i+=1;
+	}
+
+	/*
+	 *		If they've submitted a guess clean it up and make sure it's not null
+	 */
+	if(($guess!="")&&($alphabet==0)) {
+
+		$guess=Clean_Word($guess);
+		if($guess=="") {
+			echo "<H2>Empty Word</H2>";
+			echo "The word you entered for your guess was empty.  Please ";
+			echo "try again.";
+		} else {
+			$guess=strtoupper($guess);
+			$guess=Filter_Word($guess);
+			if($guess=="") {
+				echo "<H2>Multiple Word</H2>";
+				echo "You entered more than one word.  Please try again.";
+			}
+		}
+	}
+
+	/*
+	 *		If we're on the letter level, make sure it's valid
+	 */
+	if(($guess!="")&&($alphabet==1)) {
+		$guess=strtoupper($guess);
+		if(strlen($guess)!=1) {
+			echo "<H2>Word is too long</H2>";
+			echo "In this experiment, use characters only.";
+			$guess="";
+		} else {
+			$a=substr($guess, 0, 1);
+			if(strchr($dictionary, $a)=="") {
+				echo "<H2>Word is not in the dictionary</H2>";
+				$guess="";
+			}
+		}
+	}
+
+	/*
+	 *		If we've got our own dictionary, make sure its valid
+	 */
+	if(($guess!="")&&($alphabet==2)) {
+		$guess=strtoupper($guess);
+		if(strchr($dictionary, $guess)=="") {
+?>
+<H2>Invalid symbol</H2>
+In this experiment, you may only enter one of these symbols:
+<B><? echo $dictionary; ?></B>.  Please try again.
+<?
+		$guess="";
+		}
+	}
+
+	/*
+	 *		If it's not empty, see whether they've guessed it before.
+	 */
+	if($guess!="") {
+
+		$result=mysql_query("SELECT guess FROM predict_info WHERE user=$s_user AND experiment=$predict AND number=$position AND word='$guess'");
+		$num=mysql_num_rows($result);
+		if($num!=0) {
+			echo "<H2>Same Guess</H2>";
+			echo "You have already guessed that.  Please try again.";
+			$guess="";
+		}
+	}
+
+	/*
+	 *		Find out how many guesses they've had
+	 */
+	$result=mysql_query("SELECT guesses FROM predict WHERE user=$s_user AND experiment=$predict AND number=$position");
+	$num=mysql_num_rows($result);
+	if($num==0) {
+		$result=mysql_query("INSERT INTO predict VALUES ($s_user, $predict, $position, 0, 0, 0)");
+		$guesses=0;
+	} else {
+		$guesses=mysql_result($result, 0, "guesses");
+	}
+
+	/*
+	 *		If they haven't, find out the number of guesses they've had,
+	 *		insert their guess, and see whether it was correct
+	 */
+	if($guess!="") {
+		$result=mysql_query("INSERT INTO predict_info VALUES ($s_user, $predict, $position, $guesses, '$guess')");
+		$guesses+=1;
+		$result=mysql_query("UPDATE predict SET guesses=$guesses WHERE user=$s_user AND experiment=$predict AND number=$position");
+
+		$result=mysql_query("SELECT word FROM predict_data_info WHERE experiment=$predict AND number=$position");
+		$word=mysql_result($result, 0, "word");
+		$original=$word;
+		$word=Clean_Word($word);
+		$word=strtoupper($word);
+		if($alphabet==0) {
+			$word=Filter_Word($word);
+		}
+		if($guess==$word) {
+			echo "<H2>You guessed correctly!</H2>";
+			echo "Well done, you guessed correctly in only ";
+			echo "$guesses attempt(s)!";
+
+			Increment_Position();
+
+			if($position==$length) {
+				echo "<H2>Experiment Finished!</H2>";
+				echo "You have completed this prediction experiment.  Thank-you ";
+				echo "very much for taking the time to do so.  To continue with ";
+				echo "the experiments, please return to the ";
+				echo "<A HREF=\"Experiment_List.html\">experiment list</A>.";
+?>
+<H2>Feedback</H2>
+
+I would appreciate it if you took the time to comment on this experiment.
+In particular, I would like to know the following:
+<UL>
+<LI>What do you think of your performance?</LI>
+<LI>How did you make the guesses?  What was going on in your mind?</LI>
+<LI>How could this experiment be improved?</LI>
+</UL>
+Feedback of any kind is valued.  Comments, critiscisms and suggestions on
+how this experiment may be improved are welcome.  Please note that you
+<B>ARE NOT REQUIRED</B> to fill out this section.  Only give me feedback if
+you have something meaningfull to contribute.  You will still be eligible for
+the prize if you don't give me any feedback, ever.
+<P>
+<FORM METHOD=POST ACTION="Comment.html">
+<CENTER><TABLE BORDER=0 CELLSPACING=0 CELLPADDING=4 WIDTH="90%"><TR><TD BGCOLOR="EEEEBB" ALIGN="MIDDLE"><TEXTAREA NAME=message ROWS=10 COLS=40></TEXTAREA></TD></TR></TABLE><INPUT TYPE=submit value="Register Comment">
+<INPUT TYPE=hidden NAME=e_title VALUE="Feedback for Prediction Experiment <? echo $predict; ?>">
+</CENTER>
+</FORM>
+<?
+				Include("Footer.html");
+				Exit;
+			}
+
+			if($alphabet==0) {
+				$string.=" ".$original;
+			} else {
+				$string.=$original;
+			}
+			$guesses=0;
+		} else {
+			echo "<H2>No, that's not it...</H2>";
+			echo "Your guess is not correct.  Please try again.";
+		}
+	}
+
+	if(($giveup=="Y")&&($guesses>=10)&&($alphabet==0)) {
+		echo "<H2>You gave up!</H2><P>";
+		$lastexp=$predict;
+		$lastpos=$position;
+		$result=mysql_query("UPDATE predict SET giveup=1 WHERE user=$s_user AND experiment=$predict AND number=$position");
+		$result=mysql_query("SELECT word FROM predict_data_info WHERE experiment=$predict AND number=$position");
+		$word=mysql_result($result, 0, "word");
+		echo "The word was \"<B>$word</B>\"!<P>";
+		echo "The sequence so far reads <I>$string</I> <B>$word</B> ";
+		echo "Make a selection from the menu below which best describes your ";
+		echo "surprise at finding this out:";
+		Increment_Position();
+?>
+<P>
+<CENTER>
+<TABLE WIDTH="90%" CELLPADDING=0 CELLSPACING=0>
+<TR><TD>
+<FORM METHOD=POST ACTION="Prediction.html">
+<SELECT NAME=surprise>
+<OPTION VALUE="1">I'm not surprised at all</OPTION>
+<OPTION VALUE="2">I should have guessed it sooner</OPTION>
+<OPTION VALUE="3">It's a difficult word to guess</OPTION>
+<OPTION VALUE="4">That word was quite unexpected</OPTION>
+<OPTION VALUE="5">I wouldn't have guessed it in a million years</OPTION>
+</SELECT>
+<INPUT TYPE=hidden NAME=lastexp VALUE="<? echo $lastexp; ?>">
+<INPUT TYPE=hidden NAME=lastpos VALUE="<? echo $lastpos; ?>">
+<INPUT TYPE=submit VALUE="Submit">
+</FORM>
+</TD></TR>
+</TABLE>
+</CENTER>
+<?
+		Include("Footer.html");
+		Exit;
+	}
+
+	/*
+	 *		Finally, we're ready to ask for the guess!
+	 */
+?>
+
+<H2>Experiment <? echo 1+$predict; ?> (<? echo 1+$position; ?> of <? echo $length; ?>)</H2>
+
+Here is the sequence so far:
+
+<P>
+<CENTER>
+<TABLE WIDTH="90%" CELLPADDING=0 CELLSPACING=0>
+<TR><TD>
+<FORM METHOD=POST ACTION="Prediction.html">
+<BIG>... <? echo $string; ?></BIG>
+<?
+if($alphabet!=0) {
+	echo "<INPUT SIZE=1 NAME=guess>";
+} else {
+	echo "<INPUT SIZE=15 NAME=guess>";
+}
+?>
+</FORM>
+</TD></TR>
+</TABLE>
+</CENTER>
+
+<P>
+After reading this sequence, please enter your guess at the next 
+<?
+if($alphabet!=0) {
+	echo "letter";
+} else {
+	echo "word";
+}
+?>
+ into the text box above.
+<?
+if($alphabet==2) {
+	echo "You may enter any of these symbols: <B>$dictionary</B>.";
+} else if($alphabet==1) {
+	echo "You may enter the alphabetic letters A-Z, along with the underscore ";
+	echo "character '_', which is used to represent a space.";
+} else {
+	echo "Once you have had at least ten guesses, you will be given the option ";
+	echo "of giving up, and finding out what the word actually is.";
+}
+echo "<P>";
+if($alphabet!=0) {
+	echo "<P>Alternatively, you may make a selection from the menu shown below, which only ";
+	echo "shows the valid guesses you may make.  If you make a selection ";
+	echo "from this menu, please press the \"Submit\" button to register ";
+	echo "your guess.";
+	$i=0;
+	echo "<FORM METHOD=POST ACTION=\"Prediction.html\"><SELECT NAME=guess2>";
+	while($i<strlen($dictionary)) {
+		$a=substr($dictionary, $i, 1);
+		$result=mysql_query("SELECT word FROM predict_info WHERE user=$s_user AND experiment=$predict AND number=$position AND word='$a'");
+		if(mysql_num_rows($result)==0) {
+		echo "<OPTION VALUE='$a'>$a</OPTION>";
+		}
+		$i+=1;
+	}
+	echo "</SELECT>";
+	echo "<INPUT TYPE=submit value=\"Submit\"></FORM>";
+}
+?>
+
+<?
+	if(($guesses>=10)&&($alphabet==0)) {
+?>
+<P>
+<FORM METHOD=POST ACTION="Prediction.html">
+<INPUT TYPE=hidden NAME=giveup VALUE="Y">
+<INPUT TYPE=submit VALUE="I give up!  Tell me the symbol!">
+</FORM>
+<?
+	}
+?>
+
+<?
+	if($guesses>0) {
+		echo "<P>For your reference, these are the guesses you've had so far:";
+		echo "<OL>";
+		$i=0;
+		$result=mysql_query("SELECT word FROM predict_info WHERE user=$s_user AND experiment=$predict AND number=$position");
+		while($i<$guesses) {
+			$word=mysql_result($result, $i, "word");
+			echo "<LI>$word</LI>";
+			$i+=1;
+		}
+		echo "</OL>";
+	}
+?>
+
+<? Include("Footer.html"); ?>

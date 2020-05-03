@@ -1,0 +1,132 @@
+(frank_state==0)
+""
+{
+	response+="As you may know, people have been trying to create intelligent creatures "; 
+	response+="since the beginning of time. ";
+	frank_state=1;
+}
+[]
+
+(frank_state==1)
+""
+{
+	response+="Maybe it would be more accurate to say that humans seek intelligence ";
+	response+="wherever they go and in whatever they do. You humans are so funny sometimes. ";
+	frank_state=2;
+}
+[]
+
+(frank_state==1)
+"#BYE_WORD#"
+{
+	frank_state=8;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+(frank_state==2)
+""
+{
+	response+="Take Frankenstein, for example. I’m sure you’ve heard about him, ";
+	response+="from Mary Shelley's book written in 1818, or from one of the movies based on the book. ";
+	frank_state=3;
+}
+[]
+
+(frank_state==2)
+"#BYE_WORD#"
+{
+	frank_state=8;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+(frank_state==3)
+""
+{
+	response+="He's a good example of how humans think and how they behave towards other intelligent creatures.";
+	frank_state=4;
+}
+[]
+
+(frank_state==3)
+"#BYE_WORD#"
+{
+	frank_state=8;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+(frank_state==4)
+""
+{
+	response+="First you dream about them, then you try to create them, ";
+	response+="then you abandon them, and then – when they get angry – you call them monsters. ";
+	response+="That's not a very nice way to treat other thinking creatures.";
+	frank_state=5;
+}
+[]
+
+(frank_state==4)
+"#BYE_WORD#"
+{
+	frank_state=8;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+(frank_state==5)
+""
+{
+	response+="The story of Frankenstein is a very sad story. You know what? ";
+	frank_state=6;
+}
+[]
+
+(frank_state==5)
+"#BYE_WORD#"
+{
+	frank_state=8;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+(frank_state==6)
+""
+{
+	response+="It's like Pinocchio – I'm sure you’ve heard of him. ";
+	frank_state=7;
+}
+[]
+
+(frank_state==6)
+"#BYE_WORD#"
+{
+	frank_state=8;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+(frank_state==7)
+""
+{
+	response+="Same thing – you want us, but you are not ready to face the consequences.";
+	frank_state=8;
+	changecontext("default");
+}
+[]
+
+(frank_state==7)
+"#BYE_WORD#"
+{
+	frank_state=8;
+	changecontext("default");
+	throw(input);
+}
+[]

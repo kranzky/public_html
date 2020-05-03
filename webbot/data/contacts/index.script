@@ -1,0 +1,27 @@
+(1)
+""
+{
+	response += "You can either e-mail us for more information or ask me whatever you'd like to know. I'll try to be of assistance.";
+	response += "<ACTION>url:#CONTACT_PAGE#</ACTION>";
+	changecontext("default");
+}
+[]
+-1
+
+(1)
+""
+{
+	changecontext("default");
+	throw(input);
+}
+[]
+-999
+
+(1)
+""
+{
+	changecontext("default");
+	throw(input);
+}
+[]
+-999

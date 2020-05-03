@@ -1,0 +1,9 @@
+digraph thread_7 {
+thread [label="Baby speaker",URL="Index.html?perform=ClassSubView&sub_class=8",shape=diamond];
+thread -> enter;
+enter [label="what is this baby speaker\"?",URL="Index.html?perform=ScriptSubView&sub_script=7",shape=box];
+rule_19[label="Alan Turing’s Child Machine concept i...",color=blue,URL="Index.html?perform=RuleSubView&sub_rule=19"];
+enter -> rule_19 [label="what do you mean by baby speaker?"];
+rule_19 -> rule_20 [label="(default)"];
+rule_20[label="and I continue: “… if this were then ...",color=yellow,style=filled,URL="Index.html?perform=RuleSubView&sub_rule=20"];
+}

@@ -1,0 +1,24 @@
+(1)
+""
+{
+	response =  "Ai is keen to explore partnership opportunities.";
+	response += "<ACTION>url:#CONTACT_PAGE#</ACTION>";
+	changecontext("default");
+}
+[]
+
+(1)
+""
+{
+	changecontext("default");
+	throw(input);
+}
+[]
+
+(1)
+""
+{
+	changecontext("default");
+	throw(input);
+}
+[]

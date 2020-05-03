@@ -1,0 +1,44 @@
+<H2>Help?</H2>
+
+Have you lost your password?  Has your email address changed?  Did you make
+a boo-boo in one of the experiments?  Do you want to know more?  If any of
+these questions apply to you, then please email me, Jason Hutchens, at
+<A HREF="mailto:hutch@ciips.ee.uwa.edu.au">hutch@ciips.ee.uwa.edu.au</A>.
+I will help you as best I can.
+
+</FONT>
+</TD></TR>
+
+<TR><TD BGCOLOR="DDCCFF" ALIGN="CENTER">
+<FONT FACE="Helvetica, Arial">
+Last modified on:
+<?echo Date("h:m:s A d/m/y",getLastMod());>.
+<BR>
+Number of accesses:
+<?echo getTotal();>.
+<? if(($s_user!="")&&(strstr($PATH_INFO, "Experiment_List.phtml")=="")); >
+<BR>
+<A HREF="Experiment_List.phtml">Return to List of Experiments</A>.
+<? endif; >
+<? if(strstr($PATH_INFO, "Index.phtml")==""); >
+<BR>
+<A HREF="Index.phtml">Return to Jason's Online Experiments Home Page</A>.
+<? endif; >
+<BR>
+<A HREF="http://ciips.ee.uwa.edu.au/~hutch/">Visit Jason's Home Page</A>.
+</FONT>
+</TD></TR>
+</TABLE>
+</CENTER>
+
+</BODY>
+
+</HTML>
+
+<?
+	if(IsSet($phperrmsg));
+		Include("Functions.phtml");
+		$message="A PhP error occurred:\nUser = $s_user\nPage= $PATH_INFO\n$phperrmsg";
+	   Send_Mail("hutch@ciips.ee.uwa.edu.au", "hutch@ciips.ee.uwa.edu.au", "PhP Error", $message);
+	endif;
+>

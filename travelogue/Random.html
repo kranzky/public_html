@@ -1,0 +1,47 @@
+<!DOCTYPE HTML PUBLIC "-//Netscape Comm. Corp.//DTD HTML//EN">
+<HTML>
+<HEAD>
+<TITLE>Jason Hutchens: random photograph collage</TITLE>
+<LINK REL="StyleSheet" HREF="style/jason.css" TYPE="text/css" MEDIA="screen">
+<LINK REV="Made" HREF="mailto:hutch@tmbg.org">
+</HEAD>
+<BODY>
+<H1><A HREF="">Jason Hutchens</A>: random photograph collage</H1>
+<CENTER>
+<TABLE><TR><TD>
+<?
+mt_srand((double)microtime()*1000000);
+$path="image/travel";
+$parent=opendir($path);
+while($file=readdir($parent))
+{
+	if(($file!=".")&&($file!=".."))
+	{
+		$file=$path."/".$file;
+		$child=opendir($file);
+		while($image=readdir($child))
+		{
+			if(substr($image,-3)=="jpg")
+			{
+				$select[]=$file."/".$image;
+			}
+		}
+		closedir($child);
+	}
+}
+for($i=0;$i<16;$i++)
+{
+	do
+	{
+		$index=mt_rand(0,sizeof($select)-1);
+	}
+	while($select[$index]=="");
+	echo "<IMG SRC=\"".$select[$index]."\" WIDTH=\"160\" HEIGHT=\"120\">\n";
+	$select[$index]="";
+	if($i%4==3) echo "<BR CLEAR=\"ALL\">\n";
+}
+closedir($parent);
+?>
+</TD></TR></TABLE>
+</BODY>
+</HTML>

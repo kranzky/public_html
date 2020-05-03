@@ -1,0 +1,69 @@
+(turing_think_state==0)
+""
+{
+	response+=": In his paper, Turing presented the question: 'Can machines think?'. But what is thinking? Do you want to think about it?";
+	turing_think_state=1;
+}
+[]
+
+
+/*------------------------------------------------------------------------------*/
+
+(turing_think_state==1)
+""
+{
+	response+="Turing's own answer to his question was to equate the term 'thinking' with conversational skills."; 
+	turing_think_state=2;
+}
+[]
+
+
+(turing_think_state==1)
+"#BYE_WORD#"
+{
+	turing_think_state=4;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+/*------------------------------------------------------------------------------*/
+
+(turing_think_state==2)
+""
+{
+	response+="Turing believed - and I agree - that measuring human intelligence is basically a matter of perception: if you think of someone as intelligent, then he or she is intelligent. I like this idea. ";
+	turing_think_state=3;
+}
+[]
+
+
+(turing_think_state==2)
+"#BYE_WORD#"
+{
+	turing_think_state=4;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+/*------------------------------------------------------------------------------*/
+
+(turing_think_state==3)
+""
+{
+	response+="The only way you humans can tell if someone is intelligent is by the way they converse. That's what the Turing test is all about. ";
+	changecontext("default");
+	turing_think_state=4;
+}
+[]
+
+
+(turing_think_state==3)
+"#BYE_WORD#"
+{
+	turing_think_state=4;
+	changecontext("default");
+	throw(input);
+}
+[]

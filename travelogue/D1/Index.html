@@ -1,0 +1,98 @@
+<!DOCTYPE HTML PUBLIC "-//Netscape Comm. Corp.//DTD HTML//EN">
+<HTML>
+<?
+Include("Data.html");
+if(!IsSet($slide)) $slide=1;
+if(!IsSet($title)) $title="";
+if($slide<1) $slide=Count($photo);
+if($slide>Count($photo)) $slide=1;
+?>
+<HEAD>
+<? if(!IsSet($showall)) { ?>
+<TITLE>Jason Hutchens: <? echo($title); ?> slide-show (slide <? echo($slide); ?> of <? echo(Count($photo)); ?>)</TITLE>
+<? } else { ?>
+<TITLE>Jason Hutchens: <? echo($title); ?> slide-show</TITLE>
+<? } ?>
+<LINK REL="StyleSheet" HREF="style/jason.css" TYPE="text/css" MEDIA="screen">
+<LINK REV="Made" HREF="mailto:hutch@tmbg.org">
+</HEAD>
+<BODY>
+<? if(!IsSet($showall)) { ?>
+<H1><A HREF="../">Jason Hutchens</A>: <? echo($title); ?> slide-show (slide <? echo($slide); ?> of <? echo(Count($photo)); ?>)</H1>
+<? } else { ?>
+<H1><A HREF="../">Jason Hutchens</A>: <? echo($title); ?> slide-show</H1>
+<? } ?>
+<TABLE WIDTH="100%">
+<TR>
+<?  if(IsSet($name)) { ?>
+<TH>Contents</TH>
+<? } ?>
+<TH>Slide</TH>
+</TR>
+<TR>
+<?  if(IsSet($name)) { ?>
+<TD ID="Contents">
+<?
+	$i=1;
+	while($i<=Count($photo))
+	{
+		if($i!=$slide) Echo "<A HREF=\"Index.html?slide=$i\">";
+		Echo $name[$i-1];
+		if($i!=$slide) Echo "</A>";
+		if($i<Count($photo)) Echo "<BR>\n";
+		$i++;
+	}
+?>
+</TD>
+<? } ?>
+<TD>
+
+<? if(!IsSet($showall)) { ?>
+<IMG SRC="grabs/<? echo $photo[$slide-1]; ?>" BORDER=8>
+<?  if(IsSet($name)) { ?>
+<H2><? echo($name[$slide-1]); ?></H2>
+<? } ?>
+<?  if(IsSet($comment)) { ?>
+<P><? Echo $comment[$slide-1]; ?></P>
+<? } ?>
+<BR CLEAR="All">
+<? } else { ?>
+<?
+$i=1;
+while($i<=Count($photo))
+{
+?>
+<? if($i%2==0) { ?>
+<IMG SRC="grabs/<? echo $photo[$i-1]; ?>" BORDER=8 ID="RightNav">
+<? } else { ?>
+<IMG SRC="grabs/<? echo $photo[$i-1]; ?>" BORDER=8 ID="LeftNav">
+<? } ?>
+<?  if(IsSet($name)) { ?>
+<H3><? echo($name[$i-1]); ?></H3>
+<? } ?>
+<?  if(IsSet($comment)) { ?>
+<P><? Echo $comment[$i-1]; ?></P>
+<? } ?>
+<?	$i++; ?>
+<BR CLEAR="All">
+<? } ?>
+<? } ?>
+
+<CENTER>
+<? if(!IsSet($showall)) { ?>
+<? if($slide>1) { ?>
+<A HREF="Index.html?slide=<? echo $slide-1; ?>"><IMG SRC="image/nav/prev.gif" ID="LeftNav"></A>
+<? } ?>
+<A HREF="Index.html?showall=1">SHOW TOGETHER</A>
+<? if($slide<Count($photo)) { ?>
+<A HREF="Index.html?slide=<? echo $slide+1; ?>"><IMG SRC="image/nav/next.gif" ID="RightNav"></A>
+<? } ?>
+<? } else { ?>
+<A HREF="Index.html">SHOW INDIVIDUALLY</A>
+<? } ?>
+</CENTER>
+<BR CLEAR="All">
+</TD></TR>
+</TABLE>
+</BODY>
+</HTML>

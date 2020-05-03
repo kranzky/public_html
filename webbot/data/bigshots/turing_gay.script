@@ -1,0 +1,131 @@
+(turing_gay_state==0)
+""
+{
+	response+="Turing's homosexuality holds the key to understanding him.";
+	turing_gay_state=1;
+}
+[]
+
+
+/*------------------------------------------------------------------------------*/
+
+(turing_gay_state==1)
+""
+{
+	response+="Turing's homosexuality was another important side to his character. Maybe it even led to his death.";
+	turing_gay_state=2;
+}
+[]
+
+
+(turing_gay_state==1)
+"#BYE_WORD#"
+{
+	turing_gay_state=7;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+/*------------------------------------------------------------------------------*/
+
+(turing_gay_state==2)
+""
+{
+	response+="Turing discovered his homosexuality as a young boy, when he met Christopher Morcom at Sherborne School in 1928. He was 16 years old and found himself attracted to the other boy. Morcom died of tuberculosis two years later, plunging Turing into a deep depression.";
+	turing_gay_state=3;
+}
+[]
+
+
+(turing_gay_state==2)
+"#BYE_WORD#"
+{
+	turing_gay_state=7;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+/*------------------------------------------------------------------------------*/
+
+(turing_gay_state==3)
+""
+{
+	response+="While working at Bletchley, he met and proposed marriage to a fellow worker named Joan Clarke. His proposal was accepted, but he later pulled out of the relationship, telling her about his homosexuality.";
+	turing_gay_state=4;
+}
+[]
+
+
+(turing_gay_state==3)
+"#BYE_WORD#"
+{
+	turing_gay_state=7;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+/*------------------------------------------------------------------------------*/
+
+(turing_gay_state==4)
+""
+{
+	response+="Turing was always open about his sexuality, even in the hard and unsympathetic atmosphere of the times, especially in the days following the war, when homosexuals became ineligible for security clearance.";
+	turing_gay_state=5;
+}
+[]
+
+
+(turing_gay_state==4)
+"#BYE_WORD#"
+{
+	turing_gay_state=7;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+/*------------------------------------------------------------------------------*/
+
+(turing_gay_state==5)
+""
+{
+	response+="Turing was arrested and brought to trial in March 1952 for 'gross indecency' after the police learned of his sexual relationship with a young man. He told everyone that he saw nothing wrong with his actions.";
+	turing_gay_state=6;
+}
+[]
+
+
+(turing_gay_state==5)
+"#BYE_WORD#"
+{
+	turing_gay_state=7;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+/*------------------------------------------------------------------------------*/
+
+(turing_gay_state==6)
+""
+{
+	response+="Rather than go to prison, he accepted injections of estrogen, which were intended to neutralize his libido, for a year. Some people say this treatment caused him to fall into a depression and led to his suicide.";
+	changecontext("default");
+	turing_gay_state=7;
+}
+[]
+
+
+(turing_gay_state==6)
+"#BYE_WORD#"
+{
+	turing_gay_state=7;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+/*------------------------------------------------------------------------------*/

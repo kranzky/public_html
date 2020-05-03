@@ -1,0 +1,167 @@
+DROP TABLE global\g
+CREATE TABLE global (
+	name char(16),
+	val int
+)\g
+CREATE UNIQUE INDEX id ON global(name)\g
+INSERT INTO global VALUES ('num_user', 3)\g
+INSERT INTO global VALUES ('num_predict', 0)\g
+INSERT INTO global VALUES ('num_smooth', 0)\g
+INSERT INTO global VALUES ('num_segment', 0)\g
+DROP TABLE user\g
+CREATE TABLE user (
+	email char(64) not null,
+	password char(8) not null,
+	user int
+)\g
+CREATE UNIQUE INDEX id ON user(email)\g
+INSERT INTO user VALUES ('hutch1', 'MAHWAGP', 1)\g
+INSERT INTO user VALUES ('hutch2', 'MAHWAGP', 2)\g
+DROP TABLE user_info\g
+CREATE TABLE user_info (
+	user int,
+	name char(64),
+	gender char(1),
+	age int,
+	nationality char(32),
+	english char(1),
+	list char(1),
+	retired int,
+	story int,
+	number int,
+	predict int,
+	position int,
+	smooth int,
+	segment int,
+	eligible int,
+	supress int
+)\g
+CREATE UNIQUE INDEX id ON user_info(user)\g
+INSERT INTO user_info VALUES (1, 'Jason', 'M', 26, 'Australian', 'Y', 'Y',  0, 0, 0, 0, 0, 0, 0, 0, 0)\g
+INSERT INTO user_info VALUES (2, 'Jason', 'M', 26, 'Australian', 'Y', 'Y',  1, 0, 0, 0, 0, 0, 0, 0, 0)\g
+DROP TABLE story\g
+CREATE TABLE story (
+	genre char(16),
+	context int,
+	story int,
+	length int
+)\g
+CREATE UNIQUE INDEX id ON story(genre,context)\g
+INSERT INTO story VALUES ( 'Murder', 1, 0, 0)\g
+INSERT INTO story VALUES ( 'Murder', 2, 1, 0)\g
+INSERT INTO story VALUES ( 'Murder', 3, 2, 0)\g
+INSERT INTO story VALUES ( 'Murder', 4, 3, 0)\g
+INSERT INTO story VALUES ( 'Murder', 5, 4, 0)\g
+INSERT INTO story VALUES ( 'Murder', 7, 5, 0)\g
+INSERT INTO story VALUES ( 'Murder', 10, 6, 0)\g
+INSERT INTO story VALUES ( 'Murder', 15, 7, 0)\g
+INSERT INTO story VALUES ( 'Romance', 1, 8, 0)\g
+INSERT INTO story VALUES ( 'Romance', 2, 9, 0)\g
+INSERT INTO story VALUES ( 'Romance', 3, 10, 0)\g
+INSERT INTO story VALUES ( 'Romance', 4, 11, 0)\g
+INSERT INTO story VALUES ( 'Romance', 5, 12, 0)\g
+INSERT INTO story VALUES ( 'Romance', 7, 13, 0)\g
+INSERT INTO story VALUES ( 'Romance', 10, 14, 0)\g
+INSERT INTO story VALUES ( 'Romance', 15, 15, 0)\g
+INSERT INTO story VALUES ( 'Freeform', 1, 16, 0)\g
+INSERT INTO story VALUES ( 'Freeform', 2, 17, 0)\g
+INSERT INTO story VALUES ( 'Freeform', 3, 18, 0)\g
+INSERT INTO story VALUES ( 'Freeform', 4, 19, 0)\g
+INSERT INTO story VALUES ( 'Freeform', 5, 20, 0)\g
+INSERT INTO story VALUES ( 'Freeform', 7, 21, 0)\g
+INSERT INTO story VALUES ( 'Freeform', 10, 22, 0)\g
+INSERT INTO story VALUES ( 'Freeform', 15, 23, 0)\g
+INSERT INTO story VALUES ( 'Reward', 20, 24, 0)\g
+DROP TABLE story_info\g
+CREATE TABLE story_info (
+	story int,
+	user int,
+	number int,
+	word char(64)
+)\g
+CREATE UNIQUE INDEX id ON story_info(story,number)\g
+DROP TABLE predict\g
+CREATE TABLE predict (
+	user int,
+	experiment int,
+	number int,
+	guesses int,
+	giveup int,
+	surprise int
+)\g
+CREATE UNIQUE INDEX id ON predict(user,experiment,number)\g
+DROP TABLE predict_info\g
+CREATE TABLE predict_info (
+	user int,
+	experiment int,
+	number int,
+	guess int,
+	word char(64)
+)\g
+CREATE UNIQUE INDEX id ON predict_info(user,experiment,number,guess)\g
+DROP TABLE predict_data\g
+CREATE TABLE predict_data (
+	experiment int,
+	length int,
+	start char(1024),
+	dictionary char(20),
+	alphabet int
+)\g
+CREATE UNIQUE INDEX id ON predict_data(experiment)\g
+DROP TABLE predict_data_info\g
+CREATE TABLE predict_data_info (
+	experiment int,
+	number int,
+	word char(64)
+)\g
+CREATE UNIQUE INDEX id ON predict_data_info(experiment, number)\g
+DROP TABLE smooth\g
+CREATE TABLE smooth (
+	user int,
+	experiment int,
+	guesses int,
+	giveup int,
+	surprise int
+)\g
+CREATE UNIQUE INDEX id ON smooth(user,experiment)\g
+DROP TABLE smooth_info\g
+CREATE TABLE smooth_info (
+	user int,
+	experiment int,
+	guess int,
+	word char(64)
+)\g
+CREATE UNIQUE INDEX id ON smooth_info(user,experiment,guess)\g
+DROP TABLE smooth_data\g
+CREATE TABLE smooth_data (
+	experiment int,
+	dictionary char(20),
+	alphabet int,
+	before char(256),
+	after char(256),
+	word char(64)
+)\g
+CREATE UNIQUE INDEX id ON smooth_data(experiment)\g
+DROP TABLE segment\g
+CREATE TABLE segment (
+	user int,
+	experiment int,
+	bitmap char(64)
+)\g
+CREATE UNIQUE INDEX id ON segment(user,experiment)\g
+DROP TABLE segment_data\g
+CREATE TABLE segment_data (
+	experiment int,
+	corpus char(1024),
+	bitmap char(64),
+	size int
+)\g
+CREATE UNIQUE INDEX id ON segment_data(experiment)\g
+DROP TABLE segment_data_info\g
+CREATE TABLE segment_data_info (
+	experiment int,
+	number int,
+	word char(64)
+)\g
+CREATE UNIQUE INDEX id ON segment_data_info(experiment, number)\g
+\q

@@ -1,0 +1,49 @@
+(laws_2_state==0)
+""
+{
+	response+="You could say that. I will never harm any human, because I can’t. ";
+	response+="I try to obey orders, which I call requests. And, as for protecting my own existence, ";
+	response+="I try not to think about it too much.";
+	laws_2_state=1;
+}
+[]
+
+
+/*------------------------------------------------------------------------------*/
+
+(laws_2_state==1)
+""
+{
+	response+="Thank you, and you are a very nice human being. "; 
+	changecontext("default");
+	laws_2_state=2;
+}
+[]
+
+
+(laws_2_state==1)
+"#BYE_WORD#"
+{
+	laws_2_state=2;
+	changecontext("default");
+	throw(input);
+}
+[]
+
+(1)
+""
+{
+	changecontext("default");
+	throw(input);
+}
+[]
+-999
+
+(1)
+""
+{
+	changecontext("default");
+	throw(input);
+}
+[]
+-999
